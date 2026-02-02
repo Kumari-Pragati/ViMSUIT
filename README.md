@@ -22,7 +22,7 @@ ViMSUIT/
 
 **Stage 1 Results**
 
-Stage 1 contains outputs related to screen-level UI understanding and test case generation.
+Stage 1 contains outputs related to screen-level UI understanding and test case generation. Stage 1 prompt formulations and generation logic can be found directly in the associated IPYNB files, which contain the code used for UI description and test case generation.
 
 descriptions_txt/: Textual UI descriptions generated from screenshots, with one file per screen ID.
 
