@@ -16,8 +16,8 @@ ViMSUIT/
 │   ├── test_scripts/
 │   ├── consolidated_summary_<timestamp>.csv
 │
-|── TestCase_Generation_Single_Image/
-|── TestCase_Generation_With_200_Screens/
+|── TestCase_Generation_Single_Image
+|── TestCase_Generation_With_200_Screens
 ```
 
 **Stage 1 Results**
