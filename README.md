@@ -24,9 +24,9 @@ ViMSUIT/
 
 Stage 1 contains outputs related to screen-level UI understanding and test case generation. Stage 1 prompt formulations and generation logic can be found directly in the associated IPYNB files, which contain the code used for UI description and test case generation.
 
-descriptions_txt/: Textual UI descriptions generated from screenshots, with one file per screen ID.
+descriptions_txt: Textual UI descriptions generated from screenshots, with one file per screen ID.
 
-testcases_csv/: Structured test cases generated for each screen.
+testcases_csv: Structured test cases generated for each screen.
 
 summary_top200_Screens.csv: Metadata summary for the selected top-200 ENRICO screenshots.
 
@@ -34,11 +34,11 @@ summary_top200_Screens.csv: Metadata summary for the selected top-200 ENRICO scr
 
 Stage 2 contains semantic analysis, validation outputs, and executable test artifacts.
 
-Semantic_Analysis/: JSON files capturing structured semantic interpretation for each screen.
+Semantic_Analysis: JSON files capturing structured semantic interpretation for each screen.
 
-summary/: Intermediate summary files from Stage 2 processing.
+summary: Intermediate summary files from Stage 2 processing.
 
-test_scripts/: Generated executable test scripts.
+test_scripts: Generated executable test scripts.
 
 consolidated_summary_<timestamp>.csv: Aggregated results across all evaluated screens.
 
