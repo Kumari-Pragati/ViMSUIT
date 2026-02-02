@@ -1,0 +1,52 @@
+A) Screen purpose and type:
+The screen is a permission request page for a weather app, specifically "Weather Live."
+
+B) Layout top → bottom:
+- The top features the app's logo, "Weather Live," with a cloud and sun icon.
+- Below the logo, there is a message explaining the app's functionality and the need for location services.
+- A privacy policy link is included in the message.
+- At the bottom, there is a call-to-action button labeled "OK, I UNDERSTAND."
+
+C) Component inventory (grouped):
+- Header/App Bar: None
+- Title: "Weather Live"
+- Subtitle: "Weather Live can provide you with forecast and alerts for your exact location as you move. Please allow using Location Services to enable this."
+- Privacy Policy Link: "Privacy Policy"
+- Call-to-Action Button: "OK, I UNDERSTAND"
+
+D) Primary actions + navigation:
+- The primary action is the "OK, I UNDERSTAND" button, which allows the user to grant location access.
+- There is no footer or bottom navigation present.
+
+• Screen type/purpose: Permission request for location services in a weather app.
+• Key components: Logo, message, privacy policy link, call-to-action button.
+• Primary CTA: "OK, I UNDERSTAND" button.
+• Navigation/footer: None.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - unknown icon (cloud-like shape)
+
+2) Right-side system/status icons + time:
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - likely battery (low confidence)
+   - likely signal strength (low confidence)
+   - likely Wi-Fi (low confidence)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (dot-like shape)
+   - unknown icon (

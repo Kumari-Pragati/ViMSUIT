@@ -1,0 +1,59 @@
+A) Screen purpose and type:
+The screen is a dashboard view in a mobile app, likely for organizing and viewing upcoming events or activities.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for connectivity, battery, and time (12:40).
+2. **Header/App Bar**: An orange bar with a menu icon on the left and the title "Dashboard" in the center.
+3. **Button**: A blue "HANGOUT NOW" button below the header.
+4. **Events Section**: A list of events with details such as title, location, date, time, and number of attendees.
+5. **"View All" Button**: Located at the bottom of the event list.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a menu icon and the title "Dashboard".
+- **Button**: A blue "HANGOUT NOW" button.
+- **List Row**: Each event entry includes a title, location, date, time, and number of attendees.
+- **Footer**: Contains a "VIEW ALL" button.
+
+D) Primary actions + navigation:
+- **Primary CTA(s)**: The "HANGOUT NOW" button and the "VIEW ALL" button at the bottom.
+- **Navigation/Footer**: The "VIEW ALL" button at the bottom serves as a navigation element to view all events.
+
+**Recap**:
+- **Screen type/purpose**: Dashboard view for organizing and viewing upcoming events.
+- **Key components**: Header/App Bar, "HANGOUT NOW" button, event list, and "VIEW ALL" button.
+- **Primary CTA(s)**: "HANGOUT NOW" button and "VIEW ALL" button.
+- **Navigation/footer**: "VIEW ALL" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   -

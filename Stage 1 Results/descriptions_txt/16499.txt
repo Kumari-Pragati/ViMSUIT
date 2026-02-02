@@ -1,0 +1,65 @@
+A) Screen purpose and type:
+The screen is a mobile app interface for a manga or light novel series titled "俺のメンタルは限界です" by 藤アイリ. It appears to be a chapter list page, allowing users to view and read individual chapters.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for social media, battery, and time (10:56).
+2. Header/app bar with a back arrow on the left and a menu icon on the right.
+3. Title "俺のメンタルは限界です" prominently displayed.
+4. Subtitle "藤アイリ" indicating the author.
+5. A large image of the main characters with a yellow star indicating a favorite or bookmarked status.
+6. Two tabs: "話一覧" (Chapter List) and "作品情報" (Work Information), with "話一覧" currently selected.
+7. A banner indicating "無料" (Free) and "1枚" (1 chapter), with a button labeled "今すぐ読めます!" (Read Now!).
+8. A "並び替え" (Sort) button.
+9. A list of chapters with thumbnails, titles, release dates, and heart icons indicating likes.
+10. A footer with a message "お気に入りに追加しました。" (Added to favorites) and a heart icon with the number 17,484.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Back arrow
+   - Menu icon
+   - Title: "俺のメンタルは限界です"
+   - Subtitle: "藤アイリ"
+   - Large image of characters with a yellow star
+2. **Tabs**:
+   - "話一覧" (Chapter List)
+   - "作品情報" (Work Information)
+3. **Banner**:
+   - "無料" (Free)
+   - "1枚" (1 chapter)
+   - "今すぐ読めます!" (Read Now!)
+4. **Sort Button**:
+   - "並び替え" (Sort)
+5. **Chapter List**:
+   - Chapter thumbnails
+   - Chapter titles
+   - Release dates
+   - Heart icons with like counts
+6. **Footer**:
+   - Message: "お気に入りに追加しました。" (Added to favorites)
+   - Heart icon with the number 17,484
+
+D) Primary actions + navigation:
+- Primary CTA: "今すぐ読めます!" (Read Now!)
+- Navigation: The back arrow in the header allows users to return to the previous screen. The tabs allow users to switch between the chapter list and work information. The sort button allows users to rearrange the chapter list.
+
+**Recap**:
+- **Screen type/purpose**: Chapter list page for a manga or light novel series.
+- **Key components**: Header, tabs, banner, chapter list, footer.
+- **Primary CTA**: "今すぐ読めます!" (Read Now!).
+- **Navigation/footer**: Back arrow, tabs, sort button, footer message.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Battery (high confidence)
+   - Time: 10:56

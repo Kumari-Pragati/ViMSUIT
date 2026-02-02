@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen appears to be a contact or call log page in a mobile app, likely for managing or initiating calls.
+
+B) Layout top → bottom:
+- Status bar at the top with various icons and the time (12:05).
+- Header/app bar with a money bag icon and the number "5," a "BUY" button, and a "FREE" button.
+- A navigation bar with icons for different sections (clock, people, dots, person).
+- A search bar labeled "Search..".
+- A list row with a profile icon and the text "Test call."
+
+C) Component inventory (grouped):
+- Status bar: icons, time.
+- Header/app bar: money bag icon, number "5," "BUY" button, "FREE" button.
+- Navigation bar: clock icon, people icon, dots icon, person icon.
+- Search bar: labeled "Search..".
+- List row: profile icon, text "Test call".
+
+D) Primary actions + navigation:
+- Primary CTA: "Test call" in the list row.
+- Navigation: the icons in the navigation bar likely lead to different sections of the app.
+
+• Screen type/purpose: Contact or call log page.
+• Key components: status bar, header, navigation bar, search bar, list row.
+• Primary CTA: "Test call" in the list row.
+• Navigation/footer: navigation bar icons for different sections.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 12:05

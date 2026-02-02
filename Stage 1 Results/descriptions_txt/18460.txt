@@ -1,0 +1,35 @@
+A) Screen purpose and type:
+The screen is part of a fitness assessment process, specifically the second of four steps, as indicated by the "2/4" at the top.
+
+B) Layout top → bottom:
+- The header displays "FITNESS ASSESSMENT" and "2/4".
+- Below the header, there is a circular profile image of a person in athletic attire.
+- The main question, "HOW ACTIVE ARE YOU CURRENTLY?", is prominently displayed.
+- Three options are listed below the question: "I exercise regularly," "I go through phases," and "Consider me a newbie."
+- A message at the bottom reads, "Great job! We will help you bring your fitness to the next level."
+- A blue "NEXT >" button is located at the bottom.
+
+C) Component inventory (grouped):
+- Header/App Bar: "FITNESS ASSESSMENT" and "2/4".
+- Profile Image: Circular image of a person in athletic attire.
+- Question: "HOW ACTIVE ARE YOU CURRENTLY?".
+- List Row: Three options: "I exercise regularly," "I go through phases," and "Consider me a newbie".
+- Message: "Great job! We will help you bring your fitness to the next level."
+- Button: Blue "NEXT >" button.
+
+D) Primary actions + navigation:
+- The primary action is selecting one of the three activity level options.
+- The "NEXT >" button at the bottom navigates to the next step in the fitness assessment.
+
+• Recap:
+- Screen type/purpose: Part of a fitness assessment process.
+- Key components: Header, profile image, question, activity level options, message, and "NEXT >" button.
+- Primary CTA(s): Selecting an activity level option and pressing the "NEXT >" button.
+- Navigation/footer: The "NEXT >" button at the bottom navigates to the next step.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - None visible.
+
+2) Right-side system/status icons + time:
+   - None visible.

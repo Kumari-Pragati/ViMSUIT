@@ -1,0 +1,55 @@
+A) Screen purpose and type:
+The screen appears to be a simple input form within a transit tracking application, likely designed for users to enter a route number and submit it for tracking.
+
+B) Layout top → bottom:
+1. Status bar: Contains various system icons such as signal strength, battery, and time (12:18).
+2. Header/app bar: Displays the app name "Transit Tracker" with a menu icon on the left, a help icon in the center, a settings icon on the right, and a three-dot menu icon on the far right.
+3. Input field: A text field labeled "route number" for user input.
+4. Button: A "SUBMIT" button below the input field.
+5. Footer: An advertisement banner promoting certification for minority or woman business owners in NYC.
+
+C) Component inventory (grouped):
+1. UI components:
+   - Status bar
+   - Header/app bar
+   - Input field
+   - Button
+   - Footer
+2. Icons:
+   - Menu icon
+   - Help icon
+   - Settings icon
+   - Three-dot menu icon
+3. Text:
+   - "Transit Tracker"
+   - "route number"
+   - "SUBMIT"
+   - "Minority or woman business owner?"
+   - "Make NYC your customer."
+   - "GET CERTIFIED"
+
+D) Primary actions + navigation:
+- Primary action: Entering a route number into the input field and tapping the "SUBMIT" button.
+- Navigation: The menu icon in the header likely leads to a navigation drawer, and the three-dot menu icon may provide additional options or settings.
+
+• Screen type/purpose: Transit tracking input form
+• Key components: Header, input field, submit button, footer
+• Primary CTA(s): Submit button
+• Navigation/footer: Menu icon, three-dot menu icon, advertisement banner
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - wrench (likely settings)
+   - Facebook logo
+   - circle with a line through it (likely do not disturb)
+   - FAK (likely a custom app icon)
+   - lock (likely screen lock)
+   - robot (likely a custom app icon)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth)
+   - clock (likely clock)
+   - Wi-Fi (likely Wi-Fi)
+   - envelope with a line through it (likely do not disturb)
+   - lightning bolt (likely battery charging)
+   - 12:18 (time)

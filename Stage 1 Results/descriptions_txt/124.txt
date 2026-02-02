@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen is a mobile app interface for calculating the waist-to-height ratio, a health metric used to assess body shape and potential health risks.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A teal-colored bar at the top with the title "Waist to Height Ratio," a menu icon on the left, and an information icon on the right.
+2. **Form Section**: A form with fields for age, gender, height, and waist measurement. The age is set to 26, and the gender is set to female. The height is set to 6 feet, and the waist is set to 0 cm.
+3. **Result Section**: Displays the "Waist to Height Ratio" and "Ideal Waist" fields, which are currently empty.
+4. **Classification Section**: A list of weight classifications (UnderWeight, Normal, OverWeight, Obese, Morbidly Obese) with a "WAIST TO HEIGHT RATIO" button above it.
+5. **Advertisement**: A banner at the bottom promoting the Nutrisystem diet.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Title, menu icon, information icon.
+- **Form Section**: Age input, gender selector, height input, waist input.
+- **Result Section**: Waist to Height Ratio field, Ideal Waist field.
+- **Classification Section**: Weight classification list, classification button.
+- **Footer**: Advertisement banner.
+
+D) Primary actions + navigation:
+- The primary action is to calculate the waist-to-height ratio by tapping the "WAIST TO HEIGHT RATIO" button.
+- Navigation is facilitated by the menu icon in the header, which likely opens a navigation drawer.
+- The advertisement at the bottom is a call-to-action (CTA) for the Nutrisystem diet.
+
+**Screen type/purpose**:
+- Mobile app interface for calculating the waist-to-height ratio.
+
+**Key components**:
+- Header/App Bar, Form Section, Result Section, Classification Section, Advertisement.
+
+**Primary CTA(s)**:
+- "WAIST TO HEIGHT RATIO" button.
+
+**Navigation/footer**:
+- Menu icon in the header, Advertisement banner at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - likely FAK (low confidence)
+   - likely Android (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 4:55

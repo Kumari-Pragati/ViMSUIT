@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen appears to be a login/register page for a mobile application related to the Pittsburgh Steelers football team, as indicated by the title "Steelers Nation Unite."
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and the time (1:08).
+2. Header/app bar with a menu icon on the left and the title "Steelers Nation Unite."
+3. Background image of cheering fans in Steelers gear.
+4. Two prominent buttons: "LOG IN" and "REGISTER."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Title: "Steelers Nation Unite"
+2. **Background Image**:
+   - Fans in Steelers gear cheering.
+3. **Buttons**:
+   - "LOG IN" button
+   - "REGISTER" button
+
+D) Primary actions + navigation:
+- The primary actions are to log in or register for the app.
+- Navigation is facilitated by the menu icon in the header, which likely opens a navigation drawer or menu.
+
+**Recap**:
+- **Screen type/purpose**: Login/Register page for a Steelers-themed app.
+- **Key components**: Header, background image, login/register buttons.
+- **Primary CTA(s)**: "LOG IN" and "REGISTER" buttons.
+- **Navigation/footer**: Menu icon in the header for navigation.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Key
+   - Facebook
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Unknown icon (low confidence)
+   - Battery (high confidence)
+   - Time: 1:08

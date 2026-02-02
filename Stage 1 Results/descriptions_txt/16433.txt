@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen displays a selection of cute-themed weather widgets available for download. It appears to be part of a mobile app that allows users to customize their device's home screen with these widgets.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (11:21).
+- Below the status bar is a header with a back arrow and the title "Cute."
+- The main content area consists of a grid of six weather widget images, each with a "Free" label and a "Download" button.
+- At the bottom, there are two partially visible widget images.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow and the title "Cute."
+- **Main Content**: A grid of six weather widget images, each with a "Free" label and a "Download" button.
+- **Footer/Bottom Nav**: Partially visible at the bottom, showing two more widget images.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Users can download the weather widgets by tapping the "Download" button next to each widget.
+- **Navigation**: The back arrow in the header allows users to navigate back to the previous screen.
+
+**Recap**:
+- **Screen type/purpose**: A selection of cute-themed weather widgets for download.
+- **Key components**: Header, weather widget images, "Free" label, "Download" button, status bar.
+- **Primary CTA(s)**: "Download" button for each widget.
+- **Navigation/footer**: Back arrow in the header, partially visible footer with more widget images.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 11:21

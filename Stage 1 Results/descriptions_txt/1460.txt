@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen appears to be part of a mobile app's onboarding or setup process, specifically for adding a person to a household or care plan.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (2:45).
+- Below the status bar is a red header with the title "People."
+- The main content area asks, "Who's the person here you care about?" with a subtitle, "Who Lives Here?"
+- There is a red "Add person" button with a plus sign next to it.
+- At the bottom, there is a red "FINISH" button and a "Cancel" button.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Red header with the title "People."
+- **Main Content Area**: Text asking about the person cared about, with a subtitle and an "Add person" button.
+- **Footer**: Red "FINISH" button and "Cancel" button.
+
+D) Primary actions + navigation:
+- The primary action is to add a person using the "Add person" button.
+- The "FINISH" button likely saves the changes and completes the setup process.
+- The "Cancel" button allows the user to exit the setup without saving changes.
+
+• Recap:
+- **Screen type/purpose**: Onboarding or setup for adding a person to a household or care plan.
+- **Key components**: Header, main content area, "Add person" button, "FINISH" button, "Cancel" button.
+- **Primary CTA(s)**: "Add person" button, "FINISH" button.
+- **Navigation/footer**: "Cancel" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low

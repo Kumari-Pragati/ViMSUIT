@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen is a mobile app interface designed to prompt the user to verify their phone number in order to view current offers.
+
+B) Layout top → bottom:
+1. Status bar at the top with various app icons and the time (10:53).
+2. A red header with "OFFERS" and "HOW TO EARN" tabs.
+3. A message stating "Your phone number is not verified. Please verify your phone number to view current offers."
+4. A large green "Verify" button.
+5. A partially visible section with an envelope icon and text about getting a free ticket to an event by writing a review.
+6. A "Submit Review" button.
+7. A black bar with "Verify your phone number" text and a close icon.
+8. A red navigation bar at the bottom with icons for "Me," "Explore," "Offers," and "Week."
+
+C) Component inventory (grouped):
+- Status bar: App icons, time.
+- Header: "OFFERS," "HOW TO EARN" tabs.
+- Message: "Your phone number is not verified. Please verify your phone number to view current offers."
+- Button: "Verify" (green).
+- Section: "Get free ticket to event of your choice!" with "Submit Review" button.
+- Footer: "Verify your phone number" bar with close icon.
+- Bottom navigation: "Me," "Explore," "Offers," "Week" icons.
+
+D) Primary actions + navigation:
+- Primary CTA: Click the "Verify" button to proceed with phone number verification.
+- Navigation/footer: The bottom navigation bar allows switching between "Me," "Explore," "Offers," and "Week" sections.
+
+• Screen type/purpose: Phone number verification prompt.
+• Key components: Status bar, header, verification message, "Verify" button, review section, "Submit Review" button, verification bar, bottom navigation.
+• Primary CTA: "Verify" button.
+• Navigation/footer: Bottom navigation bar with "Me," "Explore," "Offers," and "Week" icons.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Timer
+   - Calendar
+   - Settings
+   - Facebook
+   - Fox Sports
+   - Smiley face
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely)
+   - Clock (likely)
+   - Wi-Fi (likely)
+   - Battery (likely)
+   - Time: 10:53

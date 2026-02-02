@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is an informational message from the NextRadio app indicating that FM radio is unavailable on the user's device.
+
+B) Layout top → bottom:
+- The top section features the NextRadio logo.
+- Below the logo, there is a title stating "FM Radio is Unavailable" with a sad face emoji.
+- The subtitle explains the reason for the unavailability and mentions a contest.
+- At the bottom, there is a prominent blue button labeled "ENTER TO WIN $10,000!"
+
+C) Component inventory (grouped):
+- Header/App Bar: None
+- Title: "FM Radio is Unavailable"
+- Subtitle: "We'd love to bring you local FM radio, but NextRadio doesn't have access to the FM receiver in your device. You can still enter to win NextRadio's Extreme Cash Contest of $10,000! We'll also notify you when devices like yours become compatible with NextRadio"
+- Image: None
+- List Row: None
+- Toggle: None
+- Chevron: None
+- Button: "ENTER TO WIN $10,000!"
+- Footer: None
+- Bottom Nav: None
+
+D) Primary actions + navigation:
+- The primary action is the "ENTER TO WIN $10,000!" button, which likely navigates to a contest entry page.
+- No navigation or footer elements are present.
+
+• Screen type/purpose: Informational message about FM radio unavailability.
+• Key components: NextRadio logo, title, subtitle, and contest entry button.
+• Primary CTA(s): "ENTER TO WIN $10,000!"
+• Navigation/footer: None
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Facebook (low confidence)
+   - likely Instagram (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely battery (low confidence)
+   - likely signal (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Bluetooth (low confidence)
+   - likely time: 10:10

@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen appears to be a loading page for a mobile app called "wine-searcher." It is likely part of a larger application that allows users to search for wine by location.
+
+B) Layout top → bottom:
+- The status bar at the top displays various icons, including signal strength, battery level, and the time (3:01).
+- Below the status bar is the app's header, which includes the app's logo on the left, the app name "wine-searcher" in the center, and a "LIST" button on the right.
+- The main content area shows the text "Loading Location" centered on the screen.
+- At the bottom right, there is a circular button with a map icon, likely for navigating to a map view.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the app logo, app name, and a "LIST" button.
+- **Main Content Area**: Displays the text "Loading Location."
+- **Footer/Bottom Nav**: Includes a circular button with a map icon.
+
+D) Primary actions + navigation:
+- The primary action is the loading of the location data, indicated by the text "Loading Location."
+- The circular button with the map icon at the bottom right likely navigates to a map view.
+- The "LIST" button in the header might switch the view to a list format.
+
+**Recap:**
+- **Screen type/purpose**: Loading page for a wine search app.
+- **Key components**: Header, main content area, circular button with map icon.
+- **Primary CTA(s)**: Navigating to a map view.
+- **Navigation/footer**: Circular button with a map icon at the bottom right.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Unknown icon (likely settings)
+   - Unknown icon (likely notifications)
+   - Unknown icon (likely airplane mode)
+   - Unknown icon (likely lock)
+   - Unknown icon (likely robot)
+
+2) Right-side system/status icons + time:
+   - Unknown icon (likely Bluetooth)
+   - Unknown icon (likely clock)
+   - Unknown icon (likely Wi-Fi)
+   - Unknown icon (likely battery)
+   - Time: 3:01

@@ -1,0 +1,32 @@
+A) Screen purpose and type:
+The screen displays a visual representation of the Bubble Sort algorithm in a mobile app, likely for educational or demonstration purposes.
+
+B) Layout top → bottom:
+- The top section features a blue header with the title "Bubble Sort" and a "Test" button on the right.
+- Below the header, there is a grid of colored bars, each labeled with a number, representing the array to be sorted.
+- At the bottom, there are three buttons: "Reset," "Step," and "Run."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "Bubble Sort" and a "Test" button.
+- **Visual Representation**: A grid of colored bars labeled with numbers.
+- **Footer**: Contains three buttons labeled "Reset," "Step," and "Run."
+
+D) Primary actions + navigation:
+- The "Reset" button allows the user to reset the array to its initial state.
+- The "Step" button initiates the sorting process one step at a time.
+- The "Run" button starts the sorting process automatically.
+- Navigation is facilitated by the "Test" button in the header, which likely leads to a test or settings menu.
+
+**Recap**:
+- **Screen type/purpose**: Educational demonstration of the Bubble Sort algorithm.
+- **Key components**: Header, visual array representation, and sorting control buttons.
+- **Primary CTA(s)**: "Reset," "Step," and "Run" buttons.
+- **Navigation/footer**: "Test" button in the header, "Reset," "Step," and "Run" buttons in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - None
+
+2) Right-side system/status icons + time:
+   - Likely test tube (low confidence)
+   - Time: 00:00

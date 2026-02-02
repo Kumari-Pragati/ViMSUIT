@@ -1,0 +1,36 @@
+A) Screen purpose and type:
+The screen appears to be part of a mobile app designed for fans of a sports team, likely the Denver Broncos, given the mascot and team colors. It provides information and engagement options for fans, including ticketing, promotions, contests, and game-day information.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A dark blue header with a hamburger menu icon on the left and the word "FANS" in white text.
+2. **Ticketmaster Ad**: A promotional banner for Ticketmaster, the official ticket exchange of the NFL.
+3. **Promotions and Contests Section**: A large orange section with the words "PROMOTIONS" and "CONTESTS" in white text, featuring an image of enthusiastic fans.
+4. **At the Game Section**: A smaller section with the heading "AT THE GAME" in black text. It includes an image of the Broncos mascot with "GAMEDAY INFORMATION" text and an "i" icon for more details.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Hamburger menu icon, "FANS" title.
+- **Promotions Section**: "PROMOTIONS" and "CONTESTS" text, image of fans.
+- **At the Game Section**: "GAMEDAY INFORMATION" text, mascot image, "i" icon, "58" fan image, Broncos logo.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "i" icon in the "GAMEDAY INFORMATION" section likely leads to more details about game-day information.
+- **Navigation**: The hamburger menu icon in the header likely opens a navigation drawer with more options.
+- **Footer/Bottom Nav**: Not present in this screenshot.
+
+**Recap**:
+- **Screen type/purpose**: Fan engagement and information app for the Denver Broncos.
+- **Key components**: Header, Ticketmaster ad, promotions section, contests section, game-day information section.
+- **Primary CTA**: "i" icon in the "GAMEDAY INFORMATION" section.
+- **Navigation/footer**: Hamburger menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - likely Instagram (low confidence)
+   - likely VK (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 5:28

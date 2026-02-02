@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen is a part of a mobile app where users can select their TV channels. It appears to be a confirmation or selection screen after a previous setup process.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and the time (3:29).
+2. Header/app bar with the title "Jakie kanały telewizyjne masz?" (What TV channels do you have?).
+3. A subtitle "Wybierz kanały ręcznie" (Select channels manually) with a count of 142 channels.
+4. A list of TV service providers with checkboxes next to each.
+5. A blue button at the bottom with the text "TAK, TO MOJE KANAŁY" (Yes, these are my channels).
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Title: "Jakie kanały telewizyjne masz?"
+   - Subtitle: "Wybierz kanały ręcznie"
+
+2. **List of TV Services**:
+   - Cyfrowa Telewizja Naziemna
+   - Cyfrowy Polsat
+   - Inea
+   - Multimedia
+   - nc+
+   - Netia
+   - Orange - kablowa
+
+3. **Footer/Button**:
+   - "TAK, TO MOJE KANAŁY" (Yes, these are my channels)
+
+D) Primary actions + navigation:
+- The primary action is to confirm the selected TV channels by clicking the "TAK, TO MOJE KANAŁY" button.
+- Navigation is implied by the chevron icon next to the subtitle, suggesting a back action.
+
+**Recap**:
+- **Screen type/purpose**: Confirmation of TV channel selection.
+- **Key components**: Header, list of TV services, confirmation button.
+- **Primary CTA(s)**: "TAK, TO MOJE KANAŁY" (Yes, these are my channels).
+- **Navigation/footer**: Implied back navigation through the chevron icon.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Battery (low confidence)
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Signal strength (likely Signal strength (low confidence))
+
+2) Right-side system/status icons + time:
+   - Battery (low confidence)
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Signal strength (likely Signal strength (low confidence))
+   - Time: 3:29

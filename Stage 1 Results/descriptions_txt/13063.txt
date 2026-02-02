@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen appears to be a language selection interface within a phrasebook app, allowing users to choose a language for translation or learning purposes.
+
+B) Layout top → bottom:
+- The status bar at the top shows connectivity, battery, and time (5:24).
+- Below the status bar is a header labeled "Phrasebook" with a globe icon for language selection.
+- A list of languages (Spanish, German, French, Italian, Japanese) is displayed, each with a corresponding flag.
+- A red circular button is located at the bottom right corner.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "Phrasebook" and a globe icon.
+- **List Rows**: Each row represents a language (Spanish, German, French, Italian, Japanese) with a flag icon.
+- **Flags**: Represent the nationalities of the languages.
+- **Button**: A red circular button at the bottom right corner.
+
+D) Primary actions + navigation:
+- The primary action is selecting a language by tapping on the corresponding list row.
+- Navigation is facilitated by the globe icon in the header, which likely opens a menu for additional language options.
+- The red circular button at the bottom right could serve as a back or home button.
+
+**Bullet recap:**
+- **Screen type/purpose**: Language selection interface in a phrasebook app.
+- **Key components**: Header with title and globe icon, list of languages with flags, red circular button.
+- **Primary CTA(s)**: Tapping on a language list row to select a language.
+- **Navigation/footer**: Globe icon for additional language options, red circular button at the bottom right.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 5:24

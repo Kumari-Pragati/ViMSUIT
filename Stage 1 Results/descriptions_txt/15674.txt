@@ -1,0 +1,53 @@
+A) Screen purpose and type:
+The screen appears to be a home page of a shopping app, showcasing various product categories and upcoming sales.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for notifications, signal strength, battery, and time (2:49).
+2. Header/app bar with a menu icon on the left, the app's logo "showroomprive.co.uk" in the center, and a shopping bag icon on the right.
+3. A navigation menu with categories: & BEAUTY, CHILDREN, HOMWARE, and UPCOMING SALES.
+4. A grid of product categories with images and labels, such as "Brilliant Lighting," "Platinum," "Thomson Computing," and "Class Decor."
+5. At the bottom, there are partial views of additional product categories.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Logo
+   - Shopping bag icon
+2. **Navigation Menu**:
+   - & BEAUTY
+   - CHILDREN
+   - HOMWARE
+   - UPCOMING SALES
+3. **Product Category Grid**:
+   - "Brilliant Lighting" with an image of a chandelier
+   - "Platinum" with an image of luggage and a suitcase
+   - "Thomson Computing" with an image of a laptop
+   - "Class Decor" with an image of a wall clock and decor items
+4. **Bottom Area**:
+   - Partial views of additional product categories
+
+D) Primary actions + navigation:
+- The primary action is to navigate through the product categories using the navigation menu at the top.
+- The shopping bag icon likely leads to the shopping cart.
+- The menu icon on the top left likely opens a side menu for more options.
+
+**Recap**:
+- **Screen type/purpose**: Shopping app home page.
+- **Key components**: Header, navigation menu, product category grid, and status bar.
+- **Primary CTA(s)**: Navigating through the product categories and accessing the shopping cart.
+- **Navigation/footer**: Navigation menu at the top and partial views of additional product categories at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Facebook Messenger (low confidence)
+   - likely Instagram (low confidence)
+   - likely WhatsApp (low confidence)
+   - likely Twitter (low confidence)
+   - likely LinkedIn (low confidence)
+   - likely Pinterest (low confidence)
+   - likely TikTok (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 2:49

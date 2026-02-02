@@ -1,0 +1,74 @@
+A) Screen purpose and type:
+The screen is a detailed view of a pregnancy calendar app, providing information about a specific week of pregnancy.
+
+B) Layout top → bottom:
+1. Status bar with various icons and the time (2:46).
+2. Header/app bar with a menu icon, the title "Pregnancy calendar," and a three-dot menu icon.
+3. A horizontal navigation bar with icons for information, baby, pregnancy, and calendar.
+4. A section displaying the current week of pregnancy (6).
+5. Four images representing different stages of fetal development.
+6. Text fields for weight, length, normal fetal heart rate, normal hCG, term of pregnancy, and date of birth.
+7. A table showing the term of pregnancy and rest days.
+8. A progress bar indicating the current week (6).
+9. An advertisement banner at the bottom.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Title: "Pregnancy calendar"
+   - Three-dot menu icon
+2. **Horizontal Navigation Bar**:
+   - Information icon
+   - Baby icon
+   - Pregnancy icon
+   - Calendar icon
+3. **Week of Pregnancy Section**:
+   - Text: "Your week of pregnancy: 6"
+4. **Fetal Development Images**:
+   - Four images representing different stages of fetal development.
+5. **Text Fields**:
+   - Weight: -
+   - Long: 4-6 mm
+   - Normal Fetal Heart Rate: 103-126
+   - Normal hCG: 1110-31500
+   - Term of pregnancy: 5 week & 2 day / 1 trimester / 2-th calen. month / 2-th obst. month
+   - Before the birth of left: 34 week & 5 day / 243 day
+   - Date of birth: 11/13/17
+6. **Table**:
+   - Term of pregnancy: 37 day
+   - Rest: 243 day
+   - Days: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+7. **Progress Bar**:
+   - Current week: 6
+8. **Advertisement Banner**:
+   - Text: "Storage nearly full? remove junk files now!"
+
+D) Primary actions + navigation:
+- The primary action is navigating through different weeks of pregnancy using the progress bar.
+- Navigation is facilitated by the horizontal navigation bar at the top.
+- The footer contains an advertisement banner.
+
+**Recap**:
+- **Screen type/purpose**: Detailed view of a pregnancy calendar app.
+- **Key components**: Header, navigation bar, week of pregnancy section, fetal development images, text fields, table, progress bar, and advertisement banner.
+- **Primary CTA(s)**: Navigating through different weeks of pregnancy using the progress bar.
+- **Navigation/footer**: Horizontal navigation bar at the top, advertisement banner at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Clock (low confidence)
+   - Likely wrench (low confidence)
+   - Likely smiley face (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Likely smiley face (low confidence)
+   - Likely lock (low confidence)
+   - Android robot (low confidence)
+   - Likely smiley face (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Clock (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 2:46

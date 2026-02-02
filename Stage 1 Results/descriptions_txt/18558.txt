@@ -1,0 +1,58 @@
+A) Screen purpose and type:
+The screen is an onboarding or initial setup screen for a fitness or athletic app, designed to gather basic user information to personalize the user's experience.
+
+B) Layout top → bottom:
+1. A blurred background image of a man and a woman.
+2. A prominent "GET STARTED" title at the top.
+3. A subtitle below the title: "Take the first step to individualizing your Athletic journey. Tell us more about yourself."
+4. Two toggle buttons: "I am male" and "I am female."
+5. A progress indicator at the bottom with numbers 1, 2, 3, and 4.
+6. A "Skip" button on the right side of the progress indicator.
+
+C) Component inventory (grouped):
+- Header: "GET STARTED"
+- Subtitle: "Take the first step to individualizing your Athletic journey. Tell us more about yourself."
+- Image: Blurred background image of a man and a woman.
+- Toggle buttons: "I am male" and "I am female."
+- Progress indicator: Numbers 1, 2, 3, and 4.
+- CTA: "Skip" button.
+
+D) Primary actions + navigation:
+- The primary action is to select either "I am male" or "I am female" to proceed with the setup.
+- The "Skip" button allows users to bypass this step and continue to the next part of the onboarding process.
+
+• Screen type/purpose: Initial setup onboarding screen.
+• Key components: Header, subtitle, image, toggle buttons, progress indicator, CTA button.
+• Primary CTA(s): Selecting "I am male" or "I am female" or "Skip."
+• Navigation/footer: Progress indicator with numbers 1, 2, 3, and 4, and a "Skip" button.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   - unknown icon (low confidence)
+   -

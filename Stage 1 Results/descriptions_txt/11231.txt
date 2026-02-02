@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is the home page of the Talabat.com mobile app, designed for users to order food online from top restaurants in the UAE.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains various icons such as signal strength, battery level, and time (3:54).
+2. **Header/App Bar**: Orange background with a menu icon on the left, the word "Home" in the center, and a search icon on the right.
+3. **Subtitle**: "Order Food Online From The Top Restaurants in UAE" with the Talabat.com logo above it.
+4. **Input Fields**:
+   - "Select Your City" with a right chevron.
+   - "Select Your Area" with a right chevron.
+   - "All Cuisines" with a right chevron.
+5. **Button**: A green "FIND RESTAURANTS" button.
+6. **Footer**: Contains logos for VISA and MasterCard, and a "LOGIN" button.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Menu icon, "Home" title, search icon.
+- **Subtitle**: Talabat.com logo and text.
+- **Input Fields**: "Select Your City," "Select Your Area," "All Cuisines."
+- **Button**: "FIND RESTAURANTS."
+- **Footer**: VISA and MasterCard logos, "LOGIN" button.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Selecting a city, area, and cuisine, then finding restaurants.
+- **Navigation**: The menu icon in the header likely leads to a navigation drawer, and the search icon suggests a search functionality.
+
+**Screen type/purpose**: Home page for ordering food online.
+**Key components**: Header, subtitle, input fields, button, footer.
+**Primary CTA(s)**: "FIND RESTAURANTS" button.
+**Navigation/footer**: Menu icon in the header, "LOGIN" button in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - likely Weather (low confidence)
+   - likely Settings (low confidence)
+   - likely Camera (low confidence)
+   - likely Download (low confidence)
+   - likely Download (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 3:54

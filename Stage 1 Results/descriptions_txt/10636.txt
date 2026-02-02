@@ -1,0 +1,55 @@
+A) Screen purpose and type:
+This is a mobile app screen from the Eurosport app, specifically the "Featured" section of the Champions League coverage.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and the time (9:20).
+2. Header with the Eurosport logo.
+3. Navigation bar with tabs: "Results," "Featured," "Videos," and "Latest."
+4. A large image of a person holding a card labeled "FC Bayern München (GER)."
+5. A headline: "Arsenal drawn against Bayern Munich in last 16."
+6. Three smaller images with captions:
+   - "Champions League predictions: City to crash out, Arsenal thro..."
+   - "Best Tweets: It's happened again...Arsenal draw Bayern"
+   - "VOTE: Who's going to win the Champions League?"
+7. A footer with "Results" and "Standings" buttons.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Eurosport logo.
+2. **Navigation Bar**:
+   - Tabs: "Results," "Featured," "Videos," "Latest."
+3. **Main Content Area**:
+   - Large image.
+   - Headline.
+   - Three smaller images with captions.
+4. **Footer**:
+   - "Results" and "Standings" buttons.
+
+D) Primary actions + navigation:
+- Primary CTA: Click on the "Featured" tab to view more content.
+- Navigation: Swipe up to see more content in the "Featured" section.
+- Footer: Click on "Results" or "Standings" to navigate to those sections.
+
+**Recap**:
+- **Screen type/purpose**: Champions League coverage in the Eurosport app.
+- **Key components**: Header, navigation bar, main content area, and footer.
+- **Primary CTA**: Click on the "Featured" tab.
+- **Navigation/footer**: Swipe up for more content in the "Featured" section; click on "Results" or "Standings" in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - likely 0 (low confidence)
+   - likely 1 (low confidence)
+   - likely 2 (low confidence)
+   - likely 3 (low confidence)
+   - likely 4 (low confidence)
+   - likely 5 (low confidence)
+   - likely 6 (low confidence)
+   - likely 7 (low confidence)
+   - likely 8 (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 9:20

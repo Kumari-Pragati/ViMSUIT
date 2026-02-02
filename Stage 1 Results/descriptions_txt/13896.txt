@@ -1,0 +1,33 @@
+A) Screen purpose and type:
+The screen appears to be part of a children's educational app, likely focusing on animal recognition or matching games.
+
+B) Layout top → bottom:
+- The top left corner features a blue chevron button, indicating a back navigation option.
+- Below the chevron, there is a large central image of a zebra's face.
+- Beneath the central image, a 3x3 grid of smaller animal face images is displayed.
+
+C) Component inventory (grouped):
+- **Top Section:**
+  - Blue chevron button (back navigation)
+  - Central zebra face image
+- **Middle Section:**
+  - 3x3 grid of animal face images (rhino, cow, zebra, panda, pig, elephant, sheep, lion, hippo)
+- **Bottom Section:**
+  - No visible footer or bottom navigation bar.
+
+D) Primary actions + navigation:
+- The primary action is selecting one of the animal face images in the grid.
+- The blue chevron button in the top left corner allows users to navigate back to the previous screen.
+
+**Recap:**
+- **Screen type/purpose:** Educational app for animal recognition.
+- **Key components:** Blue chevron button, central zebra face image, 3x3 grid of animal face images.
+- **Primary CTA(s):** Selecting an animal face image.
+- **Navigation/footer:** Blue chevron button for back navigation; no footer or bottom navigation bar.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - None visible.
+
+2) Right-side system/status icons + time:
+   - None visible.

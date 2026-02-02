@@ -1,0 +1,31 @@
+A) Screen purpose and type:
+This screen is part of a mobile app's onboarding process, where users are asked to provide demographic information to receive personalized recommendations.
+
+B) Layout top → bottom:
+1. A black header with the text "One last thing.."
+2. A subtitle below the header that reads, "Tell us about yourself to get personalized recommendations."
+3. A section for selecting age groups, divided into "Male" and "Female" categories.
+4. A "SKIP" button at the bottom.
+
+C) Component inventory (grouped):
+- Header/App Bar: Black background with white text.
+- Title: "One last thing.."
+- Subtitle: "Tell us about yourself to get personalized recommendations."
+- Age Selection Grid: Divided into "Male" and "Female" sections, each with six age groups (0-17, 18-24, 25-34, 35-44, 45-54, 55+).
+- Button: "SKIP" at the bottom.
+
+D) Primary actions + navigation:
+- The primary action is selecting an age group for either "Male" or "Female."
+- The "SKIP" button allows users to bypass this step and proceed to the next part of the onboarding process.
+
+• Screen type/purpose: Onboarding step for personalized recommendations.
+• Key components: Header, subtitle, age selection grid, and "SKIP" button.
+• Primary CTA(s): Selecting an age group or skipping the step.
+• Navigation/footer: The "SKIP" button is the only navigation element at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - None visible.
+
+2) Right-side system/status icons + time:
+   - None visible.

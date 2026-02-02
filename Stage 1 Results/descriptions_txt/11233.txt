@@ -1,0 +1,82 @@
+A) Screen purpose and type:
+The screen displays detailed information about a restaurant called "La Carne Premium Meat" on a mobile app, likely for food delivery or ordering.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: An orange header with a back arrow on the left, the word "Info" in the center, and a shopping cart icon on the right.
+2. **Restaurant Information**: 
+   - Restaurant name: "La Carne Premium Meat"
+   - Category: "Burgers, Grocery"
+   - Rating: 4 stars out of 5 based on 2 reviews
+   - Minimum order: AED 50.00
+   - Payment methods: Visa and Mastercard logos
+3. **Tabs**: Three tabs labeled "MENU," "REVIEWS," and "INFO," with "INFO" currently selected.
+4. **Restaurant Details**:
+   - City: Abu Dhabi
+   - Area: Al Maqta
+   - Status: Open
+   - Cuisines: Burgers, Grocery
+   - Opening hours: 1:00PM - 6:00PM
+   - Delivery time: 60 mins
+   - Minimum order: AED 50.00
+   - Delivery Fee: AED 0.00
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Back arrow
+   - Title: "Info"
+   - Shopping cart icon
+2. **Restaurant Information**:
+   - Restaurant name
+   - Category
+   - Rating and reviews
+   - Minimum order
+   - Payment methods
+3. **Tabs**:
+   - "MENU"
+   - "REVIEWS"
+   - "INFO" (selected)
+4. **Restaurant Details**:
+   - City
+   - Area
+   - Status
+   - Cuisines
+   - Opening hours
+   - Delivery time
+   - Minimum order
+   - Delivery Fee
+
+D) Primary actions + navigation:
+- The primary action is selecting the "INFO" tab to view detailed information about the restaurant.
+- Navigation is facilitated by the back arrow in the header to return to the previous screen.
+- The shopping cart icon in the header likely leads to the user's cart or account page.
+
+**Screen type/purpose**:
+- Detailed information screen for a restaurant on a food delivery or ordering app.
+
+**Key components**:
+- Header/App Bar
+- Restaurant Information
+- Tabs
+- Restaurant Details
+
+**Primary CTA(s)**:
+- Selecting the "INFO" tab
+
+**Navigation/footer**:
+- Back arrow in the header
+- Shopping cart icon in the header
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - likely Spotify (low confidence)
+   - likely YouTube (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 3:57

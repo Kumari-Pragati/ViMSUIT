@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen is a language learning app interface, specifically focusing on French phrases. It appears to be part of a larger app that helps users learn and practice French through various categories.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons, including signal strength, battery, and time (1:32).
+- Below the status bar is a header with the title "French" and a subtitle "PHRASES."
+- There is a search icon, a menu icon, a favorites icon, and a settings icon in the header.
+- The main content area displays a "Suggestion" section with an image of a lightbulb and the text "traffic lights" with the French translation "feux."
+- Below the suggestion, there are six list rows, each representing a different category: "Common," "Emergency," "Romance," "Greetings," "Eating," and "Shopping."
+- Each list row contains an icon and a label. For example, the "Common" row has an icon of a person and the label "Common."
+- The "Numbers" category is represented by a list of colored squares with the numbers 1, 2, and 3.
+
+C) Component inventory (grouped):
+- **Header/App Bar:** Contains the title "French" and a subtitle "PHRASES," along with icons for search, menu, favorites, and settings.
+- **Main Content Area:** Displays a suggestion section and six list rows, each with an icon and label.
+- **List Rows:** Each row represents a different category, such as "Common," "Emergency," "Romance," "Greetings," "Eating," and "Shopping."
+- **Footer/Bottom Nav:** Not present in this screenshot.
+
+D) Primary actions + navigation:
+- The primary action is selecting a category from the list rows to view more phrases within that category.
+- Navigation is facilitated by the icons in the header (search, menu, favorites, settings) and the list rows themselves.
+
+**Recap:**
+- **Screen type/purpose:** Language learning app focused on French phrases.
+- **Key components:** Header, suggestion section, list rows, icons, and labels.
+- **Primary CTA(s):** Selecting a category from the list rows.
+- **Navigation/footer:** None present in this screenshot.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Gmail
+   - Instagram (likely Instagram (low confidence))
+   - B (likely B (low confidence))
+   - N (likely N (low confidence))
+   - Square (likely Square (low confidence))
+   - Lock (likely Lock (low confidence))
+   - Android (likely Android (low confidence))
+
+2) Right-side system/status icons + time:
+   - Alarm (likely Alarm (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Signal (likely Signal (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 1:32

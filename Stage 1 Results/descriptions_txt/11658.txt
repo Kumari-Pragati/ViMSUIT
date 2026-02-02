@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen displays subscription options for a mobile app called Dcoder, specifically for the Mobile Compiler IDE. It offers both monthly and yearly subscription plans with details on features and pricing.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (8:40).
+2. Header/app bar with a back arrow and the title "Dcoder."
+3. First subscription option: Monthly Subscription (Dcoder, Mobile Compiler IDE) with details and a "PURCHASE" button.
+4. Second subscription option: Yearly Subscription (Dcoder, Mobile Compiler IDE) with details and a "PURCHASE" button.
+5. A suggestion to "Buy developer a cup of Coffee" at the bottom.
+
+C) Component inventory (grouped):
+- Status bar
+- Header/app bar
+- Title: "Dcoder"
+- Subtitle: "Monthly Subscription (Dcoder, Mobile Compiler IDE)"
+- Subtitle: "No Ads New Feature Updates"
+- Price: "$0.99 / Month"
+- "PURCHASE" button
+- Title: "Yearly Subscription (Dcoder, Mobile Compiler IDE)"
+- Subtitle: "No Ads Code Editor Themes D-Pad Infinite Compile New Feature Updates"
+- Price: "$7.49 / Year"
+- "PURCHASE" button
+- Suggestion: "Buy developer a cup of Coffee"
+
+D) Primary actions + navigation:
+- Primary CTA: "PURCHASE" buttons for both monthly and yearly subscriptions.
+- Navigation: Back arrow in the header for returning to the previous screen.
+
+• Screen type/purpose: Subscription options for a mobile app.
+• Key components: Header, subscription options, "PURCHASE" buttons, and a suggestion.
+• Primary CTA(s): "PURCHASE" buttons.
+• Navigation/footer: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - FAK
+   - Lock
+   - Android robot
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Do Not Disturb (low confidence)
+   - likely Battery (low confidence)
+   - Time: 8:40

@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+This screen appears to be part of a real estate or property listing app, specifically for filtering property listings by "For Sale" or "For Rent."
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and the time (7:47).
+2. Header/app bar with a "Back" button on the left, a magnifying glass icon for search, and a menu icon on the right.
+3. Below the header, there are two tabs: "For Sale" and "For Rent," with "For Sale" currently selected.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - "Back" button
+   - Search icon
+   - Menu icon
+2. **Tabs**:
+   - "For Sale" (selected)
+   - "For Rent"
+
+D) Primary actions + navigation:
+- The primary action is selecting either "For Sale" or "For Rent" to filter property listings.
+- Navigation is facilitated by the "Back" button to return to the previous screen and the menu icon for additional options.
+
+**Recap**:
+- **Screen type/purpose**: Property listing filter screen.
+- **Key components**: Status bar, header, search icon, menu icon, "For Sale" and "For Rent" tabs.
+- **Primary CTA(s)**: Selecting either "For Sale" or "For Rent" to filter property listings.
+- **Navigation/footer**: "Back" button for returning to the previous screen and a menu icon for additional options.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 7:47

@@ -1,0 +1,67 @@
+A) Screen purpose and type:
+The screen appears to be a discussion thread within a mobile app focused on animals and nature, likely a forum or community board.
+
+B) Layout top → bottom:
+- Status bar at the top with various icons and the time (9:14).
+- Header/app bar with the title "Animals & Nature" and a subtitle "2306630".
+- Navigation tabs for "BOARDS" and "/AN/2306630".
+- A list of posts with user names, timestamps, images, and text content.
+- A red "REPLY" button next to the first post.
+- Additional posts with user names, timestamps, images, and text content.
+- A red "REPLY" button next to the second post.
+- A red "REPLY" button next to the third post.
+- A red "REPLY" button next to the fourth post.
+- A red "REPLY" button next to the fifth post.
+- A red "REPLY" button next to the sixth post.
+- A red "REPLY" button next to the seventh post.
+- A red "REPLY" button next to the eighth post.
+- A red "REPLY" button next to the ninth post.
+- A red "REPLY" button next to the tenth post.
+- A red "REPLY" button next to the eleventh post.
+- A red "REPLY" button next to the twelfth post.
+- A red "REPLY" button next to the thirteenth post.
+- A red "REPLY" button next to the fourteenth post.
+- A red "REPLY" button next to the fifteenth post.
+- A red "REPLY" button next to the sixteenth post.
+- A red "REPLY" button next to the seventeenth post.
+- A red "REPLY" button next to the eighteenth post.
+- A red "REPLY" button next to the nineteenth post.
+- A red "REPLY" button next to the twentieth post.
+- A red "REPLY" button next to the twenty-first post.
+- A red "REPLY" button next to the twenty-second post.
+- A red "REPLY" button next to the twenty-third post.
+- A red "REPLY" button next to the twenty-fourth post.
+- A red "REPLY" button next to the twenty-fifth post.
+- A red "REPLY" button next to the twenty-sixth post.
+- A red "REPLY" button next to the twenty-seventh post.
+- A red "REPLY" button next to the twenty-eighth post.
+- A red "REPLY" button next to the twenty-ninth post.
+- A red "REPLY" button next to the thirtieth post.
+- A red "REPLY" button next to the thirty-first post.
+- A red "REPLY" button next to the thirty-second post.
+- A red "REPLY" button next to the thirty-third post.
+- A red "REPLY" button next to the thirty-fourth post.
+- A red "REPLY" button next to the thirty-fifth post.
+- A red "REPLY" button next to the thirty-sixth post.
+- A red "REPLY" button next to the thirty-seventh post.
+- A red "REPLY" button next to
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - 易
+   - 易
+   - 易
+   - 易
+   - 易
+   - likely Facebook (low confidence)
+   - likely WordPress (low confidence)
+   - likely FAK (low confidence)
+   - likely Android (low confidence)
+   - likely Google Assistant (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Do Not Disturb (low confidence)
+   - likely Battery (low confidence)
+   - Time: 9:14

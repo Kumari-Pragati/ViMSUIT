@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen is part of a mobile application designed to help users add a vehicle by entering the Vehicle Identification Number (VIN). It provides guidance on where to find the VIN on a vehicle and what it looks like.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (12:34).
+- Below the status bar is a header with the title "Add vehicle" and a menu icon on the left.
+- The main content area contains an instructional graphic showing the four most common locations to find the VIN on a vehicle.
+- Below the graphic, there is a text section explaining the importance of the VIN and how to identify it.
+- At the bottom of the content area, there is a button labeled "OK."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "Add vehicle" and a menu icon.
+- **Main Content Area**: Includes an instructional graphic and explanatory text.
+- **Button**: Located at the bottom of the content area, labeled "OK."
+
+D) Primary actions + navigation:
+- The primary action is to click the "OK" button to proceed after entering the VIN.
+- Navigation is facilitated by the menu icon in the header, which likely leads to other sections of the app.
+
+**Recap:**
+- **Screen type/purpose**: Add vehicle by entering the VIN.
+- **Key components**: Header, instructional graphic, explanatory text, "OK" button.
+- **Primary CTA(s)**: "OK" button.
+- **Navigation/footer**: Menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - 14 First Alert
+   - Facebook
+   - Twitter
+   - Email
+   - FOX 8 WGHP
+   - Facebook
+   - Information (likely a system icon, low confidence)
+   - Lock (likely a system icon, low confidence)
+   - Bluetooth (likely a system icon, low confidence)
+   - Wi-Fi (likely a system icon, low confidence)
+   - Vibrate (likely a system icon, low confidence)
+   - Battery (likely a system icon, low confidence)
+
+2) Right-side system/status icons + time:
+   - Temperature: 39°
+   - Time: 12:34

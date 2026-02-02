@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen appears to be a mobile app interface displaying pre-season game results for a sports team, specifically the Steelers. It includes a tribute to Daniel M. Rooney (1932-2017) at the top.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Contains a tribute to Daniel M. Rooney (1932-2017) with a black and white image of him.
+2. **Title/Subtitle**: "DANIEL M. ROONEY" and "1932 - 2017" are displayed prominently.
+3. **Navigation Bar**: Below the tribute, there is a navigation bar with icons for different sections of the app.
+4. **Preseason Game Results**: A list of pre-season game results is shown, including:
+   - Lions vs. Steelers (30-17, Fri, Aug 12)
+   - Eagles vs. Steelers (17-0, Thu, Aug 18)
+   - Steelers vs. Saints (27-14)
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Tribute image, title, subtitle.
+- **Navigation Bar**: Icons for different sections.
+- **Preseason Game Results**: List rows with team names, scores, and dates.
+- **Footer/Bottom Nav**: Not visible in the screenshot.
+
+D) Primary actions + navigation:
+- **Primary CTA**: Navigating through the different sections of the app using the icons in the navigation bar.
+- **Navigation**: The navigation bar at the top allows users to switch between different sections of the app.
+
+**Recap**:
+- **Screen type/purpose**: Sports app displaying pre-season game results with a tribute to Daniel M. Rooney.
+- **Key components**: Tribute image, title, subtitle, navigation bar, preseason game results.
+- **Primary CTA(s)**: Navigating through the app using the icons in the navigation bar.
+- **Navigation/footer**: Navigation bar at the top, no footer visible.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Key
+   - Facebook
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi
+   - Unknown icon (low confidence)
+   - Battery (charging)
+   - Time: 1:09

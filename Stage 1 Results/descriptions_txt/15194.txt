@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen appears to be the welcome or splash screen of a weather application, designed to introduce the user to the app and prompt them to start using it.
+
+B) Layout top → bottom:
+1. The status bar at the top shows various icons, including signal strength, battery, and time (8:19).
+2. Below the status bar, there is a large image featuring four individuals in professional attire, likely representing the weather team.
+3. The "FIRST ALERT WEATHER" logo is prominently displayed in the center, with the KFVS 12 logo to the right.
+4. Below the logo, there is an image of a lit-up bridge at night.
+5. At the bottom, the text "Let's Get Started" is displayed, serving as a call-to-action button.
+
+C) Component inventory (grouped):
+- Status bar
+- Image of four individuals
+- "FIRST ALERT WEATHER" logo
+- KFVS 12 logo
+- Image of a lit-up bridge
+- "Let's Get Started" button
+
+D) Primary actions + navigation:
+- The primary action is the "Let's Get Started" button, which likely navigates the user to the main content of the app.
+- There is no visible navigation or footer at the bottom of the screen.
+
+• Screen type/purpose: Welcome or splash screen for a weather application.
+• Key components: Status bar, team image, logo, bridge image, and "Let's Get Started" button.
+• Primary CTA: "Let's Get Started" button.
+• Navigation/footer: No visible navigation or footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Keyhole
+   - Email
+   - Unknown icon (square with a line through it)
+   - Fox 8 WGHP
+   - T
+   - Fox 8 WGHP
+   - Facebook
+   - Fox 8 WGHP
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 8:19

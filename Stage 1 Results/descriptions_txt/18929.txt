@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen is a confirmation dialog in a mobile banking app, prompting the user to turn off all demos.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Contains the app's logo on the left and a "Menu" option on the right.
+2. **Service Status Section**: Displays a cautionary message about suspicious calls.
+3. **FAQs and Info Buttons**: Located below the service status section.
+4. **Dialog Box**: A blue header with the text "TURN OFF ALL DEMOS?" and a message explaining that users can view demos at any time.
+5. **CTA Buttons**: Two buttons labeled "No" and "Yes" at the bottom of the dialog box.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the app's logo and a "Menu" option.
+- **Service Status Section**: Displays a cautionary message.
+- **FAQs and Info Buttons**: Located below the service status section.
+- **Dialog Box**: A confirmation dialog with a blue header, message, and CTA buttons.
+- **CTA Buttons**: "No" and "Yes" buttons.
+
+D) Primary actions + navigation:
+- **Primary Actions**: The user must decide whether to turn off all demos by selecting either the "No" or "Yes" button.
+- **Navigation/Footer**: The "Menu" option in the header provides navigation to other sections of the app.
+
+**Recap**:
+- **Screen type/purpose**: Confirmation dialog for turning off all demos.
+- **Key components**: Header, service status section, FAQs and Info buttons, dialog box, and CTA buttons.
+- **Primary CTA(s)**: "No" and "Yes" buttons.
+- **Navigation/footer**: "Menu" option in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Shield (likely antivirus)
+   - Envelope (likely email)
+   - Circle with a line through it (likely do not disturb)
+   - Lock (likely lock)
+   - Robot (likely a custom icon)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth)
+   - Wi-Fi (likely Wi-Fi)
+   - Battery (likely battery)
+   - Time: 1:35

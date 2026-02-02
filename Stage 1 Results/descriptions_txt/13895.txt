@@ -1,0 +1,34 @@
+A) Screen purpose and type:
+The screen appears to be part of a children's educational app, likely focusing on animal recognition or matching games.
+
+B) Layout top → bottom:
+- The top left corner features a blue back arrow button.
+- A large central image of a pink pig is displayed.
+- Below the central image, a 3x3 grid of smaller animal images is arranged.
+
+C) Component inventory (grouped):
+- **Top Section:**
+  - Back arrow button
+  - Central image of a pink pig
+- **Middle Section:**
+  - 3x3 grid of animal images
+- **Bottom Section:**
+  - No visible footer or bottom navigation bar.
+
+D) Primary actions + navigation:
+- The primary action is likely to be selecting one of the animal images in the grid to match or interact with the central pig image.
+- Navigation is facilitated by the back arrow button in the top left corner.
+
+**Recap:**
+- **Screen type/purpose:** Children's educational app, likely for animal recognition.
+- **Key components:** Back arrow button, central pig image, 3x3 grid of animal images.
+- **Primary CTA(s):** Selecting an animal image from the grid.
+- **Navigation/footer:** Back arrow button in the top left corner, no footer or bottom navigation bar.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - unknown icon (blue square with white arrow pointing left)
+
+2) Right-side system/status icons + time:
+   - unknown icon (red shape resembling a bird or flame)
+   - time: 12:00

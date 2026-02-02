@@ -1,0 +1,53 @@
+A) Screen purpose and type:
+This is a login screen for the ESPN Radio app, designed to allow users to sign in and customize their audio experience.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (2:48).
+- Below the status bar, the app version (1.0.5) is displayed.
+- The ESPN Radio logo is prominently featured in the center.
+- The tagline "IT'S SPORTS, FOR YOUR EARS" is below the logo.
+- A subtitle encourages users to "Sign in to customize your audio experience."
+- Two input fields for "Username" and "Password" are present.
+- A red "Sign In" button is below the password field.
+- A "Forgot Password?" link is under the "Sign In" button.
+- At the bottom, a message informs users that they can sign up for a free ESPN account if they don't have one.
+
+C) Component inventory (grouped):
+- Status bar
+- App version
+- ESPN Radio logo
+- Tagline
+- Subtitle
+- Input fields: "Username" and "Password"
+- "Sign In" button
+- "Forgot Password?" link
+- Sign-up message
+- "Sign Up for an ESPN Account" button
+
+D) Primary actions + navigation:
+- The primary action is to sign in using the "Sign In" button.
+- Users can navigate to the sign-up page by tapping the "Sign Up for an ESPN Account" button.
+- The "Forgot Password?" link allows users to reset their password.
+
+• Recap:
+- Screen type/purpose: Login screen for ESPN Radio app.
+- Key components: ESPN Radio logo, tagline, input fields, "Sign In" button, "Forgot Password?" link, sign-up message, and "Sign Up for an ESPN Account" button.
+- Primary CTA(s): "Sign In" button and "Sign Up for an ESPN Account" button.
+- Navigation/footer: The "Forgot Password?" link and the sign-up message at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - likely wrench (low confidence)
+   - f (likely Facebook)
+   - likely lock (low confidence)
+   - likely robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely vibrate (low confidence)
+   - likely battery (low confidence)
+   - Time: 2:48

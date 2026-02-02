@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen appears to be a settings or customization menu for a news app, allowing users to edit the news sources displayed in the app.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (4:40).
+- Below the status bar is a header with a search icon and a menu icon.
+- The main content area is titled "Edit menu items" with a subtitle "News."
+- A list of news sources is displayed, each with a logo, name, and a numerical value on the right.
+- The list includes BBC, Time, CNN, Reuters, ABC News, Independent, The Guardian, National Post, CBC News, and Al Jazeera.
+- The "Reuters" entry is highlighted in yellow, indicating it is selected or active.
+
+C) Component inventory (grouped):
+- **Header/App Bar:**
+  - Search icon
+  - Menu icon
+- **Main Content Area:**
+  - Title: "Edit menu items"
+  - Subtitle: "News"
+  - List of news sources with logos, names, and numerical values.
+- **Footer/Bottom Nav:**
+  - Not visible in the screenshot.
+
+D) Primary actions + navigation:
+- The primary action is to edit the news sources, as indicated by the "Edit menu items" title.
+- The "Reuters" entry is the primary CTA, as it is highlighted and selected.
+- Navigation is facilitated by the menu icon in the header, which likely leads to more settings or customization options.
+
+**Recap:**
+- **Screen type/purpose:** News source customization menu.
+- **Key components:** Header with search and menu icons, list of news sources with logos and numerical values, "Edit menu items" title, "News" subtitle.
+- **Primary CTA:** "Reuters" entry.
+- **Navigation/footer:** Menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Do Not Disturb (likely Do Not Disturb (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 4:40

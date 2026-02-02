@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen appears to be a featured recipe page from a cooking app, showcasing a highlighted recipe and related options.
+
+B) Layout top → bottom:
+1. **Status Bar**: Standard Android status bar with icons for connectivity, battery, and time (1:21).
+2. **Header/App Bar**: A red bar with a hamburger menu icon on the left and the word "Featured" in white text.
+3. **Recipe Image**: A large image of stuffed cherry tomatoes.
+4. **Recipe Title**: "Tuna Stuffed Cherry Tomato" in bold red text.
+5. **Recipe Description**: A paragraph describing the recipe's appeal and taste.
+6. **List of Recipes**: A grid of four recipe cards with images and titles:
+   - Chocolate Sugar Cookies
+   - Banana Waffles
+   - Tofu Masala Dosa
+   - Thengai Poli
+7. **Footer/Bottom Navigation**: Two buttons labeled "30 Minute Recipes" and "Cuisine" with corresponding icons.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Hamburger menu, "Featured" title.
+- **Main Content**: Recipe image, title, description, list of recipes.
+- **Footer/Bottom Navigation**: "30 Minute Recipes" and "Cuisine" buttons.
+
+D) Primary actions + navigation:
+- **Primary CTA**: Clicking on the "Tuna Stuffed Cherry Tomato" recipe to view the full recipe details.
+- **Navigation**: The hamburger menu likely leads to a navigation drawer, and the "Cuisine" button might filter recipes by cuisine type.
+
+**Recap**:
+- **Screen type/purpose**: Featured recipe page in a cooking app.
+- **Key components**: Header, recipe image, title, description, list of recipes, footer navigation buttons.
+- **Primary CTA**: View the "Tuna Stuffed Cherry Tomato" recipe.
+- **Navigation/footer**: Hamburger menu for navigation drawer, "Cuisine" button for filtering recipes.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - likely settings gear (low confidence)
+   - likely search magnifying glass (low confidence)
+   - f (likely Facebook)
+   - likely info circle (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely location pin (low confidence)
+   - likely Wi-Fi signal (low confidence)
+   - likely battery (low confidence)
+   - 1:21

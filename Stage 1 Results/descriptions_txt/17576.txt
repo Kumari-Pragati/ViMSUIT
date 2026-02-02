@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is a "Help/Info" page within a mobile app, providing users with information about the app's features and how to use it effectively.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (7:41).
+- Below the status bar is a header with the title "Help/Info."
+- The main content area contains a description of the app, a welcome message, and a table of contents.
+- The table of contents lists sections such as "Key Tips," "Headlines and Shows On-Demand," "Live News, Talk, and More," "Technical Issues," "Future Features, Rate App," and "Disclaimer."
+- At the bottom, there is a section titled "1. Key Tips" with tips for using the app.
+- At the very bottom, there is an "OK" button.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "Help/Info."
+- **Main Content Area**: Displays the app's description, welcome message, and table of contents.
+- **Table of Contents**: Lists sections for navigation.
+- **Footer**: Contains the "OK" button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "OK" button at the bottom of the screen.
+- **Navigation**: The table of contents allows users to navigate to different sections of the help page.
+
+**Recap**:
+- **Screen type/purpose**: Help/Info page.
+- **Key components**: Header, main content area, table of contents, footer.
+- **Primary CTA**: "OK" button.
+- **Navigation/footer**: Table of contents and "OK" button.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Play/Pause
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Keyhole
+   - Envelope
+   - Facebook
+   - Information circle
+   - Bluetooth
+   - Wi-Fi
+   - Battery (low confidence)
+
+2) Right-side system/status icons + time:
+   - Battery (low confidence)
+   - Time: 7:41

@@ -1,0 +1,32 @@
+A) Screen purpose and type:
+The screen appears to be a landing or introductory screen for a mobile app feature or game called "Find Gabor," designed to train attention, perception, and overall brain function.
+
+B) Layout top → bottom:
+- The top features a header with a back arrow and the title "Find Gabor."
+- Below the header is a large central image of a stylized pair of glasses with a star.
+- A subtitle below the image reads, "Trains your attention, perception ability and the overall work of your brain."
+- At the bottom, there are two buttons: "how-to" and "play."
+
+C) Component inventory (grouped):
+- Header/App Bar: Contains a back arrow and the title "Find Gabor."
+- Image: A stylized pair of glasses with a star.
+- Subtitle: "Trains your attention, perception ability and the overall work of your brain."
+- Buttons: "how-to" (gray) and "play" (green).
+
+D) Primary actions + navigation:
+- The "play" button is the primary call-to-action, likely leading to the game or activity.
+- The "how-to" button suggests an option to learn more about the feature or game mechanics.
+- Navigation: The back arrow in the header allows users to return to the previous screen.
+
+• Recap:
+- Screen type/purpose: Landing or introductory screen for a brain training game.
+- Key components: Header, central image, subtitle, and two buttons.
+- Primary CTA(s): "play" button.
+- Navigation/footer: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - None visible.
+
+2) Right-side system/status icons + time:
+   - None visible.

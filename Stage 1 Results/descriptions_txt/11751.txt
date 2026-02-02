@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen displays a list of bus routes, likely for a public transportation app, allowing users to select a route for more detailed information.
+
+B) Layout top → bottom:
+- Status bar at the top shows various icons and the time (8:08).
+- A blue header bar with the title "Bus Routes" and a back arrow.
+- A list of bus routes (Route 20, Route 22, Route 26, etc.) is displayed vertically.
+- A partially visible route map for Route 22 is embedded within the list.
+- The bottom part of the screen shows a partial view of an advertisement banner.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Blue bar with "Bus Routes" and a back arrow.
+- **Title**: "Bus Routes" in the header.
+- **Subtitle**: "Route 20" and "Route 22" in the list rows.
+- **List Rows**: Each row contains a route number and name.
+- **Route Map**: Embedded in the Route 22 list row.
+- **Footer/Bottom Nav**: Partially visible advertisement banner at the bottom.
+
+D) Primary actions + navigation:
+- Users can select a route from the list to view more details.
+- The back arrow in the header allows users to return to the previous screen.
+- The advertisement banner at the bottom may be a call-to-action for users to interact with.
+
+**Recap:**
+- **Screen type/purpose**: Bus route selection screen.
+- **Key components**: Header, list of routes, route map, advertisement banner.
+- **Primary CTA(s)**: Selecting a route from the list.
+- **Navigation/footer**: Back arrow in the header, advertisement banner at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Shield (low confidence)
+   - Envelope (low confidence)
+   - Number 5 (low confidence)
+
+2) Right-side system/status icons + time:
+   - FAK (low confidence)
+   - Lock (low confidence)
+   - 80° (low confidence)
+   - Android robot (low confidence)
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 8:08

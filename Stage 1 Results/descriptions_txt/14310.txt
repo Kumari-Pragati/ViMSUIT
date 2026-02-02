@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen is a settings page for an app called "Easy Attendance."
+
+B) Layout top → bottom:
+1. Status bar with app icons and time (6:04).
+2. Header/app bar with the title "Easy Attendance Settings."
+3. List of settings options:
+   - Edit Classes
+   - Delete Classes
+   - Upgrade to PRO version
+   - Easy Attendance Help
+   - About Easy Attendance
+   - Rate Us
+
+C) Component inventory (grouped):
+- Status bar: Contains app icons and time.
+- Header/app bar: Title "Easy Attendance Settings."
+- List row: Each setting option is a list row.
+- Button: "Upgrade to PRO version."
+- Button: "Easy Attendance Help."
+- Button: "About Easy Attendance."
+- Button: "Rate Us."
+
+D) Primary actions + navigation:
+- Primary CTA: "Edit Classes," "Delete Classes," "Upgrade to PRO version," "Easy Attendance Help," "About Easy Attendance," and "Rate Us."
+- Navigation/footer: None present.
+
+• Screen type/purpose: Settings page for the "Easy Attendance" app.
+• Key components: Status bar, header/app bar, list rows, and buttons.
+• Primary CTA(s): "Edit Classes," "Delete Classes," "Upgrade to PRO version," "Easy Attendance Help," "About Easy Attendance," and "Rate Us."
+• Navigation/footer: None present.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Key (low confidence)
+   - Email (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 6:04

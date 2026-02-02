@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen is a form for creating a new contact within a mobile app, likely for business or personal use.
+
+B) Layout top → bottom:
+- **Header/App Bar**: Contains a back arrow, the title "New Contact," and a "SAVE" button.
+- **Primary Contact Section**: Includes fields for "Saln.," "First Name," "Last Name," "Company Name," and "Contact Display Name."
+- **Contact Email Section**: Includes a field for "Contact Email."
+- **Contact Information Section**: Includes fields for "Work Phone" and "Mobile."
+- **Currency Section**: Displays "Currency" and "USD."
+- **Payment Terms Section**: Displays "Payment Terms" and "Due on Receipt."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, title "New Contact," "SAVE" button.
+- **Form Fields**: "Saln.," "First Name," "Last Name," "Company Name," "Contact Display Name," "Contact Email," "Work Phone," "Mobile," "Currency," "USD," "Payment Terms," "Due on Receipt."
+- **Buttons**: "SAVE" button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: "SAVE" button to save the new contact.
+- **Navigation/Footer**: The back arrow in the header allows navigation to the previous screen.
+
+**Recap**:
+- **Screen type/purpose**: New contact creation form.
+- **Key components**: Header, form fields, "SAVE" button.
+- **Primary CTA**: "SAVE" button.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Shield
+   - Facebook
+   - Download
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Time: 3:54

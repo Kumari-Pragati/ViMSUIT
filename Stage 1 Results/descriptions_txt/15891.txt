@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen appears to be the main landing page of a mobile app called "EAT STREET." It is designed to allow users to either enter their address manually or use their current location to find nearby food options.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (4:39).
+- Below the status bar is a header with a hamburger menu icon on the left and an exclamation mark icon on the right.
+- The app's logo, "EAT STREET," is prominently displayed in the center.
+- A stylized illustration of a street with various food-related establishments (e.g., bar & grill, cheeseburgers, pizza restaurant, café) is shown below the logo.
+- A search bar with the placeholder text "Enter Your Address..." is positioned below the illustration.
+- A green button labeled "USE MY CURRENT LOCATION" is at the bottom of the screen.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a hamburger menu icon and an exclamation mark icon.
+- **Title/Logo**: "EAT STREET."
+- **Illustration**: Street scene with food-related establishments.
+- **Search Bar**: Placeholder text "Enter Your Address..."
+- **Button**: "USE MY CURRENT LOCATION."
+
+D) Primary actions + navigation:
+- The primary action is to either enter an address manually or use the user's current location to find nearby food options.
+- Navigation is facilitated by the hamburger menu icon in the header, which likely opens a menu with additional options or settings.
+- The exclamation mark icon in the header might lead to notifications or alerts.
+
+• Screen type/purpose: Main landing page of the "EAT STREET" app.
+• Key components: Header, logo, illustration, search bar, location button.
+• Primary CTA(s): Enter address manually or use current location.
+• Navigation/footer: Hamburger menu for additional options, exclamation mark for notifications.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Information (low confidence)
+   - Likely FAX (low confidence)
+   - Lock (low confidence)
+   - Android (low confidence)
+   - Checkmark (low confidence)
+   - Briefcase (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Battery (low confidence)
+   - Time: 4:39

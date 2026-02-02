@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen is a sign-up confirmation page for a mobile app called BuzzMuslim, designed to guide the user through the next steps of creating their profile.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (4:28).
+2. Header/app bar with the title "Signup."
+3. Subtitle explaining the next steps: "In the next steps, you will enter your BuzzMuslim profile. This should not take more than 2 minutes, after that you are ready to meet new people!"
+4. Two buttons: "Continue" and "Sign Out."
+
+C) Component inventory (grouped):
+- Status bar: Icons and time.
+- Header/app bar: Title "Signup."
+- Subtitle: Text explaining the next steps.
+- Buttons: "Continue" and "Sign Out."
+
+D) Primary actions + navigation:
+- Primary CTA: "Continue" button to proceed with the sign-up process.
+- Secondary CTA: "Sign Out" button to exit the sign-up process.
+- Navigation/footer: No footer or bottom navigation bar is present.
+
+• Screen type/purpose: Sign-up confirmation page.
+• Key components: Status bar, header, subtitle, buttons.
+• Primary CTA(s): "Continue" button.
+• Navigation/footer: No footer or bottom navigation bar.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Shield (likely antivirus)
+   - Envelope (likely email)
+   - Facebook logo
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Lock (likely security)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely)
+   - Wi-Fi (likely)
+   - Unknown icon (low confidence)
+   - Battery (likely)
+   - Time: 4:28

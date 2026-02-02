@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen is a settings page within a mobile application, designed to allow users to configure various preferences and notifications.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for signal strength, Wi-Fi, battery, and the time (1:41).
+2. **Header/App Bar**: A green bar with a back arrow on the left and the title "Settings" in white text.
+3. **General Section**: Includes two toggle switches labeled "Warn me before exiting" and "Enable Recent Searches."
+4. **Notifications Section**: Contains two additional toggle switches labeled "Turn on push notifications for saved search alerts" and "Turn on push notifications for message box."
+5. **Sign Out Section**: Displays the text "SIGN OUT" in green, followed by the message "You are currently signed in as appcrawler1@gmail.com."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow and the title "Settings."
+- **Toggle Switches**: Six toggle switches for enabling or disabling various settings.
+- **Text Labels**: Descriptions for each toggle switch and the sign-out message.
+- **Sign Out Button**: A green button labeled "SIGN OUT."
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "SIGN OUT" button at the bottom of the screen.
+- **Navigation**: The back arrow in the header allows users to navigate back to the previous screen.
+
+**Recap**:
+- **Screen type/purpose**: Settings page.
+- **Key components**: Header, toggle switches, text labels, sign-out button.
+- **Primary CTA**: "SIGN OUT" button.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Messages (low confidence)
+   - likely Phone (low confidence)
+   - likely Gmail (low confidence)
+   - likely Google Drive (low confidence)
+   - likely Google Photos (low confidence)
+   - likely Google Maps (low confidence)
+   - likely YouTube (low confidence)
+   - likely Camera (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Cellular signal (low confidence)
+   - likely Battery (low confidence)
+   - Time: 1:41

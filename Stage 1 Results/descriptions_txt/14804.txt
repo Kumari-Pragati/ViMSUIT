@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is a login or sign-in page for a mobile application, requiring the user to enter their phone number to proceed.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (1:15).
+- Below the status bar, there is a header with the text "Enter your phone number to sign in."
+- A text input field is present for entering the phone number, with a country flag (Kazakhstan) next to it.
+- At the bottom of the screen, there is a large orange button labeled "Next."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "Enter your phone number to sign in"
+- **Text Input Field**: For entering the phone number
+- **Country Flag**: Kazakhstan
+- **Button**: "Next"
+
+D) Primary actions + navigation:
+- The primary action is to click the "Next" button to proceed with the sign-in process.
+- Navigation is limited to the "Next" button, which likely takes the user to the next step in the sign-in flow.
+
+**Recap:**
+- **Screen type/purpose**: Sign-in page
+- **Key components**: Header, text input field, country flag, "Next" button
+- **Primary CTA(s)**: "Next" button
+- **Navigation/footer**: None
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Google Play Store (high confidence)
+   - Google Play Store (high confidence)
+   - Google Play Store (high confidence)
+   - Google Play Store (high confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Battery (high confidence)
+   - Time: 1:15

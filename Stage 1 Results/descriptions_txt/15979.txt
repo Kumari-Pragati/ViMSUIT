@@ -1,0 +1,51 @@
+A) Screen purpose and type:
+The screen appears to be a menu section of a mobile app, likely for a game or modding community, offering options to explore mods, skins, and maps.
+
+B) Layout top → bottom:
+1. A blue status bar with a menu icon on the left and a three-dot menu icon on the right.
+2. A white header labeled "Menu."
+3. A section titled "Mods" with a subtitle "All the most interesting modification."
+4. An image of a pixelated sword.
+5. A blue button labeled "GO TO SECTION."
+6. A section titled "Skins" with a subtitle "All the most interesting topics skins GTA."
+7. An image of a pixelated character skin.
+8. Another blue button labeled "GO TO SECTION."
+9. A partially visible section labeled "Maps."
+
+C) Component inventory (grouped):
+1. UI Components:
+   - Status bar
+   - Header/app bar
+   - Title
+   - Subtitle
+   - Image
+   - List row
+   - Toggle
+   - Button
+   - Footer/bottom nav
+2. Text:
+   - "Menu"
+   - "Mods"
+   - "All the most interesting modification."
+   - "Skins"
+   - "All the most interesting topics skins GTA."
+   - "GO TO SECTION"
+   - "Maps"
+
+D) Primary actions + navigation:
+- The primary actions are to navigate to the "Mods" and "Skins" sections, indicated by the "GO TO SECTION" buttons.
+- Navigation is facilitated by the menu icon in the status bar and the three-dot menu icon in the header.
+
+• Recap:
+- Screen type/purpose: Menu section of a mobile app for exploring mods, skins, and maps.
+- Key components: Status bar, header, title, subtitle, image, list row, toggle, button, footer/bottom nav.
+- Primary CTA(s): "GO TO SECTION" buttons for mods and skins.
+- Navigation/footer: Menu icon in the status bar and three-dot menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - none
+
+2) Right-side system/status icons + time:
+   - likely three-dot menu icon (low confidence)
+   - time: 00:00

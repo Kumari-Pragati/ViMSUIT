@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen displays a list of rental properties in Koramangala, with 1119 results found. It appears to be a real estate or property rental app.
+
+B) Layout top → bottom:
+- Status bar at the top shows various icons and the time (11:55).
+- A blue header with the title "Koramangala" and a subtitle "1119 Results" is present.
+- Below the header, there are options to "Create Alert," "SORT," and "FILTER."
+- Two property listings are shown, each with an image, price, date, and brief description.
+- At the bottom, there is an advertisement banner.
+
+C) Component inventory (grouped):
+- Status bar
+- Header with title and subtitle
+- Navigation menu icon
+- Search icon
+- "Create Alert," "SORT," and "FILTER" buttons
+- Property listings with images, prices, dates, and descriptions
+- Advertisement banner at the bottom
+
+D) Primary actions + navigation:
+- Users can create alerts for properties.
+- They can sort and filter the property listings.
+- Users can view more details about the properties by tapping on the listings.
+- The navigation menu icon likely leads to a menu with more options.
+
+• Screen type/purpose: Real estate property rental app
+• Key components: Header, property listings, advertisement banner
+• Primary CTA(s): Create Alert, SORT, FILTER
+• Navigation/footer: Navigation menu icon
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Key (likely Key (low confidence))
+   - Robot (likely Robot (low confidence))
+   - File (likely File (low confidence))
+   - Warning (likely Warning (low confidence))
+   - Facebook
+   - Battery (likely Battery (low confidence))
+   - Lock (likely Lock (low confidence))
+   - Robot (likely Robot (low confidence))
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Signal (likely Signal (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 11:55

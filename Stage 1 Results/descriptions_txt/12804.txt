@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen appears to be part of a music app, specifically displaying information about an artist. It shows a list of artists with a single entry visible.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (10:35).
+- Below the status bar is the app bar with a back arrow on the left and the title "Artists" in the center.
+- The main content area displays an image of a person playing a stringed instrument.
+- Below the image is a list row with the text "<unknown>" indicating the artist name, "1 album | 1 song," and a three-dot menu icon on the right.
+
+C) Component inventory (grouped):
+- Status bar
+- App bar
+  - Back arrow
+  - Title: "Artists"
+- Main content area
+  - Image of a person playing a stringed instrument
+  - List row
+    - Text: "<unknown>"
+    - Subtext: "1 album | 1 song"
+    - Three-dot menu icon
+
+D) Primary actions + navigation:
+- The back arrow in the app bar allows navigation to the previous screen.
+- The three-dot menu icon on the list row likely provides additional options for the artist entry.
+
+• Recap:
+- Screen type/purpose: Artist information display in a music app.
+- Key components: Status bar, app bar, image, list row with text and menu icon.
+- Primary CTA(s): Back arrow for navigation.
+- Navigation/footer: None present, as the bottom area is not shown.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 10:35

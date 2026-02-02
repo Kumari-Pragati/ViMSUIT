@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is a user registration form within a mobile app, designed for users to input personal and account information to create a new account.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A blue header with a back arrow on the left, the title "User Registration," and a menu icon on the right.
+2. **Personal Details Section**: Contains fields for "First Name," "Last Name," "Phone," and "Registration Code."
+3. **Account Information Section**: Includes fields for "Email," "Password," "Confirm Password," and "Security Question."
+4. **Register Button**: A green button labeled "Register" at the bottom.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, title, menu icon.
+- **Personal Details Section**: "First Name" field, "Last Name" field, "Phone" field, "Registration Code" field.
+- **Account Information Section**: "Email" field, "Password" field, "Confirm Password" field, "Security Question" field.
+- **Register Button**: Green "Register" button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "Register" button at the bottom.
+- **Navigation**: The back arrow in the header allows users to navigate back to the previous screen.
+
+**Recap**:
+- **Screen type/purpose**: User registration form.
+- **Key components**: Header, personal details fields, account information fields, register button.
+- **Primary CTA**: Register button.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Keyhole
+   - Email
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 9:11

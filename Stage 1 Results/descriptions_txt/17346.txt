@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is a mobile app interface designed for users to submit photos or videos of their local weather. It appears to be part of a weather application, as indicated by the "WFMY 2 WEATHER" logo at the top.
+
+B) Layout top → bottom:
+1. **Status Bar**: Displays the time (2:49) and various system icons (Wi-Fi, battery, etc.).
+2. **Header/App Bar**: Contains a "hotwire" advertisement and a search bar with the text "San Francisco, California" and a price of "$199".
+3. **Title Section**: Features the "WFMY 2 WEATHER" logo on the left and the current location "Greensboro, NC" on the right, with a gear icon for settings.
+4. **Main Content Area**: Encourages users to submit photos or videos of their local weather. It includes a description and three buttons: "Take New Photo," "Take New Video," and "Select from Gallery."
+5. **Background Image**: A scenic image of a sunset or sunrise with silhouettes of trees and a body of water.
+6. **Footer/Bottom Navigation**: Displays navigation options: "Home," "Daily," "Hourly," and "Submit."
+
+C) Component inventory (grouped):
+1. **Top Section**:
+   - Status Bar
+   - Header/App Bar: "hotwire" ad, search bar, "WFMY 2 WEATHER" logo, location, gear icon.
+2. **Main Content Area**:
+   - Title: "Submit your Photos/Video"
+   - Description: "We're looking for weather where you live. Submissions that include a location have the best chance of being used on TV or our website. Start sharing today!"
+   - Buttons: "Take New Photo," "Take New Video," "Select from Gallery."
+3. **Background Image**: Scenic sunset/sunrise with trees and water.
+4. **Footer/Bottom Navigation**: "Home," "Daily," "Hourly," "Submit."
+
+D) Primary actions + navigation:
+- **Primary CTA(s)**: "Take New Photo," "Take New Video," "Select from Gallery."
+- **Navigation/Footer**: The bottom navigation bar allows users to switch between "Home," "Daily," "Hourly," and "Submit" views.
+
+**Recap**:
+- **Screen type/purpose**: Weather app submission interface.
+- **Key components**: Status bar, header, main content area, background image, and bottom navigation.
+- **Primary CTA(s)**: "Take New Photo," "Take New Video," "Select from Gallery."
+- **Navigation/footer**: Bottom navigation bar with "Home," "Daily," "Hourly," and "Submit" options.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 2:49

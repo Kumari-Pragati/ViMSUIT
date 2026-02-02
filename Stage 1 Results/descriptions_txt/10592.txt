@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen displays a list of social networks, likely for integration or selection purposes within a mobile application.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains various icons such as signal strength, battery, and time (4:32).
+2. **Header/App Bar**: A blue bar with a back arrow on the left and the title "Social Networks" in white text.
+3. **List of Social Networks**:
+   - Facebook
+   - Google+
+   - Twitter
+   - VKontakte
+4. **Icons**: Each social network name has a green plus sign to the right, likely indicating the option to add or integrate.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow and the title "Social Networks".
+- **List Row**: Each social network entry includes the name and a green plus sign.
+- **Icons**: Green plus signs next to each social network name.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Users can select a social network to add or integrate.
+- **Navigation**: The back arrow in the header allows users to return to the previous screen.
+
+**Summary Recap**:
+- **Screen type/purpose**: Social network selection or integration screen.
+- **Key components**: Header, list of social networks, green plus signs.
+- **Primary CTA(s)**: Selecting a social network to add or integrate.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 4:32

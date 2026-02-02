@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is a volunteer opportunity search interface within a mobile app, designed to help users find projects near their location.
+
+B) Layout top → bottom:
+1. Status bar: Contains icons for connectivity, battery, and time (9:19).
+2. Header/app bar: Features a menu icon (three horizontal lines) and the title "Projects" in orange.
+3. Search section: Includes a subtitle "Search for volunteer opportunities near you" and a search bar pre-filled with "San Francisco, Ca."
+4. Search options: Buttons for "advanced search" and "near me."
+5. Sorting section: Displays "Sort by" with "default" selected.
+6. Search results area: Shows "No Search Results Found" in white text on a teal background.
+7. Footer: Features a cityscape illustration at the bottom.
+
+C) Component inventory (grouped):
+- UI components: Status bar, header, search section, search options, sorting section, search results area, footer.
+- Text: "Projects," "Search for volunteer opportunities near you," "San Francisco, Ca," "advanced search," "near me," "Sort by," "default," "No Search Results Found."
+- Icons: Menu icon, search icon.
+- Buttons: "advanced search," "near me."
+- Illustration: Cityscape at the bottom.
+
+D) Primary actions + navigation:
+- Primary CTA: Clicking the search bar to enter a new location.
+- Navigation: The menu icon in the header likely leads to a navigation drawer, and the "near me" button suggests a location-based search option.
+
+• Recap:
+- Screen type/purpose: Volunteer opportunity search interface.
+- Key components: Header, search bar, search options, sorting section, search results area, footer.
+- Primary CTA: Search bar.
+- Navigation/footer: Menu icon in the header, "near me" button, cityscape illustration at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Key icon
+   - Envelope icon
+   - Facebook icon
+   - Clock icon
+   - Lock icon
+   - Robot icon
+
+2) Right-side system/status icons + time:
+   - Bluetooth icon (likely Bluetooth (low confidence))
+   - Wi-Fi icon (likely Wi-Fi (low confidence))
+   - Signal icon (likely Signal (low confidence))
+   - Battery icon (likely Battery (low confidence))
+   - Time: 9:19

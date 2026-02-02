@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is a tutorial pop-up within a mobile app, providing instructions on how to share emojis directly from favorite chat apps.
+
+B) Layout top → bottom:
+1. Status bar at the top with various icons and the time (1:09).
+2. A header with the "Trolls" logo.
+3. A pop-up window titled "TUTORIAL."
+4. A message explaining how to share emojis from chat apps.
+5. A preview of a chat message with the "Emoji Trolls" floating icon.
+6. A bottom navigation bar with icons and a plus sign.
+
+C) Component inventory (grouped):
+- Status bar: icons, time
+- Header: "Trolls" logo
+- Pop-up window: "TUTORIAL" title, message, "X" close button
+- Chat message preview: "Emoji Trolls" icon, "HELLO" text, two cartoon characters
+- Bottom navigation bar: icons, plus sign
+
+D) Primary actions + navigation:
+- Tap the "X" to close the tutorial pop-up.
+- Tap the "Emoji Trolls" floating icon to share emojis from chat apps.
+- Use the icons in the bottom navigation bar for additional actions.
+
+• Screen type/purpose: Tutorial pop-up
+• Key components: Status bar, header, pop-up window, chat message preview, bottom navigation bar
+• Primary CTA(s): Close pop-up, share emojis
+• Navigation/footer: Bottom navigation bar with icons and a plus sign
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - likely <icon name> (low confidence)
+   - Time: 1:09

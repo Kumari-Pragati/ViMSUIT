@@ -1,0 +1,38 @@
+A) Screen purpose and type:
+The screen is a page from a mobile app displaying a biblical text, specifically from the Book of Mormon, chapter 7.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (7:27).
+- Below the status bar is a header with a menu icon on the left, the title "Numbers 7" in the center, and a search icon on the right.
+- The main content area displays the text of the biblical passage.
+- At the bottom, there is an advertisement for "The Book of Mormon" with a play button icon.
+
+C) Component inventory (grouped):
+- Status bar: icons, time
+- Header: menu icon, title, search icon
+- Main content: biblical text
+- Footer: advertisement for "The Book of Mormon"
+
+D) Primary actions + navigation:
+- The menu icon in the header likely navigates to a menu or settings.
+- The search icon in the header allows users to search for specific text within the app.
+- The play button in the advertisement footer suggests that tapping it will play a video related to "The Book of Mormon."
+
+• Recap:
+- Screen type/purpose: Mobile app displaying a biblical text from the Book of Mormon.
+- Key components: Status bar, header, biblical text, advertisement footer.
+- Primary CTA(s): Menu icon, search icon, play button in the advertisement.
+- Navigation/footer: Menu icon in the header, search icon in the header, play button in the advertisement footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 7:27

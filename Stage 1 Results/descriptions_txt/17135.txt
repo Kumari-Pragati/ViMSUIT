@@ -1,0 +1,51 @@
+A) Screen purpose and type:
+The screen displays the "My Messages" section of a mobile app, indicating that the user has no messages to view.
+
+B) Layout top → bottom:
+1. Status bar at the top with various icons and the time (1:39).
+2. A green header with the title "My Messages" and a menu icon on the left.
+3. A centered message stating "You have no messages."
+4. A subtitle encouraging the user to "Try posting an ad to break the ice."
+5. A green button labeled "Post an Ad."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Title: "My Messages"
+   - Menu icon
+2. **Main Content Area**:
+   - Message: "You have no messages."
+   - Subtitle: "Try posting an ad to break the ice."
+   - Button: "Post an Ad"
+3. **Footer/Bottom Nav**:
+   - Not present in this screenshot.
+
+D) Primary actions + navigation:
+- The primary action is the "Post an Ad" button, which likely navigates the user to a screen where they can create a new ad.
+- The menu icon in the header allows the user to navigate to other sections of the app.
+
+• Recap:
+- **Screen type/purpose**: "My Messages" section of a mobile app.
+- **Key components**: Header, message, subtitle, button.
+- **Primary CTA(s)**: "Post an Ad" button.
+- **Navigation/footer**: Menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+   - Phone
+
+2) Right-side system/status icons + time:
+   - likely Location (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 1:39

@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen is a login page for the Al Jazeera app, designed to allow users to log in using their Al Jazeera account details.
+
+B) Layout top → bottom:
+1. Status bar at the top with various icons and the time (1:33).
+2. Header/app bar with a back arrow on the left and the title "Log In" in white text on an orange background.
+3. Centered logo of Al Jazeera with the text "ALJAZEERA" below it.
+4. Subtitle "Login with your Al Jazeera account details" in gray text.
+5. Email input field with the placeholder text "appcrawler2@gmail.com".
+6. Password input field with obscured text.
+7. Orange "Log In" button below the password field.
+8. "Forgot your password?" link at the bottom.
+
+C) Component inventory (grouped):
+- Header/app bar
+- Title: "Log In"
+- Subtitle: "Login with your Al Jazeera account details"
+- Email input field
+- Password input field
+- "Log In" button
+- "Forgot your password?" link
+
+D) Primary actions + navigation:
+- The primary action is the "Log In" button, which initiates the login process.
+- The "Forgot your password?" link allows users to reset their password.
+- The back arrow in the header allows users to navigate back to the previous screen.
+
+• Recap:
+- Screen type/purpose: Login page for Al Jazeera app.
+- Key components: Header, title, subtitle, email field, password field, "Log In" button, "Forgot your password?" link.
+- Primary CTA(s): "Log In" button.
+- Navigation/footer: Back arrow in the header, no footer or bottom nav present.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Reddit
+   - Instagram
+   - Pinterest
+   - Pinterest
+   - Pinterest
+   - Pinterest
+   - likely Twitter (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi
+   - Battery
+   - Time: 1:33

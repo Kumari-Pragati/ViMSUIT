@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen is a product detail page for a book, specifically "Harry Potter and the Cursed Child - Parts One and Two: The Official Script Book of the Original West End Production Special Rehearsals."
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for signal strength, Wi-Fi, battery, and the time (2:09).
+2. **Header/App Bar**: A blue bar with a menu icon on the left, the title "Item Details" in the center, a search icon, a share icon, and a shopping cart icon on the right.
+3. **Title/Subtitle**: "Harry Potter and the Cursed Child - Parts One and Two: The Official Script Book of the Original West End Production Special Rehearsals..." is displayed prominently.
+4. **Rating and Reviews**: A 5-star rating with "51 Reviews" is shown below the title.
+5. **Book Image**: A large image of the book cover is centered on the screen.
+6. **Footer**: Contains the text "Online Price" and the price "$17.98" in orange.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Menu icon, title, search icon, share icon, shopping cart icon.
+- **Title/Subtitle**: Book title and subtitle.
+- **Rating and Reviews**: Rating and number of reviews.
+- **Image**: Book cover image.
+- **Footer**: Online price and price text.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The price "$17.98" is the primary call-to-action, likely leading to a purchase or add-to-cart page.
+- **Navigation**: The menu icon in the header likely navigates to the app's main menu. The shopping cart icon may lead to the cart or checkout page.
+
+**Recap**:
+- **Screen type/purpose**: Product detail page.
+- **Key components**: Header, title, subtitle, rating, reviews, book image, price.
+- **Primary CTA**: Price "$17.98".
+- **Navigation/footer**: Menu icon, shopping cart icon.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 2:09

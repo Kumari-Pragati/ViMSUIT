@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen displays a collection of nail design ideas, likely from a mobile app focused on nail art inspiration and tutorials.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (8:51).
+- Below the status bar is a header with the title "Идеи и инструкции маникюра" (Ideas and instructions for manicure) and a menu icon.
+- The main content area shows a grid of nail design images.
+- At the bottom, there are navigation tabs labeled "ИЗБРАННОЕ" (Favorites), "ИДЕИ" (Ideas), "ИНСТРУКЦИИ" (Instructions), and "СТАТЬИ" (Articles).
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title and a menu icon.
+- **Main Content**: A grid of nail design images.
+- **Navigation Tabs**: Located at the bottom of the screen.
+
+D) Primary actions + navigation:
+- The "ИДЕИ" tab is highlighted, indicating the current view.
+- Users can navigate to "ИЗБРАННОЕ" (Favorites), "ИНСТРУКЦИИ" (Instructions), and "СТАТЬИ" (Articles) by tapping on the respective tabs.
+- The menu icon in the header likely provides additional options or settings.
+
+**Bullet recap:**
+- Screen type/purpose: Nail design ideas and inspiration app.
+- Key components: Header, grid of nail designs, navigation tabs.
+- Primary CTA(s): Tapping on the navigation tabs to switch views.
+- Navigation/footer: Navigation tabs at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Instagram (likely Instagram (low confidence))
+   - FAK (likely FAK (low confidence))
+   - Lock (likely Lock (low confidence))
+   - Briefcase (likely Briefcase (low confidence))
+   - Robot (likely Robot (low confidence))
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Do Not Disturb (likely Do Not Disturb (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 8:51

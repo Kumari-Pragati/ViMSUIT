@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen is part of a mobile app, specifically the "My Vouchers" section. It informs the user about their current voucher status and provides instructions on how to earn more vouchers.
+
+B) Layout top → bottom:
+- Status bar at the top with icons and the time (2:50).
+- Header/app bar with the title "My Vouchers" and a back arrow.
+- A message stating "You don't have any vouchers."
+- Information about receiving a £12.0 reduction upon their first order.
+- A section explaining how to earn vouchers by inviting friends.
+- A decorative voucher tag image.
+- Voucher conditions explaining the rules for using vouchers.
+- A pink "Invite your friends" button at the bottom.
+
+C) Component inventory (grouped):
+- Status bar: icons, time.
+- Header/app bar: title, back arrow.
+- Message: "You don't have any vouchers."
+- Text: "You will receive a reduction of £12.0 upon their 1st order."
+- Text: "You can earn vouchers by inviting your friends! Tell them about our private sales."
+- Image: decorative voucher tag.
+- Text: "Voucher conditions."
+- Text: "The sum of the vouchers must be inferior to the total amount of your order excluding delivery costs. Your vouchers cannot be combined unless indicated otherwise."
+- Button: "Invite your friends."
+
+D) Primary actions + navigation:
+- The primary action is the "Invite your friends" button, which likely navigates to a screen where the user can invite friends.
+- The back arrow in the header allows the user to navigate back to the previous screen.
+
+• Screen type/purpose: "My Vouchers" section of a mobile app.
+• Key components: status bar, header, message, text, image, voucher conditions, button.
+• Primary CTA(s): "Invite your friends" button.
+• Navigation/footer: back arrow in the header, "Invite your friends" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Messages (low confidence)
+   - likely Phone (low confidence)
+   - likely Calendar (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+   - likely Camera (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 2:50

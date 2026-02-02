@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen appears to be a help section within a mobile application, providing users with various options for assistance and information.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons, including signal strength, battery level, and the time (4:32).
+- Below the status bar is a blue header with a back arrow on the left, the title "Help" in the center, and a search icon and chat bubble icon on the right.
+- The main content area lists several help topics: Getting Started, Caller ID, Call Blocking, Sync, Contacts, Birthdays, Settings, My Profile, Privacy, and Contact Us.
+- At the bottom, there is a footer with the text "POWERED BY HELPSHIFT."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow, title "Help," search icon, and chat bubble icon.
+- **Main Content Area**: A list of help topics.
+- **Footer**: Contains the text "POWERED BY HELPSHIFT."
+
+D) Primary actions + navigation:
+- Users can navigate back to the previous screen using the back arrow in the header.
+- They can search for specific help topics using the search icon.
+- They can initiate a chat with customer support using the chat bubble icon.
+- Each help topic in the list can be selected to access detailed information.
+
+• Screen type/purpose: Help section
+• Key components: Header, list of help topics, footer
+• Primary CTA(s): Back arrow, search icon, chat bubble icon
+• Navigation/footer: Back arrow, search icon, chat bubble icon, powered by HELPSHIFT footer
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Instagram (likely Instagram (low confidence))
+   - Weather (likely Weather (low confidence))
+   - Camera (likely Camera (low confidence))
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 4:32

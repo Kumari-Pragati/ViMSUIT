@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen is a mobile app interface displaying a list of gluten-free takeaway restaurants sorted by rating.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A red bar at the top with the app name "Gluten-Free" and a subtitle "33 places."
+2. **Filter Section**: Below the header, there are filter options for "Place Type" (Takeaway), "Cuisine" (Gluten-Free), and "Sort" (Rating).
+3. **List of Restaurants**: A list of gluten-free takeaway restaurants with details such as name, cuisine type, address, rating, and status (Open/Closed).
+4. **Footer/Bottom Nav**: Not visible in the screenshot.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the app name and subtitle.
+- **Filter Section**: Includes dropdowns for "Place Type," "Cuisine," and "Sort."
+- **List Row**: Each row represents a restaurant with name, cuisine type, address, rating, and status.
+- **Footer/Bottom Nav**: Not present in the screenshot.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Users can sort the list by rating and filter by place type and cuisine.
+- **Navigation**: Users can navigate back to the previous screen using the back arrow in the header.
+
+**Recap**:
+- **Screen type/purpose**: Mobile app interface for listing gluten-free takeaway restaurants.
+- **Key components**: Header, filter section, list of restaurants, and sorting options.
+- **Primary CTA(s)**: Sorting by rating and filtering by place type and cuisine.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 8:36

@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen appears to be a listing page from a real estate app, showcasing available apartments for rent or sale.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for social media, notifications, and battery status, along with the time (12:55).
+2. **Header/App Bar**: A light blue bar with a menu icon on the left, the app title "Naked Apts" in the center, and a search icon on the right.
+3. **Tabs**: Below the header, there are four tabs labeled "Relevance," "Price," "Size," and "Updated."
+4. **First Apartment Listing**:
+   - **Image**: A blurred image of a one-bedroom apartment in the East Village.
+   - **Price**: $2,895.
+   - **Details**: "1br, East Village" and "In-Unit Laundry • Dishwasher."
+5. **Second Apartment Listing**:
+   - **Image**: A blurred image of a studio apartment in the Upper East Side.
+   - **Price**: $2,150.
+   - **Details**: "Studio, Upper East Side" and "No amenities specified."
+   - **Featured Label**: A green "Featured" label with a circular profile picture of a real estate agent.
+6. **Footer/Bottom Nav**: Not visible in the screenshot.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Menu icon, title, search icon.
+- **Tabs**: "Relevance," "Price," "Size," "Updated."
+- **List Rows**: Each listing includes an image, price, and details.
+- **Buttons**: "Featured" label with a real estate agent's profile picture.
+- **Icons**: Social media icons, notifications, battery status, time.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Tapping on a listing to view more details.
+- **Navigation**: The menu icon in the header likely leads to a navigation drawer, and the tabs allow filtering the listings.
+
+**Recap**:
+- **Screen type/purpose**: Real estate app listing page.
+- **Key components**: Header, tabs, apartment listings with images, prices, and details.
+- **Primary CTA(s)**: Tapping on a listing to view more details.
+- **Navigation/footer**: The menu icon in the header likely leads to a navigation drawer, and the tabs allow filtering the listings.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Instagram (high confidence)
+   - likely FAK (low confidence)
+   - likely Lock (low confidence)
+   - likely Android (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 12:55

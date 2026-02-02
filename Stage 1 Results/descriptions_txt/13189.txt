@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen appears to be a news feed or a section within a news application, displaying recent articles with headlines and publication dates.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for connectivity, battery, and time (10:05).
+2. **Header/App Bar**: An orange bar with a menu icon on the left, the text "in pictures" in the center, and a "LIVE" button on the right.
+3. **List Rows**: Two list rows are visible, each containing a headline and a publication date.
+4. **Footer/Bottom Nav**: Not visible in the screenshot.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Text: "in pictures"
+   - "LIVE" button
+2. **List Rows**:
+   - Headline: "Deadly storms hit Egypt"
+   - Subtitle: "Sunday, 30 October 2016"
+   - Headline: "Standing Rock tribe protests over North Dakota pipeline"
+   - Subtitle: "Saturday, 29 October 2016"
+3. **Footer/Bottom Nav**: Not present in the screenshot.
+
+D) Primary actions + navigation:
+- The "LIVE" button likely navigates to a live stream or real-time updates section.
+- The menu icon on the header likely opens a navigation drawer with more options.
+- Clicking on the list rows would likely navigate to the full article.
+
+**Recap**:
+- **Screen type/purpose**: News feed or section within a news app.
+- **Key components**: Header, list rows, "LIVE" button, menu icon.
+- **Primary CTA(s)**: "LIVE" button, list row headlines.
+- **Navigation/footer**: Menu icon on the header, no footer/bottom nav visible.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Key
+   - Email
+   - Facebook
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Unknown icon (low confidence)
+   - Battery (high confidence)
+   - Time: 10:05

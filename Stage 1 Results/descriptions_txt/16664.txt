@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen is a mobile app interface for a cashback shopping platform, specifically Checkout 51. It displays a list of available cashback offers for various products.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Contains the app name "Checkout 51" with a user profile icon on the left and a notification bell icon on the right.
+2. **Navigation Bar**: Includes "All Categories" and "All Stores" options with corresponding icons.
+3. **Cashback Offers**: A list of product offers with images, product names, and cashback amounts.
+4. **Sponsored Message**: A red banner promoting "Earn Free Books" with a call to action to join Harlequin My Rewards.
+5. **Footer**: Contains a "Home" label and a "Upload Receipt" button with a camera icon.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: App name, user profile, notification bell.
+- **Navigation Bar**: "All Categories" and "All Stores" options.
+- **Cashback Offers**: Product images, names, and cashback amounts.
+- **Sponsored Message**: Red banner with text and an image.
+- **Footer**: "Home" label and "Upload Receipt" button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: "Upload Receipt" button.
+- **Navigation**: "All Categories" and "All Stores" options in the navigation bar.
+- **Footer**: "Home" label and "Upload Receipt" button.
+
+• Screen type/purpose: Cashback shopping platform interface.
+• Key components: Header, navigation bar, cashback offers, sponsored message, and footer.
+• Primary CTA: "Upload Receipt" button.
+• Navigation/footer: "Home" label and "Upload Receipt" button.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Likely Shield (low confidence)
+   - Likely Lock (low confidence)
+   - Likely Satellite (low confidence)
+   - Facebook
+   - Likely Map (low confidence)
+   - Likely Android (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Likely Battery (low confidence)
+   - Time: 1:18

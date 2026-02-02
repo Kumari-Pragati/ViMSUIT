@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen appears to be a section of a mobile app focused on categorizing and displaying images of cats. The "CUTE" tab is currently selected, indicating that the content is filtered to show cute cat images.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for notifications, signal strength, battery, and time (4:54).
+2. A header with a back arrow on the left, a progress slider in the center, a speaker icon, and a refresh icon on the right.
+3. Three tabs: "PLEADING," "CUTE," and "ACTIONS," with the "CUTE" tab highlighted.
+4. A grid of six list rows, each containing an image of a cat and a label describing the cat's expression or mood.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow, a progress slider, a speaker icon, and a refresh icon.
+- **Tabs**: Three tabs labeled "PLEADING," "CUTE," and "ACTIONS."
+- **List Rows**: Six rows, each with an image of a cat and a label: "Cute," "Just Meow," "Crying," "Need Hug," "Young Cat," and "Begging."
+
+D) Primary actions + navigation:
+- **Primary CTA**: Selecting a different tab (e.g., "PLEADING" or "ACTIONS") to view different categories of cat images.
+- **Navigation**: The back arrow in the header allows navigation to the previous screen. The tabs at the top allow switching between different categories of cat images.
+
+**Recap**:
+- **Screen type/purpose**: Categorizing and displaying cute cat images.
+- **Key components**: Header, tabs, list rows with images and labels.
+- **Primary CTA(s)**: Selecting different tabs to view different categories of cat images.
+- **Navigation/footer**: Back arrow for navigation to the previous screen.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 4:54

@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen is designed for account verification, requiring the user to enter a code sent to their phone.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (2:36).
+2. Header/app bar with the title "Verify account" and a back chevron.
+3. Subtitle instructing the user to enter the code sent to their phone.
+4. Input field for entering the verification code.
+5. A green "Continue" button below the input field.
+6. Footer with a link "Didn't get the code? Resend Code."
+
+C) Component inventory (grouped):
+- Header/app bar: "Verify account," back chevron.
+- Title: "Verify account."
+- Subtitle: "Please enter the code sent on your phone."
+- Input field: For entering the verification code.
+- Button: "Continue."
+- Footer: "Didn't get the code? Resend Code."
+
+D) Primary actions + navigation:
+- Primary CTA: "Continue" button to proceed with verification.
+- Navigation: Back chevron in the header to return to the previous screen.
+- Footer navigation: "Resend Code" link to request a new verification code.
+
+• Recap:
+- Screen type/purpose: Account verification.
+- Key components: Header, subtitle, input field, "Continue" button, "Resend Code" link.
+- Primary CTA: "Continue" button.
+- Navigation/footer: Back chevron in the header, "Resend Code" link in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Facebook (low confidence)
+   - likely Instagram (low confidence)
+   - likely Twitter (low confidence)
+   - likely LinkedIn (low confidence)
+   - likely Google Drive (low confidence)
+   - likely Spotify (low confidence)
+   - likely YouTube (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Location Services (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 2:36

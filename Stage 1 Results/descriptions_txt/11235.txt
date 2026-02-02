@@ -1,0 +1,82 @@
+A) Screen purpose and type:
+The screen is a review page for a restaurant named "Biancorosso" on a mobile app, likely for food delivery or ordering.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains various icons such as battery, signal, and time (3:57).
+2. **Header/App Bar**: Orange background with a back arrow on the left and a shopping cart icon on the right.
+3. **Title**: "Reviews" in white text.
+4. **List Row**: Displays the restaurant name "Biancorosso," its cuisine type (Italian, Pizzas), a star rating with zero reviews, and a minimum order amount (AED 49.00).
+5. **Tabs**: Three tabs labeled "MENU," "REVIEWS," and "INFO," with "REVIEWS" currently selected.
+6. **Content Area**: Displays a message stating "No reviews" and "There are no reviews found for this restaurant."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, title, shopping cart icon.
+- **List Row**: Restaurant name, cuisine type, star rating, minimum order amount.
+- **Tabs**: Menu, Reviews, Info.
+- **Content Area**: No reviews message.
+
+D) Primary actions + navigation:
+- **Primary CTA**: "Open" button next to the restaurant name.
+- **Navigation**: Back arrow to return to the previous screen.
+- **Footer/Bottom Nav**: Not present in this screenshot.
+
+• Screen type/purpose: Review page for a restaurant.
+• Key components: Header, list row, tabs, content area.
+• Primary CTA: "Open" button.
+• Navigation/footer: Back arrow.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook

@@ -1,0 +1,50 @@
+A) Screen purpose and type:
+The screen is a news article from a mobile app, specifically focusing on a trending news story.
+
+B) Layout top → bottom:
+- The status bar at the top shows various app icons and the time (12:08).
+- Below the status bar is a header with a back arrow and the title "News."
+- There are tabs for different news categories: NATIONAL, POLITICAL, TRENDING, and ENTERTAINMENT.
+- The main content area displays a news article titled "Dozens take part in North Central video production for Riley fundraiser."
+- An image accompanies the article, showing a group of people in red shirts.
+- Below the image, there is a brief summary of the article.
+- A section labeled "Reset Your Body" appears as an advertisement.
+- At the very bottom, there is a banner ad for Tropicana probiotics.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Status bar, back arrow, "News" title.
+- **Tabs**: NATIONAL, POLITICAL, TRENDING, ENTERTAINMENT.
+- **Main Content Area**: News article title, image, article summary.
+- **Advertisement**: "Reset Your Body" section, Tropicana probiotics banner ad.
+
+D) Primary actions + navigation:
+- The back arrow in the header allows users to navigate back to the previous screen.
+- The tabs at the top allow users to switch between different news categories.
+- Tapping on the news article title or image would likely open the full article.
+- The advertisement at the bottom could be tapped to view more information about the product.
+
+• Screen type/purpose: News article from a mobile app.
+• Key components: Header, tabs, news article, image, summary, advertisement.
+• Primary CTA(s): Tapping on the news article title or image.
+• Navigation/footer: Back arrow in the header, tabs at the top, advertisement at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Timer
+   - Wrench (likely Settings)
+   - Smiley face
+   - Facebook
+   - Facebook
+   - QQ (likely)
+   - Taobao (likely)
+   - Smiley face
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely)
+   - Alarm clock (likely)
+   - Wi-Fi (likely)
+   - Unknown icon (likely Paperclip)
+   - Battery (likely)
+   - Time: 12:08

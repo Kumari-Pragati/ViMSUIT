@@ -1,0 +1,51 @@
+A) Screen purpose and type:
+The screen is a login or sign-up page for the GroupMe app, designed to allow users to connect with the app using social media or by entering their email address.
+
+B) Layout top → bottom:
+1. Status bar at the top with various app icons and the time (3:53).
+2. GroupMe logo and tagline: "The most fun and effective way to stay connected."
+3. "Connect with" section with buttons for Google, Facebook, and Windows Live.
+4. An "or" separator.
+5. An input field labeled "Enter your email address."
+6. Footer with the text "GroupMe for Android 5.6.3 (5630020)".
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Status bar with app icons and time.
+2. **Main Content**:
+   - GroupMe logo and tagline.
+   - "Connect with" section with social media buttons.
+   - Input field for email address.
+3. **Footer**:
+   - Version information for the app.
+
+D) Primary actions + navigation:
+- Primary CTA buttons: Google, Facebook, and Windows Live for social media login.
+- Secondary CTA: Email input field for email-based login.
+- Navigation/footer: None, as the footer only contains version information.
+
+**Recap**:
+- **Screen type/purpose**: Login or sign-up page for GroupMe.
+- **Key components**: GroupMe logo, social media login buttons, email input field, footer with version information.
+- **Primary CTA(s)**: Social media login buttons and email input field.
+- **Navigation/footer**: None, as the footer only contains version information.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Discord
+   - Google Drive
+   - Reddit
+   - LinkedIn
+   - Facebook
+   - Reddit
+   - Discord
+   - Google Drive
+   - Reddit
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Bluetooth (low confidence)
+   - likely Battery (low confidence)
+   - Time: 3:53

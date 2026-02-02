@@ -1,0 +1,45 @@
+A) Screen purpose and type:
+The screen displays a list of NBA mascots, allowing users to view and interact with various team mascots.
+
+B) Layout top → bottom:
+- The status bar at the top shows various app icons and the time (9:56).
+- Below the status bar, the NBA logo is centered.
+- A navigation bar with "TEAMS," "MASCOTS," and "ALL-STAR" tabs is present, with "MASCOTS" currently selected.
+- A grid of mascot images is displayed, each labeled with the mascot's name.
+
+C) Component inventory (grouped):
+- Status bar
+- NBA logo
+- Navigation bar with tabs
+- Grid of mascot images
+- Mascot labels
+
+D) Primary actions + navigation:
+- Users can navigate between "TEAMS," "MASCOTS," and "ALL-STAR" sections.
+- Tapping on a mascot image likely leads to more detailed information about that mascot.
+- The navigation bar at the top serves as the primary navigation tool.
+
+• Screen type/purpose: Mascot selection and viewing
+• Key components: NBA logo, navigation bar, mascot images, mascot labels
+• Primary CTA(s): Tapping on a mascot image
+• Navigation/footer: Navigation bar at the top
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - unknown icon (square with rounded corners)
+   - unknown icon (square with rounded corners)
+
+2) Right-side system/status icons + time:
+   - unknown icon (circular with dollar sign)
+   - unknown icon (circular with dollar sign)
+   - unknown icon (circular with dollar sign)
+   - unknown icon (circular with dollar sign)
+   - unknown icon (location)
+   - unknown icon (Wi-Fi)
+   - unknown icon (signal strength)
+   - unknown icon (battery)
+   - Time: 9:56

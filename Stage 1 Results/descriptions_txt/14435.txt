@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is a welcome and onboarding screen for the Cleveland Browns mobile app, designed to introduce new users to the app's features and functionality.
+
+B) Layout top → bottom:
+- The status bar at the top shows the time as 7:52 and various system icons.
+- Below the status bar, there is a large promotional image of a Cleveland Browns coach.
+- A navigation bar with icons for "Latest," "Social," "Fan Zone," "Schedule," and "Tickets" is positioned below the image.
+- A section labeled "Latest Media - August 25, 2016" displays a thumbnail of a video titled "Building the Browns."
+- The main content area welcomes users with the text: "Welcome to the Browns App. This app allows the Dawg Pound to get the latest Browns news, video and live radio."
+- A prominent "Continue" button is located at the bottom of the screen.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Status bar and promotional image.
+- **Navigation Bar**: Icons for "Latest," "Social," "Fan Zone," "Schedule," and "Tickets."
+- **Media Section**: "Latest Media - August 25, 2016" with a video thumbnail.
+- **Content Area**: Welcome message and "Continue" button.
+
+D) Primary actions + navigation:
+- The primary action is to click the "Continue" button to proceed with the onboarding process.
+- Navigation is facilitated by the icons in the navigation bar, which lead to different sections of the app.
+
+**Recap:**
+- **Screen type/purpose**: Welcome and onboarding screen for the Cleveland Browns mobile app.
+- **Key components**: Status bar, promotional image, navigation bar, media section, welcome message, and "Continue" button.
+- **Primary CTA(s)**: "Continue" button.
+- **Navigation/footer**: Navigation bar with icons for different sections of the app.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages (likely)
+   - Shield (likely)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Facebook (likely)
+   - Discord (likely)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely)
+   - Wi-Fi (likely)
+   - Unknown icon (low confidence)
+   - Battery (likely)
+   - Time: 7:52

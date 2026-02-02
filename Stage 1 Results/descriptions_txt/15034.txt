@@ -1,0 +1,68 @@
+A) Screen purpose and type:
+The screen appears to be a promotional section within an app, likely related to earthquake alerts, showcasing additional apps developed by the same author.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (9:40).
+2. Header/app bar with a back arrow and the title "Earthquake Alert!".
+3. Subtitle "About" and "STATS" options.
+4. Section header "Author Apps" with an icon.
+5. First app listing: "Draft Punk" with a brief description and a "GET IT ON GOOGLE PLAY" button.
+6. Second app listing: "Border Wait" with a brief description and a "GET IT ON GOOGLE PLAY" button.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Back arrow
+   - Title: "Earthquake Alert!"
+   - Subtitle options: "About" and "STATS".
+2. **Section Header**:
+   - "Author Apps" with an icon.
+3. **App Listings**:
+   - Each listing includes:
+     - App icon.
+     - App name.
+     - Brief description.
+     - "GET IT ON GOOGLE PLAY" button.
+
+D) Primary actions + navigation:
+- Primary CTA: "GET IT ON GOOGLE PLAY" buttons for both apps.
+- Navigation: The back arrow in the header allows users to return to the previous screen.
+
+**Recap**:
+- **Screen type/purpose**: Promotional section for additional apps developed by the same author.
+- **Key components**: Header, subtitle options, section header, app listings with icons, names, descriptions, and CTA buttons.
+- **Primary CTA(s)**: "GET IT ON GOOGLE PLAY" buttons for both apps.
+- **Navigation/footer**: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   -

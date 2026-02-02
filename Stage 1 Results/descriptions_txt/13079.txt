@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen appears to be part of a mobile application for managing vehicle settings or dashboards. It likely allows users to select or customize different vehicle configurations.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (4:16).
+- Below the status bar is a header with a menu icon on the left and the title "Vehicles."
+- The main content area displays two list rows, each with an image of a vehicle dashboard, a title, and a subtitle.
+- At the bottom right, there is a red circular button with a plus sign.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a menu icon and the title "Vehicles."
+- **List Rows**: Each row includes an image, a title ("Default" and "123456"), and a subtitle ("km · l · l/100km").
+- **Image**: Displays a close-up of a vehicle dashboard.
+- **Button**: A red circular button with a plus sign at the bottom right.
+
+D) Primary actions + navigation:
+- The primary action is likely to add a new vehicle configuration, indicated by the red circular button with a plus sign.
+- Navigation is facilitated by the menu icon in the header, which likely opens a menu with additional options or settings.
+
+**Summary Recap**:
+- **Screen type/purpose**: Vehicle settings or dashboard management.
+- **Key components**: Header, list rows, images, and a primary action button.
+- **Primary CTA(s)**: The red circular button with a plus sign for adding a new vehicle configuration.
+- **Navigation/footer**: The menu icon in the header provides navigation options.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - GO
+   - Facebook
+   - FAK
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Unknown icon (low confidence)
+   - Battery (high confidence)
+   - Time: 4:16

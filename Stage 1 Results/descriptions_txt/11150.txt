@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen appears to be a feedback or review section within a mobile app, likely for a product or service. It shows a summary of comments, with a focus on short and long reviews.
+
+B) Layout top → bottom:
+- The status bar at the top displays various icons and the time (4:52).
+- Below the status bar is a header with a back arrow on the left, a title "1 条点评" (1 short review), and a pencil icon on the right.
+- A subtitle "0 条长评" (0 long reviews) is below the header.
+- The main content area shows a placeholder image of a chair with the text "深度长评虚位以待" (Long reviews are waiting).
+- At the bottom, a footer indicates "1 条短评" (1 short review).
+
+C) Component inventory (grouped):
+- Status bar: icons, time
+- Header: back arrow, title, pencil icon
+- Subtitle: "0 条长评"
+- Main content area: placeholder image, text
+- Footer: "1 条短评"
+
+D) Primary actions + navigation:
+- The back arrow allows navigation to the previous screen.
+- The pencil icon likely leads to a form for writing a new review.
+- The footer indicates the presence of short reviews but does not provide a direct action to view them.
+
+• Screen type/purpose: Feedback or review section
+• Key components: status bar, header, subtitle, main content area, footer
+• Primary CTA(s): back arrow, pencil icon
+• Navigation/footer: back arrow, pencil icon, "1 条短评"
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Likely Instagram (low confidence)
+   - Google Maps
+   - Likely Gmail (low confidence)
+   - Lock icon
+   - Bluetooth icon
+   - Wi-Fi icon
+   - Battery icon
+
+2) Right-side system/status icons + time:
+   - Bluetooth icon (high confidence)
+   - Wi-Fi icon (high confidence)
+   - Battery icon (high confidence)
+   - Time: 4:52

@@ -1,0 +1,60 @@
+A) Screen purpose and type:
+The screen displays a property listing for an apartment in New York City, providing details on floor plans, pricing, and property features.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A dark blue bar at the top with a back arrow on the left and a heart icon on the right.
+2. **Property Title**: "Thompson St #6" in large white text.
+3. **Property Details**: "$2,750 | 1 Bed" and "New York, NY 10012" in smaller white text.
+4. **Floor Plans and Pricing Section**: A white box with "Floor Plans and Pricing" in bold black text.
+5. **Floor Plan Details**: A row showing "1 bed / 1 bath," "0 sq ft," and "$2750" with a right-pointing arrow.
+6. **View All Button**: A blue "VIEW ALL" link below the floor plan details.
+7. **Property Details Section**: A white box with "Property Details" in bold black text.
+8. **Property Description**: A detailed description of the apartment, including location, amenities, and contact information.
+9. **Check Availability Button**: A blue button at the bottom with "CHECK AVAILABILITY" in white text.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, heart icon.
+- **Property Title**: "Thompson St #6".
+- **Property Details**: "$2,750 | 1 Bed", "New York, NY 10012".
+- **Floor Plans and Pricing Section**: "Floor Plans and Pricing", "1 bed / 1 bath", "0 sq ft", "$2750", "VIEW ALL".
+- **Property Details Section**: "Property Details", property description.
+- **Footer**: "CHECK AVAILABILITY" button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: "CHECK AVAILABILITY" button.
+- **Navigation**: Back arrow in the header for returning to the previous screen.
+
+**Screen type/purpose**:
+- Property listing screen for an apartment in New York City.
+
+**Key components**:
+- Property title, price, and location.
+- Floor plans and pricing details.
+- Property description.
+- Availability check button.
+
+**Primary CTA(s)**:
+- "CHECK AVAILABILITY" button.
+
+**Navigation/footer**:
+- Back arrow in the header.
+- "CHECK AVAILABILITY" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Unknown icon (low confidence)
+   - Slack
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Unknown icon (low confidence)
+   - Battery (high confidence)
+   - Time: 5:13

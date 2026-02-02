@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen appears to be a weather radar interface for San Francisco, CA, provided by "48 First Alert."
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains various icons such as signal strength, battery, and time (5:42).
+2. **Header/App Bar**: Displays the "48 First Alert" logo and the location "San Francisco, CA."
+3. **Back Arrow**: Positioned on the left side of the header.
+4. **Search Icon**: Positioned on the right side of the header.
+5. **Radar Image**: A satellite view of the San Francisco area showing weather patterns.
+6. **Rain, Mixed, and Snow Legend**: Located at the bottom of the radar image.
+7. **Time and Location**: Displays "10:35 AM PDT."
+8. **Bottom Navigation Bar**: Contains icons for "Home," "Hourly," "Daily," and "Radar."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "48 First Alert," "San Francisco, CA," back arrow, search icon.
+- **Radar Image**: Satellite view of San Francisco with weather patterns.
+- **Legend**: Rain, Mixed, Snow.
+- **Time and Location**: "10:35 AM PDT."
+- **Bottom Navigation Bar**: Icons for "Home," "Hourly," "Daily," and "Radar."
+
+D) Primary actions + navigation:
+- **Primary Actions**: Toggle between "Past" and "Future" radar views.
+- **Navigation**: Use the bottom navigation bar to switch between "Home," "Hourly," "Daily," and "Radar" views.
+
+**Summary Recap**:
+- **Screen type/purpose**: Weather radar interface for San Francisco, CA.
+- **Key components**: Header, radar image, legend, time and location, bottom navigation bar.
+- **Primary CTA(s)**: Toggle between "Past" and "Future" radar views.
+- **Navigation/footer**: Bottom navigation bar for switching views.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - likely clock (low confidence)
+   - likely wrench (low confidence)
+   - likely lock (low confidence)
+   - likely smiley face (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Facebook (low confidence)
+   - likely lock (low confidence)
+   - likely Bluetooth (low confidence)
+   - likely clock (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely signal strength (low confidence)
+   - likely battery (low confidence)
+   - Time: 5:42

@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+This screen is part of a mobile app setup process, specifically for entering a phone number to proceed with account creation or verification.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (10:32).
+- Below the status bar, there is a large blue circle with a smiling telephone icon.
+- The title "Enter phone number" is prominently displayed.
+- A subtitle instructs the user to "Select your country and enter your phone number."
+- A list row shows the selected country "United States (+1)" with a green checkmark.
+- Below the list row, there is an input field labeled "Enter your phone number..." with a phone icon.
+- At the bottom, a green "CONTINUE" button is present.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Status bar with icons and time.
+- **Image**: Smiling telephone icon in a blue circle.
+- **Title**: "Enter phone number."
+- **Subtitle**: "Select your country and enter your phone number."
+- **List Row**: "United States (+1)" with a green checkmark.
+- **Input Field**: "Enter your phone number..." with a phone icon.
+- **Button**: "CONTINUE" in green.
+
+D) Primary actions + navigation:
+- The primary action is to click the "CONTINUE" button to proceed with entering the phone number.
+- Navigation is limited to the "CONTINUE" button, which likely leads to the next step in the setup process.
+
+**Recap:**
+- **Screen type/purpose**: Account setup for entering a phone number.
+- **Key components**: Status bar, telephone image, title, subtitle, country selection, phone number input, and continue button.
+- **Primary CTA(s)**: "CONTINUE" button.
+- **Navigation/footer**: The "CONTINUE" button is the sole navigation element at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Gmail
+   - Facebook
+   - likely Info (low confidence)
+   - likely Signal (low confidence)
+   - likely Lock (low confidence)
+   - likely Assistant (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 10:32

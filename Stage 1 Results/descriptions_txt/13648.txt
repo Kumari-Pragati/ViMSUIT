@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen displays a list of similar courses in a mobile app, likely for educational or learning purposes.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (1:27).
+2. Header/app bar with a menu icon (three horizontal lines) and the title "Similar Courses."
+3. A grid of six course tiles, each representing a different programming language or technology.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Title: "Similar Courses"
+2. **Tiles**:
+   - C# (CSharp)
+   - C++
+   - PHP (PHP)
+   - SQL
+   - Python
+   - Ruby
+3. **Status Bar**:
+   - Icons for notifications, signal strength, battery, and time (1:27).
+
+D) Primary actions + navigation:
+- The primary action is to select a course tile to view more details about the course.
+- Navigation is facilitated by the menu icon in the header, which likely leads to a main menu or settings.
+- There are no visible footer or bottom navigation buttons in this screenshot.
+
+**Recap**:
+- **Screen type/purpose**: Educational app showcasing similar courses.
+- **Key components**: Header, course tiles, status bar.
+- **Primary CTA(s)**: Selecting a course tile.
+- **Navigation/footer**: Menu icon in the header for navigation.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 1:27

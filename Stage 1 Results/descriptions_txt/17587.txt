@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen appears to be a news or entertainment app's "For You" section, showcasing curated content for the user.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and the time (7:04).
+2. A navigation bar with tabs labeled "For You," "U.S.," "Video," "GIF," "Funny," "Entertainn," and a plus icon for more options.
+3. A list of articles with titles, images, and brief descriptions.
+4. A video thumbnail with a play button in the center.
+5. A footer with navigation buttons labeled "Home," "Video," "Follow," and "Me."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Status bar with icons and time.
+   - Navigation bar with tabs and a plus icon.
+
+2. **Content Area**:
+   - List of articles with titles, images, and brief descriptions.
+   - Video thumbnail with a play button.
+
+3. **Footer**:
+   - Navigation buttons labeled "Home," "Video," "Follow," and "Me."
+
+D) Primary actions + navigation:
+- The primary action is to select an article or video to read or watch.
+- Navigation is facilitated by the tabs in the header and the buttons in the footer.
+
+**Recap**:
+- **Screen type/purpose**: News or entertainment app's "For You" section.
+- **Key components**: Status bar, navigation bar, list of articles, video thumbnail, and footer navigation buttons.
+- **Primary CTA(s)**: Selecting an article or video.
+- **Navigation/footer**: Tabs in the header and navigation buttons in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Settings
+   - Facebook
+   - Phone
+   - Do Not Disturb
+   - Facebook
+   - Share icon
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Battery (high confidence)
+   - Time: 7:04

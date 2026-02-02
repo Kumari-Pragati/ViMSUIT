@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen appears to be a transit app interface, specifically designed to help users find and navigate public transportation lines and maps.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: At the top, there's a header with a "Get Me to Work" title and a "SET" button on the right.
+2. **Search Bar**: Below the header, there's a search bar labeled "Find a bus or line."
+3. **Lines Section**: A section labeled "LINES" follows, featuring a search bar and a list of transit lines.
+4. **List Row**: A list row for the "Taraval" line is shown, with an "i" icon for service information.
+5. **All Lines Button**: Below the list row, there's a yellow button labeled "All Lines."
+6. **Maps Section**: A blue section labeled "MAPS" is present.
+7. **Muni Metro Map**: Below the maps section, there's a button labeled "Muni Metro Map."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "Get Me to Work," "SET" button.
+- **Search Bar**: "Find a bus or line."
+- **Lines Section**: "LINES," search bar, "Taraval" list row, "All Lines" button.
+- **Maps Section**: "MAPS," "Muni Metro Map" button.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Users can search for a bus or line, view service information for the "Taraval" line, and access all lines.
+- **Navigation**: Users can navigate to the "Muni Metro Map" by clicking the corresponding button.
+
+**Recap**:
+- **Screen type/purpose**: Transit app interface for finding and navigating public transportation lines and maps.
+- **Key components**: Header, search bar, list row, "All Lines" button, maps section, "Muni Metro Map" button.
+- **Primary CTA(s)**: Search for a bus or line, view service information, access all lines.
+- **Navigation/footer**: No footer or bottom navigation bar is present.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - abc7
+   - abc7 (likely abc7 (low confidence))
+   - likely FAK (low confidence)
+   - likely lock icon (low confidence)
+   - likely robot icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely location icon (low confidence)
+   - likely Wi-Fi icon (low confidence)
+   - likely signal icon (low confidence)
+   - likely battery icon (low confidence)
+   - 11:01

@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is a settings interface for managing weather notifications on a mobile app.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Displays "Weather Notifications" as the title and "test" as a subtitle.
+2. **Toggle Switches**: A series of toggle switches for enabling/disabling different types of weather alerts.
+3. **Temperature Display**: A toggle switch for displaying the current temperature in the status bar and notifications drawer.
+4. **Lock Screen Weather Banner**: A toggle switch for displaying the weather on the lock screen.
+5. **Show Alerts in Status Bar**: A toggle switch for showing alerts in the status bar.
+6. **Sounds/Lights/Vibration**: Checkboxes for enabling sounds, lights, and vibration for alerts.
+7. **Footer**: A "Done" button at the bottom.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Title, subtitle.
+- **Toggle Switches**: Severe Weather Alerts, Station Alerts, Temperature Display, Lock Screen Weather Banner, Show Alerts in Status Bar.
+- **Checkboxes**: Sounds, Lights, Vibration.
+- **Footer**: Done button.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "Done" button at the bottom.
+- **Navigation/Footer**: The "Done" button serves as the primary action to confirm the settings changes.
+
+**Recap**:
+- **Screen type/purpose**: Settings interface for managing weather notifications.
+- **Key components**: Header, toggle switches, checkboxes, footer.
+- **Primary CTA**: "Done" button.
+- **Navigation/footer**: "Done" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Dropbox
+   - Do Not Disturb (likely DND (low confidence))
+   - Airplane Mode (likely Airplane Mode (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Battery (likely Battery (low confidence))
+
+2) Right-side system/status icons + time:
+   - Temperature: 52°
+   - Temperature: 70°
+   - Battery (likely Battery (low confidence))
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Do Not Disturb (likely DND (low confidence))
+   - Airplane Mode (likely Airplane Mode (low confidence))
+   - Time: 5:24

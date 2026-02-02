@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen is a form for creating a new account within a mobile application. It is designed to guide the user through the account creation process.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for connectivity, battery, and time (4:45).
+2. **Header/App Bar**: A green bar with the title "Create Account" and a "Create" button with a checkmark.
+3. **Form Fields**: 
+   - "Account Name" with a pre-filled value "Grace Chan".
+   - "E-mail" with a placeholder text "optional".
+   - "Password" with a placeholder text "at least 6 chars".
+   - "Confirm Password" with a placeholder text "repeat please".
+4. **Informational Text**: A note explaining that email is optional but recommended for password recovery.
+5. **Privacy Policy Link**: A link to the Privacy Policy.
+6. **Keyboard**: A QWERTY keyboard is displayed at the bottom.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a title and a button.
+- **Form Fields**: Includes text input fields for account name, email, password, and confirm password.
+- **Informational Text**: Provides a note about email and a privacy policy link.
+- **Keyboard**: A QWERTY keyboard for text input.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The "Create" button with a checkmark in the header.
+- **Navigation/Footer**: None, as the form is a standalone screen.
+
+**Recap**:
+- **Screen type/purpose**: Account creation form.
+- **Key components**: Header, form fields, informational text, keyboard.
+- **Primary CTA**: "Create" button.
+- **Navigation/footer**: None.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (low confidence)
+   - Instagram (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Car (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 4:45

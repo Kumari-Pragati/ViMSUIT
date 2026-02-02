@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen appears to be an informational page within an app, likely for the CW Seed app, as indicated by the logo at the top. It provides various options for users to interact with the app, such as sending feedback, rating the app, sharing it, and accessing legal and FAQ information.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (10:00).
+- Below the status bar, the CW Seed logo is prominently displayed.
+- Three tabs are present: "SETTINGS," "INFO," and "MORE APPS," with "INFO" currently selected.
+- Below the tabs, the app version (v1.1.260) is shown.
+- A list of options follows, including "Send Feedback," "Rate This App," "Share This App," "About CW Seed," "Legal," and "FAQ."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the CW Seed logo and three tabs.
+- **Tabs**: "SETTINGS," "INFO," and "MORE APPS."
+- **List Row**: Each option in the list (e.g., "Send Feedback," "Rate This App") is a list row.
+- **Text**: Version number (v1.1.260) and option labels (e.g., "Send Feedback," "Rate This App").
+
+D) Primary actions + navigation:
+- Primary actions include sending feedback, rating the app, sharing the app, and accessing legal and FAQ information.
+- Navigation is facilitated by the tabs at the top, allowing users to switch between settings, info, and more apps.
+
+• Recap:
+- **Screen type/purpose**: Informational page within the CW Seed app.
+- **Key components**: CW Seed logo, tabs, version number, and list of options.
+- **Primary CTA(s)**: "Send Feedback," "Rate This App," "Share This App," "About CW Seed," "Legal," and "FAQ."
+- **Navigation/footer**: Tabs at the top for switching between settings, info, and more apps.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 10:00

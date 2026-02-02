@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen is a form for composing an email to "Kylie" within a mobile app. It is designed for users to input their email, name, and message, with the option to select a quick message template.
+
+B) Layout top → bottom:
+- A green header bar with a back arrow and the title "Email Kylie."
+- Below the header, there are fields for "Email," "Your Name," and "Your Message."
+- A section labeled "or Choose a quick message below" with three orange buttons containing pre-written messages.
+- At the bottom, there are two buttons: "PREVIOUS" and "SEND."
+
+C) Component inventory (grouped):
+- Header/App Bar: Green bar with a back arrow and the title "Email Kylie."
+- Input Fields: Three fields for "Email," "Your Name," and "Your Message."
+- Quick Message Section: Three orange buttons with pre-written messages.
+- Action Buttons: "PREVIOUS" and "SEND" at the bottom.
+
+D) Primary actions + navigation:
+- Primary CTA: "SEND" button to send the email.
+- Navigation: "PREVIOUS" button to return to the previous screen.
+
+• Screen type/purpose: Email composition form.
+• Key components: Header, input fields, quick message section, and action buttons.
+• Primary CTA: "SEND" button.
+• Navigation/footer: "PREVIOUS" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Phone
+   - Facebook (low confidence)
+   - Reddit (low confidence)
+   - Instagram (low confidence)
+   - Google Drive (low confidence)
+   - Camera (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Cellular signal (low confidence)
+   - Battery (high confidence)
+   - Time: 9:12

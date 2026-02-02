@@ -1,0 +1,54 @@
+A) Screen purpose and type:
+This screen is part of a grammar test app, designed to assess the user's understanding of English grammar, specifically the use of articles.
+
+B) Layout top → bottom:
+- Status bar at the top with icons and time (3:26).
+- Header/app bar with a back arrow and the title "Grammar test."
+- Main content area with a question: "My friend has..." and four answer options.
+- Buttons: "I DON'T KNOW" and "ANSWER."
+- Footer with two icons: one for "We will learn" and one for "I already know."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Back arrow
+   - Title: "Grammar test"
+2. **Main Content Area**:
+   - Question: "My friend has..."
+   - Answer options:
+     - "dog"
+     - "an dog."
+     - "a dog."
+     - "the dog"
+3. **Buttons**:
+   - "I DON'T KNOW"
+   - "ANSWER"
+4. **Footer**:
+   - "We will learn" icon
+   - "I already know" icon
+
+D) Primary actions + navigation:
+- Primary CTA: "ANSWER" button to submit the answer.
+- Navigation: Back arrow in the header to return to the previous screen.
+- Footer navigation: Icons for "We will learn" and "I already know" to track the user's progress.
+
+• Screen type/purpose: Grammar test app screen.
+• Key components: Header, question, answer options, buttons, and footer icons.
+• Primary CTA: "ANSWER" button.
+• Navigation/footer: Back arrow, "We will learn," and "I already know" icons.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Discord
+   - Facebook Messenger
+   - likely Spotify (low confidence)
+   - unknown icon (likely a generic app icon)
+   - unknown icon (likely a generic app icon)
+   - unknown icon (likely a generic app icon)
+   - unknown icon (likely a generic app icon)
+   - unknown icon (likely a generic app icon)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Cellular signal (low confidence)
+   - likely Battery (low confidence)
+   - Time: 3:26

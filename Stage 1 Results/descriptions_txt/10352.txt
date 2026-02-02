@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen is a mobile app interface for predicting the outcome of a UEFA Europa League match between Osmanlispor and Olympiakos Piraeus.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A green header with a back arrow on the left, a star icon, a comment icon, a refresh icon, and a menu icon on the right.
+2. **Title/Subtitle**: "EUROPA LEAGUE. LAST 32" and "4:00PM THU 23 FEB To play" indicating the match details.
+3. **Teams Logos**: Logos of Osmanlispor and Olympiakos Piraeus.
+4. **Tabs**: "INFO", "EVENTS" (highlighted), and "COMMENTS".
+5. **Prediction Section**: "MAKE YOUR PREDICTION" with options for "Osmanlispor" (1), "Draw" (X), and "Olympiakos Piraeus" (2).
+6. **Countdown Timer**: "MATCH WILL START IN..." followed by a countdown timer showing "01 days 09 hours 43 mins 54 secs".
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, star icon, comment icon, refresh icon, menu icon.
+- **Title/Subtitle**: "EUROPA LEAGUE. LAST 32", "4:00PM THU 23 FEB To play".
+- **Teams Logos**: Osmanlispor and Olympiakos Piraeus.
+- **Tabs**: INFO, EVENTS (highlighted), COMMENTS.
+- **Prediction Section**: "MAKE YOUR PREDICTION", "Osmanlispor" (1), "Draw" (X), "Olympiakos Piraeus" (2).
+- **Countdown Timer**: "MATCH WILL START IN...", "01 days 09 hours 43 mins 54 secs".
+
+D) Primary actions + navigation:
+- **Primary CTA**: Selecting a prediction (Osmanlispor, Draw, Olympiakos Piraeus).
+- **Navigation/Footer**: The back arrow in the header allows navigation to the previous screen. The tabs at the bottom allow switching between different sections of the app.
+
+**Screen type/purpose**:
+A prediction screen for a UEFA Europa League match.
+
+**Key components**:
+- Header/App Bar, Title/Subtitle, Teams Logos, Tabs, Prediction Section, Countdown Timer.
+
+**Primary CTA(s)**:
+- Selecting a prediction (Osmanlispor, Draw, Olympiakos Piraeus).
+
+**Navigation/Footer**:
+- Back arrow in the header allows navigation to the previous screen.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Lock icon (high confidence)
+   - Battery icon (high confidence)
+   - Android robot icon (high confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi icon (high confidence)
+   - Signal strength icon (high confidence)
+   - Battery charging icon (high confidence)
+   - Time: 6:16

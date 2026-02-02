@@ -1,0 +1,59 @@
+A) Screen purpose and type:
+The screen is the welcome/login/signup screen for the SurveyMini app, designed to allow users to either log in, sign up, or use Facebook login to access the app.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (7:23).
+- Below the status bar is a purple header with a gift box icon and the text "Welcome to SurveyMini™! Get great rewards from the places you visit."
+- A "Log in" button is centered below the header.
+- A "Sign Up" button is below the "Log in" button.
+- A "Log in with Facebook" button is at the bottom, featuring the Facebook logo.
+
+C) Component inventory (grouped):
+- Status bar: icons, time
+- Header/app bar: gift box icon, text
+- Title: "Welcome to SurveyMini™!"
+- Subtitle: "Get great rewards from the places you visit."
+- Buttons: "Log in," "Sign Up," "Log in with Facebook"
+
+D) Primary actions + navigation:
+- Primary CTA: "Log in," "Sign Up," "Log in with Facebook"
+- Navigation/footer: None
+
+• Screen type/purpose: Welcome/login/signup screen
+• Key components: status bar, header, title, subtitle, buttons
+• Primary CTA(s): "Log in," "Sign Up," "Log in with Facebook"
+• Navigation/footer: None
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   -

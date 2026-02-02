@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen appears to be a "Watchlist" page within a mobile app, likely for a streaming service or media platform.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons, including signal strength, battery, and time (7:57).
+- Below the status bar is the header/app bar with the "Dove Channel" logo on the left and three icons on the right: a profile icon, an information icon, and a search icon.
+- The title "WATCHLIST" is prominently displayed in the center of the header.
+- Below the title, there is a promotional image for a movie titled "The Real Deal," with a tagline: "What will you do when the truth is revealed?"
+- The rest of the screen is blank, indicating that the watchlist is currently empty.
+
+C) Component inventory (grouped):
+- Status bar
+- Header/app bar
+  - Dove Channel logo
+  - Profile icon
+  - Information icon
+  - Search icon
+- Title: "WATCHLIST"
+- Image: "The Real Deal" movie poster
+- Text: "What will you do when the truth is revealed?"
+- Empty watchlist area
+
+D) Primary actions + navigation:
+- The primary action is to view the "The Real Deal" movie poster, which likely leads to more details about the movie.
+- Navigation is facilitated by the icons in the header (profile, information, search) and the menu icon on the far left of the header.
+
+• Screen type/purpose: Watchlist page
+• Key components: Header, title, movie poster, empty watchlist area
+• Primary CTA(s): View "The Real Deal" movie poster
+• Navigation/footer: Icons in the header (profile, information, search) and the menu icon on the far left of the header
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Likely lock icon (low confidence)
+   - Facebook
+   - Likely info icon (low confidence)
+   - Likely FAK (low confidence)
+   - Likely radio icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Likely location icon (low confidence)
+   - Likely Wi-Fi icon (low confidence)
+   - Likely signal strength icon (low confidence)
+   - Likely battery icon (low confidence)
+   - Time: 7:57

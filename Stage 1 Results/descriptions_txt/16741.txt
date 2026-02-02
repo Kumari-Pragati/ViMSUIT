@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen appears to be a news or podcast episode summary page, likely from a mobile app focused on meteorology or weather-related content.
+
+B) Layout top → bottom:
+1. Status bar at the top shows various icons and the time (1:56).
+2. A horizontal line separates the status bar from the main content.
+3. The title "SFF #24 - What Time is Testbed?" is prominently displayed.
+4. Below the title is an image with the text "STORM FRONT" and "FREAKS."
+5. A subtitle provides details about the episode, mentioning a guest, topics discussed, and other relevant information.
+6. Another horizontal line separates the episode details from the next section.
+7. The next section includes a headline: "'Unusually Strong' April Storm Kicking Off Mostly Benign Weekend, Says Meteorologist Cliff Mass."
+8. Below the headline is an image of a weather map.
+9. At the bottom, there is an advertisement for "Michigan Education" with a call-to-action button labeled "APPLY NOW."
+
+C) Component inventory (grouped):
+- Status bar: Icons, time
+- Title: "SFF #24 - What Time is Testbed?"
+- Image: "STORM FRONT" and "FREAKS"
+- Subtitle: Episode details
+- Headline: "'Unusually Strong' April Storm Kicking Off Mostly Benign Weekend, Says Meteorologist Cliff Mass"
+- Weather map image
+- Advertisement: "Michigan Education" with "APPLY NOW" button
+
+D) Primary actions + navigation:
+- Primary CTA: "APPLY NOW" button in the advertisement at the bottom.
+- Navigation: The bottom of the screen does not show a bottom navigation bar, suggesting that the primary navigation might be accessed through the app's main menu or by swiping.
+
+• Screen type/purpose: News or podcast episode summary page.
+• Key components: Status bar, title, image, subtitle, headline, weather map, advertisement.
+• Primary CTA: "APPLY NOW" button.
+• Navigation/footer: No visible bottom navigation bar; primary navigation likely accessed through the app's main menu.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Key (high confidence)
+   - Lock (high confidence)
+   - Android (high confidence)
+   - Briefcase (high confidence)
+   - YouTube (high confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Signal (high confidence)
+   - Battery (high confidence)
+   - Time: 1:56

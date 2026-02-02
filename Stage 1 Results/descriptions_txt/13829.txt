@@ -1,0 +1,57 @@
+A) Screen purpose and type:
+The screen is a Facebook login prompt for the "Drug Index" app, allowing users to log in using their Facebook credentials.
+
+B) Layout top → bottom:
+1. Status bar at the top with various app icons and the time (4:16).
+2. A header with the app name "Drug Index."
+3. A Facebook login dialog with a profile picture placeholder, the name "Sam Brown," and a message stating that "Drug Index will have access to name and other public info."
+4. A link to "Edit the info you provide."
+5. A blue "CONTINUE AS SAM" button at the bottom of the dialog.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Title: "Drug Index"
+2. **Dialog Box**:
+   - Facebook logo
+   - Profile picture placeholder
+   - Name: "Sam Brown"
+   - Message: "Drug Index will have access to name and other public info."
+   - Link: "Edit the info you provide."
+   - Button: "CONTINUE AS SAM"
+3. **Footer/Bottom Nav**:
+   - Calculator icon with "Calculator" text
+   - Like button with "Like" text
+   - Google+ button with "g+1" and "2k" text
+
+D) Primary actions + navigation:
+- The primary action is the "CONTINUE AS SAM" button, which allows users to log in to the app using their Facebook credentials.
+- Navigation is facilitated by the icons in the footer, which likely lead to different sections of the app.
+
+**Recap:**
+- **Screen type/purpose**: Facebook login prompt for the "Drug Index" app.
+- **Key components**: Facebook logo, profile picture placeholder, name, message, edit link, continue button, footer icons.
+- **Primary CTA(s)**: "CONTINUE AS SAM" button.
+- **Navigation/footer**: Footer icons for "Calculator," "Like," and "g+1" with "2k."
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Timer
+   - Wrench (likely settings)
+   - Smiley face
+   - Facebook
+   - Facebook
+   - QT
+   - Tmall (likely)
+   - Smiley face
+   - Unknown icon (likely settings)
+   - Bluetooth
+   - Clock
+   - Wi-Fi
+   - Unknown icon (likely settings)
+   - Battery
+
+2) Right-side system/status icons + time:
+   - Battery
+   - Time: 4:16

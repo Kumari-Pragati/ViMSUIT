@@ -1,0 +1,58 @@
+A) Screen purpose and type:
+The screen appears to be the welcome or start screen of a mobile app, specifically for a "Sorting Quiz" game or application.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (5:57).
+- Below the status bar, there is a header with the text "Sorting Quiz" in a large, stylized font.
+- In the center of the screen, there is an image of a Sorting Hat, which is commonly associated with the Harry Potter series.
+- At the bottom of the screen, there is a prominent "START" button.
+
+C) Component inventory (grouped):
+- Status Bar: Contains app icons and time.
+- Header/App Bar: "Sorting Quiz" text.
+- Image: Sorting Hat illustration.
+- Button: "START" button.
+
+D) Primary actions + navigation:
+- The primary action is to press the "START" button to begin the quiz.
+- There is no visible navigation or footer at the bottom of the screen.
+
+• Recap:
+- Screen type/purpose: Welcome/start screen for a "Sorting Quiz" app.
+- Key components: Status bar, header, Sorting Hat image, "START" button.
+- Primary CTA(s): Press the "START" button.
+- Navigation/footer: No visible navigation or footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   -

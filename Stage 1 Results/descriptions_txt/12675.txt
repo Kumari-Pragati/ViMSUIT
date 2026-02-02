@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen is a login page for the Hy-Vee mobile app, designed to allow users to sign in to their Hy-Vee.com account.
+
+B) Layout top → bottom:
+- The top section features the Hy-Vee logo.
+- Below the logo, the text "Hello again." greets the user.
+- A subtitle prompts the user to sign in to their Hy-Vee.com account.
+- Two input fields are present: one for email address and one for password.
+- A "Forgot your password?" link is located below the password field.
+- A red "Sign In" button is positioned below the password field.
+- A "Cancel" button is located at the bottom of the screen.
+
+C) Component inventory (grouped):
+- Header/App Bar: Contains the Hy-Vee logo.
+- Title: "Hello again."
+- Subtitle: "Please sign in to your Hy-Vee.com account."
+- Input Fields: Email Address and Password.
+- Toggle: "Show" for password visibility.
+- Links: "Forgot your password?"
+- Buttons: "Sign In" and "Cancel."
+
+D) Primary actions + navigation:
+- Primary CTA: "Sign In" button to proceed with the login.
+- Navigation: The "Cancel" button allows the user to exit the login screen.
+
+• Recap:
+- Screen type/purpose: Login page for Hy-Vee mobile app.
+- Key components: Header, title, subtitle, input fields, password toggle, forgot password link, sign in button, cancel button.
+- Primary CTA: "Sign In" button.
+- Navigation/footer: "Cancel" button at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Gmail
+   - Twitter
+   - Facebook
+   - Likely Info (low confidence)
+   - Likely FAX (low confidence)
+   - Likely Lock (low confidence)
+   - Likely Briefcase (low confidence)
+   - Likely Camera (low confidence)
+   - Likely Robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - Likely Bluetooth (low confidence)
+   - Likely Wi-Fi (low confidence)
+   - Likely Battery (low confidence)
+   - Time: 3:25

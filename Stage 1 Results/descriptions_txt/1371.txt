@@ -1,0 +1,89 @@
+A) Screen purpose and type:
+The screen displays a flight itinerary for a journey from Aalborg to Abu Dhabi, showing two flight segments with connecting stops in Copenhagen and Istanbul.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for signal strength, Wi-Fi, battery, and the time (10:21).
+2. **Header/App Bar**: Shows the departure (Aalborg) and destination (Abu Dhabi) with a forward arrow.
+3. **Flight Information Section**:
+   - Title: "AAL - AUH 05 Jan, Thu"
+   - Duration: "11h 25m 2 stop"
+4. **Scandinavian Airlines Flight TK8261**:
+   - Route: AAL (Aalborg) to CPH (Kastrup)
+   - Departure: 10:30
+   - Arrival: 11:10
+   - Stop: 1h 15m in Copenhagen, Denmark
+5. **Turkish Airlines Flight TK1784**:
+   - Route: CPH (Kastrup) to IST (Ataturk)
+   - Departure: 12:25
+   - Arrival: 17:40
+   - Stop: 1h 35m in Istanbul, Turkey
+6. **Footer**:
+   - Price: "All Inclusive Price 3378.00 DKK"
+   - Share icon
+   - Information icon
+   - Next button
+
+C) Component inventory (grouped):
+1. **Top Section**:
+   - Status Bar
+   - Header/App Bar
+2. **Flight Information Section**:
+   - Title
+   - Duration
+3. **Scandinavian Airlines Flight TK8261**:
+   - Route
+   - Departure and Arrival times
+   - Stop information
+4. **Turkish Airlines Flight TK1784**:
+   - Route
+   - Departure and Arrival times
+   - Stop information
+5. **Footer**:
+   - Price
+   - Share icon
+   - Information icon
+   - Next button
+
+D) Primary actions + navigation:
+- **Primary CTA(s)**: Share icon, Information icon, Next button
+- **Navigation/Footer**: The Next button likely navigates to the next step in the booking process, while the Share icon allows users to share the flight details.
+
+**Recap**:
+- **Screen type/purpose**: Flight itinerary display
+- **Key components**: Status Bar, Header/App Bar, Flight Information Section, Footer
+- **Primary CTA(s)**: Share icon, Information icon, Next button
+- **Navigation/footer**: The Next button likely navigates to the next step in the booking process, while the Share icon allows users to share the flight details.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   -

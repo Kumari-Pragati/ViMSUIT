@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen displays a list of upcoming football matches in France, categorized by league (Ligue 1, Ligue 2, and National). It is part of a sports betting app, as indicated by the Betclic logo and promotional text.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for notifications, signal strength, battery, and time (4:27).
+2. **Header/App Bar**: Displays "Favoris" (Favorites) and "AUJOURD'HUI" (Today). There are icons for a menu, a plus sign, and a pencil.
+3. **Promotional Banner**: Ad for Betclic with a code promo.
+4. **Title Section**: "France: Ligue 1" and "France: Ligue 2" with match times and teams.
+5. **List Rows**: Each row shows a match with time, home team, away team, and a chevron icon for more details.
+6. **Title Section**: "France: National" with match times and teams.
+7. **List Rows**: Each row shows a match with time, home team, away team, and a chevron icon for more details.
+8. **Footer/Bottom Nav**: Ad for a streaming service with an "Install" button.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "Favoris," "AUJOURD'HUI," menu icon, plus sign, pencil icon.
+- **Promotional Banner**: Betclic logo and code promo text.
+- **Title Sections**: "France: Ligue 1," "France: Ligue 2," "France: National."
+- **List Rows**: Time, home team, away team, chevron icon.
+- **Footer/Bottom Nav**: Ad for a streaming service with "Install" button.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Clicking on the chevron icons to view more details about the matches.
+- **Navigation**: The menu icon in the header likely leads to a navigation drawer, and the plus sign might add a new favorite match.
+
+**Recap**:
+- **Screen type/purpose**: Sports betting app displaying upcoming football matches.
+- **Key components**: Header, promotional banner, title sections, list rows, footer.
+- **Primary CTA(s)**: Viewing match details via chevron icons.
+- **Navigation/footer**: Menu icon in the header, plus sign for adding favorites, ad in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Key
+   - Magnifying glass
+   - Facebook logo
+   - Circle with a line through it
+   - Likely FAX (low confidence)
+   - Lock
+   - Robot
+   - Checkmark
+
+2) Right-side system/status icons + time:
+   - Bluetooth
+   - Alarm clock
+   - Wi-Fi
+   - Unknown icon (square with a line through it)
+   - Battery (charging)
+   - Time: 4:27

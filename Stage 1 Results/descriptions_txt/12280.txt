@@ -1,0 +1,58 @@
+A) Screen purpose and type:
+The screen displays a user's "Hoodle Score" from the Holaa app, indicating their mobile usage behavior and categorizing them as "The Listener."
+
+B) Layout top → bottom:
+1. **Header/App Bar**: A green bar at the top with a back arrow on the left and the title "Hoodle."
+2. **Title/Subtitle**: "My Hoodle Score" and "Holaa app's score based on mobile usage."
+3. **Date Range**: "Dec 19, 2016 - Recently."
+4. **Circular Gauge**: A colorful gauge showing the user's score distribution.
+5. **Category Labels**: "The Listener," "Silent Monk," "Sweet Talker," "The Speaker," and "The Chatterbox."
+6. **Text**: "You are 'The Listener'" and "Share and tag friends to know their scores."
+7. **Social Share Button**: A Facebook share icon.
+8. **Footer**: "My Favourite People" and "Love talking to..."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, title "Hoodle."
+- **Title/Subtitle**: "My Hoodle Score," "Holaa app's score based on mobile usage."
+- **Date Range**: "Dec 19, 2016 - Recently."
+- **Gauge**: Circular gauge with color-coded sections.
+- **Category Labels**: "The Listener," "Silent Monk," "Sweet Talker," "The Speaker," and "The Chatterbox."
+- **Text**: "You are 'The Listener'" and "Share and tag friends to know their scores."
+- **Social Share Button**: Facebook share icon.
+- **Footer**: "My Favourite People" and "Love talking to..."
+
+D) Primary actions + navigation:
+- **Primary CTA**: Share and tag friends to know their scores.
+- **Navigation**: Back arrow in the header for returning to the previous screen.
+
+**Screen type/purpose**:
+- A user profile screen for the "Hoodle Score" feature in the Holaa app, displaying the user's mobile usage behavior and providing options to share and tag friends.
+
+**Key components**:
+- Circular gauge for visualizing the user's score distribution.
+- Category labels indicating the user's behavior.
+- Social share button for sharing the score with friends.
+
+**Primary CTA(s)**:
+- Share and tag friends to know their scores.
+
+**Navigation/footer**:
+- Back arrow in the header for returning to the previous screen.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+   - Google Drive
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 4:03

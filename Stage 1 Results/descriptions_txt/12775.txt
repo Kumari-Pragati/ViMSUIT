@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen displays a list of mods available for a game called "Falloutcrafter Mod." It appears to be part of a mod manager app, allowing users to select and apply various modifications to the game.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for notifications, signal strength, battery, and time (3:13).
+2. **Header/App Bar**: A blue bar with the title "Falloutcrafter Mod" and icons for sharing and help.
+3. **Tabs**: A navigation bar with tabs labeled "ALL MODS," "BONUS," "COSMETIC," "MOBS," and "OTHER."
+4. **Mod List**: A scrollable list of mods with titles like "Nuke Addon," "No Fall Damage Addon," etc., categorized as "weapon," "bonus," "transport," and "bonus."
+5. **Footer/Bottom Nav**: Displays a battery icon with a 9% charge and a green bar indicating charging status.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Title, sharing icon, help icon.
+- **Tabs**: Navigation for different mod categories.
+- **Mod List**: List items with mod names and categories.
+- **Footer/Bottom Nav**: Battery status indicator.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Selecting a mod from the list to apply it to the game.
+- **Navigation**: Switching between different mod categories using the tabs at the top.
+
+**Recap**:
+- **Screen type/purpose**: Mod manager for "Falloutcrafter Mod."
+- **Key components**: Header, tabs, mod list, footer.
+- **Primary CTA(s)**: Selecting a mod from the list.
+- **Navigation/footer**: Tabs for different mod categories, battery status indicator.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Earth (likely Google Earth (low confidence))
+   - Keyhole
+   - Email
+   - Facebook
+   - Earth (likely Google Earth (low confidence))
+   - Earth (likely Google Earth (low confidence))
+
+2) Right-side system/status icons + time:
+   - Lock icon
+   - Temperature (75°)
+   - Bluetooth
+   - Wi-Fi
+   - Battery (charging)
+   - Time (3:13)

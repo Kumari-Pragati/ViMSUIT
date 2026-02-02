@@ -1,0 +1,55 @@
+A) Screen purpose and type:
+The screen is a contact form designed for users to communicate with a seller about a product listing. It is part of a mobile app, likely for e-commerce or a marketplace.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Teal-colored header with the title "Contactar" (Spanish for "Contact").
+2. **Product Information**: Details about a rectangular dining table for 6 people priced at $4,500.
+3. **Seller Information**: "Vendedor: Isabel Pérez" (Seller: Isabel Pérez).
+4. **Form Fields**:
+   - **Nombre (Name)**: Pre-filled with "Sam Brown".
+   - **Email**: Pre-filled with "appcrawler5@gmail.com".
+   - **Teléfono (Phone)**: Pre-filled with "4155791543".
+   - **Mensaje (Message)**: Placeholder text "Por favor, escribe un mensaje al usuario" (Please, write a message to the user).
+5. **Toggle Switch**: "Envíame una copia" (Send me a copy).
+6. **Checkbox**: "Acepto las Condiciones de Uso" (I accept the Terms of Use).
+7. **Send Button**: Red button labeled "Envía" (Send).
+8. **Footer Buttons**: "LLAMAR" (Call) and "ENVIAR MENSAJE" (Send Message).
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Title "Contactar".
+- **Form Fields**: Name, Email, Phone, Message.
+- **Toggle Switch**: "Envíame una copia".
+- **Checkbox**: "Acepto las Condiciones de Uso".
+- **CTA Buttons**: "Envía", "LLAMAR", "ENVIAR MENSAJE".
+
+D) Primary actions + navigation:
+- **Primary CTA**: "Envía" (Send).
+- **Navigation/Footer**: "LLAMAR" (Call) and "ENVIAR MENSAJE" (Send Message).
+
+**Screen type/purpose**:
+Contact form for a product listing.
+
+**Key components**:
+- Header/App Bar: "Contactar".
+- Form fields: Name, Email, Phone, Message.
+- Toggle switch: "Envíame una copia".
+- Checkbox: "Acepto las Condiciones de Uso".
+- CTA buttons: "Envía", "LLAMAR", "ENVIAR MENSAJE".
+
+**Primary CTA(s)**:
+- "Envía" (Send).
+
+**Navigation/footer**:
+- "LLAMAR" (Call) and "ENVIAR MENSAJE" (Send Message).
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Lock icon (high confidence)
+   - Notification bell icon (high confidence)
+   - Robot icon (high confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi icon (high confidence)
+   - Do Not Disturb icon (high confidence)
+   - Battery icon (high confidence)
+   - Time: 8:14

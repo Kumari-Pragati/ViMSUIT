@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is a welcome or onboarding screen for the Forever 21 mobile app, designed to encourage users to enable push notifications and sign in to their account.
+
+B) Layout top → bottom:
+1. The status bar at the top shows various icons and the time (8:52).
+2. Below the status bar, there is a large image of a person wearing a Forever 21 outfit.
+3. The text "FOREVER 21" is prominently displayed in the center of the image.
+4. Below the image, the text "GET APP EXCLUSIVES" is shown.
+5. The next line reads, "Enable Push Notifications in the Inbox for the lowdown on awesome sales and perks!"
+6. At the bottom, there is a button labeled "Sign In Forever 21 Account."
+7. To the right of the sign-in button, there is a "Skip" option.
+
+C) Component inventory (grouped):
+1. **Header/StatusBar**: Status bar with icons and time.
+2. **Main Image**: Large image of a person in a Forever 21 outfit.
+3. **Title/Subtitle**: "FOREVER 21" and "GET APP EXCLUSIVES."
+4. **Text**: "Enable Push Notifications in the Inbox for the lowdown on awesome sales and perks!"
+5. **Button**: "Sign In Forever 21 Account."
+6. **Footer**: "Skip" option.
+
+D) Primary actions + navigation:
+- The primary action is to sign in to the Forever 21 account by clicking the "Sign In Forever 21 Account" button.
+- The secondary action is to skip the onboarding process by clicking the "Skip" option.
+
+**Recap**:
+- **Screen type/purpose**: Welcome/Onboarding screen for the Forever 21 mobile app.
+- **Key components**: Status bar, main image, title, subtitle, text, sign-in button, and skip option.
+- **Primary CTA(s)**: "Sign In Forever 21 Account."
+- **Navigation/footer**: "Skip" option.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Instagram
+   - Facebook
+   - Facebook Messenger
+   - likely Twitter (low confidence)
+   - likely Google Drive (low confidence)
+   - likely Google Photos (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 8:52

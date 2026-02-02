@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is a contact management interface, likely from a mobile app, designed to display and manage a user's contact list.
+
+B) Layout top → bottom:
+- Status bar at the top with icons and time (12:11).
+- Header/app bar with the title "All Contacts" and a search bar below it.
+- An empty list area for displaying contacts.
+- A floating action button (FAB) with a plus sign for adding new contacts.
+- A bottom navigation bar with icons labeled "Favorite," "Recents," "Contacts," "Keypad," and "Settings."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "All Contacts" and a search bar.
+- **Main Content Area**: Displays an empty list for contacts.
+- **Floating Action Button (FAB)**: Positioned at the top right for adding new contacts.
+- **Bottom Navigation Bar**: Contains five icons for different sections of the app.
+
+D) Primary actions + navigation:
+- The primary action is to add a new contact, indicated by the FAB.
+- Navigation is facilitated by the bottom navigation bar, allowing users to switch between different sections of the app.
+
+• Recap:
+- **Screen type/purpose**: Contact management interface.
+- **Key components**: Header, search bar, empty list, FAB, bottom navigation bar.
+- **Primary CTA(s)**: FAB for adding new contacts.
+- **Navigation/footer**: Bottom navigation bar for switching sections.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - likely Messages (low confidence)
+   - likely Phone (low confidence)
+   - likely Calendar (low confidence)
+   - likely Clock (low confidence)
+   - likely Camera (low confidence)
+   - likely Music (low confidence)
+   - likely Settings (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Cellular signal (low confidence)
+   - likely Battery (low confidence)
+   - Time: 12:11

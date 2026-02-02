@@ -1,0 +1,39 @@
+A) Screen purpose and type:
+The screen is designed for users to enter their phone number to apply a discount during checkout.
+
+B) Layout top → bottom:
+- A red status bar at the top with various icons.
+- A white header with a left chevron and the text "Phone for Checkout."
+- An illustration of a cash register.
+- A subtitle explaining that the discount will be applied when the phone number is entered at checkout.
+- A text input field labeled "Phone" with placeholder text "xxx-xxx-xxxx."
+
+C) Component inventory (grouped):
+- Status bar: Icons for notifications, battery, and time.
+- Header: Left chevron, title "Phone for Checkout."
+- Illustration: Cash register icon.
+- Subtitle: Text explaining the discount application process.
+- Input field: Text box for entering the phone number.
+
+D) Primary actions + navigation:
+- The primary action is entering the phone number in the input field.
+- Navigation is facilitated by the left chevron in the header, which likely takes the user back to the previous screen.
+
+• Screen type/purpose: Discount application via phone number entry.
+• Key components: Header, illustration, subtitle, input field.
+• Primary CTA: Entering the phone number.
+• Navigation/footer: Left chevron in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook Messenger
+   - Instagram
+   - Google Drive
+   - likely Android TV (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Battery (high confidence)
+   - Time: 6:02

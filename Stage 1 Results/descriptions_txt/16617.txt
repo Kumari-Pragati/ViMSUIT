@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen appears to be a welcome or introductory screen for a mobile app, likely related to a weather or news application, given the "STORMTRACKER" text.
+
+B) Layout top → bottom:
+1. The status bar at the top shows various icons and the time (1:14).
+2. Below the status bar, there is a large image featuring four individuals in business attire, presumably news anchors or meteorologists.
+3. The "KELOLAND STORMTRACKER" logo is prominently displayed in the center.
+4. The "Kelo" logo is shown below the main logo.
+5. At the bottom, there is a button labeled "Let's Get Started."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Status bar with icons and time.
+2. **Main Content**:
+   - Large image with four individuals.
+   - "KELOLAND STORMTRACKER" logo.
+   - "Kelo" logo.
+3. **Footer/CTA**:
+   - "Let's Get Started" button.
+
+D) Primary actions + navigation:
+- The primary action is the "Let's Get Started" button, which likely navigates to the main content of the app.
+- Navigation is implied by the presence of the "Let's Get Started" button, suggesting that tapping it will take the user to the next screen.
+
+**Recap**:
+- **Screen type/purpose**: Welcome or introductory screen for a mobile app.
+- **Key components**: Status bar, large image, logos, "Let's Get Started" button.
+- **Primary CTA**: "Let's Get Started" button.
+- **Navigation/footer**: The "Let's Get Started" button serves as the primary navigation element.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 1:14

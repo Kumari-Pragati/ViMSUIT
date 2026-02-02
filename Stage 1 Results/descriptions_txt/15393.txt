@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is a mobile app interface designed to encourage users to perform a "good deed" for the day, specifically focusing on spiritual adoption and supporting women who have withdrawn from abortion.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons and time (5:43).
+2. Header/app bar with a menu icon (three horizontal lines) and the title "Your good deed for today."
+3. Subtitle: "Today, your good deed is..."
+4. Body text explaining the concept of spiritual adoption, voluntary sacrifices, and supporting women who have withdrawn from abortion.
+5. Information on donating as little as 10PLN to cover the cost of 20 diapers for children saved from abortion.
+6. Footer with instructions to donate to the Tiny Feet Foundation, including domestic and international bank transfer details.
+7. Footer text: "Tiny Feet Foundation."
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon (three horizontal lines)
+   - Title: "Your good deed for today"
+2. **Body Section**:
+   - Subtitle: "Today, your good deed is..."
+   - Body text explaining the concept of spiritual adoption and supporting women who have withdrawn from abortion.
+3. **Footer Section**:
+   - Instructions to donate to the Tiny Feet Foundation
+   - Bank transfer details for domestic and international transfers
+   - Footer text: "Tiny Feet Foundation"
+
+D) Primary actions + navigation:
+- The primary action is to encourage the user to perform a "good deed" for the day, specifically through spiritual adoption and supporting women who have withdrawn from abortion.
+- Navigation is facilitated by the menu icon in the header, which likely leads to more options or settings within the app.
+
+**Recap:**
+- **Screen type/purpose**: Encourages users to perform a "good deed" for the day, specifically through spiritual adoption and supporting women who have withdrawn from abortion.
+- **Key components**: Header, body text, footer with donation instructions, and bank transfer details.
+- **Primary CTA(s)**: Encouraging users to perform a "good deed" and donate to the Tiny Feet Foundation.
+- **Navigation/footer**: The menu icon in the header likely leads to more options or settings within the app.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+   - Facebook
+
+2) Right-side system/status icons + time:
+   - Bluetooth (low confidence)
+   - Wi-Fi (low confidence)
+   - Battery (low confidence)
+   - Time: 5:43

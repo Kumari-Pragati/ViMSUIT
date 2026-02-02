@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is from an English to Hindi dictionary app, specifically showing the "HISTORY" tab where previously searched terms are stored.
+
+B) Layout top → bottom:
+1. **Status Bar**: Displays the time (4:51) and various app icons.
+2. **Header/App Bar**: Contains the title "English to Hindi Dictionary" and a magnifying glass icon for search.
+3. **Tabs**: Includes "HOME," "SEARCH RESULTS," "HISTORY," and "SAVED."
+4. **Clear All Button**: A blue button labeled "CLEAR ALL" with a trash icon.
+5. **List Row**: Displays a history entry for the word "ROUSE" with its Hindi translations and a timestamp ("about a second ago").
+6. **Trash Icon**: A yellow trash can icon next to the list row for deleting the entry.
+7. **Advertisement**: At the bottom, there's an advertisement for "Mobile Strike" with a "FREE INSTALL" call-to-action.
+
+C) Component inventory (grouped):
+- **Top Section**: Status bar, header, tabs, clear all button.
+- **Middle Section**: List row with word, translations, timestamp, and trash icon.
+- **Bottom Section**: Advertisement.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Clear all history entries, delete individual history entries.
+- **Navigation**: Switch between "HOME," "SEARCH RESULTS," "HISTORY," and "SAVED" tabs.
+
+• Recap:
+- **Screen type/purpose**: History tab of an English to Hindi dictionary app.
+- **Key components**: Status bar, header, tabs, clear all button, list row, trash icon, advertisement.
+- **Primary CTA(s)**: Clear all history entries, delete individual history entries.
+- **Navigation/footer**: Tabs at the top, advertisement at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 4:51

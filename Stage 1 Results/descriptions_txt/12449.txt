@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen is a dropdown menu for selecting a country to search in, likely part of a mobile app's search functionality.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (4:40).
+- Below the status bar, there is a header with the text "Choose country to search in."
+- A list of countries follows, each with a flag icon and country name.
+- At the bottom, there is an "OK" button.
+
+C) Component inventory (grouped):
+- Status bar
+- Header/app bar
+- Title: "Choose country to search in"
+- Subtitle: None
+- Image: Country flags
+- List row: Country names
+- Toggle: None
+- Chevron: None
+- Button: "OK"
+- Footer/bottom nav: None
+
+D) Primary actions + navigation:
+- The primary action is selecting a country from the list.
+- The "OK" button is used to confirm the selection and close the dropdown.
+
+• Screen type/purpose: Dropdown menu for selecting a country to search in.
+• Key components: Status bar, header, country flags, country names, "OK" button.
+• Primary CTA(s): Selecting a country and confirming with "OK".
+• Navigation/footer: None.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Spotify (likely Spotify (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Instagram (likely Instagram (low confidence))
+   - Google Drive (likely Google Drive (low confidence))
+   - Google Photos (likely Google Photos (low confidence))
+   - Google Sheets (likely Google Sheets (low confidence))
+   - Google Slides (likely Google Slides (low confidence))
+
+2) Right-side system/status icons + time:
+   - Bluetooth (likely Bluetooth (low confidence))
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 4:40

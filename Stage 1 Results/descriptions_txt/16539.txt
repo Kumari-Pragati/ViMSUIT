@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen is a registration page for the InstaCare app, requiring users to enter their mobile number, username, and two OTPs to access their account details.
+
+B) Layout top → bottom:
+1. Status bar with app icons and time (9:13).
+2. Header/app bar with a menu icon, the app name "InstaCare," and a Reliance logo.
+3. Title: "Registration."
+4. Subtitle: "Please register to Access your account details."
+5. Input field for the mobile number: "4155791638."
+6. Input field for the username: "Appcrawler."
+7. Input field for the first OTP.
+8. Input field for the second OTP.
+9. Text: "You will receive a SMS which contains the OTP(One Time Password)."
+10. CTA button: "CONFIRM."
+
+C) Component inventory (grouped):
+- UI Components: Status bar, header/app bar, title, subtitle, input fields, text, CTA button.
+- Text: "InstaCare," "Registration," "Please register to Access your account details," "4155791638," "Appcrawler," "CONFIRM."
+
+D) Primary actions + navigation:
+- The primary action is to confirm the registration by entering the OTPs and clicking the "CONFIRM" button.
+- Navigation: The menu icon in the header can be used to navigate to other sections of the app.
+
+• Recap:
+- Screen type/purpose: Registration page for InstaCare app.
+- Key components: Status bar, header/app bar, title, subtitle, input fields, text, CTA button.
+- Primary CTA(s): "CONFIRM" button.
+- Navigation/footer: Menu icon in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - likely wrench (low confidence)
+   - likely lock (low confidence)
+   - likely circle (low confidence)
+   - f (likely Facebook)
+   - likely robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely vibrate (low confidence)
+   - likely battery (low confidence)
+   - 9:13

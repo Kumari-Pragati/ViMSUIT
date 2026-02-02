@@ -1,0 +1,72 @@
+A) Screen purpose and type:
+The screen is a registration or sign-up page for a mobile application, designed to allow users to create a new account.
+
+B) Layout top → bottom:
+1. Status bar with various icons and the time (9:27).
+2. Header with a "Join" title and a close button (×).
+3. Input fields for "Full Name," "Email Address," and "Password."
+4. A note indicating the password must be 4 or more characters.
+5. A "Have an account? Log In" link.
+6. A "SUBMIT" button.
+7. An "OR" separator.
+8. A "Connect with Facebook" button.
+9. A footer with a disclaimer about agreeing to the Terms of Service and Privacy Policy.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - "Join" title
+   - Close button (×)
+2. **Input Fields**:
+   - "Full Name"
+   - "Email Address"
+   - "Password" with a "Show" toggle
+3. **Text Elements**:
+   - "4 or more characters"
+   - "Have an account? Log In"
+   - "SUBMIT"
+   - "OR"
+   - "Connect with Facebook"
+4. **Footer**:
+   - Disclaimer text about agreeing to the Terms of Service and Privacy Policy
+
+D) Primary actions + navigation:
+- Primary CTA: "SUBMIT" button
+- Secondary CTA: "Connect with Facebook" button
+- Navigation: "Log In" link for existing users
+
+**Recap**:
+- **Screen type/purpose**: Registration or sign-up page.
+- **Key components**: Header, input fields, password toggle, submit button, Facebook connect button, footer disclaimer.
+- **Primary CTA(s)**: "SUBMIT" button, "Connect with Facebook" button.
+- **Navigation/footer**: "Log In" link, footer disclaimer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low confidence)
+   - likely Key (low

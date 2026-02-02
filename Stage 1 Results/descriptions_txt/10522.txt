@@ -1,0 +1,46 @@
+A) Screen purpose and type:
+The screen appears to be a photo editing interface, likely within a mobile app, where users can manipulate and enhance images.
+
+B) Layout top → bottom:
+1. **Status Bar**: Located at the very top, displaying icons for signal strength, battery, and time (6:15).
+2. **Header/App Bar**: Positioned just below the status bar, with a back arrow on the left and the title "Image Edition" in the center.
+3. **Image Editing Tools**: Below the header, there are three icons: a download icon, an upload icon, and a share icon.
+4. **Main Image Area**: The central part of the screen displays an image of an egg with a face drawn on it, accompanied by the text "HAVE AN EGGSTRAORDINARY BIRTHDAY!".
+5. **Editing Tools**: At the bottom, there are three icons: a text tool, a paint tool, and a transform tool.
+6. **Footer Ad**: At the very bottom, there is an advertisement for Verizon's official site, promoting their 4GLTE network.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Back arrow, title "Image Edition".
+- **Image Editing Tools**: Download, upload, share icons.
+- **Main Image Area**: Image of an egg with text.
+- **Editing Tools**: Text tool, paint tool, transform tool.
+- **Footer Ad**: Verizon advertisement.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Users can download, upload, or share the edited image.
+- **Navigation**: Users can navigate back to the previous screen using the back arrow in the header.
+
+**Recap**:
+- **Screen type/purpose**: Photo editing interface.
+- **Key components**: Header, image editing tools, main image, editing tools, footer ad.
+- **Primary CTA(s)**: Download, upload, share.
+- **Navigation/footer**: Back arrow in the header, Verizon advertisement at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages (likely a messaging app)
+   - Google Drive (likely a cloud storage app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+   - Google Photos (likely a photo management app)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Battery (high confidence)
+   - Time: 6:15

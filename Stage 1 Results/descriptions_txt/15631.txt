@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen is a registration form for a dating app, encouraging users to find their special someone and register now.
+
+B) Layout top → bottom:
+1. Status bar: Green bar with icons and time (11:31).
+2. Header/app bar: "REGISTRATION" with a back arrow.
+3. Subtitle: "FIND YOUR SPECIAL SOMEONE. REGISTER NOW!".
+4. Button: "SignUp with Facebook".
+5. Section: "PROFILE CREATED FOR" with a dropdown menu set to "Friend".
+6. Input field: "NAME" with placeholder "John Smith".
+7. Section: "GENDER" with radio buttons for "Male" (selected) and "Female".
+8. Section: "DATE OF BIRTH" with a date input field showing "17 Years / 23-Dec-1998".
+9. Error message: "Male - you must be 21 years or above to register".
+10. Section: "RELIGION" with a dropdown menu set to "Christian".
+
+C) Component inventory (grouped):
+- UI components: Status bar, header, subtitle, button, dropdown menu, input field, radio buttons, date input field, error message, and dropdown menu.
+- Text components: "REGISTRATION", "FIND YOUR SPECIAL SOMEONE. REGISTER NOW!", "SignUp with Facebook", "PROFILE CREATED FOR", "NAME", "GENDER", "DATE OF BIRTH", "Male", "Female", "17 Years / 23-Dec-1998", "Male - you must be 21 years or above to register", "RELIGION", and "Christian".
+
+D) Primary actions + navigation:
+- Primary CTA: "SignUp with Facebook".
+- Navigation: Back arrow in the header for going back to the previous screen.
+
+• Screen type/purpose: Registration form for a dating app.
+• Key components: Header, registration form fields, error message, and primary CTA.
+• Primary CTA(s): "SignUp with Facebook".
+• Navigation/footer: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 11:31

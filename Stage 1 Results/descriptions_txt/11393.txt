@@ -1,0 +1,70 @@
+A) Screen purpose and type:
+The screen displays a list of radio stations or music channels that are currently off-air, as indicated by the "Off-air" label next to each entry.
+
+B) Layout top → bottom:
+1. Status bar at the top with various icons and the time (11:38).
+2. A header with a back arrow, a search icon, and a menu icon.
+3. A title "SEARCH" and a subtitle "OFF AIR."
+4. A list of radio stations or music channels, each with an icon, a name, and an "Off-air" label.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Back arrow
+   - Search icon
+   - Menu icon
+   - Title: "SEARCH"
+   - Subtitle: "OFF AIR"
+
+2. **Main Content**:
+   - List of radio stations or music channels
+   - Each list item contains:
+     - Icon
+     - Name (e.g., "KURDISH_SONG")
+     - "Off-air" label
+
+3. **Bottom Area**:
+   - No footer or bottom navigation bar is visible.
+
+D) Primary actions + navigation:
+- The primary action is to search for off-air radio stations or music channels.
+- Navigation is facilitated by the back arrow, search icon, and menu icon in the header.
+
+**Recap**:
+- **Screen type/purpose**: Search results for off-air radio stations or music channels.
+- **Key components**: Header, search bar, list of off-air channels, icons, and "Off-air" labels.
+- **Primary CTA(s)**: Search functionality.
+- **Navigation/footer**: Back arrow, search icon, and menu icon in the header; no footer or bottom navigation bar.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   -

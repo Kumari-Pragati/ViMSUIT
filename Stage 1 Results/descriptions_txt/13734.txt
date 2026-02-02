@@ -1,0 +1,47 @@
+A) Screen purpose and type:
+The screen is a mobile app interface for DBS, likely a financial or banking app, designed to provide quick access to various services and information.
+
+B) Layout top → bottom:
+1. **Header/App Bar**: Contains the DBS logo, a menu icon on the left, and an "Edit" option on the right.
+2. **Service Icons**: Four service icons labeled PayLah!, Vickers Trading, iWealth, and Lifestyle.
+3. **Indices Section**: Displays the Nasdaq index with a value of 5,715.18 and a note "NA".
+4. **Currencies Section**: Shows the GBP/SGD exchange rate at 1.7763 with a 0.1% change.
+5. **Currency Converter**: A button for currency conversion with icons for different currencies.
+6. **Get in Touch Section**: A red bar with icons for phone, calendar, and location.
+7. **DBS Asian Insights**: A section with "View all" and three articles: "Latest Equity Tactical: Honda Motor," "Flying a Little Lower," and "An Asian Consumption St."
+8. **Footer/CTA**: A promotional banner for "Tap here for DBS iWealth."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: DBS logo, menu icon, "Edit" option.
+- **Service Icons**: PayLah!, Vickers Trading, iWealth, Lifestyle.
+- **Indices Section**: Nasdaq index, "NA".
+- **Currencies Section**: GBP/SGD exchange rate, percentage change.
+- **Currency Converter**: Button with currency icons.
+- **Get in Touch Section**: Icons for phone, calendar, and location.
+- **DBS Asian Insights**: Articles with "View all" link.
+- **Footer/CTA**: "Tap here for DBS iWealth" banner.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Accessing different services (PayLah!, Vickers Trading, iWealth, Lifestyle), viewing indices and currencies, using the currency converter, getting in touch, and exploring DBS Asian Insights.
+- **Navigation/Footer**: The menu icon in the header allows navigation to other sections of the app. The "Tap here for DBS iWealth" banner likely leads to the iWealth section.
+
+**Recap**:
+- **Screen type/purpose**: A fully designed mobile app interface for DBS, likely a financial or banking app.
+- **Key components**: Header, service icons, indices, currencies, currency converter, get in touch section, DBS Asian Insights, and a CTA banner.
+- **Primary CTA(s)**: Accessing different services, exploring indices and currencies, using the currency converter, getting in touch, and exploring DBS Asian Insights.
+- **Navigation/footer**: The menu icon in the header allows navigation to other sections of the app. The "Tap here for DBS iWealth" banner likely leads to the iWealth section.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - wrench (likely settings)
+   - Facebook (low confidence)
+   - lock (low confidence)
+   - alarm clock (low confidence)
+   - satellite (low confidence)
+   - robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - signal strength (low confidence)
+   - battery (low confidence)
+   - time: 10:51

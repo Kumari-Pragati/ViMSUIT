@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is an exercise entry form within a fitness tracking app, designed for users to log their workout details.
+
+B) Layout top → bottom:
+1. **Status Bar**: Displays the time (4:49) and various app icons.
+2. **Header/App Bar**: Contains a menu icon on the left, the title "Exercise Entry" in the center, and a "Save" button with a checkmark on the right.
+3. **Exercise Details Section**:
+   - A description of the exercise: "Upper body exercise, stationary bicycle - airdyne (arms only) 40 rpm, moderate."
+   - A text input field showing "12min" for the duration.
+   - A calorie count of "184 cals."
+   - A date field showing "Dec 14."
+4. **Notes Section**: A text input field labeled "Notes."
+5. **Footer/Bottom Nav**: A section with a star rating icon and the text "Track food & exercise time with MyNetDiary Maximum."
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Menu icon, title, save button.
+- **Exercise Details Section**: Exercise description, duration input, calorie count, date field.
+- **Notes Section**: Notes input field.
+- **Footer/Bottom Nav**: Star rating icon and text.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Save the exercise entry by tapping the "Save" button.
+- **Navigation**: The menu icon in the header likely navigates to the app's main menu or settings.
+
+**Screen type/purpose**: Exercise entry form for logging workout details.
+**Key components**: Header, exercise description, duration input, calorie count, date field, notes input, save button, footer.
+**Primary CTA(s)**: Save button.
+**Navigation/footer**: Menu icon in the header, star rating icon in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 4:49

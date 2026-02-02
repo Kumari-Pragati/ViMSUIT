@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen is a settings page for managing contact display preferences in a mobile app.
+
+B) Layout top → bottom:
+1. Status bar with app icons and time (12:27).
+2. Header with a back arrow and the title "Contacts."
+3. "Days or Weeks" section with a dropdown labeled "Age in X days."
+4. "Display Name" section with a dropdown labeled "Default."
+5. "Invisible Contacts" toggle switch with the label "Enable to show hidden contacts."
+6. "Contact picture" toggle switch with the label "Enable to show the photos of the contacts."
+7. "Photo Source" toggle switch with the label "Prefer the photo from Facebook."
+
+C) Component inventory (grouped):
+- UI Components: Status bar, header, title, subtitle, dropdown, toggle switch, label.
+- Text: "Days or Weeks," "Age in X days," "Display Name," "Default," "Invisible Contacts," "Enable to show hidden contacts," "Contact picture," "Enable to show the photos of the contacts," "Photo Source," "Prefer the photo from Facebook."
+
+D) Primary actions + navigation:
+- Primary CTA: Toggle switches for "Invisible Contacts," "Contact picture," and "Photo Source."
+- Navigation: Back arrow in the header to return to the previous screen.
+
+• Screen type/purpose: Settings page for managing contact display preferences.
+• Key components: Header, dropdown, toggle switches, labels.
+• Primary CTA(s): Toggle switches for "Invisible Contacts," "Contact picture," and "Photo Source."
+• Navigation/footer: Back arrow in the header.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (Facebook)
+   - f (Facebook)
+   - f (Facebook)
+   - f (Facebook)
+   - f (Facebook)
+   - f (Facebook)
+   - f (Facebook)
+
+2) Right-side system/status icons + time:
+   - likely FAK (low confidence)
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 12:27

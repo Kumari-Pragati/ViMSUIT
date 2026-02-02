@@ -1,0 +1,43 @@
+A) Screen purpose and type:
+The screen is a mobile app interface designed for users to search for new cars. It is part of the CarWale app, a platform for buying and selling cars.
+
+B) Layout top → bottom:
+1. **Status Bar**: Displays the time as 10:00 and various app icons.
+2. **Header/App Bar**: Contains the CarWale logo centered, with a menu icon on the left and a location icon on the right.
+3. **Tabs**: Two tabs labeled "New Car" and "Used Car," with "New Car" currently selected.
+4. **Hero Image**: Features a couple sitting on a car, with the text "FIND THE RIGHT CAR" overlaid.
+5. **Search Section**: A white box labeled "New Cars" with a search input field and a red "FIND CAR" button.
+6. **Footer**: Displays "FEATURED CARS" with two tabs: "Upcoming Launches" and "Just Launched," with "Just Launched" currently selected.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: CarWale logo, menu icon, location icon.
+- **Tabs**: "New Car," "Used Car."
+- **Hero Image**: Couple on a car, "FIND THE RIGHT CAR" text.
+- **Search Section**: "New Cars" label, search input field, "FIND CAR" button.
+- **Footer**: "FEATURED CARS" label, "Upcoming Launches" and "Just Launched" tabs.
+
+D) Primary actions + navigation:
+- **Primary CTA**: "FIND CAR" button in the search section.
+- **Navigation**: Users can switch between "New Car" and "Used Car" tabs in the header. The "Upcoming Launches" and "Just Launched" tabs in the footer allow users to filter featured cars.
+
+**Recap**:
+- **Screen type/purpose**: Mobile app interface for searching new cars.
+- **Key components**: Header, tabs, hero image, search section, and featured cars footer.
+- **Primary CTA**: "FIND CAR" button.
+- **Navigation/footer**: Tabs for "New Car" and "Used Car," and "Upcoming Launches" and "Just Launched" tabs in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 10:00

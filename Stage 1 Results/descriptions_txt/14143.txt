@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is an onboarding or welcome screen for the Lynda.com mobile app, designed to introduce new users to the platform and provide options to start a free trial or log in.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for battery, signal, and time (2:15).
+2. Header/app bar with the Lynda.com logo and "FROM LINKEDIN" tagline.
+3. Large central image of a smiling person against a green corrugated background.
+4. Title: "Learn with Lynda.com".
+5. Subtitle: "Delivering on-demand video courses for business, creative and tech."
+6. Progress indicator with four dots, showing the user is on the first screen.
+7. Button: "Start your free trial".
+8. Button: "Already a member?".
+9. Footer: "EXPLORE".
+
+C) Component inventory (grouped):
+- Status bar: Icons for battery, signal, and time.
+- Header/app bar: Lynda.com logo and "FROM LINKEDIN" tagline.
+- Image: Central image of a smiling person.
+- Title: "Learn with Lynda.com".
+- Subtitle: "Delivering on-demand video courses for business, creative and tech."
+- Progress indicator: Four dots.
+- Buttons: "Start your free trial" and "Already a member?".
+- Footer: "EXPLORE".
+
+D) Primary actions + navigation:
+- Primary CTA: "Start your free trial" for new users.
+- Secondary CTA: "Already a member?" for existing users.
+- Navigation/footer: "EXPLORE" at the bottom, likely leading to course listings.
+
+• Screen type/purpose: Onboarding/welcome screen.
+• Key components: Status bar, header, image, title, subtitle, progress indicator, buttons, and footer.
+• Primary CTA(s): "Start your free trial" and "Already a member?".
+• Navigation/footer: "EXPLORE" at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - info (low confidence)
+   - lock (low confidence)
+   - robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely battery (low confidence)
+   - 2:15

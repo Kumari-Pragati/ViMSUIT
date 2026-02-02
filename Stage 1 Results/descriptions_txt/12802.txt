@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen displays a list of music history entries, likely from a music streaming or radio app, allowing users to view their past listening sessions.
+
+B) Layout top → bottom:
+- The status bar at the top shows connectivity, battery, and time indicators.
+- Below the status bar is a header with a back arrow on the left and the title "Music history" in the center.
+- The main content area lists music history entries, each with a small icon on the left and the corresponding station name on the right.
+- At the bottom, there is a black navigation bar with a back arrow on the left, a circle in the center, and a square on the right.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains a back arrow and the title "Music history."
+- **Content Area**: Lists music history entries with icons and station names.
+- **Bottom Navigation Bar**: Includes a back arrow, a circle, and a square.
+
+D) Primary actions + navigation:
+- Users can navigate back to the previous screen using the back arrow in the header.
+- The bottom navigation bar likely provides access to other sections of the app.
+
+**Recap:**
+- **Screen type/purpose**: Music history list.
+- **Key components**: Header, music history list, bottom navigation bar.
+- **Primary CTA(s)**: Back arrow in the header.
+- **Navigation/footer**: Bottom navigation bar with back, circle, and square icons.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+   - f (likely Facebook (low confidence))
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 10:36

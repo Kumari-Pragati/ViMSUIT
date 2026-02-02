@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen is a login or sign-in page for the Ticketpop app, designed to allow users to access the app by logging in with either Facebook or an email.
+
+B) Layout top → bottom:
+- The top section features the Ticketpop logo with a stylized ticket design.
+- Below the logo, the word "ticketpop" is prominently displayed.
+- The middle section contains two login options: "Login with Facebook" and "Connect with Email."
+- At the bottom, there is a footer with the text "By using this application, you agree to our Terms of Service and Privacy Policy."
+- Two buttons are present at the very bottom: "Sign In" on the left and "Skip" on the right.
+
+C) Component inventory (grouped):
+- Header/App Bar: None
+- Title: "ticketpop"
+- Subtitle: None
+- Image: Ticketpop logo
+- List Row: None
+- Toggle: None
+- Chevron: None
+- Button: "Login with Facebook," "Connect with Email," "Sign In," "Skip"
+- Footer: "By using this application, you agree to our Terms of Service and Privacy Policy"
+
+D) Primary actions + navigation:
+- Primary CTA: "Sign In" and "Skip"
+- Navigation: The "Skip" button allows users to bypass the login process and proceed directly to the app's main features.
+
+• Recap:
+- Screen type/purpose: Login or sign-in page for the Ticketpop app.
+- Key components: Ticketpop logo, "ticketpop" text, "Login with Facebook," "Connect with Email," "Sign In," "Skip," and footer text.
+- Primary CTA(s): "Sign In" and "Skip."
+- Navigation/footer: "Skip" button and footer text.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Shield icon
+   - Mail icon
+   - ESPN Dallas icon
+   - Facebook icon
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Bluetooth icon (high confidence)
+   - Wi-Fi icon (high confidence)
+   - Unknown icon (low confidence)
+   - Battery icon (high confidence)
+   - Time: 12:24

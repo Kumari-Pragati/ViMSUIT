@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen is a to-do list application interface, specifically showing the "My Task List" section.
+
+B) Layout top → bottom:
+- The status bar at the top displays various icons and the time (3:06).
+- Below the status bar is a teal header with the title "To-do List."
+- Two tabs are present: "MY TASK LIST" and "ASSIGNED BY ME," with "MY TASK LIST" currently selected.
+- A single task, "Get groceries," is listed under "MY TASK LIST."
+- A section labeled "COMPLETED TASKS" is visible but currently empty.
+- A yellow circular button with a plus sign is located at the bottom right, likely for adding new tasks.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: Contains the title "To-do List" and two tabs.
+- **Tabs**: "MY TASK LIST" and "ASSIGNED BY ME."
+- **List Row**: Displays the task "Get groceries."
+- **Section Header**: "COMPLETED TASKS."
+- **Button**: Yellow circular button with a plus sign at the bottom right.
+
+D) Primary actions + navigation:
+- The primary action is adding a new task, indicated by the yellow circular button with a plus sign.
+- Navigation is facilitated by the tabs at the top, allowing switching between "MY TASK LIST" and "ASSIGNED BY ME."
+
+• Recap:
+- **Screen type/purpose**: To-do list application interface.
+- **Key components**: Header, tabs, list row, section header, and button.
+- **Primary CTA(s)**: Adding a new task via the yellow circular button.
+- **Navigation/footer**: Tabs at the top for navigation, no footer or bottom nav present.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Lock icon (high confidence)
+   - Information icon (high confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi icon (high confidence)
+   - Unknown icon (low confidence)
+   - Battery icon (high confidence)
+   - Time: 3:06

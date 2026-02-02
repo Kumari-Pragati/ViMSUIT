@@ -1,0 +1,41 @@
+A) Screen purpose and type:
+The screen appears to be a final implementation of a mobile app interface, likely for a scholarship search and application tracking platform. It offers users the option to either unlock full access for a fee or continue using free resources.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for Bluetooth, Wi-Fi, battery, and time (4:14).
+2. Header/app bar with the app name "SCHOLLY" partially visible.
+3. Form fields for U.S. citizenship, GPA, grade level, and college/university selection.
+4. A pop-up window with two options: "UNLOCK FULL ACCESS" for $2.99 or continue with free resources.
+5. A red button asking if the user has a join code.
+6. Footer with a "FIND MY MATCHES" button.
+
+C) Component inventory (grouped):
+1. Status bar
+2. Header/app bar
+3. Form fields (U.S. Citizen, GPA, Grade Level, College/University)
+4. Pop-up window with two options
+5. Red button for join code
+6. Footer with "FIND MY MATCHES" button
+
+D) Primary actions + navigation:
+- Primary CTA: "UNLOCK FULL ACCESS" for $2.99 or continue with free resources.
+- Secondary CTA: "FIND MY MATCHES" button in the footer.
+
+• Recap:
+- Screen type/purpose: Scholarship search and application tracking platform.
+- Key components: Status bar, header/app bar, form fields, pop-up window, red button, and footer button.
+- Primary CTA(s): Unlock full access or continue with free resources.
+- Navigation/footer: "FIND MY MATCHES" button in the footer.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - FAK (low confidence)
+   - Lock icon
+   - Android robot icon
+
+2) Right-side system/status icons + time:
+   - Bluetooth icon (high confidence)
+   - Wi-Fi icon (high confidence)
+   - Do Not Disturb icon (high confidence)
+   - Battery icon (high confidence)
+   - Time: 4:14

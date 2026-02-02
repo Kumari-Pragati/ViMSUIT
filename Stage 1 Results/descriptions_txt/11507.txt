@@ -1,0 +1,49 @@
+A) Screen purpose and type:
+The screen appears to be a pop-up notification from the Saavn app, prompting the user to update the app to get the latest and greatest listening experience.
+
+B) Layout top → bottom:
+1. Status bar at the top with various icons and the time (5:50).
+2. A black header with the text "What kinds of music do you like?" and a subtitle "Pick all you want."
+3. A semi-transparent overlay covering the main content area.
+4. A white pop-up window with an illustration of a person wearing headphones.
+5. The text "Update Saavn" below the illustration.
+6. A message: "Update Saavn to get the latest and greatest listening experience!"
+7. A green button labeled "Update Saavn" at the bottom of the pop-up.
+
+C) Component inventory (grouped):
+- Status bar
+- Header/app bar
+- Title: "What kinds of music do you like?"
+- Subtitle: "Pick all you want"
+- Overlay
+- Pop-up window
+- Illustration of a person wearing headphones
+- Text: "Update Saavn"
+- Message: "Update Saavn to get the latest and greatest listening experience!"
+- Button: "Update Saavn"
+
+D) Primary actions + navigation:
+- The primary action is to update the Saavn app by clicking the "Update Saavn" button.
+- There is a "DONE" button at the bottom right, likely to dismiss the pop-up and return to the previous screen.
+
+• Recap:
+- Screen type/purpose: Pop-up notification to update the Saavn app.
+- Key components: Status bar, header, overlay, pop-up window, illustration, text, and button.
+- Primary CTA(s): "Update Saavn" button.
+- Navigation/footer: "DONE" button at the bottom right.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (high confidence)
+   - Facebook (high confidence)
+   - Key icon (high confidence)
+   - Envelope icon (high confidence)
+   - Information icon (high confidence)
+   - Satellite icon (high confidence)
+   - Lock icon (high confidence)
+   - Robot icon (high confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi icon (high confidence)
+   - Battery icon (high confidence)
+   - Time: 5:50 (high confidence)

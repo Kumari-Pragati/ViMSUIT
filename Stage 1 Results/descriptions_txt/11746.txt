@@ -1,0 +1,44 @@
+A) Screen purpose and type:
+The screen is a vocabulary learning interface, likely part of a language learning app, designed to teach new words and phrases.
+
+B) Layout top → bottom:
+- The status bar at the top shows connectivity, battery, and time (8:06).
+- Below the status bar is a blue header labeled "Vocabulary" with a back arrow on the left and a light bulb icon on the right.
+- A progress bar indicates 1/11, suggesting this is the first of 11 vocabulary items.
+- A large image of a smiling woman with curly hair occupies the center of the screen.
+- Below the image, the word "content / contente" is displayed in blue, with "happy" in gray beneath it.
+- A circular play button is centered below the text.
+- At the bottom, a call-to-action button reads "LISTEN TO THE KEY PHRASE."
+
+C) Component inventory (grouped):
+- Status bar: connectivity, battery, time
+- Header: "Vocabulary," back arrow, light bulb icon
+- Progress bar: 1/11
+- Image: woman with curly hair
+- Text: "content / contente," "happy"
+- Play button
+- Footer: "LISTEN TO THE KEY PHRASE" button
+
+D) Primary actions + navigation:
+- Primary CTA: "LISTEN TO THE KEY PHRASE" button
+- Navigation: back arrow in the header for returning to the previous screen
+
+• Screen type/purpose: Vocabulary learning interface
+• Key components: header, progress bar, image, text, play button, footer
+• Primary CTA: "LISTEN TO THE KEY PHRASE" button
+• Navigation/footer: back arrow, "LISTEN TO THE KEY PHRASE" button
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - FAK (low confidence)
+   - likely Lock (low confidence)
+   - likely Lock (low confidence)
+   - likely Lock (low confidence)
+   - likely Lock (low confidence)
+   - likely Lock (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 8:06

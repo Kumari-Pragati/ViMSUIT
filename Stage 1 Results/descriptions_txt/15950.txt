@@ -1,0 +1,59 @@
+A) Screen purpose and type:
+The screen displays a list of popular sports teams, likely from a sports app, allowing users to browse and select teams from different regions.
+
+B) Layout top → bottom:
+1. Status bar at the top shows the time as 11:50 and various app icons.
+2. A green header with a menu icon on the left and the title "Teams" in the center.
+3. A search bar below the header with the placeholder text "Teams."
+4. A segmented control with options for "United," "Europe," "America," "Africa," and "All."
+5. A section labeled "POPULAR" with a list of teams.
+6. A sponsored ad for "Mobile Strike" with a "PLAY GAME" button.
+7. The list of teams includes Real Madrid, Barcelona, Atlético, Sevilla, Bayern München, and Athletic.
+8. At the bottom, there is a chat notification with the text "Hi, Want a Date?"
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Title: "Teams"
+2. **Search Bar**:
+   - Placeholder text: "Teams"
+3. **Segmented Control**:
+   - Options: United, Europe, America, Africa, All
+4. **List Section**:
+   - Title: "POPULAR"
+   - Teams: Real Madrid, Barcelona, Atlético, Sevilla, Bayern München, Athletic
+5. **Sponsored Ad**:
+   - Title: Mobile Strike
+   - Button: "PLAY GAME"
+6. **Chat Notification**:
+   - Text: "Hi, Want a Date?"
+
+D) Primary actions + navigation:
+- **Primary Actions**:
+  - Search for teams using the search bar.
+  - Select a team from the list.
+  - Click the "PLAY GAME" button to play the sponsored game.
+- **Navigation/Footer**:
+  - The chat notification at the bottom is a separate element, not part of the main navigation.
+
+**Recap**:
+- **Screen type/purpose**: Sports team browsing app.
+- **Key components**: Header, search bar, segmented control, list of teams, sponsored ad, chat notification.
+- **Primary CTA(s)**: Search, select team, play game.
+- **Navigation/footer**: Chat notification at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 11:50

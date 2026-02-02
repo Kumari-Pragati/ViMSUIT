@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen is the main interface of a restaurant finder app, designed to allow users to search for restaurants based on their location and preferences.
+
+B) Layout top → bottom:
+1. **Status Bar**: Displays the time (8:32), battery status, and connectivity icons.
+2. **Header/App Bar**: Contains the app name "Restaurant Finder," a search icon, and a menu icon.
+3. **Search Section**: Includes a search bar labeled "Area or Zipcode" and a "Current Location" button with a location icon.
+4. **Place Type Selection**: A grid of icons representing different place types: Restaurant, Cafe, Takeaway, Bakery, Saved, and More.
+5. **Recently Viewed Places**: Placeholder for a list of recently viewed places, currently empty.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: App name, search icon, menu icon.
+- **Search Section**: Search bar, location button.
+- **Place Type Selection**: Icons and labels for Restaurant, Cafe, Takeaway, Bakery, Saved, and More.
+- **Footer**: Placeholder for Recently Viewed Places.
+
+D) Primary actions + navigation:
+- **Primary CTA**: Selecting a place type (Restaurant, Cafe, etc.).
+- **Navigation**: The menu icon in the header likely leads to additional settings or categories.
+- **Footer**: Placeholder for a list of recently viewed places, which can be populated with user interactions.
+
+**Recap**:
+- **Screen type/purpose**: Main interface of a restaurant finder app.
+- **Key components**: Header, search section, place type selection, and a placeholder for recently viewed places.
+- **Primary CTA(s)**: Selecting a place type.
+- **Navigation/footer**: Menu icon in the header, placeholder for recently viewed places.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 8:32

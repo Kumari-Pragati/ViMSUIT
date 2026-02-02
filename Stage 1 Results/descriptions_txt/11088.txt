@@ -1,0 +1,40 @@
+A) Screen purpose and type:
+The screen is a notifications settings page, likely within a mobile app, designed to allow users to manage their notification preferences.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (12:32).
+- Below the status bar is a red header with a menu icon (three horizontal lines) on the left and the title "Notifications" in the center.
+- The main content area displays a toggle switch labeled "Send me discounts and other tasty updates," which is currently enabled (indicated by the yellow circle on the right side of the toggle).
+
+C) Component inventory (grouped):
+- UI Components:
+  - Status Bar
+  - Header/App Bar
+  - Title
+  - Subtitle
+  - Toggle Switch
+  - Menu Icon
+
+D) Primary actions + navigation:
+- The primary action is enabling or disabling notifications for discounts and updates via the toggle switch.
+- Navigation is indicated by the menu icon in the header, which likely leads to a menu or settings page.
+
+• Recap:
+- Screen type/purpose: Notifications settings page
+- Key components: Status bar, header, title, subtitle, toggle switch, menu icon
+- Primary CTA(s): Toggle switch to enable/disable notifications
+- Navigation/footer: Menu icon in the header
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - FAK
+   - likely 8 (low confidence)
+   - likely 0 (low confidence)
+   - likely lock (low confidence)
+   - likely bag (low confidence)
+   - likely robot (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely battery (low confidence)
+   - 12:32

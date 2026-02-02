@@ -1,0 +1,42 @@
+A) Screen purpose and type:
+The screen appears to be from a social media or news app, displaying a feed of posts or articles. The content seems to be related to relationships and personal feelings.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for notifications, signal strength, battery, and the time (8:33).
+2. **Header/App Bar**: Displays "Notifs," "Me," and "More" with a notification badge indicating 1 unread item.
+3. **Post 1**: A news article snippet about Trump and Flynn, with a "Read more..." link, 1 like, and 1 comment.
+4. **Post 2**: A relationship-related post titled "Caring makes girls run away?" with 2 likes and 28 comments.
+5. **Post 3**: A "Feeling" post titled "Winding down," discussing work obligations, with a partial view of the text.
+6. **Bottom Nav/CTA**: A red circular button with a pen icon, likely for creating new content.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "Notifs," "Me," "More," notification badge.
+- **Post Elements**: Title, content, likes, comments, timestamp, category tag.
+- **Footer/CTA**: Red circular button with a pen icon.
+
+D) Primary actions + navigation:
+- **Primary Actions**: Like, comment, read more, create new content.
+- **Navigation**: Switch between "Notifs," "Me," and "More" sections.
+
+**Screen type/purpose**: Social media or news app feed.
+**Key components**: Header, posts, likes, comments, timestamp, category tag, CTA button.
+**Primary CTA(s)**: Like, comment, create new content.
+**Navigation/footer**: Bottom nav with "Notifs," "Me," and "More" sections.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+   - Facebook (likely Facebook (low confidence))
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (likely Wi-Fi (low confidence))
+   - Battery (likely Battery (low confidence))
+   - Time: 8:33

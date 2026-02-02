@@ -1,0 +1,54 @@
+A) Screen purpose and type:
+The screen is a login page for an app called "airG."
+
+B) Layout top → bottom:
+1. The status bar at the top shows various icons and the time (1:19).
+2. Below the status bar, there is a blurred background image of a group of smiling people.
+3. In the center of the image, the "airG" logo is prominently displayed.
+4. Below the logo, there are two text input fields labeled "airG Username" and "Password."
+5. A "Log In" button is positioned below the password field.
+6. At the bottom of the screen, there is a link saying "Not a member yet? Sign Up."
+7. At the very bottom, there is a "Terms & Conditions" link.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Status bar with app icons and time.
+2. **Image**:
+   - Blurred background image of smiling people.
+3. **Title/Logo**:
+   - "airG" logo in the center of the image.
+4. **Input Fields**:
+   - "airG Username" text field.
+   - "Password" text field.
+5. **Button**:
+   - "Log In" button.
+6. **Footer**:
+   - "Not a member yet? Sign Up" link.
+   - "Terms & Conditions" link.
+
+D) Primary actions + navigation:
+- The primary action is to log in by entering the username and password and tapping the "Log In" button.
+- The secondary action is to sign up for a new account by tapping the "Not a member yet? Sign Up" link.
+- The "Terms & Conditions" link likely navigates to the app's terms and conditions page.
+
+**Recap**:
+- **Screen type/purpose**: Login page for the "airG" app.
+- **Key components**: Status bar, blurred background image, "airG" logo, username and password fields, "Log In" button, "Sign Up" link, and "Terms & Conditions" link.
+- **Primary CTA(s)**: "Log In" button and "Sign Up" link.
+- **Navigation/footer**: "Terms & Conditions" link at the bottom.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+   - Facebook (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 1:19

@@ -1,0 +1,58 @@
+A) Screen purpose and type:
+The screen is a real estate listing for a property in San Francisco. It provides detailed information about the property, including its location, price, and availability.
+
+B) Layout top → bottom:
+1. Status bar: Contains various icons and the time (6:42).
+2. Header/app bar: Includes a back arrow on the left and a share icon on the right.
+3. Image: A photo of the property's entrance.
+4. Property details: Address, number of beds, and price.
+5. Availability table: Lists rent, unit number, beds, baths, square footage, and availability status.
+6. Expenses section: Partially visible with a message icon.
+
+C) Component inventory (grouped):
+- Status bar: Icons, time.
+- Header/app bar: Back arrow, share icon.
+- Image: Property entrance photo.
+- Property details: Address, beds, price.
+- Availability table: Rent, unit number, beds, baths, square footage, availability.
+- Expenses section: Message icon.
+
+D) Primary actions + navigation:
+- Primary CTA: Share icon for sharing the property listing.
+- Navigation: Back arrow to return to the previous screen.
+- Footer/bottom nav: Not present in this screenshot.
+
+• Screen type/purpose: Real estate listing.
+• Key components: Property image, address, price, availability table, share icon.
+• Primary CTA: Share icon.
+• Navigation/footer: Back arrow, no footer/bottom nav.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Battery (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (low confidence)
+   - Unknown icon (

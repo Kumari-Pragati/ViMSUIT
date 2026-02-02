@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen is a mobile app interface displaying a list of movies. It appears to be part of a movie streaming or recommendation app.
+
+B) Layout top → bottom:
+1. Status bar at the top with icons for signal, Wi-Fi, battery, and time (5:36).
+2. A red header with a menu icon on the left, the title "MOVIES" in the center, and a search icon on the right.
+3. Two list rows, each containing an image, a title, and a key icon.
+
+C) Component inventory (grouped):
+1. **Header/App Bar**:
+   - Menu icon
+   - Title: "MOVIES"
+   - Search icon
+2. **List Rows**:
+   - Image of a woman in a red floral shirt
+   - Title: "Christmas on the Bayou"
+   - Key icon
+   - Image of a woman with long dark hair
+   - Title: "Kristin's Christmas Past"
+   - Key icon
+3. **Bottom Area**:
+   - No footer or bottom navigation bar is visible.
+
+D) Primary actions + navigation:
+- The primary action is to select a movie from the list.
+- Navigation is facilitated by the menu icon in the header, which likely leads to a menu or settings page.
+
+**Recap**:
+- **Screen type/purpose**: Movie list in a streaming app.
+- **Key components**: Header, list rows with images and titles, key icons.
+- **Primary CTA(s)**: Selecting a movie from the list.
+- **Navigation/footer**: Menu icon in the header for navigation.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+
+2) Right-side system/status icons + time:
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - 5:36

@@ -1,0 +1,48 @@
+A) Screen purpose and type:
+The screen appears to be an onboarding or initial setup screen for a Bitcoin wallet app, guiding the user through the process of receiving Bitcoin.
+
+B) Layout top → bottom:
+- The status bar at the top shows various icons and the time (9:14).
+- Below the status bar is a header with a menu icon on the left and a QR code icon on the right.
+- The title "0.0 BTC" is prominently displayed in the center.
+- A section titled "Receive Bitcoin" explains how to send a wallet address to receive Bitcoin.
+- A "Receive" button is present within this section.
+- A progress indicator shows the user is on the first of three steps.
+- A "Skip All" button is available to bypass the onboarding process.
+- The main content area states "No Transactions" and explains that transactions occur when receiving and sending Bitcoin.
+- At the bottom, there is a navigation bar with "Send," "Overview," and "Receive" buttons.
+
+C) Component inventory (grouped):
+- Status bar: icons, time
+- Header: menu icon, QR code icon
+- Title: "0.0 BTC"
+- Section: "Receive Bitcoin" with explanation and "Receive" button
+- Progress indicator: step 1 of 3
+- "Skip All" button
+- Main content: "No Transactions" and explanation
+- Navigation bar: "Send," "Overview," "Receive" buttons
+
+D) Primary actions + navigation:
+- Primary CTA: "Receive" button in the "Receive Bitcoin" section
+- Navigation: "Send," "Overview," and "Receive" buttons in the navigation bar
+
+• Recap:
+- Screen type/purpose: Initial onboarding for receiving Bitcoin in a wallet app.
+- Key components: Status bar, header, title, "Receive Bitcoin" section, "Receive" button, progress indicator, "Skip All" button, main content, and navigation bar.
+- Primary CTA: "Receive" button.
+- Navigation/footer: "Send," "Overview," and "Receive" buttons in the navigation bar.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - f (likely Facebook)
+   - t (likely Twitter)
+   - t (likely Twitter)
+
+2) Right-side system/status icons + time:
+   - Bluetooth (high confidence)
+   - Wi-Fi (high confidence)
+   - Do Not Disturb (high confidence)
+   - Battery (high confidence)
+   - Time: 9:14

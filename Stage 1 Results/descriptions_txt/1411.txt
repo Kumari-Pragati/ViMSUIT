@@ -1,0 +1,56 @@
+A) Screen purpose and type:
+The screen is a browse page within a mobile app, likely for streaming or watching TV shows and movies. It displays a list of popular, top-rated, and recently added content, filtered by the "Romance" genre.
+
+B) Layout top → bottom:
+1. **Status Bar**: Contains icons for connectivity, battery, and time (11:16).
+2. **Header/App Bar**: Displays the word "Browse" in white text on a blue background.
+3. **Tabs**: Three tabs labeled "Popular," "Top Rated," and "Recently Added," with "Popular" currently selected.
+4. **Genre Filter**: A button labeled "Romance" with an "X" to clear the filter.
+5. **Content List**: A list of TV shows with details such as title, country, genre, rating, and number of reviews.
+6. **Footer/Bottom Nav**: Not visible in the screenshot.
+
+C) Component inventory (grouped):
+- **Header/App Bar**: "Browse"
+- **Tabs**: "Popular," "Top Rated," "Recently Added"
+- **Genre Filter**: "Romance"
+- **Content List**:
+  - Title: "Shuttle Love Millennium"
+  - Country: "CHINA | TV"
+  - Rating: "9.2"
+  - Reviews: "52"
+  - Title: "Healer"
+  - Country: "KOREA | TV"
+  - Rating: "9.8"
+  - Reviews: "4744"
+  - Title: "Pinocchio"
+  - Country: "KOREA | TV"
+  - Rating: "9.5"
+  - Reviews: "3719"
+
+D) Primary actions + navigation:
+- **Primary CTA**: Tapping on a show title to view more details or watch it.
+- **Navigation**: Tapping on the tabs to switch between "Popular," "Top Rated," and "Recently Added" content.
+
+**Recap**:
+- **Screen type/purpose**: Browse page for TV shows and movies.
+- **Key components**: Header, tabs, genre filter, content list.
+- **Primary CTA**: Tap on a show title.
+- **Navigation/footer**: Not visible in the screenshot.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Messages
+   - Facebook
+   - Twitter
+   - Instagram
+   - Spotify
+   - likely SoundCloud (low confidence)
+   - likely Spotify (low confidence)
+   - likely SoundCloud (low confidence)
+   - likely Spotify (low confidence)
+
+2) Right-side system/status icons + time:
+   - likely Bluetooth (low confidence)
+   - likely Wi-Fi (low confidence)
+   - likely Battery (low confidence)
+   - Time: 11:16

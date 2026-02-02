@@ -1,0 +1,38 @@
+A) Screen purpose and type:
+The screen appears to be a fully designed mobile app interface, possibly a home screen or a page showcasing a scenic image.
+
+B) Layout top → bottom:
+1. **Status Bar**: At the top, there is a status bar with various icons, including a battery indicator, signal strength, and the time (4:44).
+2. **Main Image**: Below the status bar, there is a large, central image of a waterfall surrounded by lush greenery.
+3. **Footer Ad**: At the bottom of the screen, there is an advertisement banner with the text "AFRICA IS NOW CLOSER THAN EVER" and a logo for "VueTel."
+
+C) Component inventory (grouped):
+- **Status Bar**: Icons for battery, signal, and time.
+- **Main Image**: A scenic waterfall image.
+- **Footer Ad**: An advertisement banner with text and a logo.
+
+D) Primary actions + navigation:
+- **Primary CTA**: The advertisement banner at the bottom seems to be the primary call-to-action, likely directing users to learn more about VueTel's services.
+- **Navigation/Footer**: There is no visible navigation bar or bottom navigation at the bottom of the screen.
+
+**Recap**:
+- **Screen type/purpose**: A fully designed mobile app interface, likely a home screen or a page showcasing a scenic image.
+- **Key components**: Status bar, main image of a waterfall, and an advertisement banner at the bottom.
+- **Primary CTA**: The advertisement banner at the bottom.
+- **Navigation/footer**: No visible navigation bar or bottom navigation at the bottom of the screen.
+
+STATUS BAR (cropped pass):
+1) Left-side notification/app icons:
+   - Keyhole (low confidence)
+   - Facebook (low confidence)
+   - Satellite (low confidence)
+   - Lock (low confidence)
+   - Robot (low confidence)
+   - Checkmark (low confidence)
+   - Camera (low confidence)
+
+2) Right-side system/status icons + time:
+   - Wi-Fi (high confidence)
+   - Signal (low confidence)
+   - Battery (high confidence)
+   - Time: 4:44
