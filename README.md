@@ -1,2 +1,2 @@
 # ViMSUIT
-ision-Metadata Inferences for Software UI Testing
+Vision-Metadata Inferences for Software UI Testing
