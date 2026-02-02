@@ -1,0 +1,12 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_17346_01,User can take a new photo,WeatherApp,17346,camera,P1,Functional,,,Click on the 'Take New Photo' button.,"The camera interface should open, allowing the user to take a photo."
+TC_17346_02,User can take a new video,WeatherApp,17346,camera,P1,Functional,,,Click on the 'Take New Video' button.,"The camera interface should open, allowing the user to take a video."
+TC_17346_03,User can select an existing photo or video,WeatherApp,17346,camera,P1,Functional,,,Click on the 'Sel' | Select an existing photo or video from the gallery.,The selected photo or video should be displayed on the screen.
+TC_17346_04,User can submit a photo or video,WeatherApp,17346,camera,P1,Functional,,,Click on the 'Submit' button after selecting a photo or video.,"The photo or video should be submitted successfully, and a confirmation message should be displayed."
+TC_17346_05,User cannot submit without selecting a photo or video,WeatherApp,17346,camera,P1,Negative,,,Click on the 'Submit' button without selecting a photo or video.,An error message should be displayed indicating that a photo or video is required.
+TC_17346_06,User can navigate to the settings,WeatherApp,17346,camera,P1,Functional,,,Click on the gear icon in the title section.,The settings screen should be displayed.
+TC_17346_07,User can search for a different location,WeatherApp,17346,camera,P1,Functional,,,Click on the search bar and enter a new location.,The search results for the new location should be displayed.
+TC_17346_08,User can access the advertisement,WeatherApp,17346,camera,P1,Functional,,,Click on the 'hotwire' advertisement.,The user should be redirected to the advertisement's landing page.
+TC_17346_09,User can access the current location,WeatherApp,17346,camera,P1,Functional,,,"Click on the current location 'Greensboro, NC'.",The user should be redirected to the current location's weather page.
+TC_17346_10,User can access the settings,WeatherApp,17346,camera,P1,Functional,,,Click on the gear icon in the title section.,The settings screen should be displayed.
+TC_17346_11,User can access the search bar,WeatherApp,17346,camera,P1,Functional,,,Click on the search bar.,The search bar should be active and ready for input.

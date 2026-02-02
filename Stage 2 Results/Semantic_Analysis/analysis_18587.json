@@ -1,0 +1,452 @@
+{
+  "screen_id": "18587",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 116,
+  "testable_elements": 11,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18587_01",
+      "class_name": "Test_18587_1858701",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mainMenu",
+        "raw_value": "id_mainMenu",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858701.java"
+    },
+    {
+      "test_case_id": "TC_18587_02",
+      "class_name": "Test_18587_1858702",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mainMenu",
+        "raw_value": "id_mainMenu",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858702.java"
+    },
+    {
+      "test_case_id": "TC_18587_03",
+      "class_name": "Test_18587_1858703",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_avatar",
+        "raw_value": "id_avatar",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858703.java"
+    },
+    {
+      "test_case_id": "TC_18587_04",
+      "class_name": "Test_18587_1858704",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mainMenu",
+        "raw_value": "id_mainMenu",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858704.java"
+    },
+    {
+      "test_case_id": "TC_18587_05",
+      "class_name": "Test_18587_1858705",
+      "element_id": "el_57",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_pager",
+        "raw_value": "id_pager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858705.java"
+    },
+    {
+      "test_case_id": "TC_18587_06",
+      "class_name": "Test_18587_1858706",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_17",
+        "el_18",
+        "el_57",
+        "el_106",
+        "el_112",
+        "el_113",
+        "el_90"
+      ],
+      "element_count": 11,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_avatar",
+          "raw_value": "id_avatar",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_switchAccount",
+          "raw_value": "id_switchAccount",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_search",
+          "raw_value": "id_search",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_info",
+          "raw_value": "id_info",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_donate",
+          "raw_value": "id_donate",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_mainMenu",
+          "raw_value": "id_mainMenu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_actionPeople",
+          "raw_value": "id_actionPeople",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_actionMenu",
+          "raw_value": "id_actionMenu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_actionEngine",
+          "raw_value": "id_actionEngine",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9227272727272727,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18587/Test_18587_1858706.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/avatar",
+      "class": "com.facebook.drawee.view.SimpleDraweeView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        105,
+        154,
+        231
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_avatar",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/switchAccount",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        600,
+        84,
+        768,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_switchAccount",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/search",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        768,
+        84,
+        936,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/info",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        936,
+        84,
+        1104,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_info",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/donate",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        84,
+        1272,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_donate",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/mainMenu",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_mainMenu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        589,
+        1440,
+        2224
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_106",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/actionPeople",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2224,
+        479,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_actionPeople",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_112",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/actionMenu",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        479,
+        2224,
+        962,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_actionMenu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_113",
+      "resource_id": "com.andrewtretiakov.followers_assistant:id/actionEngine",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        962,
+        2224,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_actionEngine",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_90",
+      "resource_id": "android:id/list",
+      "class": "com.tretiakov.absframework.views.AbsRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        740,
+        1440,
+        929
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

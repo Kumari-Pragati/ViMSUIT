@@ -1,0 +1,468 @@
+{
+  "screen_id": "17105",
+  "primary_ctas": "\"CHECK AVAILABILITY\" button.",
+  "total_elements": 113,
+  "testable_elements": 9,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17105_001",
+      "class_name": "Test_17105_17105001",
+      "element_id": "el_108",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_check_availability_button",
+        "raw_value": "id_check_availability_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105001.java"
+    },
+    {
+      "test_case_id": "TC_17105_002",
+      "class_name": "Test_17105_17105002",
+      "element_id": "el_108",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_check_availability_button",
+        "raw_value": "id_check_availability_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105002.java"
+    },
+    {
+      "test_case_id": "TC_17105_003",
+      "class_name": "Test_17105_17105003",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_floorplan_list",
+        "raw_value": "id_floorplan_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105003.java"
+    },
+    {
+      "test_case_id": "TC_17105_004",
+      "class_name": "Test_17105_17105004",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_floorplan_list",
+        "raw_value": "id_floorplan_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105004.java"
+    },
+    {
+      "test_case_id": "TC_17105_005",
+      "class_name": "Test_17105_17105005",
+      "element_ids": [
+        "el_43",
+        "el_48",
+        "el_108",
+        "el_23"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_show_more_floorplan",
+          "raw_value": "id_show_more_floorplan",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_expand_collapse",
+          "raw_value": "id_expand_collapse",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_check_availability_button",
+          "raw_value": "id_check_availability_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105005.java"
+    },
+    {
+      "test_case_id": "TC_17105_006",
+      "class_name": "Test_17105_17105006",
+      "element_ids": [
+        "el_43",
+        "el_48",
+        "el_108",
+        "el_23"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_show_more_floorplan",
+          "raw_value": "id_show_more_floorplan",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_expand_collapse",
+          "raw_value": "id_expand_collapse",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_check_availability_button",
+          "raw_value": "id_check_availability_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105006.java"
+    },
+    {
+      "test_case_id": "TC_17105_007",
+      "class_name": "Test_17105_17105007",
+      "element_id": "el_48",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_expand_collapse",
+        "raw_value": "id_expand_collapse",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105007.java"
+    },
+    {
+      "test_case_id": "TC_17105_008",
+      "class_name": "Test_17105_17105008",
+      "element_ids": [
+        "el_12",
+        "el_14",
+        "el_26",
+        "el_27",
+        "el_36",
+        "el_43",
+        "el_48",
+        "el_108",
+        "el_23"
+      ],
+      "element_count": 9,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_image_pager_view",
+          "raw_value": "id_image_pager_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_profile_image",
+          "raw_value": "id_profile_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_add_fav",
+          "raw_value": "id_action_add_fav",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_profile_scroll",
+          "raw_value": "id_profile_scroll",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_floorplan_list",
+          "raw_value": "id_floorplan_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_show_more_floorplan",
+          "raw_value": "id_show_more_floorplan",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_expand_collapse",
+          "raw_value": "id_expand_collapse",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_check_availability_button",
+          "raw_value": "id_check_availability_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9333333333333333,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17105/Test_17105_17105008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.forrent.frmobile:id/image_pager_view",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        280
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_image_pager_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.forrent.frmobile:id/profile_image",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        280
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_profile_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.forrent.frmobile:id/action_add_fav",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Favorites"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_add_fav",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "com.forrent.frmobile:id/profile_scroll",
+      "class": "android.support.v4.widget.NestedScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_profile_scroll",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "com.forrent.frmobile:id/floorplan_list",
+      "class": "com.forrent.frmobile.customviews.NonScrollableListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        811,
+        1412,
+        1049
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_floorplan_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_43",
+      "resource_id": "com.forrent.frmobile:id/show_more_floorplan",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "View All",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1105,
+        364,
+        1231
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_show_more_floorplan",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_48",
+      "resource_id": "com.forrent.frmobile:id/expand_collapse",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Read More\u2026",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        2174,
+        419,
+        2300
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_expand_collapse",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_108",
+      "resource_id": "com.forrent.frmobile:id/check_availability_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Check Availability",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2210,
+        1440,
+        2378
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_check_availability_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

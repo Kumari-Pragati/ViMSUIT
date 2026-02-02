@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12449,58,1,1,id/countries_list;id/countries_list;id/countries_list;id/countries_list;id/countries_list,5,5,100.0%,Main Screen Actions

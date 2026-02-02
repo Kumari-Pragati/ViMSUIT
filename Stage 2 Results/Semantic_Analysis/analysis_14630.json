@@ -1,0 +1,933 @@
+{
+  "screen_id": "14630",
+  "primary_ctas": "Selecting different tabs to view different categories of cat images.\n- **Navigation/footer**: Back arrow for navigation to the previous screen.",
+  "total_elements": 107,
+  "testable_elements": 16,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14630_01",
+      "class_name": "Test_14630_1463001",
+      "element_ids": [
+        "el_8",
+        "el_34",
+        "el_37",
+        "el_41",
+        "el_44",
+        "el_48",
+        "el_51",
+        "el_87",
+        "el_88",
+        "el_85",
+        "el_90",
+        "el_92",
+        "el_94",
+        "el_97",
+        "el_100",
+        "el_103"
+      ],
+      "element_count": 16,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager_layout",
+          "raw_value": "id_viewpager_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView13",
+          "raw_value": "id_imageView13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView14",
+          "raw_value": "id_imageView14",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView15",
+          "raw_value": "id_imageView15",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView16",
+          "raw_value": "id_imageView16",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView17",
+          "raw_value": "id_imageView17",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView18",
+          "raw_value": "id_imageView18",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_volume",
+          "raw_value": "id_action_volume",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_repeat",
+          "raw_value": "id_action_repeat",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8125,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463001.java"
+    },
+    {
+      "test_case_id": "TC_14630_02",
+      "class_name": "Test_14630_1463002",
+      "element_ids": [
+        "el_8",
+        "el_34",
+        "el_37",
+        "el_41",
+        "el_44",
+        "el_48",
+        "el_51",
+        "el_87",
+        "el_88",
+        "el_85",
+        "el_90",
+        "el_92",
+        "el_94",
+        "el_97",
+        "el_100",
+        "el_103"
+      ],
+      "element_count": 16,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager_layout",
+          "raw_value": "id_viewpager_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView13",
+          "raw_value": "id_imageView13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView14",
+          "raw_value": "id_imageView14",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView15",
+          "raw_value": "id_imageView15",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView16",
+          "raw_value": "id_imageView16",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView17",
+          "raw_value": "id_imageView17",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView18",
+          "raw_value": "id_imageView18",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_volume",
+          "raw_value": "id_action_volume",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_repeat",
+          "raw_value": "id_action_repeat",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8125,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463002.java"
+    },
+    {
+      "test_case_id": "TC_14630_03",
+      "class_name": "Test_14630_1463003",
+      "element_ids": [
+        "el_8",
+        "el_34",
+        "el_37",
+        "el_41",
+        "el_44",
+        "el_48",
+        "el_51",
+        "el_87",
+        "el_88",
+        "el_85",
+        "el_90",
+        "el_92",
+        "el_94",
+        "el_97",
+        "el_100",
+        "el_103"
+      ],
+      "element_count": 16,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager_layout",
+          "raw_value": "id_viewpager_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView13",
+          "raw_value": "id_imageView13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView14",
+          "raw_value": "id_imageView14",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView15",
+          "raw_value": "id_imageView15",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView16",
+          "raw_value": "id_imageView16",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView17",
+          "raw_value": "id_imageView17",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_imageView18",
+          "raw_value": "id_imageView18",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_volume",
+          "raw_value": "id_action_volume",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_repeat",
+          "raw_value": "id_action_repeat",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8125,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463003.java"
+    },
+    {
+      "test_case_id": "TC_14630_04",
+      "class_name": "Test_14630_1463004",
+      "element_id": "el_90",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463004.java"
+    },
+    {
+      "test_case_id": "TC_14630_05",
+      "class_name": "Test_14630_1463005",
+      "element_id": "el_87",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_volume",
+        "raw_value": "id_action_volume",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463005.java"
+    },
+    {
+      "test_case_id": "TC_14630_06",
+      "class_name": "Test_14630_1463006",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imageView13",
+        "raw_value": "id_imageView13",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463006.java"
+    },
+    {
+      "test_case_id": "TC_14630_07",
+      "class_name": "Test_14630_1463007",
+      "element_id": "el_85",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463007.java"
+    },
+    {
+      "test_case_id": "TC_14630_08",
+      "class_name": "Test_14630_1463008",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imageView13",
+        "raw_value": "id_imageView13",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463008.java"
+    },
+    {
+      "test_case_id": "TC_14630_09",
+      "class_name": "Test_14630_1463009",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager_layout",
+        "raw_value": "id_viewpager_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463009.java"
+    },
+    {
+      "test_case_id": "TC_14630_10",
+      "class_name": "Test_14630_1463010",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager_layout",
+        "raw_value": "id_viewpager_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14630/Test_14630_1463010.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.limfy.catsounds:id/viewpager_layout",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        448,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewpager_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "com.limfy.catsounds:id/imageView13",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        265,
+        518,
+        615,
+        868
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView13",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_37",
+      "resource_id": "com.limfy.catsounds:id/imageView14",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        825,
+        518,
+        1175,
+        868
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView14",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.limfy.catsounds:id/imageView15",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        265,
+        1065,
+        615,
+        1415
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView15",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "com.limfy.catsounds:id/imageView16",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        825,
+        1065,
+        1175,
+        1415
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView16",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_48",
+      "resource_id": "com.limfy.catsounds:id/imageView17",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        265,
+        1612,
+        615,
+        1962
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView17",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_51",
+      "resource_id": "com.limfy.catsounds:id/imageView18",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        825,
+        1612,
+        1175,
+        1962
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView18",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_87",
+      "resource_id": "com.limfy.catsounds:id/action_volume",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_volume",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_88",
+      "resource_id": "com.limfy.catsounds:id/action_repeat",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_repeat",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_85",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_90",
+      "resource_id": "android:id/progress",
+      "class": "android.support.v7.widget.AppCompatSeekBar",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        196,
+        150,
+        1104,
+        213
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_92",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ScrollingTabContainerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_94",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ScrollingTabContainerView$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        69,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_97",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ScrollingTabContainerView$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        73,
+        280,
+        530,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_100",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ScrollingTabContainerView$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        534,
+        280,
+        991,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_103",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ScrollingTabContainerView$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        995,
+        280,
+        1440,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

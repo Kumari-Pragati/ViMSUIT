@@ -1,0 +1,304 @@
+{
+  "screen_id": "13896",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 23,
+  "testable_elements": 4,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_13896_001",
+      "class_name": "Test_13896_13896001",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.drawable_an_31",
+        "raw_value": "drawable_an_31",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896001.java"
+    },
+    {
+      "test_case_id": "TC_13896_002",
+      "class_name": "Test_13896_13896002",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896002.java"
+    },
+    {
+      "test_case_id": "TC_13896_003",
+      "class_name": "Test_13896_13896003",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_8",
+        "el_14"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7875,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896003.java"
+    },
+    {
+      "test_case_id": "TC_13896_004",
+      "class_name": "Test_13896_13896004",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896004.java"
+    },
+    {
+      "test_case_id": "TC_13896_005",
+      "class_name": "Test_13896_13896005",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_8",
+        "el_14"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7875,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896005.java"
+    },
+    {
+      "test_case_id": "TC_13896_006",
+      "class_name": "Test_13896_13896006",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896006.java"
+    },
+    {
+      "test_case_id": "TC_13896_007",
+      "class_name": "Test_13896_13896007",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896007.java"
+    },
+    {
+      "test_case_id": "TC_13896_008",
+      "class_name": "Test_13896_13896008",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896008.java"
+    },
+    {
+      "test_case_id": "TC_13896_009",
+      "class_name": "Test_13896_13896009",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13896/Test_13896_13896009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "forqan.tech.families1:drawable/an_31",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        286,
+        925,
+        646
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_31",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "forqan.tech.families1:drawable/an_7",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        270,
+        925,
+        662
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_7",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        51,
+        51,
+        239,
+        239
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "",
+      "class": "android.widget.GridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        25,
+        848,
+        1414,
+        2237
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

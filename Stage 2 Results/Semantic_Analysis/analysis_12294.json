@@ -1,0 +1,164 @@
+{
+  "screen_id": "12294",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 40,
+  "testable_elements": 2,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12294_001",
+      "class_name": "Test_12294_12294001",
+      "element_ids": [
+        "el_18",
+        "el_34"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_skipButton",
+          "raw_value": "id_skipButton",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12294/Test_12294_12294001.java"
+    },
+    {
+      "test_case_id": "TC_12294_002",
+      "class_name": "Test_12294_12294002",
+      "element_ids": [
+        "el_18",
+        "el_34"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_skipButton",
+          "raw_value": "id_skipButton",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12294/Test_12294_12294002.java"
+    },
+    {
+      "test_case_id": "TC_12294_003",
+      "class_name": "Test_12294_12294003",
+      "element_ids": [
+        "el_18",
+        "el_34"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_skipButton",
+          "raw_value": "id_skipButton",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12294/Test_12294_12294003.java"
+    },
+    {
+      "test_case_id": "TC_12294_004",
+      "class_name": "Test_12294_12294004",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_skipButton",
+        "raw_value": "id_skipButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12294/Test_12294_12294004.java"
+    },
+    {
+      "test_case_id": "TC_12294_005",
+      "class_name": "Test_12294_12294005",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_skipButton",
+        "raw_value": "id_skipButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12294/Test_12294_12294005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_18",
+      "resource_id": "and.p2l:id/pager",
+      "class": "com.mobisparks.base.ui.viewpager.CustomViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        303,
+        375,
+        1136,
+        1579
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "and.p2l:id/skipButton",
+      "class": "com.mobisparks.base.ui.widget.CustomButton",
+      "text": "Skip This",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        566,
+        2167,
+        874,
+        2335
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_skipButton",
+      "selector_confidence": 0.95
+    }
+  ]
+}

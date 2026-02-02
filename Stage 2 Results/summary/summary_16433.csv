@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16433,187,2,2,id/img_back_btn;id/recycler_view;id/recycler_view;id/recycler_view;id/img_back_btn;id/recycler_view;id/img_back_btn;id/recycler_view;id/img_back_btn;id/recycler_view;id/img_back_btn;id/img_back_btn;id/recycler_view;id/img_back_btn;id/recycler_view,9,9,100.0%,"""Download"" button for each widget.
+- **Navigation/footer**: Back arrow in the header, partially visible footer with more widget images."

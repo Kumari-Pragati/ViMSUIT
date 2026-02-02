@@ -1,0 +1,5 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_15194_001,Verify splash screen display,mediaplayer,15194,mediaplayer,P1,Functional,,,Open the application. | Observe the splash screen.,"The splash screen should display the status bar with icons, the image of four individuals, the 'FIRST ALERT WEATHER' logo, and the text 'Let's Get Started'."
+TC_15194_002,Verify splash screen text interaction,mediaplayer,15194,mediaplayer,P1,Functional,,,Open the application. | Tap on the 'Let's Get Started' text.,The application should transition to the next screen.
+TC_15194_003,Verify splash screen image interaction,mediaplayer,15194,mediaplayer,P1,Functional,,,Open the application. | Tap on the image of four individuals.,The application should transition to the next screen.
+TC_15194_004,Verify splash screen logo interaction,mediaplayer,15194,mediaplayer,P1,Functional,,,Open the application. | Tap on the 'FIRST ALERT WEATHER' logo.,The application should transition to the next screen.

@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15095,47,5,3,id/header_browse_btn;id/body_scrollView;id/header_search_btn;id/body_scrollView,4,4,60.0%,Main Screen Actions

@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17075,28,2,1,id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up;id/button_sign_in_or_sign_up,7,7,50.0%,"""Sign in or create account"" button."

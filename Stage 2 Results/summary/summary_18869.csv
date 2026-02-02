@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18869,16,2,1,id/reset_pass;id/reset_pass;id/reset_pass;id/reset_pass;id/reset_pass;id/reset_pass;id/reset_pass,7,7,50.0%,Main Screen Actions

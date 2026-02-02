@@ -1,0 +1,261 @@
+{
+  "screen_id": "12952",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 107,
+  "testable_elements": 5,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12952_001",
+      "class_name": "Test_12952_12952001",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952001.java"
+    },
+    {
+      "test_case_id": "TC_12952_002",
+      "class_name": "Test_12952_12952002",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952002.java"
+    },
+    {
+      "test_case_id": "TC_12952_003",
+      "class_name": "Test_12952_12952003",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952003.java"
+    },
+    {
+      "test_case_id": "TC_12952_004",
+      "class_name": "Test_12952_12952004",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Scan QR Code']\"",
+        "raw_value": [
+          "Scan QR Code"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952004.java"
+    },
+    {
+      "test_case_id": "TC_12952_005",
+      "class_name": "Test_12952_12952005",
+      "element_id": "el_7",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952005.java"
+    },
+    {
+      "test_case_id": "TC_12952_006",
+      "class_name": "Test_12952_12952006",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952006.java"
+    },
+    {
+      "test_case_id": "TC_12952_007",
+      "class_name": "Test_12952_12952007",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952007.java"
+    },
+    {
+      "test_case_id": "TC_12952_008",
+      "class_name": "Test_12952_12952008",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12952/Test_12952_12952008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "piuk.blockchain.android:id/action_qr_main",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Scan QR Code"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Scan QR Code']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "piuk.blockchain.android:id/no_transaction_include",
+      "class": "android.support.v4.widget.NestedScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        532,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_7",
+      "resource_id": "piuk.blockchain.android:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "piuk.blockchain.android:id/pager_onboarding",
+      "class": "piuk.blockchain.android.ui.customviews.LockableViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        532,
+        1440,
+        1372
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

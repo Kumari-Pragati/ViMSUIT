@@ -1,0 +1,193 @@
+{
+  "screen_id": "11177",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 19,
+  "testable_elements": 2,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11177_01",
+      "class_name": "Test_11177_1117701",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117701.java"
+    },
+    {
+      "test_case_id": "TC_11177_02",
+      "class_name": "Test_11177_1117702",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117702.java"
+    },
+    {
+      "test_case_id": "TC_11177_03",
+      "class_name": "Test_11177_1117703",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117703.java"
+    },
+    {
+      "test_case_id": "TC_11177_04",
+      "class_name": "Test_11177_1117704",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117704.java"
+    },
+    {
+      "test_case_id": "TC_11177_05",
+      "class_name": "Test_11177_1117705",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117705.java"
+    },
+    {
+      "test_case_id": "TC_11177_06",
+      "class_name": "Test_11177_1117706",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117706.java"
+    },
+    {
+      "test_case_id": "TC_11177_07",
+      "class_name": "Test_11177_1117707",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117707.java"
+    },
+    {
+      "test_case_id": "TC_11177_08",
+      "class_name": "Test_11177_1117708",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117708.java"
+    },
+    {
+      "test_case_id": "TC_11177_09",
+      "class_name": "Test_11177_1117709",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117709.java"
+    },
+    {
+      "test_case_id": "TC_11177_10",
+      "class_name": "Test_11177_1117710",
+      "element_id": "el_6",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tutorial_close_button",
+        "raw_value": "id_tutorial_close_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11177/Test_11177_1117710.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_6",
+      "resource_id": "com.baretreemedia.trollsapp:id/tutorial_close_button",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1077,
+        506,
+        1168,
+        597
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tutorial_close_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "com.baretreemedia.trollsapp:id/tutorial_pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        216,
+        682,
+        1224,
+        1954
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tutorial_pager",
+      "selector_confidence": 0.95
+    }
+  ]
+}

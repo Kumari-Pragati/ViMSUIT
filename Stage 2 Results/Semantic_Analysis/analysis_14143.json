@@ -1,0 +1,193 @@
+{
+  "screen_id": "14143",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 35,
+  "testable_elements": 3,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14143_01",
+      "class_name": "Test_14143_1414301",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414301.java"
+    },
+    {
+      "test_case_id": "TC_14143_02",
+      "class_name": "Test_14143_1414302",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_signup",
+        "raw_value": "id_signup",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414302.java"
+    },
+    {
+      "test_case_id": "TC_14143_03",
+      "class_name": "Test_14143_1414303",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414303.java"
+    },
+    {
+      "test_case_id": "TC_14143_04",
+      "class_name": "Test_14143_1414304",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414304.java"
+    },
+    {
+      "test_case_id": "TC_14143_05",
+      "class_name": "Test_14143_1414305",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414305.java"
+    },
+    {
+      "test_case_id": "TC_14143_06",
+      "class_name": "Test_14143_1414306",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414306.java"
+    },
+    {
+      "test_case_id": "TC_14143_07",
+      "class_name": "Test_14143_1414307",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414307.java"
+    },
+    {
+      "test_case_id": "TC_14143_08",
+      "class_name": "Test_14143_1414308",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login",
+        "raw_value": "id_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14143/Test_14143_1414308.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_13",
+      "resource_id": "com.lynda.android.root:id/pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "com.lynda.android.root:id/signup",
+      "class": "com.lynda.infra.widgets.buttons.OnBoardingButton",
+      "text": "Start your free trial",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1735,
+        1335,
+        1903
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_signup",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.lynda.android.root:id/login",
+      "class": "com.lynda.infra.widgets.buttons.OnBoardingButton",
+      "text": "Already a member?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1973,
+        1335,
+        2141
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login",
+      "selector_confidence": 0.95
+    }
+  ]
+}

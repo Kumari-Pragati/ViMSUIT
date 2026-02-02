@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10180,134,8,8,id/grid_view;id/menu_search;id/login_btn;id/menu_search;id/menu_search;id/grid_view;id/drawer_layout;id/menu_search;id/grid_view;id/content_wrapper;id/login_btn;id/content_wrapper;id/login_btn;id/drawer_layout;id/menu_search;id/grid_view;id/content_wrapper;id/login_btn;id/content_wrapper;id/login_btn,8,8,100.0%,"Selecting a movie from the list.
+- **Navigation/footer**: Menu icon in the header for navigation."

@@ -1,0 +1,167 @@
+{
+  "screen_id": "16617",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 121,
+  "testable_elements": 4,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16617_001",
+      "class_name": "Test_16617_16617001",
+      "element_id": "el_117",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_continue_button",
+        "raw_value": "id_continue_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16617/Test_16617_16617001.java"
+    },
+    {
+      "test_case_id": "TC_16617_002",
+      "class_name": "Test_16617_16617002",
+      "element_id": "el_117",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_continue_button",
+        "raw_value": "id_continue_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16617/Test_16617_16617002.java"
+    },
+    {
+      "test_case_id": "TC_16617_003",
+      "class_name": "Test_16617_16617003",
+      "element_id": "el_117",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_continue_button",
+        "raw_value": "id_continue_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16617/Test_16617_16617003.java"
+    },
+    {
+      "test_case_id": "TC_16617_004",
+      "class_name": "Test_16617_16617004",
+      "element_id": "el_117",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_continue_button",
+        "raw_value": "id_continue_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16617/Test_16617_16617004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_19",
+      "resource_id": "com.baronservices.mobilemet.kelo:id/application_root_view_content_without_bars",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_application_root_view_content_without_bars",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.baronservices.mobilemet.kelo:id/station_logo",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        350,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_station_logo",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "com.baronservices.mobilemet.kelo:id/menu_button",
+      "class": "com.wsi.android.framework.app.ui.widget.MenuButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1299,
+        259,
+        1440,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_117",
+      "resource_id": "com.baronservices.mobilemet.kelo:id/continue_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Let's Get Started",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2196,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_continue_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

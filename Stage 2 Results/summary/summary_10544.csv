@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10544,299,13,3,id/btnSearch1;id/autoCompleteTextView1;id/scrollView;id/scrollView;id/autoCompleteTextView1;id/btnSearch1;id/btnSearch1,7,7,23.1%,Main Screen Actions

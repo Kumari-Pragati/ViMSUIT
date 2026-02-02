@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15950,204,7,7,id/search_query_section;id/search_query_section;id/search_query_section;id/search_query_section;id/search_query_section;id/search_query_section;id/drawer_layout;id/search_query_section;id/left_action;id/nativeAdIcon;id/list,7,7,100.0%,"Search, select team, play game.
+- **Navigation/footer**: Chat notification at the bottom."

@@ -1,0 +1,157 @@
+{
+  "screen_id": "1622",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 40,
+  "testable_elements": 1,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1622_001",
+      "class_name": "Test_1622_1622001",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622001.java"
+    },
+    {
+      "test_case_id": "TC_1622_002",
+      "class_name": "Test_1622_1622002",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622002.java"
+    },
+    {
+      "test_case_id": "TC_1622_003",
+      "class_name": "Test_1622_1622003",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622003.java"
+    },
+    {
+      "test_case_id": "TC_1622_004",
+      "class_name": "Test_1622_1622004",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622004.java"
+    },
+    {
+      "test_case_id": "TC_1622_005",
+      "class_name": "Test_1622_1622005",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622005.java"
+    },
+    {
+      "test_case_id": "TC_1622_006",
+      "class_name": "Test_1622_1622006",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622006.java"
+    },
+    {
+      "test_case_id": "TC_1622_007",
+      "class_name": "Test_1622_1622007",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622007.java"
+    },
+    {
+      "test_case_id": "TC_1622_008",
+      "class_name": "Test_1622_1622008",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1622/Test_1622_1622008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_22",
+      "resource_id": "com.vingle.android:id/pager",
+      "class": "com.vingle.custom_view.VingleViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        312,
+        1440,
+        1953
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

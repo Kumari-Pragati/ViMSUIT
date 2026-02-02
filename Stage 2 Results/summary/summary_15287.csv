@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15287,32,6,3,id/sign_up_button;id/sign_up_button;id/email;id/password;id/password;id/password,6,6,50.0%,"""SIGN UP"" button.
+- **Navigation/footer**: No visible navigation or footer at the bottom of the screen."

@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18587,116,11,11,id/mainMenu;id/mainMenu;id/avatar;id/mainMenu;id/pager;id/avatar;id/switchAccount;id/search;id/info;id/donate;id/mainMenu;id/pager;id/actionPeople;id/actionMenu;id/actionEngine;id/list,6,6,100.0%,Main Screen Actions

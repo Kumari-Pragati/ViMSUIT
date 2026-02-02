@@ -1,0 +1,435 @@
+{
+  "screen_id": "10180",
+  "primary_ctas": "Selecting a movie from the list.\n- **Navigation/footer**: Menu icon in the header for navigation.",
+  "total_elements": 134,
+  "testable_elements": 8,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10180_01",
+      "class_name": "Test_10180_1018001",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_grid_view",
+        "raw_value": "id_grid_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018001.java"
+    },
+    {
+      "test_case_id": "TC_10180_02",
+      "class_name": "Test_10180_1018002",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_menu_search",
+        "raw_value": "id_menu_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018002.java"
+    },
+    {
+      "test_case_id": "TC_10180_03",
+      "class_name": "Test_10180_1018003",
+      "element_id": "el_41",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_btn",
+        "raw_value": "id_login_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018003.java"
+    },
+    {
+      "test_case_id": "TC_10180_04",
+      "class_name": "Test_10180_1018004",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_menu_search",
+        "raw_value": "id_menu_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018004.java"
+    },
+    {
+      "test_case_id": "TC_10180_05",
+      "class_name": "Test_10180_1018005",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_menu_search",
+        "raw_value": "id_menu_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018005.java"
+    },
+    {
+      "test_case_id": "TC_10180_06",
+      "class_name": "Test_10180_1018006",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_grid_view",
+        "raw_value": "id_grid_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018006.java"
+    },
+    {
+      "test_case_id": "TC_10180_07",
+      "class_name": "Test_10180_1018007",
+      "element_ids": [
+        "el_8",
+        "el_15",
+        "el_31",
+        "el_36",
+        "el_41",
+        "el_52",
+        "el_57",
+        "el_13"
+      ],
+      "element_count": 8,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_search",
+          "raw_value": "id_menu_search",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_grid_view",
+          "raw_value": "id_grid_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_content_wrapper",
+          "raw_value": "id_content_wrapper",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_btn",
+          "raw_value": "id_login_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_content_wrapper",
+          "raw_value": "id_content_wrapper",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_btn",
+          "raw_value": "id_login_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.93125,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018007.java"
+    },
+    {
+      "test_case_id": "TC_10180_08",
+      "class_name": "Test_10180_1018008",
+      "element_ids": [
+        "el_8",
+        "el_15",
+        "el_31",
+        "el_36",
+        "el_41",
+        "el_52",
+        "el_57",
+        "el_13"
+      ],
+      "element_count": 8,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_search",
+          "raw_value": "id_menu_search",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_grid_view",
+          "raw_value": "id_grid_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_content_wrapper",
+          "raw_value": "id_content_wrapper",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_btn",
+          "raw_value": "id_login_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_content_wrapper",
+          "raw_value": "id_content_wrapper",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_btn",
+          "raw_value": "id_login_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.93125,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10180/Test_10180_1018008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.aetn.lifetime.watch:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.aetn.lifetime.watch:id/menu_search",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "SEARCH"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1244,
+        97,
+        1440,
+        265
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_menu_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.aetn.lifetime.watch:id/grid_view",
+      "class": "com.aetn.watch.widget.HeaderGridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_grid_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "com.aetn.lifetime.watch:id/content_wrapper",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        288,
+        1412,
+        1341
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_content_wrapper",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.aetn.lifetime.watch:id/login_btn",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Christmas on the Bayou"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        95,
+        1122,
+        235,
+        1262
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "com.aetn.lifetime.watch:id/content_wrapper",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        1355,
+        1412,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_content_wrapper",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "com.aetn.lifetime.watch:id/login_btn",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Kristin's Christmas Past"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        95,
+        2189,
+        235,
+        2329
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        87,
+        196,
+        273
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

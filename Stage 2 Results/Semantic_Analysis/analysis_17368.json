@@ -1,0 +1,652 @@
+{
+  "screen_id": "17368",
+  "primary_ctas": "Selecting a recipe, liking a recipe, and sharing a recipe.\n- **Navigation/footer**: Navigation back to the previous screen using the back arrow in the header.",
+  "total_elements": 55,
+  "testable_elements": 15,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17368_001",
+      "class_name": "Test_17368_17368001",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368001.java"
+    },
+    {
+      "test_case_id": "TC_17368_002",
+      "class_name": "Test_17368_17368002",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368002.java"
+    },
+    {
+      "test_case_id": "TC_17368_003",
+      "class_name": "Test_17368_17368003",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368003.java"
+    },
+    {
+      "test_case_id": "TC_17368_004",
+      "class_name": "Test_17368_17368004",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368004.java"
+    },
+    {
+      "test_case_id": "TC_17368_005",
+      "class_name": "Test_17368_17368005",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368005.java"
+    },
+    {
+      "test_case_id": "TC_17368_006",
+      "class_name": "Test_17368_17368006",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368006.java"
+    },
+    {
+      "test_case_id": "TC_17368_007",
+      "class_name": "Test_17368_17368007",
+      "element_ids": [
+        "el_20",
+        "el_28",
+        "el_36",
+        "el_44",
+        "el_12",
+        "el_13",
+        "el_16",
+        "el_21",
+        "el_24",
+        "el_29",
+        "el_32",
+        "el_37",
+        "el_40",
+        "el_45",
+        "el_48"
+      ],
+      "element_count": 15,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.6900000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368007.java"
+    },
+    {
+      "test_case_id": "TC_17368_008",
+      "class_name": "Test_17368_17368008",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17368/Test_17368_17368008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_20",
+      "resource_id": "in.betterbutter.android:id/likeButton",
+      "class": "in.betterbutter.android.fonts.TypefaceButton",
+      "text": "26",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        1154,
+        193,
+        1238
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "in.betterbutter.android:id/likeButton",
+      "class": "in.betterbutter.android.fonts.TypefaceButton",
+      "text": "40",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        762,
+        1154,
+        917,
+        1238
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "in.betterbutter.android:id/likeButton",
+      "class": "in.betterbutter.android.fonts.TypefaceButton",
+      "text": "53",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2095,
+        190,
+        2179
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "in.betterbutter.android:id/likeButton",
+      "class": "in.betterbutter.android.fonts.TypefaceButton",
+      "text": "22",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        762,
+        2095,
+        912,
+        2179
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "in.betterbutter.android:id/backButton",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        175,
+        259
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "in.betterbutter.android:id/recyclerView",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        301,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "in.betterbutter.android:id/image",
+      "class": "in.betterbutter.android.custom_views.ImageViewRatioSmallSquare",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        14,
+        301,
+        706,
+        924
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "in.betterbutter.android:id/whatsApp",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        594,
+        1154,
+        678,
+        1238
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "in.betterbutter.android:id/image",
+      "class": "in.betterbutter.android.custom_views.ImageViewRatioSmallSquare",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        734,
+        301,
+        1426,
+        924
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "in.betterbutter.android:id/whatsApp",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1314,
+        1154,
+        1398,
+        1238
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_32",
+      "resource_id": "in.betterbutter.android:id/image",
+      "class": "in.betterbutter.android.custom_views.ImageViewRatioSmallSquare",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        14,
+        1301,
+        706,
+        1924
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_37",
+      "resource_id": "in.betterbutter.android:id/whatsApp",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        594,
+        2095,
+        678,
+        2179
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "in.betterbutter.android:id/image",
+      "class": "in.betterbutter.android.custom_views.ImageViewRatioSmallSquare",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        734,
+        1301,
+        1426,
+        1924
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_45",
+      "resource_id": "in.betterbutter.android:id/whatsApp",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1314,
+        2095,
+        1398,
+        2179
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_48",
+      "resource_id": "in.betterbutter.android:id/image",
+      "class": "in.betterbutter.android.custom_views.ImageViewRatioSmallSquare",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        14,
+        2242,
+        706,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

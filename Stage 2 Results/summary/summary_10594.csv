@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10594,62,5,5,id/viewSwitcher;id/map;id/viewSwitcher;id/activity_registration__pager;id/fragment_phone_insertion__welcomeContinueButton;id/activity_registration__pager;id/map;id/fragment_phone_insertion__welcomeContinueButton,6,6,100.0%,Main Screen Actions

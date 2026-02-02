@@ -1,0 +1,358 @@
+{
+  "screen_id": "11433",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 136,
+  "testable_elements": 10,
+  "matched_test_cases": 3,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11433_01",
+      "class_name": "Test_11433_1143301",
+      "element_ids": [
+        "el_131",
+        "el_133"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11433/Test_11433_1143301.java"
+    },
+    {
+      "test_case_id": "TC_11433_02",
+      "class_name": "Test_11433_1143302",
+      "element_ids": [
+        "el_131",
+        "el_133"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11433/Test_11433_1143302.java"
+    },
+    {
+      "test_case_id": "TC_11433_03",
+      "class_name": "Test_11433_1143303",
+      "element_ids": [
+        "el_131",
+        "el_133"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11433/Test_11433_1143303.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_20",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        470,
+        1384,
+        546
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        681,
+        1384,
+        757
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_47",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        892,
+        1384,
+        968
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_56",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        1103,
+        1384,
+        1179
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_86",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        1683,
+        1384,
+        1759
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_95",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/txt_list_item_general_detail",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        1894,
+        1384,
+        1970
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txt_list_item_general_detail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_100",
+      "resource_id": "com.yardi.systems.rentcafe.resident:id/spinner_fragment_registration_details_security_questions",
+      "class": "android.support.v7.widget.AppCompatSpinner",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        729,
+        2038,
+        1384,
+        2182
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_spinner_fragment_registration_details_security_questions",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_131",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_133",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_9",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2182
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

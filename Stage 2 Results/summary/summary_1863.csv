@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1863,25,3,3,id/showHintsButton;id/hintStartButton;id/showHintsButton;id/hintStartButton;id/showHintsButton;id/hintStartButton,7,7,100.0%,Main Screen Actions

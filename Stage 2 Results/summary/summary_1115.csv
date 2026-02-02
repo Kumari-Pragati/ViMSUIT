@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1115,41,4,4,id/button_login;id/button_sign_up;id/button_login;id/button_sign_up;id/button_login;id/button_sign_up;id/button_login;id/button_sign_up,11,11,100.0%,"""Login"" and ""Sign Up"" buttons.
+- **Navigation/footer**: Back arrow in the header."

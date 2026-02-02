@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13079,81,8,8,id/drawer_layout;id/drawer_layout;id/recyclerView;id/card_view;id/button_popup;id/card_view;id/button_popup;id/fab;id/card_view;id/card_view;id/fab;id/button_popup;id/card_view,7,7,100.0%,"The red circular button with a plus sign for adding a new vehicle configuration.
+- **Navigation/footer**: The menu icon in the header provides navigation options."

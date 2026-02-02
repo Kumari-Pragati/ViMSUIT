@@ -1,0 +1,392 @@
+{
+  "screen_id": "10522",
+  "primary_ctas": "Download, upload, share.\n- **Navigation/footer**: Back arrow in the header, Verizon advertisement at the bottom.",
+  "total_elements": 32,
+  "testable_elements": 9,
+  "matched_test_cases": 11,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10522_01",
+      "class_name": "Test_10522_1052201",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052201.java"
+    },
+    {
+      "test_case_id": "TC_10522_02",
+      "class_name": "Test_10522_1052202",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_downloadBt",
+        "raw_value": "id_downloadBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052202.java"
+    },
+    {
+      "test_case_id": "TC_10522_03",
+      "class_name": "Test_10522_1052203",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_downloadBt",
+        "raw_value": "id_downloadBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052203.java"
+    },
+    {
+      "test_case_id": "TC_10522_04",
+      "class_name": "Test_10522_1052204",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_shareBt",
+        "raw_value": "id_shareBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052204.java"
+    },
+    {
+      "test_case_id": "TC_10522_05",
+      "class_name": "Test_10522_1052205",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_textSizeBt",
+        "raw_value": "id_textSizeBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052205.java"
+    },
+    {
+      "test_case_id": "TC_10522_06",
+      "class_name": "Test_10522_1052206",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_colorBt",
+        "raw_value": "id_colorBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052206.java"
+    },
+    {
+      "test_case_id": "TC_10522_07",
+      "class_name": "Test_10522_1052207",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_moveBt",
+        "raw_value": "id_moveBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052207.java"
+    },
+    {
+      "test_case_id": "TC_10522_08",
+      "class_name": "Test_10522_1052208",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052208.java"
+    },
+    {
+      "test_case_id": "TC_10522_09",
+      "class_name": "Test_10522_1052209",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_colorBt",
+        "raw_value": "id_colorBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052209.java"
+    },
+    {
+      "test_case_id": "TC_10522_10",
+      "class_name": "Test_10522_1052210",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_colorBt",
+        "raw_value": "id_colorBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052210.java"
+    },
+    {
+      "test_case_id": "TC_10522_11",
+      "class_name": "Test_10522_1052211",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_moveBt",
+        "raw_value": "id_moveBt",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10522/Test_10522_1052211.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_14",
+      "resource_id": "muchoapps.felizcumpleanos:id/downloadBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Back"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        11,
+        291,
+        469,
+        402
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_downloadBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "muchoapps.felizcumpleanos:id/setWallpaperBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Set as wallpaper"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        491,
+        291,
+        949,
+        402
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_setWallpaperBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "muchoapps.felizcumpleanos:id/shareBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Share"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        971,
+        291,
+        1429,
+        402
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_shareBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "muchoapps.felizcumpleanos:id/textSizeBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Text size"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        11,
+        2021,
+        469,
+        2174
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_textSizeBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "muchoapps.felizcumpleanos:id/colorBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Text Color"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        491,
+        2021,
+        949,
+        2174
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_colorBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "muchoapps.felizcumpleanos:id/moveBt",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Move text"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        971,
+        2021,
+        1429,
+        2174
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_moveBt",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        484,
+        1118,
+        955,
+        1305
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.m",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2206,
+        1440,
+        2381
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

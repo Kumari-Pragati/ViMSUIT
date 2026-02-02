@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11393,104,3,3,id/action_search;id/action_search;id/action_search;id/action_search;id/action_search;id/action_search,6,6,100.0%,"Search functionality.
+- **Navigation/footer**: Back arrow, search icon, and menu icon in the header; no footer or bottom navigation bar."

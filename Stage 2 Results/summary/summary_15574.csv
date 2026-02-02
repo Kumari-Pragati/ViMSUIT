@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15574,73,6,2,id/button_for_sale;id/button_for_rent;id/button_for_sale;id/button_for_rent,4,4,33.3%,"Selecting either ""For Sale"" or ""For Rent"" to filter property listings.
+- **Navigation/footer**: ""Back"" button for returning to the previous screen and a menu icon for additional options."

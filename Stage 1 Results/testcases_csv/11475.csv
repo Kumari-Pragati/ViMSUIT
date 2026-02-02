@@ -1,0 +1,9 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_11475_01,Open the app and navigate to the 'Ideas' tab,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on the 'ИДЕИ' (Ideas) tab at the bottom of the screen,The screen should display a grid of nail design images
+TC_11475_02,Navigate to the 'Favorites' tab,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on the 'ИЗБРАННОЕ' (Favorites) tab at the bottom of the screen,The screen should display the user's favorite nail design ideas
+TC_11475_03,Navigate to the 'Instructions' tab,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on the 'ИНСТРУКЦИИ' (Instructions) tab at the bottom of the screen,The screen should display nail art instructions
+TC_11475_04,Navigate to the 'Articles' tab,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on the 'СТАТЬИ' (Articles) tab at the bottom of the screen,The screen should display nail art articles
+TC_11475_05,Click on a nail design image,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on a nail design image in the grid,The app should display a detailed view of the selected nail design
+TC_11475_06,Click on the menu icon in the header,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on the menu icon in the header,The app should display the menu options
+TC_11475_07,Click on a navigation tab,NailArtApp,11475,gallery,P1,Functional,,,"Open the Nail Art App | Tap on a navigation tab (e.g., 'ИДЕИ', 'ИЗБРАННОЕ', 'ИНСТРУКЦИИ', 'СТАТЬИ')",The screen should navigate to the selected tab
+TC_11475_08,Click on a nail design image in the grid,NailArtApp,11475,gallery,P1,Functional,,,Open the Nail Art App | Tap on a nail design image in the grid,The app should display a detailed view of the selected nail design

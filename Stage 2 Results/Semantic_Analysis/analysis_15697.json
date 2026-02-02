@@ -1,0 +1,583 @@
+{
+  "screen_id": "15697",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 375,
+  "testable_elements": 19,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15697_001",
+      "class_name": "Test_15697_15697001",
+      "element_id": "el_328",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_phone",
+        "raw_value": "id_verify_phone",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697001.java"
+    },
+    {
+      "test_case_id": "TC_15697_002",
+      "class_name": "Test_15697_15697002",
+      "element_id": "el_328",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_phone",
+        "raw_value": "id_verify_phone",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697002.java"
+    },
+    {
+      "test_case_id": "TC_15697_003",
+      "class_name": "Test_15697_15697003",
+      "element_id": "el_328",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_phone",
+        "raw_value": "id_verify_phone",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697003.java"
+    },
+    {
+      "test_case_id": "TC_15697_004",
+      "class_name": "Test_15697_15697004",
+      "element_id": "el_175",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_btn",
+        "raw_value": "id_verify_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697004.java"
+    },
+    {
+      "test_case_id": "TC_15697_005",
+      "class_name": "Test_15697_15697005",
+      "element_id": "el_328",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_phone",
+        "raw_value": "id_verify_phone",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697005.java"
+    },
+    {
+      "test_case_id": "TC_15697_006",
+      "class_name": "Test_15697_15697006",
+      "element_id": "el_328",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_verify_phone",
+        "raw_value": "id_verify_phone",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15697/Test_15697_15697006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.eventshigh.nearme.app:id/nav_drawer",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_nav_drawer",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "com.eventshigh.nearme.app:id/view_pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_view_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_80",
+      "resource_id": "com.eventshigh.nearme.app:id/date_filter",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_date_filter",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_88",
+      "resource_id": "com.eventshigh.nearme.app:id/view_pager_date",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2196
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_view_pager_date",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_150",
+      "resource_id": "com.eventshigh.nearme.app:id/event_grid",
+      "class": "com.eventshigh.nearme.app.view.AutofitRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2196
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_event_grid",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_175",
+      "resource_id": "com.eventshigh.nearme.app:id/verify_btn",
+      "class": "android.support.v7.widget.bs",
+      "text": "Verify",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        578,
+        1370,
+        753
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_verify_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_304",
+      "resource_id": "com.eventshigh.nearme.app:id/tabs",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2196,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tabs",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_309",
+      "resource_id": "com.eventshigh.nearme.app:id/tab",
+      "class": "android.support.v7.widget.bs",
+      "text": "Me",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2229,
+        318,
+        2358
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_313",
+      "resource_id": "com.eventshigh.nearme.app:id/tab",
+      "class": "android.support.v7.widget.bs",
+      "text": "Explore",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        402,
+        2229,
+        678,
+        2358
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_317",
+      "resource_id": "com.eventshigh.nearme.app:id/tab",
+      "class": "android.support.v7.widget.bs",
+      "text": "Offers",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        762,
+        2226,
+        1038,
+        2362
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_321",
+      "resource_id": "com.eventshigh.nearme.app:id/tab",
+      "class": "android.support.v7.widget.bs",
+      "text": "Week",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1122,
+        2229,
+        1398,
+        2358
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_328",
+      "resource_id": "com.eventshigh.nearme.app:id/verify_phone",
+      "class": "android.support.v7.widget.bs",
+      "text": "Verify your phone number",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        2074,
+        1237,
+        2150
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_verify_phone",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_329",
+      "resource_id": "com.eventshigh.nearme.app:id/verify_phone_close",
+      "class": "android.support.v7.widget.ay",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1237,
+        2028,
+        1405,
+        2196
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_verify_phone_close",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_82",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        720,
+        252
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_85",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_306",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2196,
+        360,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_310",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        360,
+        2196,
+        720,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_314",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        2196,
+        1080,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_318",
+      "resource_id": "",
+      "class": "android.support.design.widget.cj",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1080,
+        2196,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

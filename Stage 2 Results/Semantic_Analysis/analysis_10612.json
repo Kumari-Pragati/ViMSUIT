@@ -1,0 +1,336 @@
+{
+  "screen_id": "10612",
+  "primary_ctas": "\"Create Circle\" and \"Join a Circle\" buttons.\n- **Navigation/footer**: List of menu options and \"FAQs\" at the bottom.",
+  "total_elements": 162,
+  "testable_elements": 8,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10612_01",
+      "class_name": "Test_10612_1061201",
+      "element_id": "el_107",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_circle_switcher",
+        "raw_value": "id_circle_switcher",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061201.java"
+    },
+    {
+      "test_case_id": "TC_10612_02",
+      "class_name": "Test_10612_1061202",
+      "element_id": "el_115",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_create_circle_button",
+        "raw_value": "id_create_circle_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061202.java"
+    },
+    {
+      "test_case_id": "TC_10612_03",
+      "class_name": "Test_10612_1061203",
+      "element_id": "el_116",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_join_circle_button",
+        "raw_value": "id_join_circle_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061203.java"
+    },
+    {
+      "test_case_id": "TC_10612_04",
+      "class_name": "Test_10612_1061204",
+      "element_id": "el_104",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_checkin_item",
+        "raw_value": "id_checkin_item",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061204.java"
+    },
+    {
+      "test_case_id": "TC_10612_05",
+      "class_name": "Test_10612_1061205",
+      "element_id": "el_104",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_checkin_item",
+        "raw_value": "id_checkin_item",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061205.java"
+    },
+    {
+      "test_case_id": "TC_10612_06",
+      "class_name": "Test_10612_1061206",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_nav_root",
+        "raw_value": "id_drawer_nav_root",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061206.java"
+    },
+    {
+      "test_case_id": "TC_10612_07",
+      "class_name": "Test_10612_1061207",
+      "element_id": "el_104",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_checkin_item",
+        "raw_value": "id_checkin_item",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061207.java"
+    },
+    {
+      "test_case_id": "TC_10612_08",
+      "class_name": "Test_10612_1061208",
+      "element_id": "el_104",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_checkin_item",
+        "raw_value": "id_checkin_item",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061208.java"
+    },
+    {
+      "test_case_id": "TC_10612_09",
+      "class_name": "Test_10612_1061209",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_nav_root",
+        "raw_value": "id_drawer_nav_root",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10612/Test_10612_1061209.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.fsp.android.h:id/drawer_nav_root",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_nav_root",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.fsp.android.h:id/pillar",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1804,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pillar",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_104",
+      "resource_id": "com.fsp.android.h:id/checkin_item",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "CHECK IN",
+      "content_desc": [
+        "CHECK IN"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1137,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checkin_item",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_107",
+      "resource_id": "com.fsp.android.h:id/circle_switcher",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1064,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_circle_switcher",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_115",
+      "resource_id": "com.fsp.android.h:id/create_circle_button",
+      "class": "android.support.v7.widget.ab",
+      "text": "Create Circle",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        472,
+        448,
+        595
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_create_circle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_116",
+      "resource_id": "com.fsp.android.h:id/join_circle_button",
+      "class": "android.support.v7.widget.ab",
+      "text": "Join a Circle",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        483,
+        472,
+        875,
+        595
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_join_circle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "",
+      "class": "com.google.maps.api.android.lib6.gmm6.api.z",
+      "text": "",
+      "content_desc": [
+        "Google Map"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Google Map']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_102",
+      "resource_id": "",
+      "class": "android.support.v7.widget.o",
+      "text": "",
+      "content_desc": [
+        "Close navigation drawer"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Close navigation drawer']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "screen_id": "14862",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 25,
+  "testable_elements": 5,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14862_001",
+      "class_name": "Test_14862_14862001",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_email",
+        "raw_value": "id_login_edittext_email",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862001.java"
+    },
+    {
+      "test_case_id": "TC_14862_002",
+      "class_name": "Test_14862_14862002",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_email",
+        "raw_value": "id_login_edittext_email",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862002.java"
+    },
+    {
+      "test_case_id": "TC_14862_003",
+      "class_name": "Test_14862_14862003",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_email",
+        "raw_value": "id_login_edittext_email",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862003.java"
+    },
+    {
+      "test_case_id": "TC_14862_004",
+      "class_name": "Test_14862_14862004",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_password",
+        "raw_value": "id_login_edittext_password",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862004.java"
+    },
+    {
+      "test_case_id": "TC_14862_005",
+      "class_name": "Test_14862_14862005",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_checkbox_remember",
+        "raw_value": "id_login_checkbox_remember",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862005.java"
+    },
+    {
+      "test_case_id": "TC_14862_006",
+      "class_name": "Test_14862_14862006",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_password",
+        "raw_value": "id_login_edittext_password",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862006.java"
+    },
+    {
+      "test_case_id": "TC_14862_007",
+      "class_name": "Test_14862_14862007",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_edittext_email",
+        "raw_value": "id_login_edittext_email",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14862/Test_14862_14862007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.dylvian.mango.activities:id/toolbar_back",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        84,
+        168,
+        182
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_toolbar_back",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "com.dylvian.mango.activities:id/login_edittext_email",
+      "class": "com.dylvian.mango.activities.widgets.FontedEditText",
+      "text": "appcrawler2@gmail.com",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        387,
+        1370,
+        525
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_edittext_email",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.dylvian.mango.activities:id/login_edittext_password",
+      "class": "com.dylvian.mango.activities.widgets.FontedEditText",
+      "text": "Crowd3116",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        560,
+        1370,
+        698
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_edittext_password",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.dylvian.mango.activities:id/login_checkbox_remember",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1247,
+        733,
+        1370,
+        856
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_checkbox_remember",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.dylvian.mango.activities:id/login_button_login",
+      "class": "com.dylvian.mango.activities.widgets.FontedButton",
+      "text": "LOGIN",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        926,
+        1370,
+        1042
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_button_login",
+      "selector_confidence": 0.95
+    }
+  ]
+}

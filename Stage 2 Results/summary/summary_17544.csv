@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17544,13,3,3,id/LoginButton;id/RegisterButton;id/fb_login_button;id/LoginButton;id/LoginButton;id/RegisterButton;id/fb_login_button;id/fb_login_button;id/LoginButton;id/RegisterButton;id/fb_login_button;id/LoginButton;id/LoginButton,9,9,100.0%,Main Screen Actions

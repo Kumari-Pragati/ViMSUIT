@@ -1,0 +1,248 @@
+{
+  "screen_id": "11393",
+  "primary_ctas": "Search functionality.\n- **Navigation/footer**: Back arrow, search icon, and menu icon in the header; no footer or bottom navigation bar.",
+  "total_elements": 104,
+  "testable_elements": 3,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11393_01",
+      "class_name": "Test_11393_1139301",
+      "element_ids": [
+        "el_101",
+        "el_102",
+        "el_6"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['Search']\"",
+          "raw_value": [
+            "Search"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7333333333333334,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139301.java"
+    },
+    {
+      "test_case_id": "TC_11393_02",
+      "class_name": "Test_11393_1139302",
+      "element_id": "el_101",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139302.java"
+    },
+    {
+      "test_case_id": "TC_11393_03",
+      "class_name": "Test_11393_1139303",
+      "element_ids": [
+        "el_101",
+        "el_102",
+        "el_6"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['Search']\"",
+          "raw_value": [
+            "Search"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7333333333333334,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139303.java"
+    },
+    {
+      "test_case_id": "TC_11393_04",
+      "class_name": "Test_11393_1139304",
+      "element_id": "el_101",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139304.java"
+    },
+    {
+      "test_case_id": "TC_11393_05",
+      "class_name": "Test_11393_1139305",
+      "element_id": "el_101",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139305.java"
+    },
+    {
+      "test_case_id": "TC_11393_06",
+      "class_name": "Test_11393_1139306",
+      "element_ids": [
+        "el_101",
+        "el_102",
+        "el_6"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"['Search']\"",
+          "raw_value": [
+            "Search"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7333333333333334,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11393/Test_11393_1139306.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_101",
+      "resource_id": "com.mixlr.android:id/action_search",
+      "class": "com.android.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Search"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1048,
+        84,
+        1244,
+        252
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Search']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_102",
+      "resource_id": "",
+      "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_6",
+      "resource_id": "",
+      "class": "se.emilsjolander.stickylistheaders.WrapperViewList",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

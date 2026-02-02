@@ -1,0 +1,219 @@
+{
+  "screen_id": "13921",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 17,
+  "testable_elements": 4,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_13921_01",
+      "class_name": "Test_13921_1392101",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_email_field",
+        "raw_value": "id_login_email_field",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392101.java"
+    },
+    {
+      "test_case_id": "TC_13921_02",
+      "class_name": "Test_13921_1392102",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_email_field",
+        "raw_value": "id_login_email_field",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392102.java"
+    },
+    {
+      "test_case_id": "TC_13921_03",
+      "class_name": "Test_13921_1392103",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_sign_in_button",
+        "raw_value": "id_login_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392103.java"
+    },
+    {
+      "test_case_id": "TC_13921_04",
+      "class_name": "Test_13921_1392104",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_sign_in_button",
+        "raw_value": "id_login_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392104.java"
+    },
+    {
+      "test_case_id": "TC_13921_05",
+      "class_name": "Test_13921_1392105",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_email_field",
+        "raw_value": "id_login_email_field",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392105.java"
+    },
+    {
+      "test_case_id": "TC_13921_06",
+      "class_name": "Test_13921_1392106",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_skip_button",
+        "raw_value": "id_login_skip_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392106.java"
+    },
+    {
+      "test_case_id": "TC_13921_07",
+      "class_name": "Test_13921_1392107",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_skip_button",
+        "raw_value": "id_login_skip_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392107.java"
+    },
+    {
+      "test_case_id": "TC_13921_08",
+      "class_name": "Test_13921_1392108",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_skip_button",
+        "raw_value": "id_login_skip_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13921/Test_13921_1392108.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_13",
+      "resource_id": "com.autolist.autolist:id/login_email_field",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "appcrawler4@gmail.com",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1067,
+        1384,
+        1227
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_email_field",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.autolist.autolist:id/login_sign_in_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign in",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1255,
+        1384,
+        1444
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_sign_in_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.autolist.autolist:id/login_skip_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Skip",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1472,
+        1384,
+        1661
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_skip_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_9",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

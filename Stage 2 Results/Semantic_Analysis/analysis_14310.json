@@ -1,0 +1,89 @@
+{
+  "screen_id": "14310",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 19,
+  "testable_elements": 1,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14310_01",
+      "class_name": "Test_14310_1431001",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listview",
+        "raw_value": "id_listview",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14310/Test_14310_1431001.java"
+    },
+    {
+      "test_case_id": "TC_14310_02",
+      "class_name": "Test_14310_1431002",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listview",
+        "raw_value": "id_listview",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14310/Test_14310_1431002.java"
+    },
+    {
+      "test_case_id": "TC_14310_03",
+      "class_name": "Test_14310_1431003",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listview",
+        "raw_value": "id_listview",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14310/Test_14310_1431003.java"
+    },
+    {
+      "test_case_id": "TC_14310_04",
+      "class_name": "Test_14310_1431004",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listview",
+        "raw_value": "id_listview",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14310/Test_14310_1431004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.attendance.school:id/listview",
+      "class": "com.woozzu.android.widget.IndexableListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_listview",
+      "selector_confidence": 0.95
+    }
+  ]
+}

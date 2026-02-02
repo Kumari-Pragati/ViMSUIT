@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16539,69,8,2,id/edtMdn;id/edtMdn;id/edtMdn;id/edtUsername;id/edtUsername,5,5,25.0%,Main Screen Actions

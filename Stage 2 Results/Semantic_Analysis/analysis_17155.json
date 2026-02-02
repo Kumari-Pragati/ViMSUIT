@@ -1,0 +1,223 @@
+{
+  "screen_id": "17155",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 107,
+  "testable_elements": 4,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17155_01",
+      "class_name": "Test_17155_1715501",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_logoutButton",
+        "raw_value": "id_logoutButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715501.java"
+    },
+    {
+      "test_case_id": "TC_17155_02",
+      "class_name": "Test_17155_1715502",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_logoutButton",
+        "raw_value": "id_logoutButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715502.java"
+    },
+    {
+      "test_case_id": "TC_17155_03",
+      "class_name": "Test_17155_1715503",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_logoutButton",
+        "raw_value": "id_logoutButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715503.java"
+    },
+    {
+      "test_case_id": "TC_17155_04",
+      "class_name": "Test_17155_1715504",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_logoutButton",
+        "raw_value": "id_logoutButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715504.java"
+    },
+    {
+      "test_case_id": "TC_17155_05",
+      "class_name": "Test_17155_1715505",
+      "element_id": "el_36",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_logoutButton",
+        "raw_value": "id_logoutButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715505.java"
+    },
+    {
+      "test_case_id": "TC_17155_06",
+      "class_name": "Test_17155_1715506",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715506.java"
+    },
+    {
+      "test_case_id": "TC_17155_07",
+      "class_name": "Test_17155_1715507",
+      "element_id": "el_7",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715507.java"
+    },
+    {
+      "test_case_id": "TC_17155_08",
+      "class_name": "Test_17155_1715508",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17155/Test_17155_1715508.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.ebay.gumtree.za:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "com.ebay.gumtree.za:id/logoutButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign Out",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1306,
+        1440,
+        1488
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_logoutButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "android:id/list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

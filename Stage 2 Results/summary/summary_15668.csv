@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15668,30,2,1,id/vouchers_button;id/vouchers_button;id/vouchers_button;id/vouchers_button;id/vouchers_button;id/vouchers_button,6,6,50.0%,Main Screen Actions

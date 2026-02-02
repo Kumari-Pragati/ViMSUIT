@@ -1,0 +1,8 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_13079_01,Open the app and navigate to the 'Vehicles' screen,VehicleSettings,13079,gallery,P0,Functional,The app is installed and running,,Open the app | Navigate to the 'Vehicles' screen,The 'Vehicles' screen is displayed
+TC_13079_02,Verify the header and list rows,VehicleSettings,13079,gallery,P0,Functional,The 'Vehicles' screen is open,,"Verify the header shows the menu icon and the title 'Vehicles' | Verify there are two list rows, each with an image, a title, and a subtitle",The header and list rows are displayed correctly
+TC_13079_03,Click on the 'Default' list row,VehicleSettings,13079,gallery,P0,Functional,The 'Vehicles' screen is open,,Click on the 'Default' list row,The 'Default' list row is selected
+TC_13079_04,Click on the '123456' list row,VehicleSettings,13079,gallery,P0,Functional,The 'Vehicles' screen is open,,Click on the '123456' list row,The '123456' list row is selected
+TC_13079_05,Click on the red circular button with a plus sign,VehicleSettings,13079,gallery,P0,Functional,The 'Vehicles' screen is open,,Click on the red circular button with a plus sign,A new vehicle configuration option is added
+TC_13079_06,Navigate back to the previous screen,VehicleSettings,13079,gallery,P0,Functional,The 'Vehicles' screen is open,,Navigate back to the previous screen,The previous screen is displayed
+TC_13079_07,Verify data persistence,VehicleSettings,13079,gallery,P0,Functional,The app is closed and reopened,,Close the app | Reopen the app | Navigate to the 'Vehicles' screen,The 'Vehicles' screen is displayed with the same data as before

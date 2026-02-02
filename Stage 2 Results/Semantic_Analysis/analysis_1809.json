@@ -1,0 +1,167 @@
+{
+  "screen_id": "1809",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 13,
+  "testable_elements": 1,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1809_001",
+      "class_name": "Test_1809_1809001",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809001.java"
+    },
+    {
+      "test_case_id": "TC_1809_002",
+      "class_name": "Test_1809_1809002",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809002.java"
+    },
+    {
+      "test_case_id": "TC_1809_003",
+      "class_name": "Test_1809_1809003",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809003.java"
+    },
+    {
+      "test_case_id": "TC_1809_004",
+      "class_name": "Test_1809_1809004",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809004.java"
+    },
+    {
+      "test_case_id": "TC_1809_005",
+      "class_name": "Test_1809_1809005",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809005.java"
+    },
+    {
+      "test_case_id": "TC_1809_006",
+      "class_name": "Test_1809_1809006",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809006.java"
+    },
+    {
+      "test_case_id": "TC_1809_007",
+      "class_name": "Test_1809_1809007",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809007.java"
+    },
+    {
+      "test_case_id": "TC_1809_008",
+      "class_name": "Test_1809_1809008",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809008.java"
+    },
+    {
+      "test_case_id": "TC_1809_009",
+      "class_name": "Test_1809_1809009",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809009.java"
+    },
+    {
+      "test_case_id": "TC_1809_010",
+      "class_name": "Test_1809_1809010",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_startbtn",
+        "raw_value": "id_startbtn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1809/Test_1809_1809010.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.gartorware.sortinghat:id/startbtn",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Start",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        195,
+        1763,
+        1245,
+        1973
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_startbtn",
+      "selector_confidence": 0.95
+    }
+  ]
+}

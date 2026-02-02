@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18929,14,2,2,id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive;id/dialog_button_negative;id/dialog_button_positive,7,7,100.0%,"""No"" and ""Yes"" buttons.
+- **Navigation/footer**: ""Menu"" option in the header."

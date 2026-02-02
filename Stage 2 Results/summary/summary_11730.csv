@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11730,100,7,6,id/button_play_entity;id/fragment_viewpager_exercise;id/action_tip;id/fragment_viewpager_exercise;id/vocabItemSaveVocab;id/action_tip;id/vocabItemSaveVocab;id/vocabItemSaveVocab;id/vocabItemSaveVocab;id/vocabItemSaveVocab,10,10,85.7%,"Play button for audio playback.
+- **Navigation/footer**: Back arrow for navigation, no footer or bottom navigation bar."

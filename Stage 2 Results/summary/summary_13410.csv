@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13410,54,2,2,id/listview;id/listview;id/listview;id/listview;id/listview;id/listview,8,8,100.0%,"Selecting a workout plan from the list.
+- **Navigation/footer**: Back arrow in the header and icons in the bottom navigation bar."

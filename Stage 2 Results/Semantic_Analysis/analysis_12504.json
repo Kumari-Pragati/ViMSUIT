@@ -1,0 +1,405 @@
+{
+  "screen_id": "12504",
+  "primary_ctas": "\"Get Started\" button.\n- **Navigation/footer**: Back arrow in the header, \"Get Started\" button at the bottom.",
+  "total_elements": 124,
+  "testable_elements": 10,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12504_01",
+      "class_name": "Test_12504_1250401",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250401.java"
+    },
+    {
+      "test_case_id": "TC_12504_02",
+      "class_name": "Test_12504_1250402",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250402.java"
+    },
+    {
+      "test_case_id": "TC_12504_03",
+      "class_name": "Test_12504_1250403",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250403.java"
+    },
+    {
+      "test_case_id": "TC_12504_04",
+      "class_name": "Test_12504_1250404",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250404.java"
+    },
+    {
+      "test_case_id": "TC_12504_05",
+      "class_name": "Test_12504_1250405",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250405.java"
+    },
+    {
+      "test_case_id": "TC_12504_06",
+      "class_name": "Test_12504_1250406",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250406.java"
+    },
+    {
+      "test_case_id": "TC_12504_07",
+      "class_name": "Test_12504_1250407",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_cms_hero_banner_layout",
+        "raw_value": "id_cms_hero_banner_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250407.java"
+    },
+    {
+      "test_case_id": "TC_12504_08",
+      "class_name": "Test_12504_1250408",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250408.java"
+    },
+    {
+      "test_case_id": "TC_12504_09",
+      "class_name": "Test_12504_1250409",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250409.java"
+    },
+    {
+      "test_case_id": "TC_12504_10",
+      "class_name": "Test_12504_1250410",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_BundleDetailsLandingRecyclerView",
+        "raw_value": "id_BundleDetailsLandingRecyclerView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12504/Test_12504_1250410.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.honest.commerce:id/base_activity_drawer",
+      "class": "com.honest.common.drawer.presentation.view.EndDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_base_activity_drawer",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "com.honest.commerce:id/BundleDetailsLandingRecyclerView",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_BundleDetailsLandingRecyclerView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.honest.commerce:id/cms_hero_banner_layout",
+      "class": "com.honest.foundation.cms.presentation.view.CmsAppHeroBannerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        1382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_cms_hero_banner_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "com.honest.commerce:id/cms_hero_banner_layout",
+      "class": "com.honest.foundation.cms.presentation.view.CmsAppHeroBannerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1382,
+        1440,
+        2160
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_cms_hero_banner_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "com.honest.commerce:id/carouselRecyclerView",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2160,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_carouselRecyclerView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.honest.commerce:id/cms_slide_item_image",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2160,
+        549,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_cms_slide_item_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_43",
+      "resource_id": "com.honest.commerce:id/cms_slide_item_image",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        549,
+        2160,
+        1098,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_cms_slide_item_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_48",
+      "resource_id": "com.honest.commerce:id/cms_slide_item_image",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1098,
+        2160,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_cms_slide_item_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "com.honest.commerce:id/bundle_get_started_button",
+      "class": "com.honest.foundation.ui.CustomButton",
+      "text": "Get Started",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2224,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_bundle_get_started_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

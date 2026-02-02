@@ -1,0 +1,1247 @@
+{
+  "screen_id": "10693",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 166,
+  "testable_elements": 24,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10693_001",
+      "class_name": "Test_10693_10693001",
+      "element_ids": [
+        "el_14",
+        "el_46",
+        "el_103",
+        "el_105",
+        "el_107",
+        "el_109",
+        "el_111",
+        "el_113",
+        "el_115",
+        "el_117",
+        "el_119",
+        "el_121",
+        "el_123",
+        "el_125",
+        "el_127",
+        "el_129",
+        "el_131",
+        "el_133",
+        "el_13",
+        "el_16",
+        "el_22",
+        "el_28",
+        "el_34",
+        "el_40"
+      ],
+      "element_count": 24,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_tab_view",
+          "raw_value": "id_tab_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager",
+          "raw_value": "id_viewpager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recyclerview",
+          "raw_value": "id_recyclerview",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8708333333333335,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693001.java"
+    },
+    {
+      "test_case_id": "TC_10693_002",
+      "class_name": "Test_10693_10693002",
+      "element_ids": [
+        "el_14",
+        "el_46",
+        "el_103",
+        "el_105",
+        "el_107",
+        "el_109",
+        "el_111",
+        "el_113",
+        "el_115",
+        "el_117",
+        "el_119",
+        "el_121",
+        "el_123",
+        "el_125",
+        "el_127",
+        "el_129",
+        "el_131",
+        "el_133",
+        "el_13",
+        "el_16",
+        "el_22",
+        "el_28",
+        "el_34",
+        "el_40"
+      ],
+      "element_count": 24,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_tab_view",
+          "raw_value": "id_tab_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager",
+          "raw_value": "id_viewpager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recyclerview",
+          "raw_value": "id_recyclerview",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8708333333333335,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693002.java"
+    },
+    {
+      "test_case_id": "TC_10693_003",
+      "class_name": "Test_10693_10693003",
+      "element_id": "el_105",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_emoji_image",
+        "raw_value": "id_emoji_image",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693003.java"
+    },
+    {
+      "test_case_id": "TC_10693_004",
+      "class_name": "Test_10693_10693004",
+      "element_id": "el_105",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_emoji_image",
+        "raw_value": "id_emoji_image",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693004.java"
+    },
+    {
+      "test_case_id": "TC_10693_005",
+      "class_name": "Test_10693_10693005",
+      "element_ids": [
+        "el_14",
+        "el_46",
+        "el_103",
+        "el_105",
+        "el_107",
+        "el_109",
+        "el_111",
+        "el_113",
+        "el_115",
+        "el_117",
+        "el_119",
+        "el_121",
+        "el_123",
+        "el_125",
+        "el_127",
+        "el_129",
+        "el_131",
+        "el_133",
+        "el_13",
+        "el_16",
+        "el_22",
+        "el_28",
+        "el_34",
+        "el_40"
+      ],
+      "element_count": 24,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_tab_view",
+          "raw_value": "id_tab_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager",
+          "raw_value": "id_viewpager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recyclerview",
+          "raw_value": "id_recyclerview",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_emoji_image",
+          "raw_value": "id_emoji_image",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8708333333333335,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693005.java"
+    },
+    {
+      "test_case_id": "TC_10693_006",
+      "class_name": "Test_10693_10693006",
+      "element_id": "el_105",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_emoji_image",
+        "raw_value": "id_emoji_image",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10693/Test_10693_10693006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_14",
+      "resource_id": "com.yinzcam.nbamoji:id/tab_view",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        448
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_46",
+      "resource_id": "com.yinzcam.nbamoji:id/viewpager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        281,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewpager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_103",
+      "resource_id": "com.yinzcam.nbamoji:id/recyclerview",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        281,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_recyclerview",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_105",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        78,
+        488,
+        454,
+        864
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_107",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        532,
+        488,
+        908,
+        864
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_109",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        986,
+        488,
+        1362,
+        864
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_111",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        78,
+        942,
+        454,
+        1318
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_113",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        532,
+        942,
+        908,
+        1318
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_115",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        986,
+        942,
+        1362,
+        1318
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_117",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        78,
+        1396,
+        454,
+        1772
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_119",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        532,
+        1396,
+        908,
+        1772
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_121",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        986,
+        1396,
+        1362,
+        1772
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_123",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        78,
+        1850,
+        454,
+        2226
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_125",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        532,
+        1850,
+        908,
+        2226
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_127",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        986,
+        1850,
+        1362,
+        2226
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_129",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        78,
+        2304,
+        454,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_131",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        532,
+        2304,
+        908,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_133",
+      "resource_id": "com.yinzcam.nbamoji:id/emoji_image",
+      "class": "com.yinzcam.nbamoji.view.SquareImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        986,
+        2304,
+        1362,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_emoji_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        53,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        280,
+        498,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        498,
+        280,
+        943,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        943,
+        280,
+        1388,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1388,
+        280,
+        1440,
+        448
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

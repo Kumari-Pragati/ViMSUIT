@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15677,36,2,2,id/lv_help_sub;id/lv_help_sub;id/lv_help_sub;id/lv_help_sub;id/lv_help_sub,6,6,100.0%,"Clicking the chevron icons to expand questions.
+- **Navigation/footer**: Back arrow in the header."

@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15449,339,8,8,id/main_page_menu_btn;id/main_page_menu_btn;id/main_page_search_btn;id/text_item_menu_button;id/sound_item_button;id/drawer_layout;id/main_page_menu_btn;id/main_page_search_btn;id/main_page_frame_container;id/lvData;id/text_item_menu_button;id/sound_item_button;id/main_page_menu_btn;id/main_page_search_btn;id/text_item_menu_button;id/sound_item_button;id/lvData;id/lvData,8,8,100.0%,Main Screen Actions

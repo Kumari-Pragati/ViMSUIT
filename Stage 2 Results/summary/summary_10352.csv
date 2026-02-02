@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10352,143,8,5,id/pager;id/pager;id/local_shield;id/local_shield;id/menu_load,9,9,62.5%,"Selecting a prediction (Osmanlispor, Draw, Olympiakos Piraeus)."

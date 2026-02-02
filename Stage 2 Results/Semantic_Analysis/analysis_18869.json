@@ -1,0 +1,154 @@
+{
+  "screen_id": "18869",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 16,
+  "testable_elements": 2,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18869_001",
+      "class_name": "Test_18869_18869001",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869001.java"
+    },
+    {
+      "test_case_id": "TC_18869_002",
+      "class_name": "Test_18869_18869002",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869002.java"
+    },
+    {
+      "test_case_id": "TC_18869_003",
+      "class_name": "Test_18869_18869003",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869003.java"
+    },
+    {
+      "test_case_id": "TC_18869_004",
+      "class_name": "Test_18869_18869004",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869004.java"
+    },
+    {
+      "test_case_id": "TC_18869_005",
+      "class_name": "Test_18869_18869005",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869005.java"
+    },
+    {
+      "test_case_id": "TC_18869_006",
+      "class_name": "Test_18869_18869006",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869006.java"
+    },
+    {
+      "test_case_id": "TC_18869_007",
+      "class_name": "Test_18869_18869007",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_reset_pass",
+        "raw_value": "id_reset_pass",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18869/Test_18869_18869007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.kixify:id/edtUserName_forgot",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        312,
+        1387,
+        452
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_edtUserName_forgot",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "com.kixify:id/reset_pass",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "CREATE ACCOUNT",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        2154,
+        1370,
+        2322
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_reset_pass",
+      "selector_confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "screen_id": "18717",
+  "primary_ctas": "\"Reset,\" \"Step,\" and \"Run\" buttons.\n- **Navigation/footer**: \"Test\" button in the header, \"Reset,\" \"Step,\" and \"Run\" buttons in the footer.",
+  "total_elements": 39,
+  "testable_elements": 5,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18717_001",
+      "class_name": "Test_18717_18717001",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnResetTest",
+        "raw_value": "id_btnResetTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717001.java"
+    },
+    {
+      "test_case_id": "TC_18717_002",
+      "class_name": "Test_18717_18717002",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnStepTest",
+        "raw_value": "id_btnStepTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717002.java"
+    },
+    {
+      "test_case_id": "TC_18717_003",
+      "class_name": "Test_18717_18717003",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnAutoTest",
+        "raw_value": "id_btnAutoTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717003.java"
+    },
+    {
+      "test_case_id": "TC_18717_004",
+      "class_name": "Test_18717_18717004",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnAutoTest",
+        "raw_value": "id_btnAutoTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717004.java"
+    },
+    {
+      "test_case_id": "TC_18717_005",
+      "class_name": "Test_18717_18717005",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnAutoTest",
+        "raw_value": "id_btnAutoTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717005.java"
+    },
+    {
+      "test_case_id": "TC_18717_006",
+      "class_name": "Test_18717_18717006",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnStepTest",
+        "raw_value": "id_btnStepTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717006.java"
+    },
+    {
+      "test_case_id": "TC_18717_007",
+      "class_name": "Test_18717_18717007",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnResetTest",
+        "raw_value": "id_btnResetTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717007.java"
+    },
+    {
+      "test_case_id": "TC_18717_008",
+      "class_name": "Test_18717_18717008",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnResetTest",
+        "raw_value": "id_btnResetTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717008.java"
+    },
+    {
+      "test_case_id": "TC_18717_009",
+      "class_name": "Test_18717_18717009",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnStepTest",
+        "raw_value": "id_btnStepTest",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18717/Test_18717_18717009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "wiki.algorithm.algorithms:id/backButton",
+      "class": "android.support.v7.widget.r",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        186,
+        151
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_backButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "wiki.algorithm.algorithms:id/btnNavRight",
+      "class": "android.support.v7.widget.r",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1254,
+        0,
+        1440,
+        151
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnNavRight",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "wiki.algorithm.algorithms:id/btnResetTest",
+      "class": "android.support.v7.widget.r",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        21,
+        2210,
+        506,
+        2371
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnResetTest",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "wiki.algorithm.algorithms:id/btnStepTest",
+      "class": "android.support.v7.widget.r",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        517,
+        2210,
+        1111,
+        2371
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnStepTest",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "wiki.algorithm.algorithms:id/btnAutoTest",
+      "class": "android.support.v7.widget.r",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1122,
+        2210,
+        1419,
+        2371
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnAutoTest",
+      "selector_confidence": 0.95
+    }
+  ]
+}

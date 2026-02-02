@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10636,377,12,12,id/tablayout;id/tablayout;id/tablayout;id/tablayout;id/recyclerview;id/drawer_layout;id/tablayout;id/vp_content_main_activity;id/recyclerview;id/horizontal_scroll_twins;id/drawer_layout;id/tablayout;id/vp_content_main_activity;id/recyclerview;id/horizontal_scroll_twins,8,8,100.0%,Main Screen Actions

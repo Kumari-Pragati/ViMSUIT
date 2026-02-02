@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15452,294,8,4,id/main_page_frame_container;id/main_page_frame_container;id/sound_item_button;id/main_page_menu_btn;id/main_page_search_btn;id/main_page_menu_btn;id/main_page_frame_container;id/main_page_menu_btn,8,8,50.0%,"Highlighting specific verses and accessing audio playback.
+- **Navigation/footer**: Menu icon in the header, footer ad for the Book of Mormon website."

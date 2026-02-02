@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17077,124,7,7,id/menu_show_map;id/listView1;id/spinnerPlaceType;id/cuisineSpinner;id/sortSpinner;id/menu_show_map;id/listView1;id/spinnerPlaceType;id/cuisineSpinner;id/sortSpinner;id/menu_show_map;id/listView1;id/spinnerPlaceType;id/cuisineSpinner;id/sortSpinner;id/spinnerPlaceType;id/listView1,5,5,100.0%,"Sorting by rating and filtering by place type and cuisine.
+- **Navigation/footer**: Back arrow in the header."

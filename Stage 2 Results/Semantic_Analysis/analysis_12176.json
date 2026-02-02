@@ -1,0 +1,231 @@
+{
+  "screen_id": "12176",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 29,
+  "testable_elements": 3,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12176_01",
+      "class_name": "Test_12176_1217601",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_up_button",
+        "raw_value": "id_fragment_main_sign_up_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217601.java"
+    },
+    {
+      "test_case_id": "TC_12176_02",
+      "class_name": "Test_12176_1217602",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_in_button",
+        "raw_value": "id_fragment_main_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217602.java"
+    },
+    {
+      "test_case_id": "TC_12176_03",
+      "class_name": "Test_12176_1217603",
+      "element_ids": [
+        "el_25",
+        "el_26"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_fragment_main_sign_up_button",
+          "raw_value": "id_fragment_main_sign_up_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fragment_main_sign_in_button",
+          "raw_value": "id_fragment_main_sign_in_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217603.java"
+    },
+    {
+      "test_case_id": "TC_12176_04",
+      "class_name": "Test_12176_1217604",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_in_button",
+        "raw_value": "id_fragment_main_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217604.java"
+    },
+    {
+      "test_case_id": "TC_12176_05",
+      "class_name": "Test_12176_1217605",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_up_button",
+        "raw_value": "id_fragment_main_sign_up_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217605.java"
+    },
+    {
+      "test_case_id": "TC_12176_06",
+      "class_name": "Test_12176_1217606",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_in_button",
+        "raw_value": "id_fragment_main_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217606.java"
+    },
+    {
+      "test_case_id": "TC_12176_07",
+      "class_name": "Test_12176_1217607",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_up_button",
+        "raw_value": "id_fragment_main_sign_up_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217607.java"
+    },
+    {
+      "test_case_id": "TC_12176_08",
+      "class_name": "Test_12176_1217608",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_in_button",
+        "raw_value": "id_fragment_main_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217608.java"
+    },
+    {
+      "test_case_id": "TC_12176_09",
+      "class_name": "Test_12176_1217609",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_up_button",
+        "raw_value": "id_fragment_main_sign_up_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217609.java"
+    },
+    {
+      "test_case_id": "TC_12176_10",
+      "class_name": "Test_12176_1217610",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_main_sign_in_button",
+        "raw_value": "id_fragment_main_sign_in_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12176/Test_12176_1217610.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.mayoclinic.patient:id/pager",
+      "class": "android.support.v4.view.SlowViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.mayoclinic.patient:id/fragment_main_sign_up_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign Up",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2175,
+        699,
+        2350
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fragment_main_sign_up_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.mayoclinic.patient:id/fragment_main_sign_in_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign In",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        2175,
+        1377,
+        2350
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fragment_main_sign_in_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

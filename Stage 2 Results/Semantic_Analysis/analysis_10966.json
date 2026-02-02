@@ -1,0 +1,270 @@
+{
+  "screen_id": "10966",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 31,
+  "testable_elements": 6,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10966_01",
+      "class_name": "Test_10966_1096601",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096601.java"
+    },
+    {
+      "test_case_id": "TC_10966_02",
+      "class_name": "Test_10966_1096602",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096602.java"
+    },
+    {
+      "test_case_id": "TC_10966_03",
+      "class_name": "Test_10966_1096603",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096603.java"
+    },
+    {
+      "test_case_id": "TC_10966_04",
+      "class_name": "Test_10966_1096604",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096604.java"
+    },
+    {
+      "test_case_id": "TC_10966_05",
+      "class_name": "Test_10966_1096605",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096605.java"
+    },
+    {
+      "test_case_id": "TC_10966_06",
+      "class_name": "Test_10966_1096606",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_facebook_share_icon",
+        "raw_value": "id_facebook_share_icon",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096606.java"
+    },
+    {
+      "test_case_id": "TC_10966_07",
+      "class_name": "Test_10966_1096607",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10966/Test_10966_1096607.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_22",
+      "resource_id": "com.eyeexamtest.eyetests:id/eyecareplus_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        419,
+        1657,
+        516,
+        1755
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_eyecareplus_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.eyeexamtest.eyetests:id/facebook_share_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        586,
+        1657,
+        684,
+        1755
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_facebook_share_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.eyeexamtest.eyetests:id/twitter_share_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        754,
+        1657,
+        852,
+        1755
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_twitter_share_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.eyeexamtest.eyetests:id/gplus_share_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        922,
+        1657,
+        1020,
+        1755
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_gplus_share_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_11",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        196,
+        196
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        196,
+        1440,
+        2002
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

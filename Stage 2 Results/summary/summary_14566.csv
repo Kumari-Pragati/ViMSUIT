@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14566,84,4,4,id/tabLayout;id/tabLayout;id/list;id/tabLayout;id/pager;id/list;id/tabLayout;id/list;id/tabLayout,8,8,100.0%,"""Send Feedback,"" ""Rate This App,"" ""Share This App,"" ""About CW Seed,"" ""Legal,"" and ""FAQ.""
+- **Navigation/footer**: Tabs at the top for switching between settings, info, and more apps."

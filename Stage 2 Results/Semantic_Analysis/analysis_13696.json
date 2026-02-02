@@ -1,0 +1,281 @@
+{
+  "screen_id": "13696",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 79,
+  "testable_elements": 5,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_13696_001",
+      "class_name": "Test_13696_13696001",
+      "element_ids": [
+        "el_40",
+        "el_44"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_date",
+          "raw_value": "id_module_tracking_edit_date",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_time",
+          "raw_value": "id_module_tracking_edit_time",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696001.java"
+    },
+    {
+      "test_case_id": "TC_13696_002",
+      "class_name": "Test_13696_13696002",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_module_tracking_edit_date",
+        "raw_value": "id_module_tracking_edit_date",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696002.java"
+    },
+    {
+      "test_case_id": "TC_13696_003",
+      "class_name": "Test_13696_13696003",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_module_tracking_edit_time",
+        "raw_value": "id_module_tracking_edit_time",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696003.java"
+    },
+    {
+      "test_case_id": "TC_13696_004",
+      "class_name": "Test_13696_13696004",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_module_tracking_edit_time",
+        "raw_value": "id_module_tracking_edit_time",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696004.java"
+    },
+    {
+      "test_case_id": "TC_13696_005",
+      "class_name": "Test_13696_13696005",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_module_tracking_edit_date",
+        "raw_value": "id_module_tracking_edit_date",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696005.java"
+    },
+    {
+      "test_case_id": "TC_13696_006",
+      "class_name": "Test_13696_13696006",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_module_tracking_edit_time",
+        "raw_value": "id_module_tracking_edit_time",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696006.java"
+    },
+    {
+      "test_case_id": "TC_13696_007",
+      "class_name": "Test_13696_13696007",
+      "element_ids": [
+        "el_40",
+        "el_44"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_date",
+          "raw_value": "id_module_tracking_edit_date",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_time",
+          "raw_value": "id_module_tracking_edit_time",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696007.java"
+    },
+    {
+      "test_case_id": "TC_13696_008",
+      "class_name": "Test_13696_13696008",
+      "element_ids": [
+        "el_40",
+        "el_44"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_date",
+          "raw_value": "id_module_tracking_edit_date",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_module_tracking_edit_time",
+          "raw_value": "id_module_tracking_edit_time",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13696/Test_13696_13696008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.carezone.caredroid.careapp.medications:id/content_drawer",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_content_drawer",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "com.carezone.caredroid.careapp.medications:id/module_tracking_edit_date",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Mar 10, 2017",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        582,
+        692,
+        750
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_module_tracking_edit_date",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "com.carezone.caredroid.careapp.medications:id/module_tracking_edit_time",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "10:52 AM",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        748,
+        582,
+        1384,
+        750
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_module_tracking_edit_time",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_50",
+      "resource_id": "com.carezone.caredroid.careapp.medications:id/module_tracking_measurement_value",
+      "class": "android.support.v7.widget.AppCompatSeekBar",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1008,
+        1384,
+        1071
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_module_tracking_measurement_value",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

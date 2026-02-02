@@ -1,0 +1,193 @@
+{
+  "screen_id": "12581",
+  "primary_ctas": "Navigating to a map view.\n- **Navigation/footer**: Circular button with a map icon at the bottom right.",
+  "total_elements": 53,
+  "testable_elements": 5,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12581_01",
+      "class_name": "Test_12581_1258101",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12581/Test_12581_1258101.java"
+    },
+    {
+      "test_case_id": "TC_12581_02",
+      "class_name": "Test_12581_1258102",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fab",
+        "raw_value": "id_fab",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12581/Test_12581_1258102.java"
+    },
+    {
+      "test_case_id": "TC_12581_03",
+      "class_name": "Test_12581_1258103",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12581/Test_12581_1258103.java"
+    },
+    {
+      "test_case_id": "TC_12581_04",
+      "class_name": "Test_12581_1258104",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12581/Test_12581_1258104.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.winesearcher:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.winesearcher:id/swapViewItem",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "list",
+      "content_desc": [
+        "list"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_swapViewItem",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "com.winesearcher:id/fab",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1188,
+        2140,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$d",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

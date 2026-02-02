@@ -1,0 +1,639 @@
+{
+  "screen_id": "11049",
+  "primary_ctas": "\"TAK, TO MOJE KANA\u0141Y\" (Yes, these are my channels).\n- **Navigation/footer**: Implied back navigation through the chevron icon.",
+  "total_elements": 97,
+  "testable_elements": 8,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11049_001",
+      "class_name": "Test_11049_11049001",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049001.java"
+    },
+    {
+      "test_case_id": "TC_11049_002",
+      "class_name": "Test_11049_11049002",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049002.java"
+    },
+    {
+      "test_case_id": "TC_11049_003",
+      "class_name": "Test_11049_11049003",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049003.java"
+    },
+    {
+      "test_case_id": "TC_11049_004",
+      "class_name": "Test_11049_11049004",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049004.java"
+    },
+    {
+      "test_case_id": "TC_11049_005",
+      "class_name": "Test_11049_11049005",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049005.java"
+    },
+    {
+      "test_case_id": "TC_11049_006",
+      "class_name": "Test_11049_11049006",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049006.java"
+    },
+    {
+      "test_case_id": "TC_11049_007",
+      "class_name": "Test_11049_11049007",
+      "element_ids": [
+        "el_36",
+        "el_44",
+        "el_52",
+        "el_60",
+        "el_68",
+        "el_76",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_item_softgate_radio",
+          "raw_value": "id_item_softgate_radio",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11049/Test_11049_11049007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_20",
+      "resource_id": "pl.wp.programtv:id/softgate_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2133
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_softgate_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        692,
+        1356,
+        766
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        906,
+        1356,
+        980
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1120,
+        1356,
+        1194
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1334,
+        1356,
+        1408
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_68",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1548,
+        1356,
+        1622
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_76",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1762,
+        1356,
+        1836
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_84",
+      "resource_id": "pl.wp.programtv:id/item_softgate_radio",
+      "class": "android.support.v7.widget.AppCompatRadioButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1976,
+        1356,
+        2050
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_item_softgate_radio",
+      "selector_confidence": 0.95
+    }
+  ]
+}

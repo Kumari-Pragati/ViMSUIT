@@ -1,0 +1,395 @@
+{
+  "screen_id": "14554",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 29,
+  "testable_elements": 7,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14554_01",
+      "class_name": "Test_14554_1455401",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_airmail_fab_new",
+        "raw_value": "id_airmail_fab_new",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455401.java"
+    },
+    {
+      "test_case_id": "TC_14554_02",
+      "class_name": "Test_14554_1455402",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_airmail_fab_new",
+        "raw_value": "id_airmail_fab_new",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455402.java"
+    },
+    {
+      "test_case_id": "TC_14554_03",
+      "class_name": "Test_14554_1455403",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_airmail_fab_new",
+        "raw_value": "id_airmail_fab_new",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455403.java"
+    },
+    {
+      "test_case_id": "TC_14554_04",
+      "class_name": "Test_14554_1455404",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_menu_notification",
+        "raw_value": "id_main_menu_notification",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455404.java"
+    },
+    {
+      "test_case_id": "TC_14554_05",
+      "class_name": "Test_14554_1455405",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_menu_notification",
+        "raw_value": "id_main_menu_notification",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455405.java"
+    },
+    {
+      "test_case_id": "TC_14554_06",
+      "class_name": "Test_14554_1455406",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_airmail_list",
+        "raw_value": "id_airmail_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455406.java"
+    },
+    {
+      "test_case_id": "TC_14554_07",
+      "class_name": "Test_14554_1455407",
+      "element_ids": [
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_24",
+        "el_26",
+        "el_10"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_friends",
+          "raw_value": "id_main_menu_friends",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_airmail",
+          "raw_value": "id_main_menu_airmail",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_notification",
+          "raw_value": "id_main_menu_notification",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_more",
+          "raw_value": "id_main_menu_more",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_airmail_list",
+          "raw_value": "id_airmail_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_airmail_fab_new",
+          "raw_value": "id_airmail_fab_new",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9285714285714286,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455407.java"
+    },
+    {
+      "test_case_id": "TC_14554_08",
+      "class_name": "Test_14554_1455408",
+      "element_ids": [
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_24",
+        "el_26",
+        "el_10"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_friends",
+          "raw_value": "id_main_menu_friends",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_airmail",
+          "raw_value": "id_main_menu_airmail",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_notification",
+          "raw_value": "id_main_menu_notification",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_menu_more",
+          "raw_value": "id_main_menu_more",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_airmail_list",
+          "raw_value": "id_airmail_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_airmail_fab_new",
+          "raw_value": "id_airmail_fab_new",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9285714285714286,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14554/Test_14554_1455408.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.airg:id/main_menu_friends",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Friends"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        733,
+        98,
+        901,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_menu_friends",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "com.airg:id/main_menu_airmail",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Airmail"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        901,
+        98,
+        1069,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_menu_airmail",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.airg:id/main_menu_notification",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Notification"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1069,
+        98,
+        1237,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_menu_notification",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.airg:id/main_menu_more",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "More"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1237,
+        98,
+        1405,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_menu_more",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.airg:id/airmail_list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_airmail_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.airg:id/airmail_fab_new",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1188,
+        2140,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_airmail_fab_new",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        266,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

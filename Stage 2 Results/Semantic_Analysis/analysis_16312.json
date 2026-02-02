@@ -1,0 +1,297 @@
+{
+  "screen_id": "16312",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 49,
+  "testable_elements": 7,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16312_01",
+      "class_name": "Test_16312_1631201",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631201.java"
+    },
+    {
+      "test_case_id": "TC_16312_02",
+      "class_name": "Test_16312_1631202",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631202.java"
+    },
+    {
+      "test_case_id": "TC_16312_03",
+      "class_name": "Test_16312_1631203",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631203.java"
+    },
+    {
+      "test_case_id": "TC_16312_04",
+      "class_name": "Test_16312_1631204",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631204.java"
+    },
+    {
+      "test_case_id": "TC_16312_05",
+      "class_name": "Test_16312_1631205",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631205.java"
+    },
+    {
+      "test_case_id": "TC_16312_06",
+      "class_name": "Test_16312_1631206",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631206.java"
+    },
+    {
+      "test_case_id": "TC_16312_07",
+      "class_name": "Test_16312_1631207",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631207.java"
+    },
+    {
+      "test_case_id": "TC_16312_08",
+      "class_name": "Test_16312_1631208",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_submit_button",
+        "raw_value": "id_submit_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16312/Test_16312_1631208.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.hillman.mtatracker:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.hillman.mtatracker:id/submit_button",
+      "class": "com.hillman.transittracker.ui.view.FontButton",
+      "text": "submit",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        867,
+        579,
+        1175,
+        747
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_submit_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "com.hillman.mtatracker:id/help",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Help"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        964,
+        98,
+        1132,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_help",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_45",
+      "resource_id": "com.hillman.mtatracker:id/preferences",
+      "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Preferences"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1132,
+        98,
+        1300,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_preferences",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_42",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Drawer close"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Drawer close']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_46",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$d",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "",
+      "class": "android.webkit.WebView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2166,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16140,55,3,2,id/register_button;id/first_login_button;id/register_button;id/first_login_button;id/register_button;id/first_login_button,6,6,66.7%,"""Kaydol"" (Sign Up) and ""Oturum aç"" (Log In).
+- **Navigation/footer**: The ""Kaydol"" and ""Oturum aç"" buttons are the primary navigation elements, guiding the user to either sign up or log in."

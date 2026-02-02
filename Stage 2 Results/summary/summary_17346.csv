@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17346,121,5,5,id/station_logo;id/station_logo;id/application_root_view_content_without_bars;id/navigation_bar_scroll;id/station_logo;id/menu_button;id/station_logo;id/station_logo;id/menu_button;id/station_logo;id/station_logo;id/menu_button;id/station_logo,11,11,100.0%,"""Take New Photo,"" ""Take New Video,"" ""Select from Gallery.""
+- **Navigation/Footer**: The bottom navigation bar allows users to switch between ""Home,"" ""Daily,"" ""Hourly,"" and ""Submit"" views."

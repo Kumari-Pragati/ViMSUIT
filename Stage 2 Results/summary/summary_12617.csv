@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12617,264,4,4,id/drawer_layout;id/list;id/list;id/drawer_layout;id/list;id/list,5,5,100.0%,"Navigating through the app using the icons in the navigation bar.
+- **Navigation/footer**: Navigation bar at the top, no footer visible."

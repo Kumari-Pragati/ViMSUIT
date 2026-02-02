@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10592,50,6,6,id/btn_facebook;id/btn_facebook;id/btn_google_plus;id/btn_twitter;id/btn_vk;id/btn_facebook;id/btn_facebook;id/btn_google_plus;id/btn_twitter;id/btn_vk,6,6,100.0%,"Selecting a social network to add or integrate.
+- **Navigation/footer**: Back arrow in the header."

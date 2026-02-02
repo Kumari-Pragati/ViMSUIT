@@ -1,0 +1,313 @@
+{
+  "screen_id": "1332",
+  "primary_ctas": "Adding new items and checking off tasks.\n- **Navigation/footer**: Back arrow in the header.",
+  "total_elements": 88,
+  "testable_elements": 7,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1332_01",
+      "class_name": "Test_1332_133201",
+      "element_id": "el_84",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1332/Test_1332_133201.java"
+    },
+    {
+      "test_case_id": "TC_1332_02",
+      "class_name": "Test_1332_133202",
+      "element_id": "el_26",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_checklist_item_checkbox",
+        "raw_value": "id_checklist_item_checkbox",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1332/Test_1332_133202.java"
+    },
+    {
+      "test_case_id": "TC_1332_03",
+      "class_name": "Test_1332_133203",
+      "element_id": "el_84",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1332/Test_1332_133203.java"
+    },
+    {
+      "test_case_id": "TC_1332_04",
+      "class_name": "Test_1332_133204",
+      "element_id": "el_84",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1332/Test_1332_133204.java"
+    },
+    {
+      "test_case_id": "TC_1332_05",
+      "class_name": "Test_1332_133205",
+      "element_ids": [
+        "el_26",
+        "el_34",
+        "el_42",
+        "el_50",
+        "el_58",
+        "el_70",
+        "el_84"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_checklist_item_checkbox",
+          "raw_value": "id_checklist_item_checkbox",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9285714285714286,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1332/Test_1332_133205.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_26",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        845,
+        168,
+        957
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1071,
+        168,
+        1183
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_42",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1297,
+        168,
+        1409
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_50",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1588,
+        168,
+        1700
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_58",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1814,
+        168,
+        1926
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_70",
+      "resource_id": "com.medela.mymedela.live:id/checklist_item_checkbox",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        2219,
+        168,
+        2331
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_checklist_item_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_84",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

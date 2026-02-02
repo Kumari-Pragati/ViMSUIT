@@ -1,0 +1,339 @@
+{
+  "screen_id": "17169",
+  "primary_ctas": "Navigating to different sections of the app using the list items in the navigation drawer.\n- **Navigation/footer**: The navigation drawer itself serves as the footer, providing access to different sections of the app.",
+  "total_elements": 162,
+  "testable_elements": 7,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17169_01",
+      "class_name": "Test_17169_1716901",
+      "element_id": "el_7",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17169/Test_17169_1716901.java"
+    },
+    {
+      "test_case_id": "TC_17169_02",
+      "class_name": "Test_17169_1716902",
+      "element_ids": [
+        "el_7",
+        "el_15",
+        "el_26",
+        "el_57",
+        "el_82",
+        "el_84",
+        "el_104"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_homeRecyclerView",
+          "raw_value": "id_homeRecyclerView",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_card_recycler_view",
+          "raw_value": "id_card_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_card_recycler_view",
+          "raw_value": "id_card_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_home_search_icon",
+          "raw_value": "id_home_search_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_home_search_edittext",
+          "raw_value": "id_home_search_edittext",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_left_drawer",
+          "raw_value": "id_left_drawer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17169/Test_17169_1716902.java"
+    },
+    {
+      "test_case_id": "TC_17169_03",
+      "class_name": "Test_17169_1716903",
+      "element_id": "el_84",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_home_search_edittext",
+        "raw_value": "id_home_search_edittext",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17169/Test_17169_1716903.java"
+    },
+    {
+      "test_case_id": "TC_17169_04",
+      "class_name": "Test_17169_1716904",
+      "element_ids": [
+        "el_7",
+        "el_15",
+        "el_26",
+        "el_57",
+        "el_82",
+        "el_84",
+        "el_104"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_homeRecyclerView",
+          "raw_value": "id_homeRecyclerView",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_card_recycler_view",
+          "raw_value": "id_card_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_card_recycler_view",
+          "raw_value": "id_card_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_home_search_icon",
+          "raw_value": "id_home_search_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_home_search_edittext",
+          "raw_value": "id_home_search_edittext",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_left_drawer",
+          "raw_value": "id_left_drawer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17169/Test_17169_1716904.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.ebay.gumtree.za:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.ebay.gumtree.za:id/homeRecyclerView",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_homeRecyclerView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.ebay.gumtree.za:id/card_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        482,
+        1412,
+        1172
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_card_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "com.ebay.gumtree.za:id/card_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        1686,
+        1412,
+        2376
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_card_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_82",
+      "resource_id": "com.ebay.gumtree.za:id/home_search_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        84,
+        154,
+        168,
+        238
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_home_search_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_84",
+      "resource_id": "com.ebay.gumtree.za:id/home_search_edittext",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        224,
+        112,
+        1300,
+        280
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_home_search_edittext",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_104",
+      "resource_id": "com.ebay.gumtree.za:id/left_drawer",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1106,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_left_drawer",
+      "selector_confidence": 0.95
+    }
+  ]
+}

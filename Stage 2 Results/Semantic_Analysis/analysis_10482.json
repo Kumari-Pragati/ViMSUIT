@@ -1,0 +1,262 @@
+{
+  "screen_id": "10482",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 105,
+  "testable_elements": 4,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10482_01",
+      "class_name": "Test_10482_1048201",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_editTextField",
+        "raw_value": "id_editTextField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048201.java"
+    },
+    {
+      "test_case_id": "TC_10482_02",
+      "class_name": "Test_10482_1048202",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_editTextField",
+        "raw_value": "id_editTextField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048202.java"
+    },
+    {
+      "test_case_id": "TC_10482_03",
+      "class_name": "Test_10482_1048203",
+      "element_ids": [
+        "el_7",
+        "el_10",
+        "el_19",
+        "el_101"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_scrollView1",
+          "raw_value": "id_scrollView1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_editTextField",
+          "raw_value": "id_editTextField",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048203.java"
+    },
+    {
+      "test_case_id": "TC_10482_04",
+      "class_name": "Test_10482_1048204",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_editTextField",
+        "raw_value": "id_editTextField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048204.java"
+    },
+    {
+      "test_case_id": "TC_10482_05",
+      "class_name": "Test_10482_1048205",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_editTextField",
+        "raw_value": "id_editTextField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048205.java"
+    },
+    {
+      "test_case_id": "TC_10482_06",
+      "class_name": "Test_10482_1048206",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_editTextField",
+        "raw_value": "id_editTextField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048206.java"
+    },
+    {
+      "test_case_id": "TC_10482_07",
+      "class_name": "Test_10482_1048207",
+      "element_ids": [
+        "el_7",
+        "el_10",
+        "el_19",
+        "el_101"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_scrollView1",
+          "raw_value": "id_scrollView1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_editTextField",
+          "raw_value": "id_editTextField",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10482/Test_10482_1048207.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.safeway.client.android.safeway:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "com.safeway.client.android.safeway:id/scrollView1",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_scrollView1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "com.safeway.client.android.safeway:id/editTextField",
+      "class": "com.safeway.client.android.customviews.NoPasteEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        1239,
+        1370,
+        1335
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_editTextField",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_101",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

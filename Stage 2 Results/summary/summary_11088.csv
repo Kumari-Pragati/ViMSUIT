@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11088,70,3,1,id/enable_notifications;id/enable_notifications;id/enable_notifications;id/enable_notifications;id/enable_notifications;id/enable_notifications;id/enable_notifications;id/enable_notifications,8,8,33.3%,Main Screen Actions

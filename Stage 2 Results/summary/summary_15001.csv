@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15001,162,11,5,id/liste;id/liste;id/liste;id/modification_liste_match;id/header;id/drawer_layout;id/ajout_liste_match;id/modification_liste_match,8,8,45.5%,"Viewing match details via chevron icons.
+- **Navigation/footer**: Menu icon in the header, plus sign for adding favorites, ad in the footer."

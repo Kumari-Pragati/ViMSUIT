@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17587,299,14,14,id/o3;id/o3;id/o4;id/hs;id/j5;id/m1;id/j5;id/a3;id/j5;id/hg;id/list;id/j5;id/o3;id/o3;id/o3;id/o3;id/o3,8,8,100.0%,"Selecting an article or video.
+- **Navigation/footer**: Tabs in the header and navigation buttons in the footer."

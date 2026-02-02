@@ -1,0 +1,6 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_16342_001,Positive flow: Navigate to the profile section from the navigation bar,MobileApp,16342,profile,P1,Functional,,,Click on the 'people' icon in the navigation bar.,The user should be navigated to the profile section.
+TC_16342_002,Negative flow: Attempt to navigate to an invalid section from the navigation bar,MobileApp,16342,profile,P2,Negative,,,Click on the 'dots' icon in the navigation bar.,The app should not navigate to an invalid section.
+TC_16342_003,UI test: Verify the status bar icons and time,MobileApp,16342,profile,P2,UI,,,Observe the status bar icons and time.,The status bar icons and time should be displayed correctly.
+TC_16342_004,Usability test: Search functionality,MobileApp,16342,profile,P2,Usability,,,Click on the 'Search..' text in the search bar. | Type 'Test call' in the search bar and press enter.,The search results should display the 'Test call' entry.
+TC_16342_005,Accessibility test: Verify navigation bar icons are accessible,MobileApp,16342,profile,P2,Accessibility,,,Use screen reader to navigate through the navigation bar icons.,All navigation bar icons should be accessible via screen reader.

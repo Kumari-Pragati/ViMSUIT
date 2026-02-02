@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15321,176,15,11,id/rv_feed;id/ib_heart;id/ib_heart;id/ib_star;id/ib_heart;id/ib_star;id/ib_heart;id/ib_star;id/ib_left_menu;id/ib_search;id/ib_write_post;id/ib_notification;id/ib_right_menu;id/bt_close_tool_tip;id/rv_feed;id/rv_feed,7,7,73.3%,Main Screen Actions

@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17921,77,18,18,id/drawer_layout;id/drawer_layout;id/mInfo;id/mDodaj;id/design_navigation_view;id/list;id/drawer_layout;id/mDodaj;id/drawer_layout;id/mInfo;id/mDodaj;id/design_navigation_view;id/list,5,5,100.0%,"Selecting menu options like ""Mileage log"" or ""Fuel consumption.""
+- **Navigation/footer**: Footer navigation buttons for different sections of the app."

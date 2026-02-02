@@ -1,0 +1,238 @@
+{
+  "screen_id": "18929",
+  "primary_ctas": "\"No\" and \"Yes\" buttons.\n- **Navigation/footer**: \"Menu\" option in the header.",
+  "total_elements": 14,
+  "testable_elements": 2,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18929_001",
+      "class_name": "Test_18929_18929001",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929001.java"
+    },
+    {
+      "test_case_id": "TC_18929_002",
+      "class_name": "Test_18929_18929002",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929002.java"
+    },
+    {
+      "test_case_id": "TC_18929_003",
+      "class_name": "Test_18929_18929003",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929003.java"
+    },
+    {
+      "test_case_id": "TC_18929_004",
+      "class_name": "Test_18929_18929004",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929004.java"
+    },
+    {
+      "test_case_id": "TC_18929_005",
+      "class_name": "Test_18929_18929005",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929005.java"
+    },
+    {
+      "test_case_id": "TC_18929_006",
+      "class_name": "Test_18929_18929006",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929006.java"
+    },
+    {
+      "test_case_id": "TC_18929_007",
+      "class_name": "Test_18929_18929007",
+      "element_ids": [
+        "el_12",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_negative",
+          "raw_value": "id_dialog_button_negative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_dialog_button_positive",
+          "raw_value": "id_dialog_button_positive",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18929/Test_18929_18929007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.grppl.android.shell.halifax:id/dialog_button_negative",
+      "class": "co.uk.apptivation.nga.library.view.FontButton",
+      "text": "No",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        74,
+        1287,
+        717,
+        1462
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_dialog_button_negative",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.grppl.android.shell.halifax:id/dialog_button_positive",
+      "class": "co.uk.apptivation.nga.library.view.FontButton",
+      "text": "Yes",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        724,
+        1287,
+        1366,
+        1462
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_dialog_button_positive",
+      "selector_confidence": 0.95
+    }
+  ]
+}

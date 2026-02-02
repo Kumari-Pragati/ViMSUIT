@@ -1,0 +1,2 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_15631_001,Positive flow: Complete registration form with valid data,Registration,15631,form,P1,Functional,,name | gender | date_of_birth | religion,,

@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15123,44,6,3,id/bOnboardingF21;id/bOnboardingSkip;id/bOnboardingF21;id/bOnboardingSkip;id/vPOnboardingImages;id/vPOnboardingImages,5,5,50.0%,"""Sign In Forever 21 Account.""
+- **Navigation/footer**: ""Skip"" option."

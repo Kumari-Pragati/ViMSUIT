@@ -1,0 +1,323 @@
+{
+  "screen_id": "15452",
+  "primary_ctas": "Highlighting specific verses and accessing audio playback.\n- **Navigation/footer**: Menu icon in the header, footer ad for the Book of Mormon website.",
+  "total_elements": 294,
+  "testable_elements": 8,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15452_01",
+      "class_name": "Test_15452_1545201",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_frame_container",
+        "raw_value": "id_main_page_frame_container",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545201.java"
+    },
+    {
+      "test_case_id": "TC_15452_02",
+      "class_name": "Test_15452_1545202",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_frame_container",
+        "raw_value": "id_main_page_frame_container",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545202.java"
+    },
+    {
+      "test_case_id": "TC_15452_03",
+      "class_name": "Test_15452_1545203",
+      "element_id": "el_135",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_sound_item_button",
+        "raw_value": "id_sound_item_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545203.java"
+    },
+    {
+      "test_case_id": "TC_15452_04",
+      "class_name": "Test_15452_1545204",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_menu_btn",
+        "raw_value": "id_main_page_menu_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545204.java"
+    },
+    {
+      "test_case_id": "TC_15452_05",
+      "class_name": "Test_15452_1545205",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_search_btn",
+        "raw_value": "id_main_page_search_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545205.java"
+    },
+    {
+      "test_case_id": "TC_15452_06",
+      "class_name": "Test_15452_1545206",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_menu_btn",
+        "raw_value": "id_main_page_menu_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545206.java"
+    },
+    {
+      "test_case_id": "TC_15452_07",
+      "class_name": "Test_15452_1545207",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_frame_container",
+        "raw_value": "id_main_page_frame_container",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545207.java"
+    },
+    {
+      "test_case_id": "TC_15452_08",
+      "class_name": "Test_15452_1545208",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_menu_btn",
+        "raw_value": "id_main_page_menu_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15452/Test_15452_1545208.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_5",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_menu_btn",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        175,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_menu_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_search_btn",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1265,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_search_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_frame_container",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_frame_container",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_95",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/lvData",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_lvData",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_134",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/text_item_menu_button",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        1162,
+        189,
+        1316
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_text_item_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_135",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/sound_item_button",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1251,
+        1162,
+        1405,
+        1316
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sound_item_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

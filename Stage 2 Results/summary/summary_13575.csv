@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13575,77,2,2,id/category_subcategory_list;id/category_subcategory_list;id/category_subcategory_list;id/category_subcategory_list;id/category_subcategory_list;id/category_subcategory_list,7,7,100.0%,"Selecting a category from the list.
+- **Navigation/footer**: Back arrow in the header, chevrons in the list rows, Android navigation buttons at the bottom."

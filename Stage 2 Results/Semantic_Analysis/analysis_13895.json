@@ -1,0 +1,671 @@
+{
+  "screen_id": "13895",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 29,
+  "testable_elements": 10,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_13895_001",
+      "class_name": "Test_13895_13895001",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_16",
+        "el_17",
+        "el_18",
+        "el_8",
+        "el_20"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_19",
+          "raw_value": "drawable_an_19",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_1",
+          "raw_value": "drawable_an_1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_13",
+          "raw_value": "drawable_an_13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_21",
+          "raw_value": "drawable_an_21",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_29",
+          "raw_value": "drawable_an_29",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_27",
+          "raw_value": "drawable_an_27",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.885,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895001.java"
+    },
+    {
+      "test_case_id": "TC_13895_002",
+      "class_name": "Test_13895_13895002",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_16",
+        "el_17",
+        "el_18",
+        "el_8",
+        "el_20"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_19",
+          "raw_value": "drawable_an_19",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_1",
+          "raw_value": "drawable_an_1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_13",
+          "raw_value": "drawable_an_13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_21",
+          "raw_value": "drawable_an_21",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_29",
+          "raw_value": "drawable_an_29",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_27",
+          "raw_value": "drawable_an_27",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.885,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895002.java"
+    },
+    {
+      "test_case_id": "TC_13895_003",
+      "class_name": "Test_13895_13895003",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_16",
+        "el_17",
+        "el_18",
+        "el_8",
+        "el_20"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_19",
+          "raw_value": "drawable_an_19",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_1",
+          "raw_value": "drawable_an_1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_13",
+          "raw_value": "drawable_an_13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_21",
+          "raw_value": "drawable_an_21",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_29",
+          "raw_value": "drawable_an_29",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_27",
+          "raw_value": "drawable_an_27",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.885,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895003.java"
+    },
+    {
+      "test_case_id": "TC_13895_004",
+      "class_name": "Test_13895_13895004",
+      "element_ids": [
+        "el_11",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_15",
+        "el_16",
+        "el_17",
+        "el_18",
+        "el_8",
+        "el_20"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_31",
+          "raw_value": "drawable_an_31",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_7",
+          "raw_value": "drawable_an_7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_19",
+          "raw_value": "drawable_an_19",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_1",
+          "raw_value": "drawable_an_1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_13",
+          "raw_value": "drawable_an_13",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_21",
+          "raw_value": "drawable_an_21",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_29",
+          "raw_value": "drawable_an_29",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.drawable_an_27",
+          "raw_value": "drawable_an_27",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.885,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895004.java"
+    },
+    {
+      "test_case_id": "TC_13895_005",
+      "class_name": "Test_13895_13895005",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895005.java"
+    },
+    {
+      "test_case_id": "TC_13895_006",
+      "class_name": "Test_13895_13895006",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895006.java"
+    },
+    {
+      "test_case_id": "TC_13895_007",
+      "class_name": "Test_13895_13895007",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895007.java"
+    },
+    {
+      "test_case_id": "TC_13895_008",
+      "class_name": "Test_13895_13895008",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_13895/Test_13895_13895008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "forqan.tech.families1:drawable/an_31",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        286,
+        925,
+        646
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_31",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "forqan.tech.families1:drawable/an_7",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        270,
+        925,
+        662
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_7",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "forqan.tech.families1:drawable/an_19",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        292,
+        925,
+        640
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_19",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "forqan.tech.families1:drawable/an_1",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        519,
+        261,
+        919,
+        672
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "forqan.tech.families1:drawable/an_13",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        311,
+        925,
+        621
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_13",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "forqan.tech.families1:drawable/an_21",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        270,
+        925,
+        662
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_21",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "forqan.tech.families1:drawable/an_29",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        284,
+        925,
+        649
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_29",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "forqan.tech.families1:drawable/an_27",
+      "class": "com.forqan.tech.utils.CDragableImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        514,
+        275,
+        925,
+        658
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.drawable_an_27",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        51,
+        51,
+        239,
+        239
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "",
+      "class": "android.widget.GridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        25,
+        848,
+        1414,
+        2237
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

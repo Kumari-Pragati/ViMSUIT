@@ -1,0 +1,757 @@
+{
+  "screen_id": "1868",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 79,
+  "testable_elements": 13,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1868_001",
+      "class_name": "Test_1868_1868001",
+      "element_ids": [
+        "el_33",
+        "el_48",
+        "el_49",
+        "el_50",
+        "el_51",
+        "el_52",
+        "el_53",
+        "el_55",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_59",
+        "el_60"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_ibMute",
+          "raw_value": "id_ibMute",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn1",
+          "raw_value": "id_btn1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn2",
+          "raw_value": "id_btn2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn3",
+          "raw_value": "id_btn3",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn4",
+          "raw_value": "id_btn4",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn5",
+          "raw_value": "id_btn5",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibDelete",
+          "raw_value": "id_ibDelete",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn6",
+          "raw_value": "id_btn6",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn7",
+          "raw_value": "id_btn7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn8",
+          "raw_value": "id_btn8",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn9",
+          "raw_value": "id_btn9",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn0",
+          "raw_value": "id_btn0",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibAnswer",
+          "raw_value": "id_ibAnswer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1868/Test_1868_1868001.java"
+    },
+    {
+      "test_case_id": "TC_1868_002",
+      "class_name": "Test_1868_1868002",
+      "element_ids": [
+        "el_33",
+        "el_48",
+        "el_49",
+        "el_50",
+        "el_51",
+        "el_52",
+        "el_53",
+        "el_55",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_59",
+        "el_60"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_ibMute",
+          "raw_value": "id_ibMute",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn1",
+          "raw_value": "id_btn1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn2",
+          "raw_value": "id_btn2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn3",
+          "raw_value": "id_btn3",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn4",
+          "raw_value": "id_btn4",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn5",
+          "raw_value": "id_btn5",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibDelete",
+          "raw_value": "id_ibDelete",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn6",
+          "raw_value": "id_btn6",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn7",
+          "raw_value": "id_btn7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn8",
+          "raw_value": "id_btn8",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn9",
+          "raw_value": "id_btn9",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn0",
+          "raw_value": "id_btn0",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibAnswer",
+          "raw_value": "id_ibAnswer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1868/Test_1868_1868002.java"
+    },
+    {
+      "test_case_id": "TC_1868_003",
+      "class_name": "Test_1868_1868003",
+      "element_ids": [
+        "el_33",
+        "el_48",
+        "el_49",
+        "el_50",
+        "el_51",
+        "el_52",
+        "el_53",
+        "el_55",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_59",
+        "el_60"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_ibMute",
+          "raw_value": "id_ibMute",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn1",
+          "raw_value": "id_btn1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn2",
+          "raw_value": "id_btn2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn3",
+          "raw_value": "id_btn3",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn4",
+          "raw_value": "id_btn4",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn5",
+          "raw_value": "id_btn5",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibDelete",
+          "raw_value": "id_ibDelete",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn6",
+          "raw_value": "id_btn6",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn7",
+          "raw_value": "id_btn7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn8",
+          "raw_value": "id_btn8",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn9",
+          "raw_value": "id_btn9",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn0",
+          "raw_value": "id_btn0",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibAnswer",
+          "raw_value": "id_ibAnswer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1868/Test_1868_1868003.java"
+    },
+    {
+      "test_case_id": "TC_1868_004",
+      "class_name": "Test_1868_1868004",
+      "element_ids": [
+        "el_33",
+        "el_48",
+        "el_49",
+        "el_50",
+        "el_51",
+        "el_52",
+        "el_53",
+        "el_55",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_59",
+        "el_60"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_ibMute",
+          "raw_value": "id_ibMute",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn1",
+          "raw_value": "id_btn1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn2",
+          "raw_value": "id_btn2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn3",
+          "raw_value": "id_btn3",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn4",
+          "raw_value": "id_btn4",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn5",
+          "raw_value": "id_btn5",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibDelete",
+          "raw_value": "id_ibDelete",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn6",
+          "raw_value": "id_btn6",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn7",
+          "raw_value": "id_btn7",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn8",
+          "raw_value": "id_btn8",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn9",
+          "raw_value": "id_btn9",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn0",
+          "raw_value": "id_btn0",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ibAnswer",
+          "raw_value": "id_ibAnswer",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1868/Test_1868_1868004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_33",
+      "resource_id": "droom.sleepIfUCan:id/ibMute",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        89,
+        963,
+        205,
+        1075
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ibMute",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_48",
+      "resource_id": "droom.sleepIfUCan:id/btn1",
+      "class": "android.widget.Button",
+      "text": "1",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        230,
+        1489,
+        384,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_49",
+      "resource_id": "droom.sleepIfUCan:id/btn2",
+      "class": "android.widget.Button",
+      "text": "2",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        395,
+        1489,
+        549,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn2",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_50",
+      "resource_id": "droom.sleepIfUCan:id/btn3",
+      "class": "android.widget.Button",
+      "text": "3",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        560,
+        1489,
+        714,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn3",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_51",
+      "resource_id": "droom.sleepIfUCan:id/btn4",
+      "class": "android.widget.Button",
+      "text": "4",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        725,
+        1489,
+        879,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn4",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "droom.sleepIfUCan:id/btn5",
+      "class": "android.widget.Button",
+      "text": "5",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        890,
+        1489,
+        1044,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn5",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_53",
+      "resource_id": "droom.sleepIfUCan:id/ibDelete",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1055,
+        1489,
+        1209,
+        1643
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ibDelete",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_55",
+      "resource_id": "droom.sleepIfUCan:id/btn6",
+      "class": "android.widget.Button",
+      "text": "6",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        230,
+        1654,
+        384,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn6",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_56",
+      "resource_id": "droom.sleepIfUCan:id/btn7",
+      "class": "android.widget.Button",
+      "text": "7",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        395,
+        1654,
+        549,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn7",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "droom.sleepIfUCan:id/btn8",
+      "class": "android.widget.Button",
+      "text": "8",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        560,
+        1654,
+        714,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn8",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_58",
+      "resource_id": "droom.sleepIfUCan:id/btn9",
+      "class": "android.widget.Button",
+      "text": "9",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        725,
+        1654,
+        879,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn9",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_59",
+      "resource_id": "droom.sleepIfUCan:id/btn0",
+      "class": "android.widget.Button",
+      "text": "0",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        890,
+        1654,
+        1044,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn0",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "droom.sleepIfUCan:id/ibAnswer",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1055,
+        1654,
+        1209,
+        1808
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ibAnswer",
+      "selector_confidence": 0.95
+    }
+  ]
+}

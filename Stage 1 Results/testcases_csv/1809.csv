@@ -1,0 +1,11 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_1809_001,Positive flow: Start the Sorting Quiz,Sorting Quiz,1809,tutorial,P0,Functional,,,Open the app. | Locate and press the 'START' button.,The app should transition to the next screen of the Sorting Quiz.
+TC_1809_002,Negative flow: No 'START' button present,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button.,The 'START' button should not be present on the screen.
+TC_1809_003,Negative flow: 'START' button is disabled,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should be disabled and not respond to a press.
+TC_1809_004,Negative flow: 'START' button is not visible,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button.,The 'START' button should be visible on the screen.
+TC_1809_005,Negative flow: 'START' button is not clickable,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should not be clickable.
+TC_1809_006,Negative flow: 'START' button is not accessible,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button.,The 'START' button should be accessible.
+TC_1809_007,Negative flow: 'START' button is not usable,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should be usable.
+TC_1809_008,Negative flow: 'START' button is not responsive,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should be responsive.
+TC_1809_009,Negative flow: 'START' button is not persistent,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should be persistent.
+TC_1809_010,Negative flow: 'START' button is not interactive,Sorting Quiz,1809,tutorial,P1,Negative,,,Open the app. | Locate the 'START' button. | Attempt to press the 'START' button.,The 'START' button should be interactive.

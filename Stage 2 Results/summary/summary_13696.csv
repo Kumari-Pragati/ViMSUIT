@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13696,79,5,2,id/module_tracking_edit_date;id/module_tracking_edit_time;id/module_tracking_edit_date;id/module_tracking_edit_time;id/module_tracking_edit_time;id/module_tracking_edit_date;id/module_tracking_edit_time;id/module_tracking_edit_date;id/module_tracking_edit_time;id/module_tracking_edit_date;id/module_tracking_edit_time,8,8,40.0%,Main Screen Actions

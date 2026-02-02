@@ -1,0 +1,351 @@
+{
+  "screen_id": "17767",
+  "primary_ctas": "The large white camera icon at the bottom.\n- **Navigation/footer**: No visible navigation elements or footers in this screenshot.",
+  "total_elements": 106,
+  "testable_elements": 6,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17767_001",
+      "class_name": "Test_17767_17767001",
+      "element_id": "el_49",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_shutter_button",
+        "raw_value": "id_shutter_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767001.java"
+    },
+    {
+      "test_case_id": "TC_17767_002",
+      "class_name": "Test_17767_17767002",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mode_options",
+        "raw_value": "id_mode_options",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767002.java"
+    },
+    {
+      "test_case_id": "TC_17767_003",
+      "class_name": "Test_17767_17767003",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mode_options",
+        "raw_value": "id_mode_options",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767003.java"
+    },
+    {
+      "test_case_id": "TC_17767_004",
+      "class_name": "Test_17767_17767004",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mode_options",
+        "raw_value": "id_mode_options",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767004.java"
+    },
+    {
+      "test_case_id": "TC_17767_005",
+      "class_name": "Test_17767_17767005",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mode_options",
+        "raw_value": "id_mode_options",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767005.java"
+    },
+    {
+      "test_case_id": "TC_17767_006",
+      "class_name": "Test_17767_17767006",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_mode_options",
+        "raw_value": "id_mode_options",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767006.java"
+    },
+    {
+      "test_case_id": "TC_17767_007",
+      "class_name": "Test_17767_17767007",
+      "element_ids": [
+        "el_22",
+        "el_32",
+        "el_33",
+        "el_35",
+        "el_36",
+        "el_49"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_mode_options",
+          "raw_value": "id_mode_options",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_countdown_toggle_button",
+          "raw_value": "id_countdown_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_grid_lines_toggle_button",
+          "raw_value": "id_grid_lines_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_flash_toggle_button",
+          "raw_value": "id_flash_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_camera_toggle_button",
+          "raw_value": "id_camera_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_shutter_button",
+          "raw_value": "id_shutter_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767007.java"
+    },
+    {
+      "test_case_id": "TC_17767_008",
+      "class_name": "Test_17767_17767008",
+      "element_ids": [
+        "el_22",
+        "el_32",
+        "el_33",
+        "el_35",
+        "el_36",
+        "el_49"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_mode_options",
+          "raw_value": "id_mode_options",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_countdown_toggle_button",
+          "raw_value": "id_countdown_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_grid_lines_toggle_button",
+          "raw_value": "id_grid_lines_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_flash_toggle_button",
+          "raw_value": "id_flash_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_camera_toggle_button",
+          "raw_value": "id_camera_toggle_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_shutter_button",
+          "raw_value": "id_shutter_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17767/Test_17767_17767008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_22",
+      "resource_id": "com.android.camera2:id/mode_options",
+      "class": "com.android.camera.widget.ModeOptions",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1720,
+        1440,
+        1972
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_mode_options",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_32",
+      "resource_id": "com.android.camera2:id/countdown_toggle_button",
+      "class": "com.android.camera.MultiToggleImageButton",
+      "text": "",
+      "content_desc": [
+        "Countdown timer is off"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        321,
+        1762,
+        489,
+        1930
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_countdown_toggle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_33",
+      "resource_id": "com.android.camera2:id/grid_lines_toggle_button",
+      "class": "com.android.camera.MultiToggleImageButton",
+      "text": "",
+      "content_desc": [
+        "Grid lines off"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        531,
+        1762,
+        699,
+        1930
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_grid_lines_toggle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_35",
+      "resource_id": "com.android.camera2:id/flash_toggle_button",
+      "class": "com.android.camera.MultiToggleImageButton",
+      "text": "",
+      "content_desc": [
+        "Flash on"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        741,
+        1762,
+        909,
+        1930
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_flash_toggle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "com.android.camera2:id/camera_toggle_button",
+      "class": "com.android.camera.MultiToggleImageButton",
+      "text": "",
+      "content_desc": [
+        "Back camera"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        951,
+        1762,
+        1119,
+        1930
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_camera_toggle_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_49",
+      "resource_id": "com.android.camera2:id/shutter_button",
+      "class": "com.android.camera.ShutterButton",
+      "text": "",
+      "content_desc": [
+        "Shutter"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1972,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_shutter_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

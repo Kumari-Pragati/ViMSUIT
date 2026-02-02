@@ -1,0 +1,284 @@
+{
+  "screen_id": "10208",
+  "primary_ctas": "\"Register with Facebook,\" \"Register with Google,\" \"Register with Email Address.\"\n- **Navigation/footer**: Back arrow in the status bar, \"Terms of Service\" and \"Privacy Policy\" links in the footer.",
+  "total_elements": 23,
+  "testable_elements": 6,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10208_01",
+      "class_name": "Test_10208_1020801",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_fb_btn",
+        "raw_value": "id_register_fb_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020801.java"
+    },
+    {
+      "test_case_id": "TC_10208_02",
+      "class_name": "Test_10208_1020802",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_google_btn",
+        "raw_value": "id_register_google_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020802.java"
+    },
+    {
+      "test_case_id": "TC_10208_03",
+      "class_name": "Test_10208_1020803",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_email_btn",
+        "raw_value": "id_register_email_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020803.java"
+    },
+    {
+      "test_case_id": "TC_10208_04",
+      "class_name": "Test_10208_1020804",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_fb_btn",
+        "raw_value": "id_register_fb_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020804.java"
+    },
+    {
+      "test_case_id": "TC_10208_05",
+      "class_name": "Test_10208_1020805",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_google_btn",
+        "raw_value": "id_register_google_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020805.java"
+    },
+    {
+      "test_case_id": "TC_10208_06",
+      "class_name": "Test_10208_1020806",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_email_btn",
+        "raw_value": "id_register_email_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020806.java"
+    },
+    {
+      "test_case_id": "TC_10208_07",
+      "class_name": "Test_10208_1020807",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_fb_btn",
+        "raw_value": "id_register_fb_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020807.java"
+    },
+    {
+      "test_case_id": "TC_10208_08",
+      "class_name": "Test_10208_1020808",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_google_btn",
+        "raw_value": "id_register_google_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020808.java"
+    },
+    {
+      "test_case_id": "TC_10208_09",
+      "class_name": "Test_10208_1020809",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_email_btn",
+        "raw_value": "id_register_email_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10208/Test_10208_1020809.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_6",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/back_btn",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        137,
+        126,
+        263
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_back_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/register_fb_btn",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        508,
+        1370,
+        676
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_register_fb_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/register_google_btn",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        864,
+        1370,
+        1032
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_register_google_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/register_email_btn",
+      "class": "android.widget.Button",
+      "text": "Register with Email Address",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        1225,
+        1370,
+        1393
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_register_email_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/terms_btn",
+      "class": "android.widget.Button",
+      "text": "Terms of Service",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        323,
+        2273,
+        736,
+        2343
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_terms_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.buzzmuslim.buzzmuslim:id/privacy_btn",
+      "class": "android.widget.Button",
+      "text": "Privacy Policy",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        771,
+        2273,
+        1116,
+        2343
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_privacy_btn",
+      "selector_confidence": 0.95
+    }
+  ]
+}

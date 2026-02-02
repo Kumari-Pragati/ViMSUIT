@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16566,95,3,2,id/drawer_layout;id/drawer_layout;id/drawer_layout,8,8,66.7%,"""MANUALLY"" and ""AUTOMATICALLY"" buttons.
+- **Navigation/footer**: Menu icon in the header."

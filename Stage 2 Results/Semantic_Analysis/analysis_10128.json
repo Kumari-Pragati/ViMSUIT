@@ -1,0 +1,216 @@
+{
+  "screen_id": "10128",
+  "primary_ctas": "Selecting a category under \"Knowledge Base.\"\n- **Navigation/footer**: Back arrow in the header, footer with app information.",
+  "total_elements": 51,
+  "testable_elements": 3,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10128_001",
+      "class_name": "Test_10128_10128001",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_uv_action_search",
+        "raw_value": "id_uv_action_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128001.java"
+    },
+    {
+      "test_case_id": "TC_10128_002",
+      "class_name": "Test_10128_10128002",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_uv_action_search",
+        "raw_value": "id_uv_action_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128002.java"
+    },
+    {
+      "test_case_id": "TC_10128_003",
+      "class_name": "Test_10128_10128003",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128003.java"
+    },
+    {
+      "test_case_id": "TC_10128_004",
+      "class_name": "Test_10128_10128004",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128004.java"
+    },
+    {
+      "test_case_id": "TC_10128_005",
+      "class_name": "Test_10128_10128005",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128005.java"
+    },
+    {
+      "test_case_id": "TC_10128_006",
+      "class_name": "Test_10128_10128006",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_uv_action_search",
+        "raw_value": "id_uv_action_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128006.java"
+    },
+    {
+      "test_case_id": "TC_10128_007",
+      "class_name": "Test_10128_10128007",
+      "element_id": "el_40",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_uv_action_search",
+        "raw_value": "id_uv_action_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128007.java"
+    },
+    {
+      "test_case_id": "TC_10128_008",
+      "class_name": "Test_10128_10128008",
+      "element_id": "el_8",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128008.java"
+    },
+    {
+      "test_case_id": "TC_10128_009",
+      "class_name": "Test_10128_10128009",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10128/Test_10128_10128009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_40",
+      "resource_id": "com.wivb.android.weather:id/uv_action_search",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Search"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_uv_action_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "android:id/list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

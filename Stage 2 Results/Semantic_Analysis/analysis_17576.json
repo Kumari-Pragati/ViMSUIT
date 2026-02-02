@@ -1,0 +1,142 @@
+{
+  "screen_id": "17576",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 21,
+  "testable_elements": 1,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17576_01",
+      "class_name": "Test_17576_1757601",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757601.java"
+    },
+    {
+      "test_case_id": "TC_17576_02",
+      "class_name": "Test_17576_1757602",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757602.java"
+    },
+    {
+      "test_case_id": "TC_17576_03",
+      "class_name": "Test_17576_1757603",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757603.java"
+    },
+    {
+      "test_case_id": "TC_17576_04",
+      "class_name": "Test_17576_1757604",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757604.java"
+    },
+    {
+      "test_case_id": "TC_17576_05",
+      "class_name": "Test_17576_1757605",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757605.java"
+    },
+    {
+      "test_case_id": "TC_17576_06",
+      "class_name": "Test_17576_1757606",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757606.java"
+    },
+    {
+      "test_case_id": "TC_17576_07",
+      "class_name": "Test_17576_1757607",
+      "element_id": "el_17",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17576/Test_17576_1757607.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_17",
+      "resource_id": "android:id/button3",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "OK",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        134,
+        2154,
+        358,
+        2322
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

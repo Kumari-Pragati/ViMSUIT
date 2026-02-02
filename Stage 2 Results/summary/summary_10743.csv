@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10743,119,3,2,id/connect_apps_devices;id/connect_apps_devices;id/finish_sign_up;id/finish_sign_up;id/finish_sign_up;id/connect_apps_devices;id/connect_apps_devices;id/finish_sign_up;id/connect_apps_devices;id/finish_sign_up,8,8,66.7%,Main Screen Actions

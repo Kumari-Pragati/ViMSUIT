@@ -1,0 +1,219 @@
+{
+  "screen_id": "14952",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 84,
+  "testable_elements": 4,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14952_01",
+      "class_name": "Test_14952_1495201",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495201.java"
+    },
+    {
+      "test_case_id": "TC_14952_02",
+      "class_name": "Test_14952_1495202",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495202.java"
+    },
+    {
+      "test_case_id": "TC_14952_03",
+      "class_name": "Test_14952_1495203",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495203.java"
+    },
+    {
+      "test_case_id": "TC_14952_04",
+      "class_name": "Test_14952_1495204",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495204.java"
+    },
+    {
+      "test_case_id": "TC_14952_05",
+      "class_name": "Test_14952_1495205",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_gender_age_selection_male_grid",
+        "raw_value": "id_gender_age_selection_male_grid",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495205.java"
+    },
+    {
+      "test_case_id": "TC_14952_06",
+      "class_name": "Test_14952_1495206",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495206.java"
+    },
+    {
+      "test_case_id": "TC_14952_07",
+      "class_name": "Test_14952_1495207",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495207.java"
+    },
+    {
+      "test_case_id": "TC_14952_08",
+      "class_name": "Test_14952_1495208",
+      "element_id": "el_78",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_next_btn",
+        "raw_value": "id_next_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14952/Test_14952_1495208.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_15",
+      "resource_id": "tv.peel.app:id/gender_age_selection_male_grid",
+      "class": "android.widget.GridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        137,
+        647,
+        1303,
+        1172
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_gender_age_selection_male_grid",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_47",
+      "resource_id": "tv.peel.app:id/gender_age_selection_female_grid",
+      "class": "android.widget.GridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        137,
+        1322,
+        1303,
+        1847
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_gender_age_selection_female_grid",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_78",
+      "resource_id": "tv.peel.app:id/next_btn",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Skip",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        408,
+        1938,
+        1031,
+        2068
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_next_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_9",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

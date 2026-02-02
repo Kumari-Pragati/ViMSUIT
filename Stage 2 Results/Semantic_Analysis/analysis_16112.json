@@ -1,0 +1,331 @@
+{
+  "screen_id": "16112",
+  "primary_ctas": "Clear all history entries, delete individual history entries.\n- **Navigation/footer**: Tabs at the top, advertisement at the bottom.",
+  "total_elements": 77,
+  "testable_elements": 7,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16112_001",
+      "class_name": "Test_16112_16112001",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_sliding_tabs",
+        "raw_value": "id_sliding_tabs",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16112/Test_16112_16112001.java"
+    },
+    {
+      "test_case_id": "TC_16112_002",
+      "class_name": "Test_16112_16112002",
+      "element_ids": [
+        "el_24",
+        "el_31"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_clearAll",
+          "raw_value": "id_clearAll",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_delete",
+          "raw_value": "id_delete",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16112/Test_16112_16112002.java"
+    },
+    {
+      "test_case_id": "TC_16112_003",
+      "class_name": "Test_16112_16112003",
+      "element_id": "el_31",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_delete",
+        "raw_value": "id_delete",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16112/Test_16112_16112003.java"
+    },
+    {
+      "test_case_id": "TC_16112_004",
+      "class_name": "Test_16112_16112004",
+      "element_ids": [
+        "el_24",
+        "el_31"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_clearAll",
+          "raw_value": "id_clearAll",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_delete",
+          "raw_value": "id_delete",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16112/Test_16112_16112004.java"
+    },
+    {
+      "test_case_id": "TC_16112_005",
+      "class_name": "Test_16112_16112005",
+      "element_ids": [
+        "el_12",
+        "el_16",
+        "el_22",
+        "el_24",
+        "el_25",
+        "el_31",
+        "el_75"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_action_search",
+          "raw_value": "id_action_search",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewpager",
+          "raw_value": "id_viewpager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_clearAll",
+          "raw_value": "id_clearAll",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_history_recycler_view",
+          "raw_value": "id_history_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_delete",
+          "raw_value": "id_delete",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16112/Test_16112_16112005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.burningpassion.hindidictionary:id/action_search",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Search hindi/english word"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "com.burningpassion.hindidictionary:id/sliding_tabs",
+      "class": "com.burningpassion.hindidictionary.common.SlidingTabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        449
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sliding_tabs",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.burningpassion.hindidictionary:id/viewpager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        449,
+        1440,
+        2075
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewpager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.burningpassion.hindidictionary:id/clearAll",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Clear All",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        497,
+        505,
+        943,
+        687
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_clearAll",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.burningpassion.hindidictionary:id/history_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        743,
+        1440,
+        2075
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_history_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.burningpassion.hindidictionary:id/delete",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1216,
+        840,
+        1356,
+        980
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_delete",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_75",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.m",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        160,
+        2146,
+        1280,
+        2321
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

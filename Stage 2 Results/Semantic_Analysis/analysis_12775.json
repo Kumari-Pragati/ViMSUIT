@@ -1,0 +1,1189 @@
+{
+  "screen_id": "12775",
+  "primary_ctas": "Selecting a mod from the list.\n- **Navigation/footer**: Tabs for different mod categories, battery status indicator.",
+  "total_elements": 101,
+  "testable_elements": 13,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12775_001",
+      "class_name": "Test_12775_12775001",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775001.java"
+    },
+    {
+      "test_case_id": "TC_12775_002",
+      "class_name": "Test_12775_12775002",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775002.java"
+    },
+    {
+      "test_case_id": "TC_12775_003",
+      "class_name": "Test_12775_12775003",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775003.java"
+    },
+    {
+      "test_case_id": "TC_12775_004",
+      "class_name": "Test_12775_12775004",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775004.java"
+    },
+    {
+      "test_case_id": "TC_12775_005",
+      "class_name": "Test_12775_12775005",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775005.java"
+    },
+    {
+      "test_case_id": "TC_12775_006",
+      "class_name": "Test_12775_12775006",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775006.java"
+    },
+    {
+      "test_case_id": "TC_12775_007",
+      "class_name": "Test_12775_12775007",
+      "element_ids": [
+        "el_19",
+        "el_20",
+        "el_38",
+        "el_41",
+        "el_36",
+        "el_42",
+        "el_47",
+        "el_52",
+        "el_57",
+        "el_62",
+        "el_67",
+        "el_72",
+        "el_77"
+      ],
+      "element_count": 13,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_howto",
+          "raw_value": "id_howto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sliding_tabs",
+          "raw_value": "id_sliding_tabs",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_pager",
+          "raw_value": "id_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_my_recycler_view",
+          "raw_value": "id_my_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7076923076923075,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12775/Test_12775_12775007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_19",
+      "resource_id": "minecraft.falloutcrafter.mod:id/howto",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "How To"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_howto",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "minecraft.falloutcrafter.mod:id/sliding_tabs",
+      "class": "maps.minecraft.forminecraftpe.toolbar.SlidingTabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        449
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sliding_tabs",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "minecraft.falloutcrafter.mod:id/pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        449,
+        1440,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "minecraft.falloutcrafter.mod:id/my_recycler_view",
+      "class": "com.github.ksoichiro.android.observablescrollview.ObservableRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        449,
+        1422,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_my_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_42",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        498,
+        1422,
+        705
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_47",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        719,
+        1422,
+        926
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        940,
+        1422,
+        1147
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        1161,
+        1422,
+        1368
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_62",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        1382,
+        1422,
+        1589
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_67",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        1603,
+        1422,
+        1810
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_72",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        1824,
+        1422,
+        2031
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_77",
+      "resource_id": "",
+      "class": "android.support.v7.widget.CardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        18,
+        2045,
+        1422,
+        2217
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

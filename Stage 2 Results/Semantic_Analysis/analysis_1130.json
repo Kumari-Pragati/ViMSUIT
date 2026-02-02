@@ -1,0 +1,258 @@
+{
+  "screen_id": "1130",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 169,
+  "testable_elements": 8,
+  "matched_test_cases": 3,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1130_01",
+      "class_name": "Test_1130_113001",
+      "element_id": "el_166",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_upgrade_btn_unlock",
+        "raw_value": "id_upgrade_btn_unlock",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1130/Test_1130_113001.java"
+    },
+    {
+      "test_case_id": "TC_1130_02",
+      "class_name": "Test_1130_113002",
+      "element_id": "el_167",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_upgrade_btn_continue",
+        "raw_value": "id_upgrade_btn_continue",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1130/Test_1130_113002.java"
+    },
+    {
+      "test_case_id": "TC_1130_03",
+      "class_name": "Test_1130_113003",
+      "element_id": "el_168",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_upgrade_btn_join",
+        "raw_value": "id_upgrade_btn_join",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1130/Test_1130_113003.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_51",
+      "resource_id": "com.scholly.scholarshipsearch:id/scholarships_footer_view_all_button",
+      "class": "com.scholly.scholarshipsearch.view.CustomFontButton",
+      "text": "VIEW ALL",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        566,
+        1462,
+        874,
+        1630
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_scholarships_footer_view_all_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_55",
+      "resource_id": "com.scholly.scholarshipsearch:id/advice_view_pager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1855,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_advice_view_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_61",
+      "resource_id": "com.scholly.scholarshipsearch:id/profile_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        242,
+        1440,
+        2168
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_profile_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_163",
+      "resource_id": "com.scholly.scholarshipsearch:id/profile_btn_matches",
+      "class": "com.scholly.scholarshipsearch.view.CustomFontButton",
+      "text": "FIND MY MATCHES",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2168,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_profile_btn_matches",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_166",
+      "resource_id": "com.scholly.scholarshipsearch:id/upgrade_btn_unlock",
+      "class": "com.scholly.scholarshipsearch.view.CustomFontButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        195,
+        804,
+        1245,
+        1154
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_upgrade_btn_unlock",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_167",
+      "resource_id": "com.scholly.scholarshipsearch:id/upgrade_btn_continue",
+      "class": "com.scholly.scholarshipsearch.view.CustomFontButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        195,
+        1207,
+        1245,
+        1557
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_upgrade_btn_continue",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_168",
+      "resource_id": "com.scholly.scholarshipsearch:id/upgrade_btn_join",
+      "class": "com.scholly.scholarshipsearch.view.CustomFontButton",
+      "text": "HAVE A JOIN CODE?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        445,
+        1557,
+        995,
+        1725
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_upgrade_btn_join",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        242,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

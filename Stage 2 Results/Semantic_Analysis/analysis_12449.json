@@ -1,0 +1,102 @@
+{
+  "screen_id": "12449",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 58,
+  "testable_elements": 1,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12449_01",
+      "class_name": "Test_12449_1244901",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_countries_list",
+        "raw_value": "id_countries_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12449/Test_12449_1244901.java"
+    },
+    {
+      "test_case_id": "TC_12449_02",
+      "class_name": "Test_12449_1244902",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_countries_list",
+        "raw_value": "id_countries_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12449/Test_12449_1244902.java"
+    },
+    {
+      "test_case_id": "TC_12449_03",
+      "class_name": "Test_12449_1244903",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_countries_list",
+        "raw_value": "id_countries_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12449/Test_12449_1244903.java"
+    },
+    {
+      "test_case_id": "TC_12449_04",
+      "class_name": "Test_12449_1244904",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_countries_list",
+        "raw_value": "id_countries_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12449/Test_12449_1244904.java"
+    },
+    {
+      "test_case_id": "TC_12449_05",
+      "class_name": "Test_12449_1244905",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_countries_list",
+        "raw_value": "id_countries_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12449/Test_12449_1244905.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.trovit.android.apps.cars:id/countries_list",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        92,
+        359,
+        1348,
+        2168
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_countries_list",
+      "selector_confidence": 0.95
+    }
+  ]
+}

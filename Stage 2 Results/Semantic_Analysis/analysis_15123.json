@@ -1,0 +1,244 @@
+{
+  "screen_id": "15123",
+  "primary_ctas": "\"Sign In Forever 21 Account.\"\n- **Navigation/footer**: \"Skip\" option.",
+  "total_elements": 44,
+  "testable_elements": 6,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15123_01",
+      "class_name": "Test_15123_1512301",
+      "element_ids": [
+        "el_38",
+        "el_41"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_bOnboardingF21",
+          "raw_value": "id_bOnboardingF21",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_bOnboardingSkip",
+          "raw_value": "id_bOnboardingSkip",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15123/Test_15123_1512301.java"
+    },
+    {
+      "test_case_id": "TC_15123_02",
+      "class_name": "Test_15123_1512302",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_bOnboardingF21",
+        "raw_value": "id_bOnboardingF21",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15123/Test_15123_1512302.java"
+    },
+    {
+      "test_case_id": "TC_15123_03",
+      "class_name": "Test_15123_1512303",
+      "element_id": "el_41",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_bOnboardingSkip",
+        "raw_value": "id_bOnboardingSkip",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15123/Test_15123_1512303.java"
+    },
+    {
+      "test_case_id": "TC_15123_04",
+      "class_name": "Test_15123_1512304",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_vPOnboardingImages",
+        "raw_value": "id_vPOnboardingImages",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15123/Test_15123_1512304.java"
+    },
+    {
+      "test_case_id": "TC_15123_05",
+      "class_name": "Test_15123_1512305",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_vPOnboardingImages",
+        "raw_value": "id_vPOnboardingImages",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15123/Test_15123_1512305.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.rarewire.forever21:id/vPOnboardingImages",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_vPOnboardingImages",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.rarewire.forever21:id/bOnboardingF21",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign In Forever 21 Account",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        2042,
+        1384,
+        2196
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_bOnboardingF21",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.rarewire.forever21:id/bOnboardingSkip",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Skip",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        2252,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_bOnboardingSkip",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_33",
+      "resource_id": "",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        650,
+        1874,
+        678,
+        1902
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        706,
+        1874,
+        734,
+        1902
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_35",
+      "resource_id": "",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        762,
+        1874,
+        790,
+        1902
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

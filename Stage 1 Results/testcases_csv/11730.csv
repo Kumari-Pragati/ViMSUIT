@@ -1,0 +1,11 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_11730_001,User can navigate back to the previous screen,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Click on the back arrow in the header.,The user is navigated back to the previous screen.
+TC_11730_002,User can play the audio for the phrase 'Comment vas-tu?',LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Click on the play button.,The audio for the phrase 'Comment vas-tu?' plays.
+TC_11730_003,User can view the English translation of the phrase 'Comment vas-tu?',LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the English translation 'How are you?' displayed below the French phrase.,The English translation 'How are you?' is visible.
+TC_11730_004,User can see the progress bar indicating the current item number,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the progress bar indicating the user is on the first of ten items.,The progress bar shows the user is on the first of ten items.
+TC_11730_005,User can navigate to the next item in the vocabulary list,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Click on the next item in the vocabulary list.,The user is navigated to the next item in the vocabulary list.
+TC_11730_006,User can navigate to the previous item in the vocabulary list,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Click on the previous item in the vocabulary list.,The user is navigated to the previous item in the vocabulary list.
+TC_11730_007,User can view the image of two people sitting at a café,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the image of two people sitting at a café.,The image of two people sitting at a café is visible.
+TC_11730_008,User can view the signal strength icon,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the signal strength icon at the top of the screen.,The signal strength icon is visible.
+TC_11730_009,User can view the battery icon,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the battery icon at the top of the screen.,The battery icon is visible.
+TC_11730_010,User can view the time icon,LanguageLearningApp,11730,mediaplayer,P1,Functional,,,Observe the time icon at the top of the screen.,The time icon is visible.

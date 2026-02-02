@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1303,37,2,2,id/city_list_view;id/city_list_view;id/city_list_view;id/city_list_view;id/city_list_view;id/city_list_view,8,8,100.0%,"Selecting a city from the list.
+- **Navigation/footer**: Back arrow in the header."

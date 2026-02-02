@@ -1,0 +1,7 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_12804_001,Positive flow: Navigating back to the previous screen,MusicApp,12804,mediaplayer,P1,Functional,,,Tap the back arrow in the app bar to navigate back to the previous screen.,The app should navigate back to the previous screen.
+TC_12804_002,Negative flow: Clicking on the three-dot menu icon,MusicApp,12804,mediaplayer,P2,Negative,,,Click on the three-dot menu icon on the right side of the list row.,The app should display a context menu with options related to the artist.
+TC_12804_003,UI test: Verifying the app bar title,MusicApp,12804,mediaplayer,P2,UI,,,Verify that the app bar title is correctly displayed as 'Artists'.,The app bar title should be 'Artists'.
+TC_12804_004,Usability test: Tapping on the image,MusicApp,12804,mediaplayer,P2,Usability,,,Tap on the image of the person playing a stringed instrument.,The app should navigate to a screen displaying more details about the artist.
+TC_12804_005,Accessibility test: Screen reader interaction,MusicApp,12804,mediaplayer,P2,Accessibility,,,Use a screen reader to navigate through the screen and verify that all elements are accessible.,All elements should be accessible via screen reader.
+TC_12804_006,Usability test: Tapping on the list row,MusicApp,12804,mediaplayer,P2,Usability,,,Tap on the list row containing the text '<unknown>'.,The app should navigate to a screen displaying more details about the artist.

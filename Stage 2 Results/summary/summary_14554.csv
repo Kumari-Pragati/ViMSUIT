@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14554,29,7,7,id/airmail_fab_new;id/airmail_fab_new;id/airmail_fab_new;id/main_menu_notification;id/main_menu_notification;id/airmail_list;id/main_menu_friends;id/main_menu_airmail;id/main_menu_notification;id/main_menu_more;id/airmail_list;id/airmail_fab_new;id/main_menu_friends;id/main_menu_airmail;id/main_menu_notification;id/main_menu_more;id/airmail_list;id/airmail_fab_new,8,8,100.0%,Main Screen Actions

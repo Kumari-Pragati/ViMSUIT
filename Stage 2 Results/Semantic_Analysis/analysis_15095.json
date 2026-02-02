@@ -1,0 +1,193 @@
+{
+  "screen_id": "15095",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 47,
+  "testable_elements": 5,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15095_001",
+      "class_name": "Test_15095_15095001",
+      "element_id": "el_9",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_header_browse_btn",
+        "raw_value": "id_header_browse_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15095/Test_15095_15095001.java"
+    },
+    {
+      "test_case_id": "TC_15095_002",
+      "class_name": "Test_15095_15095002",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_body_scrollView",
+        "raw_value": "id_body_scrollView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15095/Test_15095_15095002.java"
+    },
+    {
+      "test_case_id": "TC_15095_003",
+      "class_name": "Test_15095_15095003",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_header_search_btn",
+        "raw_value": "id_header_search_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15095/Test_15095_15095003.java"
+    },
+    {
+      "test_case_id": "TC_15095_004",
+      "class_name": "Test_15095_15095004",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_body_scrollView",
+        "raw_value": "id_body_scrollView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15095/Test_15095_15095004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_9",
+      "resource_id": "com.jtv.dovechannel:id/header_browse_btn",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        124,
+        585,
+        229
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_header_browse_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "com.jtv.dovechannel:id/header_search_btn",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1265,
+        124,
+        1370,
+        229
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_header_search_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "com.jtv.dovechannel:id/header_user_setting_btn",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        964,
+        124,
+        1069,
+        229
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_header_user_setting_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.jtv.dovechannel:id/body_scrollView",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        422,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_body_scrollView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "com.jtv.dovechannel:id/body_gridView",
+      "class": "android.widget.GridView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        446,
+        1440,
+        1056
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_body_gridView",
+      "selector_confidence": 0.95
+    }
+  ]
+}

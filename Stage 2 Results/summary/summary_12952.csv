@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12952,107,5,4,id/pager_onboarding;id/pager_onboarding;id/pager_onboarding;id/action_qr_main;id/drawer_layout;id/pager_onboarding,8,8,80.0%,Main Screen Actions

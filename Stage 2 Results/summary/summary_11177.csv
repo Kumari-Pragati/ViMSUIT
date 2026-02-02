@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11177,19,2,1,id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button;id/tutorial_close_button,10,10,50.0%,Main Screen Actions

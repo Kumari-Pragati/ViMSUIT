@@ -1,0 +1,635 @@
+{
+  "screen_id": "10498",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 269,
+  "testable_elements": 19,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10498_001",
+      "class_name": "Test_10498_10498001",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_x9",
+        "raw_value": "id_x9",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498001.java"
+    },
+    {
+      "test_case_id": "TC_10498_002",
+      "class_name": "Test_10498_10498002",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_az4",
+        "raw_value": "id_az4",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498002.java"
+    },
+    {
+      "test_case_id": "TC_10498_003",
+      "class_name": "Test_10498_10498003",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498003.java"
+    },
+    {
+      "test_case_id": "TC_10498_004",
+      "class_name": "Test_10498_10498004",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_x9",
+        "raw_value": "id_x9",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498004.java"
+    },
+    {
+      "test_case_id": "TC_10498_005",
+      "class_name": "Test_10498_10498005",
+      "element_id": "el_60",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_h4",
+        "raw_value": "id_h4",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498005.java"
+    },
+    {
+      "test_case_id": "TC_10498_006",
+      "class_name": "Test_10498_10498006",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498006.java"
+    },
+    {
+      "test_case_id": "TC_10498_007",
+      "class_name": "Test_10498_10498007",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498007.java"
+    },
+    {
+      "test_case_id": "TC_10498_008",
+      "class_name": "Test_10498_10498008",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498008.java"
+    },
+    {
+      "test_case_id": "TC_10498_009",
+      "class_name": "Test_10498_10498009",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498009.java"
+    },
+    {
+      "test_case_id": "TC_10498_010",
+      "class_name": "Test_10498_10498010",
+      "element_id": "el_198",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ey",
+        "raw_value": "id_ey",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10498/Test_10498_10498010.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.netease.newsreader.activity:id/x9",
+      "class": "android.support.v7.widget.Toolbar",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        203
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_x9",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.netease.newsreader.activity:id/az4",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "\u641c\u7d22"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1019,
+        84,
+        1215,
+        203
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_az4",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.netease.newsreader.activity:id/ayb",
+      "class": "com.netease.nr.base.view.TabHost",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2238,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ayb",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "com.netease.newsreader.activity:id/h4",
+      "class": "com.netease.nr.base.view.ViewPagerForSlider",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        203,
+        1440,
+        2238
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_h4",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_62",
+      "resource_id": "com.netease.newsreader.activity:id/t_",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1280,
+        203,
+        1440,
+        319
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_t_",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_63",
+      "resource_id": "com.netease.newsreader.activity:id/ayk",
+      "class": "com.netease.nr.base.view.SlidingTabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        203,
+        1280,
+        319
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ayk",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_134",
+      "resource_id": "com.netease.newsreader.activity:id/h4",
+      "class": "com.netease.newsreader.newarch.view.CommonNewsListHeaderViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        424,
+        1440,
+        1154
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_h4",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_198",
+      "resource_id": "com.netease.newsreader.activity:id/ey",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        1903,
+        1440,
+        2043
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ey",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_231",
+      "resource_id": "com.netease.newsreader.activity:id/ey",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        2206,
+        1440,
+        2238
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ey",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_65",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u5934\u6761",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        203,
+        194,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_66",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u8981\u95fb",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        194,
+        203,
+        388,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_67",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u5a31\u4e50",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        388,
+        203,
+        582,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_68",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u4f53\u80b2",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        582,
+        203,
+        776,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_69",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u7f51\u6613\u53f7",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        776,
+        203,
+        1022,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_70",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u5317\u4eac",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1022,
+        203,
+        1216,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_71",
+      "resource_id": "",
+      "class": "com.netease.nr.base.view.SlidingTabLayout$a",
+      "text": "\u89c6\u9891",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1216,
+        203,
+        1280,
+        319
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "android:id/tabs",
+      "class": "android.widget.TabWidget",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2238,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_126",
+      "resource_id": "",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        319,
+        1440,
+        2238
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_135",
+      "resource_id": "",
+      "class": "com.netease.newsreader.newarch.view.NTESImageView2",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        424,
+        1440,
+        1154
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

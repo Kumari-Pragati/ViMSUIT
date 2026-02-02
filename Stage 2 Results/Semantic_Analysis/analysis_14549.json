@@ -1,0 +1,190 @@
+{
+  "screen_id": "14549",
+  "primary_ctas": "\"Log In\" button and \"Sign Up\" link.\n- **Navigation/footer**: \"Terms & Conditions\" link at the bottom.",
+  "total_elements": 29,
+  "testable_elements": 4,
+  "matched_test_cases": 3,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14549_001",
+      "class_name": "Test_14549_14549001",
+      "element_ids": [
+        "el_25",
+        "el_27"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_createAccount",
+          "raw_value": "id_createAccount",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_signup_tandc",
+          "raw_value": "id_signup_tandc",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14549/Test_14549_14549001.java"
+    },
+    {
+      "test_case_id": "TC_14549_002",
+      "class_name": "Test_14549_14549002",
+      "element_ids": [
+        "el_25",
+        "el_27"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_createAccount",
+          "raw_value": "id_createAccount",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_signup_tandc",
+          "raw_value": "id_signup_tandc",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14549/Test_14549_14549002.java"
+    },
+    {
+      "test_case_id": "TC_14549_003",
+      "class_name": "Test_14549_14549003",
+      "element_ids": [
+        "el_25",
+        "el_27"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_createAccount",
+          "raw_value": "id_createAccount",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_signup_tandc",
+          "raw_value": "id_signup_tandc",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14549/Test_14549_14549003.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_20",
+      "resource_id": "com.airg:id/username",
+      "class": "android.widget.EditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        123,
+        1063,
+        1317,
+        1148
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_username",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.airg:id/password",
+      "class": "android.widget.EditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        123,
+        1257,
+        1317,
+        1342
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_password",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.airg:id/createAccount",
+      "class": "android.widget.Button",
+      "text": "Not a member yet? Sign Up",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1651,
+        1335,
+        1819
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_createAccount",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "com.airg:id/signup_tandc",
+      "class": "android.widget.Button",
+      "text": "Terms & Conditions",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        2119,
+        1335,
+        2287
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_signup_tandc",
+      "selector_confidence": 0.95
+    }
+  ]
+}

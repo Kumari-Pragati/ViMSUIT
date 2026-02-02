@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16886,127,13,13,id/cardView;id/btnNavigation;id/btnShare;id/carousel_next_button;id/availability_card_recycler;id/rentalItemRecycler;id/listingProfileFragment;id/btnNavigation;id/btnFavorite;id/btnShare;id/listingProfileFragment;id/carousel_prev_button;id/carousel_next_button;id/availability_card_recycler;id/rentalItemRecycler;id/fabEmail;id/cardView;id/carousel_loop_view_pager;id/cardView;id/cardView,8,8,100.0%,Main Screen Actions

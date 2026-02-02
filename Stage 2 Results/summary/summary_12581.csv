@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12581,53,5,2,id/drawer_layout;id/fab;id/drawer_layout;id/drawer_layout,4,4,40.0%,"Navigating to a map view.
+- **Navigation/footer**: Circular button with a map icon at the bottom right."

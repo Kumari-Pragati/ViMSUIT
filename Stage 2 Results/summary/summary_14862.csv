@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14862,25,5,3,id/login_edittext_email;id/login_edittext_email;id/login_edittext_email;id/login_edittext_password;id/login_checkbox_remember;id/login_edittext_password;id/login_edittext_email,7,7,60.0%,Main Screen Actions

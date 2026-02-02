@@ -1,0 +1,10 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_10612_01,Verify 'MY CIRCLES' header with 'Family' checkmark,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Verify that the 'MY CIRCLES' header is displayed with a green checkmark next to 'Family'.,The 'MY CIRCLES' header is displayed with a green checkmark next to 'Family'.
+TC_10612_02,Click on 'Create Circle' button,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Create Circle' button.,The app navigates to the 'Create Circle' screen.
+TC_10612_03,Click on 'Join a Circle' button,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Join a Circle' button.,The app navigates to the 'Join a Circle' screen.
+TC_10612_04,Click on 'Location Sharing' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Location Sharing' option.,The app navigates to the 'Location Sharing' settings screen.
+TC_10612_05,Click on 'Battery' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Battery' option.,The app navigates to the 'Battery' settings screen.
+TC_10612_06,Click on 'Settings' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Settings' option.,The app navigates to the 'Settings' screen.
+TC_10612_07,Click on 'Messages' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Messages' option.,The app navigates to the 'Messages' screen.
+TC_10612_08,Click on 'Help Alert' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Help Alert' option.,The app navigates to the 'Help Alert' screen.
+TC_10612_09,Click on 'Lists' option,SocialApp,10612,menu,P1,Functional,,,Open the app and navigate to screen 10612. | Click on the 'Lists' option.,The app navigates to the 'Lists' screen.

@@ -1,0 +1,55 @@
+package com.example.tests;
+
+import android.support.test.espresso.Espresso;
+import android.support.test.espresso.action.ViewActions;
+import android.support.test.rule.ActivityTestRule;
+import android.support.test.runner.AndroidJUnit4;
+
+import org.junit.Rule;
+import org.junit.Test;
+import org.junit.rules.TestName;
+import org.junit.runner.RunWith;
+
+import static android.support.test.espresso.assertion.ViewAssertions.matches;
+import static android.support.test.espresso.matcher.ViewMatchers.withContentDescription;
+import static android.support.test.espresso.matcher.ViewMatchers.withText;
+import static org.hamcrest.CoreMatchers.allOf;
+
+@RunWith(AndroidJUnit4.class)
+public class Test_12954_1295405 {
+
+    @Rule
+    public ActivityTestRule<MainActivity> activityRule = new ActivityTestRule<>(MainActivity.class);
+
+    @Test
+    public void testCheckWalletBalance() throws InterruptedException {
+        // Loop through all elements and perform test steps on each
+
+        // Element 1: withContentDescription("['Navigate up']")
+        onView(withContentDescription("['Navigate up']"))
+                .perform(ViewActions.click());
+        Thread.sleep(500);
+        
+        // Verify state
+        Espresso.onView(allOf(withId(R.id.myBitcoinWallet), withText("0.0 BTC")))
+                .check(matches(withText("0.0 BTC")));
+
+        // Element 2: withContentDescription("[None]") - piuk.blockchain.android:id/accountsList
+        onView(withContentDescription("[None]"))
+                .perform(ViewActions.click());
+        Thread.sleep(500);
+        
+        // Verify state
+        Espresso.onView(allOf(withId(R.id.myBitcoinWallet), withText("0.0 BTC")))
+                .check(matches(withText("0.0 BTC")));
+
+        // Element 3: withContentDescription("[None]")
+        onView(withContentDescription("[None]"))
+                .perform(ViewActions.click());
+        Thread.sleep(500);
+        
+        // Verify state
+        Espresso.onView(allOf(withId(R.id.myBitcoinWallet), withText("0.0 BTC")))
+                .check(matches(withText("0.0 BTC")));
+    }
+}

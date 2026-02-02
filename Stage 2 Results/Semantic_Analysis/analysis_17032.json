@@ -1,0 +1,299 @@
+{
+  "screen_id": "17032",
+  "primary_ctas": "Search for a bus or line, view service information, access all lines.\n- **Navigation/footer**: No footer or bottom navigation bar is present.",
+  "total_elements": 144,
+  "testable_elements": 6,
+  "matched_test_cases": 10,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17032_01",
+      "class_name": "Test_17032_1703201",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703201.java"
+    },
+    {
+      "test_case_id": "TC_17032_02",
+      "class_name": "Test_17032_1703202",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703202.java"
+    },
+    {
+      "test_case_id": "TC_17032_03",
+      "class_name": "Test_17032_1703203",
+      "element_id": "el_72",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703203.java"
+    },
+    {
+      "test_case_id": "TC_17032_04",
+      "class_name": "Test_17032_1703204",
+      "element_id": "el_39",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703204.java"
+    },
+    {
+      "test_case_id": "TC_17032_05",
+      "class_name": "Test_17032_1703205",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703205.java"
+    },
+    {
+      "test_case_id": "TC_17032_06",
+      "class_name": "Test_17032_1703206",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703206.java"
+    },
+    {
+      "test_case_id": "TC_17032_07",
+      "class_name": "Test_17032_1703207",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703207.java"
+    },
+    {
+      "test_case_id": "TC_17032_08",
+      "class_name": "Test_17032_1703208",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703208.java"
+    },
+    {
+      "test_case_id": "TC_17032_09",
+      "class_name": "Test_17032_1703209",
+      "element_id": "el_39",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703209.java"
+    },
+    {
+      "test_case_id": "TC_17032_10",
+      "class_name": "Test_17032_1703210",
+      "element_id": "el_61",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_footer_add_button",
+        "raw_value": "id_footer_add_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17032/Test_17032_1703210.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_39",
+      "resource_id": "com.citymapper.app.release:id/drawer_layout",
+      "class": "com.citymapper.app.views.CustomDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.citymapper.app.release:id/pager",
+      "class": "com.citymapper.app.views.ObservableViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "com.citymapper.app.release:id/recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_61",
+      "resource_id": "com.citymapper.app.release:id/footer_add_button",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1216,
+        223,
+        1384,
+        370
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_footer_add_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "",
+      "class": "com.google.maps.api.android.lib6.gmm6.api.z",
+      "text": "",
+      "content_desc": [
+        "Google Map"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        1495
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Google Map']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_72",
+      "resource_id": "",
+      "class": "com.citymapper.app.home.nuggets.lines.NuggetRouteStatusCell",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1000,
+        1384,
+        1249
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

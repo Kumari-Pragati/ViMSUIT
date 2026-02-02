@@ -1,0 +1,154 @@
+{
+  "screen_id": "17075",
+  "primary_ctas": "\"Sign in or create account\" button.",
+  "total_elements": 28,
+  "testable_elements": 2,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17075_001",
+      "class_name": "Test_17075_17075001",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075001.java"
+    },
+    {
+      "test_case_id": "TC_17075_002",
+      "class_name": "Test_17075_17075002",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075002.java"
+    },
+    {
+      "test_case_id": "TC_17075_003",
+      "class_name": "Test_17075_17075003",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075003.java"
+    },
+    {
+      "test_case_id": "TC_17075_004",
+      "class_name": "Test_17075_17075004",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075004.java"
+    },
+    {
+      "test_case_id": "TC_17075_005",
+      "class_name": "Test_17075_17075005",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075005.java"
+    },
+    {
+      "test_case_id": "TC_17075_006",
+      "class_name": "Test_17075_17075006",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075006.java"
+    },
+    {
+      "test_case_id": "TC_17075_007",
+      "class_name": "Test_17075_17075007",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_sign_in_or_sign_up",
+        "raw_value": "id_button_sign_in_or_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17075/Test_17075_17075007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.yahoo.mobile.client.android.finance:id/sidebar_drawer_layout",
+      "class": "com.yahoo.mobile.client.share.sidebar.SidebarDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sidebar_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.yahoo.mobile.client.android.finance:id/button_sign_in_or_sign_up",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign in or create account",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        164,
+        2064,
+        1276,
+        2232
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_button_sign_in_or_sign_up",
+      "selector_confidence": 0.95
+    }
+  ]
+}

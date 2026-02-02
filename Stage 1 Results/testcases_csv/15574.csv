@@ -1,0 +1,5 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_15574_01,Positive flow: Select 'For Sale' tab,RealEstateApp,15574,bare,P1,Functional,,,Tap on the 'For Sale' tab. | Verify that the 'For Sale' tab is selected.,The 'For Sale' tab is selected.
+TC_15574_02,Positive flow: Select 'For Rent' tab,RealEstateApp,15574,bare,P1,Functional,,,Tap on the 'For Rent' tab. | Verify that the 'For Rent' tab is selected.,The 'For Rent' tab is selected.
+TC_15574_03,Negative flow: Select 'For Sale' tab when already selected,RealEstateApp,15574,bare,P2,Negative,,,Tap on the 'For Sale' tab. | Tap on the 'For Sale' tab again.,The 'For Sale' tab remains selected.
+TC_15574_04,Negative flow: Select 'For Rent' tab when already selected,RealEstateApp,15574,bare,P2,Negative,,,Tap on the 'For Rent' tab. | Tap on the 'For Rent' tab again.,The 'For Rent' tab remains selected.

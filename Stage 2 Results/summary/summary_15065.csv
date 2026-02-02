@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15065,44,7,4,id/invisibleContacts;id/showPhoto;id/photoSelection;id/UseWeeks;id/invisibleContacts;id/invisibleContacts;id/invisibleContacts;id/invisibleContacts;id/showPhoto;id/photoSelection,6,6,57.1%,Main Screen Actions

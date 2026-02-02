@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14585,118,13,4,id/design_navigation_view;id/drawer_layout;id/drawer_layout;id/drawer_layout,9,9,30.8%,Main Screen Actions

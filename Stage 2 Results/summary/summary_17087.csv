@@ -1,0 +1,4 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17087,71,4,1,id/imgBtnSearch;id/imgBtnSearch;id/imgBtnSearch;id/imgBtnSearch;id/imgBtnSearch,5,5,25.0%,"Entering a new area or zip code
+- Selecting a place type
+- Viewing recently viewed places"

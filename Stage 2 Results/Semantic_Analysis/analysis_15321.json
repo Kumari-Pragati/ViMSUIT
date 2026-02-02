@@ -1,0 +1,560 @@
+{
+  "screen_id": "15321",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 176,
+  "testable_elements": 15,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15321_001",
+      "class_name": "Test_15321_15321001",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_rv_feed",
+        "raw_value": "id_rv_feed",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321001.java"
+    },
+    {
+      "test_case_id": "TC_15321_002",
+      "class_name": "Test_15321_15321002",
+      "element_id": "el_80",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ib_heart",
+        "raw_value": "id_ib_heart",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321002.java"
+    },
+    {
+      "test_case_id": "TC_15321_003",
+      "class_name": "Test_15321_15321003",
+      "element_id": "el_80",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ib_heart",
+        "raw_value": "id_ib_heart",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321003.java"
+    },
+    {
+      "test_case_id": "TC_15321_004",
+      "class_name": "Test_15321_15321004",
+      "element_id": "el_83",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_ib_star",
+        "raw_value": "id_ib_star",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321004.java"
+    },
+    {
+      "test_case_id": "TC_15321_005",
+      "class_name": "Test_15321_15321005",
+      "element_ids": [
+        "el_80",
+        "el_83",
+        "el_119",
+        "el_122",
+        "el_137",
+        "el_138",
+        "el_139",
+        "el_140",
+        "el_141",
+        "el_162"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_heart",
+          "raw_value": "id_ib_heart",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_star",
+          "raw_value": "id_ib_star",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_heart",
+          "raw_value": "id_ib_heart",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_star",
+          "raw_value": "id_ib_star",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_left_menu",
+          "raw_value": "id_ib_left_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_search",
+          "raw_value": "id_ib_search",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_write_post",
+          "raw_value": "id_ib_write_post",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_notification",
+          "raw_value": "id_ib_notification",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ib_right_menu",
+          "raw_value": "id_ib_right_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_bt_close_tool_tip",
+          "raw_value": "id_bt_close_tool_tip",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321005.java"
+    },
+    {
+      "test_case_id": "TC_15321_006",
+      "class_name": "Test_15321_15321006",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_rv_feed",
+        "raw_value": "id_rv_feed",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321006.java"
+    },
+    {
+      "test_case_id": "TC_15321_007",
+      "class_name": "Test_15321_15321007",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_rv_feed",
+        "raw_value": "id_rv_feed",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15321/Test_15321_15321007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_15",
+      "resource_id": "com.bearpty.talklife:id/rv_feed",
+      "class": "com.tubb.smrv.SwipeMenuRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2214
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_rv_feed",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_56",
+      "resource_id": "com.bearpty.talklife:id/sml",
+      "class": "com.bearpty.talklife.ui.SwipeHorizontalMenuLayoutLockable",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        92,
+        1440,
+        1192
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sml",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "com.bearpty.talklife:id/ns_avartar",
+      "class": "com.bearpty.talklife.ui.NLSpriteView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        134,
+        196,
+        288
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ns_avartar",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_80",
+      "resource_id": "com.bearpty.talklife:id/ib_heart",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        1054,
+        98,
+        1105
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_heart",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_83",
+      "resource_id": "com.bearpty.talklife:id/ib_star",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        353,
+        1053,
+        409,
+        1106
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_star",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_95",
+      "resource_id": "com.bearpty.talklife:id/sml",
+      "class": "com.bearpty.talklife.ui.SwipeHorizontalMenuLayoutLockable",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1241,
+        1440,
+        2214
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sml",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_99",
+      "resource_id": "com.bearpty.talklife:id/ns_avartar",
+      "class": "com.bearpty.talklife.ui.NLSpriteView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        1283,
+        196,
+        1437
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ns_avartar",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_119",
+      "resource_id": "com.bearpty.talklife:id/ib_heart",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2160,
+        98,
+        2211
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_heart",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_122",
+      "resource_id": "com.bearpty.talklife:id/ib_star",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        362,
+        2159,
+        418,
+        2212
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_star",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_137",
+      "resource_id": "com.bearpty.talklife:id/ib_left_menu",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Feed filter"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2215,
+        288,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_left_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_138",
+      "resource_id": "com.bearpty.talklife:id/ib_search",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Search"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        288,
+        2215,
+        576,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_139",
+      "resource_id": "com.bearpty.talklife:id/ib_write_post",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "New Post"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        576,
+        2215,
+        864,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_write_post",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_140",
+      "resource_id": "com.bearpty.talklife:id/ib_notification",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Notification"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        864,
+        2215,
+        1152,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_notification",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_141",
+      "resource_id": "com.bearpty.talklife:id/ib_right_menu",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Profile Menu"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1152,
+        2215,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ib_right_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_162",
+      "resource_id": "com.bearpty.talklife:id/bt_close_tool_tip",
+      "class": "com.bearpty.talklife.ui.NLButton",
+      "text": "Yep, I follow. Close this help",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        88,
+        1757,
+        1352,
+        1953
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_bt_close_tool_tip",
+      "selector_confidence": 0.95
+    }
+  ]
+}

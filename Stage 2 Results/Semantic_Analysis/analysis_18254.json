@@ -1,0 +1,141 @@
+{
+  "screen_id": "18254",
+  "primary_ctas": "\"OK\" button.\n- **Navigation/footer**: Menu icon in the header.",
+  "total_elements": 16,
+  "testable_elements": 1,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18254_001",
+      "class_name": "Test_18254_18254001",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254001.java"
+    },
+    {
+      "test_case_id": "TC_18254_002",
+      "class_name": "Test_18254_18254002",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254002.java"
+    },
+    {
+      "test_case_id": "TC_18254_003",
+      "class_name": "Test_18254_18254003",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254003.java"
+    },
+    {
+      "test_case_id": "TC_18254_004",
+      "class_name": "Test_18254_18254004",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254004.java"
+    },
+    {
+      "test_case_id": "TC_18254_005",
+      "class_name": "Test_18254_18254005",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254005.java"
+    },
+    {
+      "test_case_id": "TC_18254_006",
+      "class_name": "Test_18254_18254006",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254006.java"
+    },
+    {
+      "test_case_id": "TC_18254_007",
+      "class_name": "Test_18254_18254007",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254007.java"
+    },
+    {
+      "test_case_id": "TC_18254_008",
+      "class_name": "Test_18254_18254008",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_buttonDefaultPositive",
+        "raw_value": "id_buttonDefaultPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18254/Test_18254_18254008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_16",
+      "resource_id": "com.voltasit.obdeleven:id/buttonDefaultPositive",
+      "class": "com.afollestad.materialdialogs.internal.MDButton",
+      "text": "OK",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1053,
+        1777,
+        1305,
+        1945
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_buttonDefaultPositive",
+      "selector_confidence": 0.95
+    }
+  ]
+}

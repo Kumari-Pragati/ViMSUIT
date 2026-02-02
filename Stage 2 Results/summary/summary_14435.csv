@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14435,27,1,1,id/positive_action;id/positive_action;id/positive_action;id/positive_action;id/positive_action,5,5,100.0%,"""Continue"" button.
+- **Navigation/footer**: Navigation bar with icons for different sections of the app."

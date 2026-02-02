@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16664,267,10,10,id/icon;id/icon;id/icon;id/icon;id/icon;id/icon;id/btn_upload;id/ab_left;id/ab_right;id/list;id/icon;id/icon;id/icon;id/icon;id/icon;id/icon;id/btn_upload;id/ab_left;id/ab_right;id/list;id/list;id/btn_upload;id/icon;id/btn_upload;id/icon;id/icon;id/icon;id/icon;id/icon;id/icon;id/btn_upload;id/ab_left;id/ab_right;id/list;id/icon,8,8,100.0%,Main Screen Actions

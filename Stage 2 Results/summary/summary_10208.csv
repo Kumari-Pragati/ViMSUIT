@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10208,23,6,3,id/register_fb_btn;id/register_google_btn;id/register_email_btn;id/register_fb_btn;id/register_google_btn;id/register_email_btn;id/register_fb_btn;id/register_google_btn;id/register_email_btn,9,9,50.0%,"""Register with Facebook,"" ""Register with Google,"" ""Register with Email Address.""
+- **Navigation/footer**: Back arrow in the status bar, ""Terms of Service"" and ""Privacy Policy"" links in the footer."

@@ -1,0 +1,309 @@
+{
+  "screen_id": "15065",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 44,
+  "testable_elements": 7,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15065_01",
+      "class_name": "Test_15065_1506501",
+      "element_ids": [
+        "el_20",
+        "el_26",
+        "el_32"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_invisibleContacts",
+          "raw_value": "id_invisibleContacts",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_showPhoto",
+          "raw_value": "id_showPhoto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_photoSelection",
+          "raw_value": "id_photoSelection",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506501.java"
+    },
+    {
+      "test_case_id": "TC_15065_02",
+      "class_name": "Test_15065_1506502",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_UseWeeks",
+        "raw_value": "id_UseWeeks",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506502.java"
+    },
+    {
+      "test_case_id": "TC_15065_03",
+      "class_name": "Test_15065_1506503",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_invisibleContacts",
+        "raw_value": "id_invisibleContacts",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506503.java"
+    },
+    {
+      "test_case_id": "TC_15065_04",
+      "class_name": "Test_15065_1506504",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_invisibleContacts",
+        "raw_value": "id_invisibleContacts",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506504.java"
+    },
+    {
+      "test_case_id": "TC_15065_05",
+      "class_name": "Test_15065_1506505",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_invisibleContacts",
+        "raw_value": "id_invisibleContacts",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506505.java"
+    },
+    {
+      "test_case_id": "TC_15065_06",
+      "class_name": "Test_15065_1506506",
+      "element_ids": [
+        "el_20",
+        "el_26",
+        "el_32"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_invisibleContacts",
+          "raw_value": "id_invisibleContacts",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_showPhoto",
+          "raw_value": "id_showPhoto",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_photoSelection",
+          "raw_value": "id_photoSelection",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15065/Test_15065_1506506.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.muzurisana.birthdayfree:id/UseWeeks",
+      "class": "android.support.v7.widget.AppCompatSpinner",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        435,
+        1412,
+        519
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_UseWeeks",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "com.muzurisana.birthdayfree:id/DisplayNameFormat",
+      "class": "android.support.v7.widget.AppCompatSpinner",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        748,
+        1412,
+        832
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_DisplayNameFormat",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "com.muzurisana.birthdayfree:id/invisibleContacts",
+      "class": "android.widget.Switch",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1246,
+        976,
+        1412,
+        1071
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_invisibleContacts",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.muzurisana.birthdayfree:id/showPhoto",
+      "class": "android.widget.Switch",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1246,
+        1243,
+        1412,
+        1338
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_showPhoto",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_32",
+      "resource_id": "com.muzurisana.birthdayfree:id/photoSelection",
+      "class": "android.widget.Switch",
+      "text": "",
+      "content_desc": [
+        "Choose the source for contact photos"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1246,
+        1510,
+        1412,
+        1605
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_photoSelection",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_7",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

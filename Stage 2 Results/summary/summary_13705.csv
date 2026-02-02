@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13705,38,4,2,id/welcome_page_sign_bton;id/welcome_page_sign_bton;id/welcome_page_sign_bton;id/welcome_page_sign_password_edit;id/welcome_page_sign_bton;id/welcome_page_sign_password_edit;id/welcome_page_sign_bton,7,7,50.0%,Main Screen Actions

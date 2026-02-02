@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15697,375,19,2,id/verify_phone;id/verify_phone;id/verify_phone;id/verify_btn;id/verify_phone;id/verify_phone,6,6,10.5%,Main Screen Actions

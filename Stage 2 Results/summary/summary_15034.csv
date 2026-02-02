@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15034,40,3,3,id/scrollView;id/earthquake_alert_button;id/earthquake_alert_button;id/scrollView;id/scrollView;id/border_wait_button;id/earthquake_alert_button;id/border_wait_button,8,8,100.0%,"""GET IT ON GOOGLE PLAY"" buttons for both apps.
+- **Navigation/footer**: Back arrow in the header."

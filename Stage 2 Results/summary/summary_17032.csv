@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17032,144,6,3,id/footer_add_button;id/footer_add_button;id/drawer_layout;id/footer_add_button;id/footer_add_button;id/footer_add_button;id/footer_add_button;id/drawer_layout;id/footer_add_button,10,10,50.0%,"Search for a bus or line, view service information, access all lines.
+- **Navigation/footer**: No footer or bottom navigation bar is present."

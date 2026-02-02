@@ -1,0 +1,341 @@
+{
+  "screen_id": "12675",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 32,
+  "testable_elements": 6,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12675_01",
+      "class_name": "Test_12675_1267501",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267501.java"
+    },
+    {
+      "test_case_id": "TC_12675_02",
+      "class_name": "Test_12675_1267502",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267502.java"
+    },
+    {
+      "test_case_id": "TC_12675_03",
+      "class_name": "Test_12675_1267503",
+      "element_ids": [
+        "el_28",
+        "el_29",
+        "el_30"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8000000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267503.java"
+    },
+    {
+      "test_case_id": "TC_12675_04",
+      "class_name": "Test_12675_1267504",
+      "element_ids": [
+        "el_28",
+        "el_29",
+        "el_30"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8000000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267504.java"
+    },
+    {
+      "test_case_id": "TC_12675_05",
+      "class_name": "Test_12675_1267505",
+      "element_id": "el_30",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267505.java"
+    },
+    {
+      "test_case_id": "TC_12675_06",
+      "class_name": "Test_12675_1267506",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267506.java"
+    },
+    {
+      "test_case_id": "TC_12675_07",
+      "class_name": "Test_12675_1267507",
+      "element_ids": [
+        "el_28",
+        "el_29",
+        "el_30"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8000000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12675/Test_12675_1267507.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_27",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatCheckBox",
+      "text": "Show",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        997,
+        882,
+        1314,
+        994
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "com.hyvee.android:id/sign_in_button_forgot_password",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Forgot your password?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        812,
+        1003,
+        1314,
+        1171
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "com.hyvee.android:id/sign_in_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sign In",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        537,
+        1171,
+        902,
+        1349
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "com.hyvee.android:id/sign_in_button_cancel",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Cancel",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        566,
+        1363,
+        874,
+        1531
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "",
+      "class": "android.support.design.widget.TextInputEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        126,
+        701,
+        1314,
+        833
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "",
+      "class": "android.support.design.widget.TextInputEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        126,
+        871,
+        1314,
+        1003
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

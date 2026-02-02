@@ -1,0 +1,167 @@
+{
+  "screen_id": "17832",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 21,
+  "testable_elements": 4,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17832_001",
+      "class_name": "Test_17832_17832001",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_signupstep1nextbutton",
+        "raw_value": "id_signupstep1nextbutton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17832/Test_17832_17832001.java"
+    },
+    {
+      "test_case_id": "TC_17832_002",
+      "class_name": "Test_17832_17832002",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_signupstep1nextbutton",
+        "raw_value": "id_signupstep1nextbutton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17832/Test_17832_17832002.java"
+    },
+    {
+      "test_case_id": "TC_17832_003",
+      "class_name": "Test_17832_17832003",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_signupstep1nextbutton",
+        "raw_value": "id_signupstep1nextbutton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17832/Test_17832_17832003.java"
+    },
+    {
+      "test_case_id": "TC_17832_004",
+      "class_name": "Test_17832_17832004",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_signupstep1nextbutton",
+        "raw_value": "id_signupstep1nextbutton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17832/Test_17832_17832004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_16",
+      "resource_id": "com.baritastic.view:id/signupstep0_currentWeight",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        207,
+        839,
+        1233,
+        974
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_signupstep0_currentWeight",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_17",
+      "resource_id": "com.baritastic.view:id/signupstep0_targetWeight",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        207,
+        1009,
+        1233,
+        1144
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_signupstep0_targetWeight",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "com.baritastic.view:id/signupstep1nextbutton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Next",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        470,
+        2119,
+        969,
+        2287
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_signupstep1nextbutton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        361,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

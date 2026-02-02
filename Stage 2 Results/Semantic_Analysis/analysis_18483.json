@@ -1,0 +1,695 @@
+{
+  "screen_id": "18483",
+  "primary_ctas": "Like, comment, create new content.",
+  "total_elements": 230,
+  "testable_elements": 14,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18483_01",
+      "class_name": "Test_18483_1848301",
+      "element_ids": [
+        "el_10",
+        "el_36",
+        "el_39",
+        "el_60",
+        "el_62",
+        "el_64",
+        "el_85",
+        "el_87",
+        "el_89",
+        "el_118",
+        "el_12",
+        "el_18",
+        "el_24",
+        "el_30"
+      ],
+      "element_count": 14,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_tabLayout",
+          "raw_value": "id_tabLayout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewPager",
+          "raw_value": "id_viewPager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fab",
+          "raw_value": "id_fab",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8499999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18483/Test_18483_1848301.java"
+    },
+    {
+      "test_case_id": "TC_18483_02",
+      "class_name": "Test_18483_1848302",
+      "element_ids": [
+        "el_10",
+        "el_36",
+        "el_39",
+        "el_60",
+        "el_62",
+        "el_64",
+        "el_85",
+        "el_87",
+        "el_89",
+        "el_118",
+        "el_12",
+        "el_18",
+        "el_24",
+        "el_30"
+      ],
+      "element_count": 14,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_tabLayout",
+          "raw_value": "id_tabLayout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_viewPager",
+          "raw_value": "id_viewPager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fab",
+          "raw_value": "id_fab",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8499999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18483/Test_18483_1848302.java"
+    },
+    {
+      "test_case_id": "TC_18483_03",
+      "class_name": "Test_18483_1848303",
+      "element_id": "el_60",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_like",
+        "raw_value": "id_action_like",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18483/Test_18483_1848303.java"
+    },
+    {
+      "test_case_id": "TC_18483_04",
+      "class_name": "Test_18483_1848304",
+      "element_ids": [
+        "el_60",
+        "el_62",
+        "el_64",
+        "el_85",
+        "el_87",
+        "el_89",
+        "el_118"
+      ],
+      "element_count": 7,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_like",
+          "raw_value": "id_action_like",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_comment",
+          "raw_value": "id_action_comment",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fab",
+          "raw_value": "id_fab",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18483/Test_18483_1848304.java"
+    },
+    {
+      "test_case_id": "TC_18483_06",
+      "class_name": "Test_18483_1848306",
+      "element_id": "el_118",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fab",
+        "raw_value": "id_fab",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18483/Test_18483_1848306.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "app.honestly:id/tabLayout",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        280
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tabLayout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_36",
+      "resource_id": "app.honestly:id/viewPager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewPager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_39",
+      "resource_id": "app.honestly:id/recycler_view",
+      "class": "app.honestly.BaseRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "app.honestly:id/action_like",
+      "class": "android.widget.ToggleButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        593,
+        182,
+        719
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_like",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_62",
+      "resource_id": "app.honestly:id/action_comment",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        259,
+        593,
+        385,
+        719
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_comment",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_64",
+      "resource_id": "app.honestly:id/action_share",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1258,
+        593,
+        1384,
+        719
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_share",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_85",
+      "resource_id": "app.honestly:id/action_like",
+      "class": "android.widget.ToggleButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1585,
+        182,
+        1711
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_like",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_87",
+      "resource_id": "app.honestly:id/action_comment",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        259,
+        1585,
+        385,
+        1711
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_comment",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_89",
+      "resource_id": "app.honestly:id/action_share",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1258,
+        1585,
+        1384,
+        1711
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_share",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_118",
+      "resource_id": "app.honestly:id/fab",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1188,
+        2140,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fab",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "bf",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        360,
+        280
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "",
+      "class": "bf",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        360,
+        84,
+        720,
+        280
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "",
+      "class": "bf",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        84,
+        1080,
+        280
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "",
+      "class": "bf",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1080,
+        84,
+        1440,
+        280
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

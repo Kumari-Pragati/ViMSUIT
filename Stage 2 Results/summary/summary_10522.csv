@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10522,32,9,6,id/downloadBt;id/downloadBt;id/shareBt;id/textSizeBt;id/colorBt;id/moveBt;id/colorBt;id/colorBt;id/moveBt,11,11,66.7%,"Download, upload, share.
+- **Navigation/footer**: Back arrow in the header, Verizon advertisement at the bottom."

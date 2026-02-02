@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16312,49,7,1,id/submit_button;id/submit_button;id/submit_button;id/submit_button;id/submit_button;id/submit_button;id/submit_button;id/submit_button,8,8,14.3%,Main Screen Actions

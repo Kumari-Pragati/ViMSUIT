@@ -1,0 +1,689 @@
+{
+  "screen_id": "18817",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 99,
+  "testable_elements": 12,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18817_001",
+      "class_name": "Test_18817_18817001",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817001.java"
+    },
+    {
+      "test_case_id": "TC_18817_002",
+      "class_name": "Test_18817_18817002",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817002.java"
+    },
+    {
+      "test_case_id": "TC_18817_003",
+      "class_name": "Test_18817_18817003",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817003.java"
+    },
+    {
+      "test_case_id": "TC_18817_004",
+      "class_name": "Test_18817_18817004",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817004.java"
+    },
+    {
+      "test_case_id": "TC_18817_005",
+      "class_name": "Test_18817_18817005",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817005.java"
+    },
+    {
+      "test_case_id": "TC_18817_006",
+      "class_name": "Test_18817_18817006",
+      "element_ids": [
+        "el_39",
+        "el_40",
+        "el_13",
+        "el_33",
+        "el_34",
+        "el_35"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_previousButton",
+          "raw_value": "id_previousButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sendButton",
+          "raw_value": "id_sendButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.85,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18817/Test_18817_18817006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.ebay.gumtree.au:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.ebay.gumtree.au:id/scrollView",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        1861
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_scrollView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.ebay.gumtree.au:id/email",
+      "class": "com.ebay.app.common.widgets.MaterialEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        280,
+        1387,
+        560
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_email",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.ebay.gumtree.au:id/name",
+      "class": "com.ebay.app.common.widgets.MaterialEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        560,
+        1387,
+        777
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_name",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.ebay.gumtree.au:id/your_message",
+      "class": "com.ebay.app.common.widgets.MaterialEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        777,
+        1387,
+        994
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_your_message",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_39",
+      "resource_id": "com.ebay.gumtree.au:id/previousButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Previous",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        746,
+        1714,
+        1076,
+        1840
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_previousButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "com.ebay.gumtree.au:id/sendButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Send",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        1714,
+        1412,
+        1840
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sendButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_33",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Hi, I\u2019m wondering if this is still available?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        49,
+        1081,
+        1391,
+        1249
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Hello, Are you negotiable on the price?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        49,
+        1285,
+        1391,
+        1453
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_35",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Hi, I\u2019m interested, when is the best time to meet?",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        49,
+        1489,
+        1391,
+        1657
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        14,
+        1063,
+        1426,
+        1675
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

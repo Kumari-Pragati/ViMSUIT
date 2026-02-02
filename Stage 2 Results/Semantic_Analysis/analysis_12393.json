@@ -1,0 +1,375 @@
+{
+  "screen_id": "12393",
+  "primary_ctas": "Adding a new task via the yellow circular button.\n- **Navigation/footer**: Tabs at the top for navigation, no footer or bottom nav present.",
+  "total_elements": 171,
+  "testable_elements": 10,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12393_01",
+      "class_name": "Test_12393_1239301",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager",
+        "raw_value": "id_viewpager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239301.java"
+    },
+    {
+      "test_case_id": "TC_12393_02",
+      "class_name": "Test_12393_1239302",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager",
+        "raw_value": "id_viewpager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239302.java"
+    },
+    {
+      "test_case_id": "TC_12393_03",
+      "class_name": "Test_12393_1239303",
+      "element_id": "el_83",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_add_task",
+        "raw_value": "id_add_task",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239303.java"
+    },
+    {
+      "test_case_id": "TC_12393_04",
+      "class_name": "Test_12393_1239304",
+      "element_id": "el_83",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_add_task",
+        "raw_value": "id_add_task",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239304.java"
+    },
+    {
+      "test_case_id": "TC_12393_05",
+      "class_name": "Test_12393_1239305",
+      "element_id": "el_30",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tasks_tabs",
+        "raw_value": "id_tasks_tabs",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239305.java"
+    },
+    {
+      "test_case_id": "TC_12393_06",
+      "class_name": "Test_12393_1239306",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager",
+        "raw_value": "id_viewpager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239306.java"
+    },
+    {
+      "test_case_id": "TC_12393_07",
+      "class_name": "Test_12393_1239307",
+      "element_id": "el_30",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tasks_tabs",
+        "raw_value": "id_tasks_tabs",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239307.java"
+    },
+    {
+      "test_case_id": "TC_12393_08",
+      "class_name": "Test_12393_1239308",
+      "element_id": "el_38",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewpager",
+        "raw_value": "id_viewpager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12393/Test_12393_1239308.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.carrotrocket.geozilla:id/drawer_layout",
+      "class": "com.mteam.mfamily.ui.views.HackyDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_11",
+      "resource_id": "com.carrotrocket.geozilla:id/activity_map_view",
+      "class": "com.google.android.gms.maps.MapView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_activity_map_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "com.carrotrocket.geozilla:id/tasks_tabs",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        1440,
+        441
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tasks_tabs",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.carrotrocket.geozilla:id/viewpager",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        441,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewpager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_40",
+      "resource_id": "com.carrotrocket.geozilla:id/task_list",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        441,
+        1440,
+        861
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_task_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_45",
+      "resource_id": "com.carrotrocket.geozilla:id/task_hole",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        491,
+        165,
+        600
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_task_hole",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_83",
+      "resource_id": "com.carrotrocket.geozilla:id/add_task",
+      "class": "com.melnykov.fab.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1188,
+        2140,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_add_task",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "com.google.maps.api.android.lib6.gmm6.api.z",
+      "text": "",
+      "content_desc": [
+        "Google Map"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        1440,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Google Map']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_32",
+      "resource_id": "",
+      "class": "android.support.design.widget.ax",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        273,
+        720,
+        441
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_35",
+      "resource_id": "",
+      "class": "android.support.design.widget.ax",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        273,
+        1440,
+        441
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

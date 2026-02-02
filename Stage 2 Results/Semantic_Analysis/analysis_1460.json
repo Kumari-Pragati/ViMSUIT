@@ -1,0 +1,167 @@
+{
+  "screen_id": "1460",
+  "primary_ctas": "\"Add person\" button, \"FINISH\" button.\n- **Navigation/footer**: \"Cancel\" button at the bottom.",
+  "total_elements": 29,
+  "testable_elements": 2,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1460_01",
+      "class_name": "Test_1460_146001",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146001.java"
+    },
+    {
+      "test_case_id": "TC_1460_02",
+      "class_name": "Test_1460_146002",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146002.java"
+    },
+    {
+      "test_case_id": "TC_1460_03",
+      "class_name": "Test_1460_146003",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146003.java"
+    },
+    {
+      "test_case_id": "TC_1460_04",
+      "class_name": "Test_1460_146004",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146004.java"
+    },
+    {
+      "test_case_id": "TC_1460_05",
+      "class_name": "Test_1460_146005",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146005.java"
+    },
+    {
+      "test_case_id": "TC_1460_06",
+      "class_name": "Test_1460_146006",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146006.java"
+    },
+    {
+      "test_case_id": "TC_1460_07",
+      "class_name": "Test_1460_146007",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146007.java"
+    },
+    {
+      "test_case_id": "TC_1460_08",
+      "class_name": "Test_1460_146008",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish",
+        "raw_value": "id_finish",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1460/Test_1460_146008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.cube.arc.efa:id/finish",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Finish",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1927,
+        1384,
+        2095
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_finish",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_11",
+      "resource_id": "com.cube.arc.efa:id/scroller",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        1871
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_scroller",
+      "selector_confidence": 0.95
+    }
+  ]
+}

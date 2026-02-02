@@ -1,0 +1,12 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_1115_001,Login button should navigate to login page,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the 'Login' button at the bottom of the screen.,The app should navigate to the login page.
+TC_1115_002,Sign Up button should navigate to sign up page,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the 'Sign Up' button at the bottom of the screen.,The app should navigate to the sign up page.
+TC_1115_003,Header back arrow should navigate to previous screen,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the back arrow in the header.,The app should navigate to the previous screen.
+TC_1115_004,Login button should be clickable,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the 'Login' button at the bottom of the screen.,The 'Login' button should be clickable.
+TC_1115_005,Sign Up button should be clickable,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the 'Sign Up' button at the bottom of the screen.,The 'Sign Up' button should be clickable.
+TC_1115_006,Header back arrow should be clickable,Paytm Passbook,1115,tutorial,P1,Functional,,,Click on the back arrow in the header.,The back arrow in the header should be clickable.
+TC_1115_007,Illustration should be displayed,Paytm Passbook,1115,tutorial,P1,Functional,,,Verify that the illustration of a wallet and a ticket with a percentage symbol is displayed.,The illustration should be displayed.
+TC_1115_008,List of features should be displayed,Paytm Passbook,1115,tutorial,P1,Functional,,,Verify that the list of four features is displayed.,The list of four features should be displayed.
+TC_1115_009,Login button should not be clickable if not logged in,Paytm Passbook,1115,tutorial,P1,Functional,,,Ensure the user is not logged in. | Click on the 'Login' button at the bottom of the screen.,The 'Login' button should not be clickable.
+TC_1115_010,Sign Up button should not be clickable if not logged in,Paytm Passbook,1115,tutorial,P1,Functional,,,Ensure the user is not logged in. | Click on the 'Sign Up' button at the bottom of the screen.,The 'Sign Up' button should not be clickable.
+TC_1115_011,Header back arrow should not be clickable if not logged in,Paytm Passbook,1115,tutorial,P1,Functional,,,Ensure the user is not logged in. | Click on the back arrow in the header.,The back arrow in the header should not be clickable.

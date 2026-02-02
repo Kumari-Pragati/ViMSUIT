@@ -1,0 +1,247 @@
+{
+  "screen_id": "10594",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 62,
+  "testable_elements": 5,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10594_01",
+      "class_name": "Test_10594_1059401",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewSwitcher",
+        "raw_value": "id_viewSwitcher",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059401.java"
+    },
+    {
+      "test_case_id": "TC_10594_02",
+      "class_name": "Test_10594_1059402",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_map",
+        "raw_value": "id_map",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059402.java"
+    },
+    {
+      "test_case_id": "TC_10594_03",
+      "class_name": "Test_10594_1059403",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_viewSwitcher",
+        "raw_value": "id_viewSwitcher",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059403.java"
+    },
+    {
+      "test_case_id": "TC_10594_04",
+      "class_name": "Test_10594_1059404",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_activity_registration__pager",
+        "raw_value": "id_activity_registration__pager",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059404.java"
+    },
+    {
+      "test_case_id": "TC_10594_05",
+      "class_name": "Test_10594_1059405",
+      "element_id": "el_52",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fragment_phone_insertion__welcomeContinueButton",
+        "raw_value": "id_fragment_phone_insertion__welcomeContinueButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059405.java"
+    },
+    {
+      "test_case_id": "TC_10594_06",
+      "class_name": "Test_10594_1059406",
+      "element_ids": [
+        "el_14",
+        "el_18",
+        "el_52",
+        "el_20"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_activity_registration__pager",
+          "raw_value": "id_activity_registration__pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_map",
+          "raw_value": "id_map",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fragment_phone_insertion__welcomeContinueButton",
+          "raw_value": "id_fragment_phone_insertion__welcomeContinueButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Google Map']\"",
+          "raw_value": [
+            "Google Map"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10594/Test_10594_1059406.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "com.syncme.syncmeapp:id/viewSwitcher",
+      "class": "android.widget.ViewSwitcher",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        271,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_viewSwitcher",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.syncme.syncmeapp:id/activity_registration__pager",
+      "class": "com.syncme.syncmecore.ui.custom_views.GentleScrollingViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        216,
+        443,
+        1224,
+        1845
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_activity_registration__pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.syncme.syncmeapp:id/map",
+      "class": "com.google.android.gms.maps.MapView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        216,
+        443,
+        1224,
+        1845
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_map",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "com.syncme.syncmeapp:id/fragment_phone_insertion__welcomeContinueButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Get Started",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        49,
+        2175,
+        1391,
+        2343
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fragment_phone_insertion__welcomeContinueButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "",
+      "class": "maps.D.p",
+      "text": "",
+      "content_desc": [
+        "Google Map"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        216,
+        443,
+        1224,
+        1845
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Google Map']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

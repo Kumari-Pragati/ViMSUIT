@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1460,29,2,1,id/finish;id/finish;id/finish;id/finish;id/finish;id/finish;id/finish;id/finish,8,8,50.0%,"""Add person"" button, ""FINISH"" button.
+- **Navigation/footer**: ""Cancel"" button at the bottom."

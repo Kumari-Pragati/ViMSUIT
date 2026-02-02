@@ -1,0 +1,537 @@
+{
+  "screen_id": "124",
+  "primary_ctas": "\"WAIST TO HEIGHT RATIO\" button.",
+  "total_elements": 142,
+  "testable_elements": 11,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_124_001",
+      "class_name": "Test_124_124001",
+      "element_ids": [
+        "el_26",
+        "el_28",
+        "el_30",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_woman_button",
+          "raw_value": "id_gender_woman_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_man_button",
+          "raw_value": "id_gender_man_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_metric",
+          "raw_value": "id_measureSystemButton_metric",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_imperial",
+          "raw_value": "id_measureSystemButton_imperial",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9199999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_124/Test_124_124001.java"
+    },
+    {
+      "test_case_id": "TC_124_002",
+      "class_name": "Test_124_124002",
+      "element_ids": [
+        "el_26",
+        "el_28",
+        "el_30",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_woman_button",
+          "raw_value": "id_gender_woman_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_man_button",
+          "raw_value": "id_gender_man_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_metric",
+          "raw_value": "id_measureSystemButton_metric",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_imperial",
+          "raw_value": "id_measureSystemButton_imperial",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9199999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_124/Test_124_124002.java"
+    },
+    {
+      "test_case_id": "TC_124_003",
+      "class_name": "Test_124_124003",
+      "element_ids": [
+        "el_26",
+        "el_28",
+        "el_30",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_woman_button",
+          "raw_value": "id_gender_woman_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_man_button",
+          "raw_value": "id_gender_man_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_metric",
+          "raw_value": "id_measureSystemButton_metric",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_imperial",
+          "raw_value": "id_measureSystemButton_imperial",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9199999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_124/Test_124_124003.java"
+    },
+    {
+      "test_case_id": "TC_124_004",
+      "class_name": "Test_124_124004",
+      "element_ids": [
+        "el_26",
+        "el_28",
+        "el_30",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_woman_button",
+          "raw_value": "id_gender_woman_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_man_button",
+          "raw_value": "id_gender_man_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_metric",
+          "raw_value": "id_measureSystemButton_metric",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_imperial",
+          "raw_value": "id_measureSystemButton_imperial",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9199999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_124/Test_124_124004.java"
+    },
+    {
+      "test_case_id": "TC_124_005",
+      "class_name": "Test_124_124005",
+      "element_ids": [
+        "el_26",
+        "el_28",
+        "el_30",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_woman_button",
+          "raw_value": "id_gender_woman_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_gender_man_button",
+          "raw_value": "id_gender_man_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_metric",
+          "raw_value": "id_measureSystemButton_metric",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_measureSystemButton_imperial",
+          "raw_value": "id_measureSystemButton_imperial",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9199999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_124/Test_124_124005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.despdev.weight_loss_calculator:id/drawer",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.despdev.weight_loss_calculator:id/ageEditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "26",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        446,
+        501,
+        585
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ageEditText",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.despdev.weight_loss_calculator:id/gender_woman_button",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "woman icon"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        620,
+        412,
+        704,
+        580
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_gender_woman_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "com.despdev.weight_loss_calculator:id/gender_man_button",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "man icon"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        722,
+        412,
+        806,
+        580
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_gender_man_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "com.despdev.weight_loss_calculator:id/measureSystemButton_metric",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "CM | KG",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1067,
+        384,
+        1249,
+        496
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_measureSystemButton_metric",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.despdev.weight_loss_calculator:id/measureSystemButton_imperial",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "IN | LB",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1067,
+        496,
+        1249,
+        608
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_measureSystemButton_imperial",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_35",
+      "resource_id": "com.despdev.weight_loss_calculator:id/waistEditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        745,
+        720,
+        884
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_waistEditText",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_39",
+      "resource_id": "com.despdev.weight_loss_calculator:id/heightEditText",
+      "class": "android.support.v7.widget.AppCompatEditText",
+      "text": "6",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        745,
+        1370,
+        884
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_heightEditText",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2217
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_77",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.m",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

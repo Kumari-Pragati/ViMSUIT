@@ -1,0 +1,271 @@
+{
+  "screen_id": "18460",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 103,
+  "testable_elements": 6,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18460_01",
+      "class_name": "Test_18460_1846001",
+      "element_id": "el_66",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_regularly_button",
+        "raw_value": "id_active_regularly_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846001.java"
+    },
+    {
+      "test_case_id": "TC_18460_02",
+      "class_name": "Test_18460_1846002",
+      "element_id": "el_67",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_phases_button",
+        "raw_value": "id_active_phases_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846002.java"
+    },
+    {
+      "test_case_id": "TC_18460_03",
+      "class_name": "Test_18460_1846003",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_newbie_button",
+        "raw_value": "id_active_newbie_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846003.java"
+    },
+    {
+      "test_case_id": "TC_18460_04",
+      "class_name": "Test_18460_1846004",
+      "element_id": "el_66",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_regularly_button",
+        "raw_value": "id_active_regularly_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846004.java"
+    },
+    {
+      "test_case_id": "TC_18460_05",
+      "class_name": "Test_18460_1846005",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_newbie_button",
+        "raw_value": "id_active_newbie_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846005.java"
+    },
+    {
+      "test_case_id": "TC_18460_06",
+      "class_name": "Test_18460_1846006",
+      "element_id": "el_66",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_regularly_button",
+        "raw_value": "id_active_regularly_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846006.java"
+    },
+    {
+      "test_case_id": "TC_18460_07",
+      "class_name": "Test_18460_1846007",
+      "element_id": "el_67",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_phases_button",
+        "raw_value": "id_active_phases_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846007.java"
+    },
+    {
+      "test_case_id": "TC_18460_08",
+      "class_name": "Test_18460_1846008",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_active_newbie_button",
+        "raw_value": "id_active_newbie_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18460/Test_18460_1846008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_19",
+      "resource_id": "com.skimble.workouts:id/view_pager",
+      "class": "com.skimble.lib.ui.FreezableViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_view_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_51",
+      "resource_id": "com.skimble.workouts:id/main_content_view",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2198
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_content_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_66",
+      "resource_id": "com.skimble.workouts:id/active_regularly_button",
+      "class": "android.widget.ToggleButton",
+      "text": "I exercise regularly",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        238,
+        1186,
+        1202,
+        1361
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_active_regularly_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_67",
+      "resource_id": "com.skimble.workouts:id/active_phases_button",
+      "class": "android.widget.ToggleButton",
+      "text": "I go through phases",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        238,
+        1403,
+        1202,
+        1578
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_active_phases_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_68",
+      "resource_id": "com.skimble.workouts:id/active_newbie_button",
+      "class": "android.widget.ToggleButton",
+      "text": "Consider me a newbie",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        238,
+        1620,
+        1202,
+        1795
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_active_newbie_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_72",
+      "resource_id": "com.skimble.workouts:id/next_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Next",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1102,
+        2212,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_next_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

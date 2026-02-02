@@ -1,0 +1,258 @@
+{
+  "screen_id": "12280",
+  "primary_ctas": "Share and tag friends to know their scores.",
+  "total_elements": 181,
+  "testable_elements": 7,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12280_001",
+      "class_name": "Test_12280_12280001",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_secondaryIconView",
+        "raw_value": "id_secondaryIconView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12280/Test_12280_12280001.java"
+    },
+    {
+      "test_case_id": "TC_12280_002",
+      "class_name": "Test_12280_12280002",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_secondaryIconView",
+        "raw_value": "id_secondaryIconView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12280/Test_12280_12280002.java"
+    },
+    {
+      "test_case_id": "TC_12280_003",
+      "class_name": "Test_12280_12280003",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_hoodle_range_picker",
+        "raw_value": "id_hoodle_range_picker",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12280/Test_12280_12280003.java"
+    },
+    {
+      "test_case_id": "TC_12280_004",
+      "class_name": "Test_12280_12280004",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_secondaryIconView",
+        "raw_value": "id_secondaryIconView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12280/Test_12280_12280004.java"
+    },
+    {
+      "test_case_id": "TC_12280_005",
+      "class_name": "Test_12280_12280005",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_secondaryIconView",
+        "raw_value": "id_secondaryIconView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12280/Test_12280_12280005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_23",
+      "resource_id": "com.hellow:id/secondaryIconView",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1192,
+        335,
+        1388,
+        531
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_secondaryIconView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "com.hellow:id/hoodle_range_picker",
+      "class": "android.support.v7.widget.AppCompatSpinner",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        179,
+        654,
+        1261,
+        791
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_hoodle_range_picker",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_70",
+      "resource_id": "com.hellow:id/secondaryIconView",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1192,
+        2144,
+        1388,
+        2340
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_secondaryIconView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "android.support.v4.widget.NestedScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "",
+      "class": "com.hellow.ui.hoodle.HoodleScoreCardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        322,
+        1398,
+        2131
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_66",
+      "resource_id": "",
+      "class": "com.hellow.ui.hoodle.FavouritesCardView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2131,
+        1398,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10304,45,7,5,id/dialog_body;id/submit;id/sender_email;id/sender_email;id/sender_phone;id/sender_message,6,6,71.4%,"""Envía"" (Send)."

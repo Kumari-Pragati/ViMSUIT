@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11746,145,7,6,id/action_tip;id/vocabItemSaveVocab;id/button_play_entity;id/fragment_viewpager_exercise;id/progressSwitcher;id/button_play_entity;id/button_play_entity;id/progressSwitcher,10,10,85.7%,Main Screen Actions

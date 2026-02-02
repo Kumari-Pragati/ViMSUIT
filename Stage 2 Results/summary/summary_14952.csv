@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14952,84,4,2,id/next_btn;id/next_btn;id/next_btn;id/next_btn;id/gender_age_selection_male_grid;id/next_btn;id/next_btn;id/next_btn,8,8,50.0%,Main Screen Actions

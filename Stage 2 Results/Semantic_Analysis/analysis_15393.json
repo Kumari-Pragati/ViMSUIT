@@ -1,0 +1,205 @@
+{
+  "screen_id": "15393",
+  "primary_ctas": "Encouraging users to perform a \"good deed\" and donate to the Tiny Feet Foundation.\n- **Navigation/footer**: The menu icon in the header likely leads to more options or settings within the app.",
+  "total_elements": 67,
+  "testable_elements": 3,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15393_01",
+      "class_name": "Test_15393_1539301",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539301.java"
+    },
+    {
+      "test_case_id": "TC_15393_02",
+      "class_name": "Test_15393_1539302",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539302.java"
+    },
+    {
+      "test_case_id": "TC_15393_03",
+      "class_name": "Test_15393_1539303",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Open side menu']\"",
+        "raw_value": [
+          "Open side menu"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539303.java"
+    },
+    {
+      "test_case_id": "TC_15393_04",
+      "class_name": "Test_15393_1539304",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539304.java"
+    },
+    {
+      "test_case_id": "TC_15393_05",
+      "class_name": "Test_15393_1539305",
+      "element_ids": [
+        "el_15",
+        "el_13",
+        "el_18"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Open side menu']\"",
+          "raw_value": [
+            "Open side menu"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7999999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539305.java"
+    },
+    {
+      "test_case_id": "TC_15393_06",
+      "class_name": "Test_15393_1539306",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539306.java"
+    },
+    {
+      "test_case_id": "TC_15393_07",
+      "class_name": "Test_15393_1539307",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15393/Test_15393_1539307.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_15",
+      "resource_id": "pl.abksolutions.adoptujzycie:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        196,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Open side menu"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Open side menu']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

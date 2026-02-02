@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14143,35,3,2,id/login;id/signup;id/login;id/login;id/login;id/login;id/login;id/login,8,8,66.7%,Main Screen Actions

@@ -1,0 +1,193 @@
+{
+  "screen_id": "11088",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 70,
+  "testable_elements": 3,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11088_01",
+      "class_name": "Test_11088_1108801",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108801.java"
+    },
+    {
+      "test_case_id": "TC_11088_02",
+      "class_name": "Test_11088_1108802",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108802.java"
+    },
+    {
+      "test_case_id": "TC_11088_03",
+      "class_name": "Test_11088_1108803",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108803.java"
+    },
+    {
+      "test_case_id": "TC_11088_04",
+      "class_name": "Test_11088_1108804",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108804.java"
+    },
+    {
+      "test_case_id": "TC_11088_05",
+      "class_name": "Test_11088_1108805",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108805.java"
+    },
+    {
+      "test_case_id": "TC_11088_06",
+      "class_name": "Test_11088_1108806",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108806.java"
+    },
+    {
+      "test_case_id": "TC_11088_07",
+      "class_name": "Test_11088_1108807",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108807.java"
+    },
+    {
+      "test_case_id": "TC_11088_08",
+      "class_name": "Test_11088_1108808",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_enable_notifications",
+        "raw_value": "id_enable_notifications",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11088/Test_11088_1108808.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.hungryhouse:id/drawer_layout",
+      "class": "com.hungryhouse.screen.drawer.CustomDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "com.hungryhouse:id/enable_notifications",
+      "class": "android.support.v7.widget.SwitchCompat",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1218,
+        388,
+        1440,
+        483
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_enable_notifications",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

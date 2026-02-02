@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13420,30,5,2,id/button_facebook;id/button_facebook;id/button_microsoft;id/button_facebook;id/button_microsoft;id/button_facebook;id/button_microsoft;id/button_facebook;id/button_microsoft;id/button_facebook;id/button_microsoft,7,7,40.0%,"Social media login buttons and email input field.
+- **Navigation/footer**: None, as the footer only contains version information."

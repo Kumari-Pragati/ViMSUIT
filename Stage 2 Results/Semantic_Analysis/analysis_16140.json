@@ -1,0 +1,167 @@
+{
+  "screen_id": "16140",
+  "primary_ctas": "\"Kaydol\" (Sign Up) and \"Oturum a\u00e7\" (Log In).\n- **Navigation/footer**: The \"Kaydol\" and \"Oturum a\u00e7\" buttons are the primary navigation elements, guiding the user to either sign up or log in.",
+  "total_elements": 55,
+  "testable_elements": 3,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16140_01",
+      "class_name": "Test_16140_1614001",
+      "element_id": "el_43",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_button",
+        "raw_value": "id_register_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614001.java"
+    },
+    {
+      "test_case_id": "TC_16140_02",
+      "class_name": "Test_16140_1614002",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_first_login_button",
+        "raw_value": "id_first_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614002.java"
+    },
+    {
+      "test_case_id": "TC_16140_03",
+      "class_name": "Test_16140_1614003",
+      "element_id": "el_43",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_button",
+        "raw_value": "id_register_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614003.java"
+    },
+    {
+      "test_case_id": "TC_16140_04",
+      "class_name": "Test_16140_1614004",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_first_login_button",
+        "raw_value": "id_first_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614004.java"
+    },
+    {
+      "test_case_id": "TC_16140_05",
+      "class_name": "Test_16140_1614005",
+      "element_id": "el_43",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_register_button",
+        "raw_value": "id_register_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614005.java"
+    },
+    {
+      "test_case_id": "TC_16140_06",
+      "class_name": "Test_16140_1614006",
+      "element_id": "el_44",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_first_login_button",
+        "raw_value": "id_first_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16140/Test_16140_1614006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.komikburo.penguen:id/backgroundView",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_backgroundView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_43",
+      "resource_id": "com.komikburo.penguen:id/register_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Kaydol",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        265,
+        2007,
+        1175,
+        2147
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_register_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_44",
+      "resource_id": "com.komikburo.penguen:id/first_login_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Oturum a\u00e7",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        265,
+        2182,
+        1175,
+        2322
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_first_login_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "screen_id": "11658",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 35,
+  "testable_elements": 4,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11658_001",
+      "class_name": "Test_11658_11658001",
+      "element_ids": [
+        "el_23",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase1",
+          "raw_value": "id_btn_purchase1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase2",
+          "raw_value": "id_btn_purchase2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11658/Test_11658_11658001.java"
+    },
+    {
+      "test_case_id": "TC_11658_002",
+      "class_name": "Test_11658_11658002",
+      "element_ids": [
+        "el_23",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase1",
+          "raw_value": "id_btn_purchase1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase2",
+          "raw_value": "id_btn_purchase2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11658/Test_11658_11658002.java"
+    },
+    {
+      "test_case_id": "TC_11658_003",
+      "class_name": "Test_11658_11658003",
+      "element_ids": [
+        "el_23",
+        "el_31",
+        "el_12"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase1",
+          "raw_value": "id_btn_purchase1",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_purchase2",
+          "raw_value": "id_btn_purchase2",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11658/Test_11658_11658003.java"
+    },
+    {
+      "test_case_id": "TC_11658_004",
+      "class_name": "Test_11658_11658004",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11658/Test_11658_11658004.java"
+    },
+    {
+      "test_case_id": "TC_11658_005",
+      "class_name": "Test_11658_11658005",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_purchase1",
+        "raw_value": "id_btn_purchase1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11658/Test_11658_11658005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_23",
+      "resource_id": "com.paprbit.dcoder:id/btn_purchase1",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Purchase",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        63,
+        711,
+        1377,
+        879
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_purchase1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.paprbit.dcoder:id/btn_purchase2",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Purchase",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        63,
+        1402,
+        1377,
+        1570
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_purchase2",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

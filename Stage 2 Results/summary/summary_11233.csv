@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11233,159,9,9,id/back;id/tab_layout;id/view_pager;id/scrollView1;id/back;id/tab_layout;id/view_pager;id/scrollView1,2,2,100.0%,"Selecting the ""INFO"" tab"

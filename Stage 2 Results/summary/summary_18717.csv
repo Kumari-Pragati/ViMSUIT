@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18717,39,5,3,id/btnResetTest;id/btnStepTest;id/btnAutoTest;id/btnAutoTest;id/btnAutoTest;id/btnStepTest;id/btnResetTest;id/btnResetTest;id/btnStepTest,9,9,60.0%,"""Reset,"" ""Step,"" and ""Run"" buttons.
+- **Navigation/footer**: ""Test"" button in the header, ""Reset,"" ""Step,"" and ""Run"" buttons in the footer."

@@ -1,0 +1,562 @@
+{
+  "screen_id": "16254",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 74,
+  "testable_elements": 13,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16254_01",
+      "class_name": "Test_16254_1625401",
+      "element_id": "el_70",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_button",
+        "raw_value": "id_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625401.java"
+    },
+    {
+      "test_case_id": "TC_16254_02",
+      "class_name": "Test_16254_1625402",
+      "element_id": "el_70",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_button",
+        "raw_value": "id_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625402.java"
+    },
+    {
+      "test_case_id": "TC_16254_03",
+      "class_name": "Test_16254_1625403",
+      "element_ids": [
+        "el_10",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_31",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_70"
+      ],
+      "element_count": 9,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_side_panel_button",
+          "raw_value": "id_side_panel_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_app_logo_button",
+          "raw_value": "id_app_logo_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_refresh_menu_button",
+          "raw_value": "id_refresh_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_menu_button",
+          "raw_value": "id_settings_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_share_button",
+          "raw_value": "id_share_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_profile_button",
+          "raw_value": "id_profile_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_button",
+          "raw_value": "id_settings_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_info_button",
+          "raw_value": "id_info_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_button",
+          "raw_value": "id_login_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625403.java"
+    },
+    {
+      "test_case_id": "TC_16254_04",
+      "class_name": "Test_16254_1625404",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_checkbox",
+        "raw_value": "id_login_checkbox",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625404.java"
+    },
+    {
+      "test_case_id": "TC_16254_05",
+      "class_name": "Test_16254_1625405",
+      "element_id": "el_70",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_button",
+        "raw_value": "id_login_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625405.java"
+    },
+    {
+      "test_case_id": "TC_16254_06",
+      "class_name": "Test_16254_1625406",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_login_checkbox",
+        "raw_value": "id_login_checkbox",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625406.java"
+    },
+    {
+      "test_case_id": "TC_16254_07",
+      "class_name": "Test_16254_1625407",
+      "element_ids": [
+        "el_10",
+        "el_12",
+        "el_13",
+        "el_14",
+        "el_31",
+        "el_56",
+        "el_57",
+        "el_58",
+        "el_70"
+      ],
+      "element_count": 9,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_side_panel_button",
+          "raw_value": "id_side_panel_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_app_logo_button",
+          "raw_value": "id_app_logo_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_refresh_menu_button",
+          "raw_value": "id_refresh_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_menu_button",
+          "raw_value": "id_settings_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_share_button",
+          "raw_value": "id_share_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_profile_button",
+          "raw_value": "id_profile_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_button",
+          "raw_value": "id_settings_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_info_button",
+          "raw_value": "id_info_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_login_button",
+          "raw_value": "id_login_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16254/Test_16254_1625407.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.praetorian.policeone:id/side_panel_button",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_side_panel_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "com.praetorian.policeone:id/app_logo_button",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        168,
+        84,
+        1104,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_app_logo_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "com.praetorian.policeone:id/refresh_menu_button",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        84,
+        1272,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_refresh_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.praetorian.policeone:id/settings_menu_button",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.praetorian.policeone:id/list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2203
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.praetorian.policeone:id/share_button",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        73,
+        1723,
+        241,
+        1891
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_share_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_56",
+      "resource_id": "com.praetorian.policeone:id/profile_button",
+      "class": "com.praetorian.policeone.ui.SquareView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        480,
+        732
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_profile_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "com.praetorian.policeone:id/settings_button",
+      "class": "com.praetorian.policeone.ui.SquareView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        480,
+        252,
+        960,
+        732
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_58",
+      "resource_id": "com.praetorian.policeone:id/info_button",
+      "class": "com.praetorian.policeone.ui.SquareView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        960,
+        252,
+        1440,
+        732
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_info_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_68",
+      "resource_id": "com.praetorian.policeone:id/login_checkbox",
+      "class": "android.widget.CheckBox",
+      "text": "Keep me logged in",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        84,
+        1278,
+        657,
+        1390
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_checkbox",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_70",
+      "resource_id": "com.praetorian.policeone:id/login_button",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        457,
+        1516,
+        982,
+        1691
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_login_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        732,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_49",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        160,
+        2210,
+        1280,
+        2385
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

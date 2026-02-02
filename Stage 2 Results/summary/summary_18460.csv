@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18460,103,6,3,id/active_regularly_button;id/active_phases_button;id/active_newbie_button;id/active_regularly_button;id/active_newbie_button;id/active_regularly_button;id/active_phases_button;id/active_newbie_button,8,8,50.0%,Main Screen Actions

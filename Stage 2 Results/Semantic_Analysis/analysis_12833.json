@@ -1,0 +1,520 @@
+{
+  "screen_id": "12833",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 267,
+  "testable_elements": 12,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12833_01",
+      "class_name": "Test_12833_1283301",
+      "element_ids": [
+        "el_8",
+        "el_18",
+        "el_19",
+        "el_22",
+        "el_38",
+        "el_209",
+        "el_20",
+        "el_15",
+        "el_114",
+        "el_24",
+        "el_27",
+        "el_30"
+      ],
+      "element_count": 12,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_nav_drawer_container",
+          "raw_value": "id_nav_drawer_container",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_bookmark_menu",
+          "raw_value": "id_bookmark_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_refresh_menu",
+          "raw_value": "id_refresh_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_tab_layout",
+          "raw_value": "id_tab_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_tabs_pager",
+          "raw_value": "id_tabs_pager",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_fab_add_content",
+          "raw_value": "id_fab_add_content",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_thread_list",
+          "raw_value": "id_thread_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.7999999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283301.java"
+    },
+    {
+      "test_case_id": "TC_12833_02",
+      "class_name": "Test_12833_1283302",
+      "element_id": "el_209",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fab_add_content",
+        "raw_value": "id_fab_add_content",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283302.java"
+    },
+    {
+      "test_case_id": "TC_12833_03",
+      "class_name": "Test_12833_1283303",
+      "element_id": "el_209",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fab_add_content",
+        "raw_value": "id_fab_add_content",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283303.java"
+    },
+    {
+      "test_case_id": "TC_12833_04",
+      "class_name": "Test_12833_1283304",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_tab_layout",
+        "raw_value": "id_tab_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283304.java"
+    },
+    {
+      "test_case_id": "TC_12833_05",
+      "class_name": "Test_12833_1283305",
+      "element_id": "el_114",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_thread_list",
+        "raw_value": "id_thread_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283305.java"
+    },
+    {
+      "test_case_id": "TC_12833_06",
+      "class_name": "Test_12833_1283306",
+      "element_id": "el_209",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_fab_add_content",
+        "raw_value": "id_fab_add_content",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283306.java"
+    },
+    {
+      "test_case_id": "TC_12833_07",
+      "class_name": "Test_12833_1283307",
+      "element_ids": [
+        "el_209",
+        "el_15"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_fab_add_content",
+          "raw_value": "id_fab_add_content",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12833/Test_12833_1283307.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.emogoth.android.phone.mimi:id/nav_drawer_container",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_nav_drawer_container",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.emogoth.android.phone.mimi:id/bookmark_menu",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Bookmark"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        964,
+        98,
+        1132,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_bookmark_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "com.emogoth.android.phone.mimi:id/refresh_menu",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Refresh"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1132,
+        98,
+        1300,
+        266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_refresh_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.emogoth.android.phone.mimi:id/tab_layout",
+      "class": "android.support.design.widget.TabLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        420
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tab_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.emogoth.android.phone.mimi:id/tabs_pager",
+      "class": "com.emogoth.android.phone.mimi.view.MimiViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        424,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_tabs_pager",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_209",
+      "resource_id": "com.emogoth.android.phone.mimi:id/fab_add_content",
+      "class": "android.support.design.widget.FloatingActionButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1188,
+        2140,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_fab_add_content",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$d",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_114",
+      "resource_id": "com.emogoth.android.phone.mimi:id/thread_list",
+      "class": "com.emogoth.android.phone.mimi.widget.MimiRecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        424,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_thread_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        275,
+        420
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        275,
+        280,
+        527,
+        420
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "",
+      "class": "android.support.design.widget.TabLayout$TabView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        527,
+        280,
+        779,
+        420
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

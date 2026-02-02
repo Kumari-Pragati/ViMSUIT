@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12802,63,2,2,id/recyclerview;id/recyclerview;id/recyclerview;id/recyclerview;id/recyclerview;id/recyclerview;id/recyclerview,8,8,100.0%,"Back arrow in the header.
+- **Navigation/footer**: Bottom navigation bar with back, circle, and square icons."

@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14247,56,4,4,id/action_share;id/action_clear;id/action_add_head;id/action_share;id/action_clear;id/action_add_head;id/action_add_head,7,7,100.0%,"Interacting with the text overlays.
+- **Navigation/footer**: Icons in the header for sharing, deleting, and more options."

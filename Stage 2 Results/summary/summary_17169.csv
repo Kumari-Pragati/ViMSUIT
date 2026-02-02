@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17169,162,7,7,id/drawer_layout;id/drawer_layout;id/homeRecyclerView;id/card_recycler_view;id/card_recycler_view;id/home_search_icon;id/home_search_edittext;id/left_drawer;id/home_search_edittext;id/drawer_layout;id/homeRecyclerView;id/card_recycler_view;id/card_recycler_view;id/home_search_icon;id/home_search_edittext;id/left_drawer,4,4,100.0%,"Navigating to different sections of the app using the list items in the navigation drawer.
+- **Navigation/footer**: The navigation drawer itself serves as the footer, providing access to different sections of the app."

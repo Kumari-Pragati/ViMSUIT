@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+16342,104,11,11,id/inviteButton;id/btn_buy;id/btn_free;id/contactsInputSearch;id/contacts_list;id/inviteButton;id/tab_layout;id/pager;id/inviteButton,5,5,100.0%,Main Screen Actions

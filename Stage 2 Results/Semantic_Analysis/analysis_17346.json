@@ -1,0 +1,321 @@
+{
+  "screen_id": "17346",
+  "primary_ctas": "\"Take New Photo,\" \"Take New Video,\" \"Select from Gallery.\"\n- **Navigation/Footer**: The bottom navigation bar allows users to switch between \"Home,\" \"Daily,\" \"Hourly,\" and \"Submit\" views.",
+  "total_elements": 121,
+  "testable_elements": 5,
+  "matched_test_cases": 11,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17346_01",
+      "class_name": "Test_17346_1734601",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734601.java"
+    },
+    {
+      "test_case_id": "TC_17346_02",
+      "class_name": "Test_17346_1734602",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734602.java"
+    },
+    {
+      "test_case_id": "TC_17346_03",
+      "class_name": "Test_17346_1734603",
+      "element_ids": [
+        "el_22",
+        "el_31",
+        "el_68",
+        "el_71",
+        "el_19"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_application_root_view_content_without_bars",
+          "raw_value": "id_application_root_view_content_without_bars",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_navigation_bar_scroll",
+          "raw_value": "id_navigation_bar_scroll",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_station_logo",
+          "raw_value": "id_station_logo",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_button",
+          "raw_value": "id_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8799999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734603.java"
+    },
+    {
+      "test_case_id": "TC_17346_04",
+      "class_name": "Test_17346_1734604",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734604.java"
+    },
+    {
+      "test_case_id": "TC_17346_05",
+      "class_name": "Test_17346_1734605",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734605.java"
+    },
+    {
+      "test_case_id": "TC_17346_06",
+      "class_name": "Test_17346_1734606",
+      "element_id": "el_71",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_menu_button",
+        "raw_value": "id_menu_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734606.java"
+    },
+    {
+      "test_case_id": "TC_17346_07",
+      "class_name": "Test_17346_1734607",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734607.java"
+    },
+    {
+      "test_case_id": "TC_17346_08",
+      "class_name": "Test_17346_1734608",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734608.java"
+    },
+    {
+      "test_case_id": "TC_17346_09",
+      "class_name": "Test_17346_1734609",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734609.java"
+    },
+    {
+      "test_case_id": "TC_17346_10",
+      "class_name": "Test_17346_1734610",
+      "element_id": "el_71",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_menu_button",
+        "raw_value": "id_menu_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734610.java"
+    },
+    {
+      "test_case_id": "TC_17346_11",
+      "class_name": "Test_17346_1734611",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17346/Test_17346_1734611.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_22",
+      "resource_id": "com.wfmy.android.weather:id/application_root_view_content_without_bars",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_application_root_view_content_without_bars",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.wfmy.android.weather:id/navigation_bar_scroll",
+      "class": "com.wsi.android.framework.app.ui.widget.HorizontalScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2245,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_navigation_bar_scroll",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_68",
+      "resource_id": "com.wfmy.android.weather:id/station_logo",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        350,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_station_logo",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_71",
+      "resource_id": "com.wfmy.android.weather:id/menu_button",
+      "class": "com.wsi.android.framework.app.ui.widget.MenuButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1299,
+        259,
+        1440,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        160,
+        84,
+        1280,
+        259
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

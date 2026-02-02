@@ -1,0 +1,313 @@
+{
+  "screen_id": "1281",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 301,
+  "testable_elements": 7,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1281_001",
+      "class_name": "Test_1281_1281001",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281001.java"
+    },
+    {
+      "test_case_id": "TC_1281_002",
+      "class_name": "Test_1281_1281002",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281002.java"
+    },
+    {
+      "test_case_id": "TC_1281_003",
+      "class_name": "Test_1281_1281003",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281003.java"
+    },
+    {
+      "test_case_id": "TC_1281_004",
+      "class_name": "Test_1281_1281004",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281004.java"
+    },
+    {
+      "test_case_id": "TC_1281_005",
+      "class_name": "Test_1281_1281005",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281005.java"
+    },
+    {
+      "test_case_id": "TC_1281_006",
+      "class_name": "Test_1281_1281006",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281006.java"
+    },
+    {
+      "test_case_id": "TC_1281_007",
+      "class_name": "Test_1281_1281007",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Search']\"",
+        "raw_value": [
+          "Search"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281007.java"
+    },
+    {
+      "test_case_id": "TC_1281_008",
+      "class_name": "Test_1281_1281008",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1281/Test_1281_1281008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate home"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate home']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "com.walmart.android:id/menu_item_search",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Search"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        936,
+        98,
+        1104,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Search']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.walmart.android:id/online_cart_icon",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.walmart.android:id/content",
+      "class": "com.walmart.android.ui.SafeScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_7",
+      "resource_id": "com.walmart.android:id/drawer_layout",
+      "class": "com.walmart.android.wmui.SafeDrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "",
+      "class": "com.walmart.android.wmui.WalmartActivityChooserView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "com.walmart.android:id/view_pager",
+      "class": "com.walmartlabs.ui.ListSafeViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        70,
+        862,
+        1370,
+        2127
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

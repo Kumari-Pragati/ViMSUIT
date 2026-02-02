@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11712,94,9,3,id/imgMainFeaturedRecipe;id/drawer_layoutmine;id/imgFeaturedRecipe1;id/imgMainFeaturedRecipe;id/imgMainFeaturedRecipe;id/imgMainFeaturedRecipe;id/imgMainFeaturedRecipe;id/imgFeaturedRecipe1;id/imgMainFeaturedRecipe,9,9,33.3%,Main Screen Actions

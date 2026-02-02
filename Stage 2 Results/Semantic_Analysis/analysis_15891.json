@@ -1,0 +1,276 @@
+{
+  "screen_id": "15891",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 78,
+  "testable_elements": 5,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15891_001",
+      "class_name": "Test_15891_15891001",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891001.java"
+    },
+    {
+      "test_case_id": "TC_15891_002",
+      "class_name": "Test_15891_15891002",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891002.java"
+    },
+    {
+      "test_case_id": "TC_15891_003",
+      "class_name": "Test_15891_15891003",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891003.java"
+    },
+    {
+      "test_case_id": "TC_15891_004",
+      "class_name": "Test_15891_15891004",
+      "element_id": "el_9",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891004.java"
+    },
+    {
+      "test_case_id": "TC_15891_005",
+      "class_name": "Test_15891_15891005",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891005.java"
+    },
+    {
+      "test_case_id": "TC_15891_006",
+      "class_name": "Test_15891_15891006",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891006.java"
+    },
+    {
+      "test_case_id": "TC_15891_007",
+      "class_name": "Test_15891_15891007",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891007.java"
+    },
+    {
+      "test_case_id": "TC_15891_008",
+      "class_name": "Test_15891_15891008",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891008.java"
+    },
+    {
+      "test_case_id": "TC_15891_009",
+      "class_name": "Test_15891_15891009",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Outdated Version']\"",
+        "raw_value": [
+          "Outdated Version"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15891/Test_15891_15891009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_25",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "com.eatstreet.android:id/mi_outdated",
+      "class": "android.support.v7.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Outdated Version"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Outdated Version']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.eatstreet.android:id/part_aet_microphone",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        "Lorem"
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1258,
+        1176,
+        1412,
+        1330
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Lorem']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_33",
+      "resource_id": "com.eatstreet.android:id/landing_scroll_view",
+      "class": "android.support.v4.widget.NestedScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1134,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_9",
+      "resource_id": "com.eatstreet.android:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

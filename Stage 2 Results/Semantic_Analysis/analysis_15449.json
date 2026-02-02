@@ -1,0 +1,435 @@
+{
+  "screen_id": "15449",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 339,
+  "testable_elements": 8,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15449_01",
+      "class_name": "Test_15449_1544901",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_main_page_menu_btn",
+        "raw_value": "id_main_page_menu_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544901.java"
+    },
+    {
+      "test_case_id": "TC_15449_02",
+      "class_name": "Test_15449_1544902",
+      "element_ids": [
+        "el_16",
+        "el_20",
+        "el_139",
+        "el_140"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_menu_btn",
+          "raw_value": "id_main_page_menu_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_search_btn",
+          "raw_value": "id_main_page_search_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_text_item_menu_button",
+          "raw_value": "id_text_item_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sound_item_button",
+          "raw_value": "id_sound_item_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544902.java"
+    },
+    {
+      "test_case_id": "TC_15449_03",
+      "class_name": "Test_15449_1544903",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544903.java"
+    },
+    {
+      "test_case_id": "TC_15449_04",
+      "class_name": "Test_15449_1544904",
+      "element_ids": [
+        "el_5",
+        "el_16",
+        "el_20",
+        "el_21",
+        "el_95",
+        "el_139",
+        "el_140",
+        "el_12"
+      ],
+      "element_count": 8,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_menu_btn",
+          "raw_value": "id_main_page_menu_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_search_btn",
+          "raw_value": "id_main_page_search_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_frame_container",
+          "raw_value": "id_main_page_frame_container",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_lvData",
+          "raw_value": "id_lvData",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_text_item_menu_button",
+          "raw_value": "id_text_item_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sound_item_button",
+          "raw_value": "id_sound_item_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.90625,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544904.java"
+    },
+    {
+      "test_case_id": "TC_15449_05",
+      "class_name": "Test_15449_1544905",
+      "element_ids": [
+        "el_16",
+        "el_20",
+        "el_139",
+        "el_140"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_menu_btn",
+          "raw_value": "id_main_page_menu_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_main_page_search_btn",
+          "raw_value": "id_main_page_search_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_text_item_menu_button",
+          "raw_value": "id_text_item_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_sound_item_button",
+          "raw_value": "id_sound_item_button",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544905.java"
+    },
+    {
+      "test_case_id": "TC_15449_06",
+      "class_name": "Test_15449_1544906",
+      "element_id": "el_95",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_lvData",
+        "raw_value": "id_lvData",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544906.java"
+    },
+    {
+      "test_case_id": "TC_15449_07",
+      "class_name": "Test_15449_1544907",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544907.java"
+    },
+    {
+      "test_case_id": "TC_15449_08",
+      "class_name": "Test_15449_1544908",
+      "element_id": "el_95",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_lvData",
+        "raw_value": "id_lvData",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15449/Test_15449_1544908.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_5",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_menu_btn",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        175,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_menu_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_search_btn",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1265,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_search_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/main_page_frame_container",
+      "class": "android.support.v4.view.ViewPager",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_main_page_frame_container",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_95",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/lvData",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_lvData",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_139",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/text_item_menu_button",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        974,
+        189,
+        1128
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_text_item_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_140",
+      "resource_id": "wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC:id/sound_item_button",
+      "class": "android.widget.Button",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1251,
+        974,
+        1405,
+        1128
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_sound_item_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_12",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

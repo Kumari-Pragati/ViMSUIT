@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10128,51,3,3,id/uv_action_search;id/uv_action_search;id/list;id/list;id/uv_action_search;id/uv_action_search;id/list,9,9,100.0%,"Selecting a category under ""Knowledge Base.""
+- **Navigation/footer**: Back arrow in the header, footer with app information."

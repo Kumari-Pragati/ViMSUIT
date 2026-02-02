@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13063,53,2,2,id/language_option;id/language_option;id/language_option;id/language_option;id/language_option;id/language_option;id/container;id/language_option;id/language_option;id/container,8,8,100.0%,"Tapping on a language list row to select a language.
+- **Navigation/footer**: Globe icon for additional language options, red circular button at the bottom right."

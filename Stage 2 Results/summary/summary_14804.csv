@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+14804,21,4,2,id/authorization_phone_btn_next;id/authorization_phone_btn_next;id/authorization_phone_btn_next;id/authorization_phone_btn_next;id/authorization_country_icon;id/authorization_phone_btn_next;id/authorization_phone_btn_next;id/authorization_phone_btn_next,8,8,50.0%,"""Next"" button
+- **Navigation/footer**: None"

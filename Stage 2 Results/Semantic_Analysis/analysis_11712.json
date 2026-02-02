@@ -1,0 +1,362 @@
+{
+  "screen_id": "11712",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 94,
+  "testable_elements": 9,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11712_01",
+      "class_name": "Test_11712_1171201",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171201.java"
+    },
+    {
+      "test_case_id": "TC_11712_02",
+      "class_name": "Test_11712_1171202",
+      "element_id": "el_4",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layoutmine",
+        "raw_value": "id_drawer_layoutmine",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171202.java"
+    },
+    {
+      "test_case_id": "TC_11712_03",
+      "class_name": "Test_11712_1171203",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgFeaturedRecipe1",
+        "raw_value": "id_imgFeaturedRecipe1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171203.java"
+    },
+    {
+      "test_case_id": "TC_11712_04",
+      "class_name": "Test_11712_1171204",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171204.java"
+    },
+    {
+      "test_case_id": "TC_11712_05",
+      "class_name": "Test_11712_1171205",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171205.java"
+    },
+    {
+      "test_case_id": "TC_11712_06",
+      "class_name": "Test_11712_1171206",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171206.java"
+    },
+    {
+      "test_case_id": "TC_11712_07",
+      "class_name": "Test_11712_1171207",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171207.java"
+    },
+    {
+      "test_case_id": "TC_11712_08",
+      "class_name": "Test_11712_1171208",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgFeaturedRecipe1",
+        "raw_value": "id_imgFeaturedRecipe1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171208.java"
+    },
+    {
+      "test_case_id": "TC_11712_09",
+      "class_name": "Test_11712_1171209",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imgMainFeaturedRecipe",
+        "raw_value": "id_imgMainFeaturedRecipe",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11712/Test_11712_1171209.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_4",
+      "resource_id": "com.sweetnspicy.recipes:id/drawer_layoutmine",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layoutmine",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "com.sweetnspicy.recipes:id/contentScroller",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_contentScroller",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "com.sweetnspicy.recipes:id/imgMainFeaturedRecipe",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        287,
+        1405,
+        647
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgMainFeaturedRecipe",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_16",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedRecipe1",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        1271,
+        713,
+        1631
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedRecipe1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedRecipe2",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        727,
+        1271,
+        1398,
+        1631
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedRecipe2",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedRecipe3",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        49,
+        1652,
+        713,
+        2012
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedRecipe3",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedRecipe4",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        727,
+        1652,
+        1391,
+        2012
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedRecipe4",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedCategory1",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        2068,
+        713,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedCategory1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.sweetnspicy.recipes:id/imgFeaturedCategory2",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        ""
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        727,
+        2068,
+        1398,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imgFeaturedCategory2",
+      "selector_confidence": 0.95
+    }
+  ]
+}

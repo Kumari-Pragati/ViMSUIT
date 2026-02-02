@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1068,47,4,4,id/profile;id/fab_expand_menu_button;id/profile;id/profile;id/profile;id/fab_expand_menu_button;id/fab_expand_menu_button;id/profile;id/profile;id/profile,10,10,100.0%,Add profile photo

@@ -1,0 +1,10 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_13896_001,Navigate back to the previous screen,Children's Educational App,13896,gallery,P1,Functional,,,Click on the blue chevron button in the top left corner.,The user should be navigated back to the previous screen.
+TC_13896_002,Select a random animal face image,Children's Educational App,13896,gallery,P1,Functional,,,Click on one of the animal face images in the 3x3 grid.,The selected animal face image should be highlighted or marked as selected.
+TC_13896_003,Select all animal face images,Children's Educational App,13896,gallery,P1,Functional,,,Click on each animal face image in the 3x3 grid.,All animal face images should be highlighted or marked as selected.
+TC_13896_004,Select a non-existent animal face image,Children's Educational App,13896,gallery,P2,Negative,,,Click on an area outside the 3x3 grid of animal face images.,No animal face image should be selected.
+TC_13896_005,Select multiple animal face images,Children's Educational App,13896,gallery,P1,Functional,,,Click on two different animal face images in the 3x3 grid.,The two selected animal face images should be highlighted or marked as selected.
+TC_13896_006,Input text in the search bar,Children's Educational App,13896,gallery,P2,UI,,,Locate and click on the search bar at the top of the screen. | Enter text in the search bar.,The search bar should accept text input.
+TC_13896_007,Check accessibility of the screen,Children's Educational App,13896,gallery,P2,Accessibility,,,Use screen reader to navigate through the screen.,The screen should be accessible to users with visual impairments.
+TC_13896_008,Check usability of the screen,Children's Educational App,13896,gallery,P2,Usability,,,Attempt to navigate through the screen using only the keyboard.,The screen should be usable with a keyboard.
+TC_13896_009,Check data persistence,Children's Educational App,13896,gallery,P2,Regression,,,Navigate away from the screen and back to it.,The selected animal face images should still be highlighted or marked as selected.

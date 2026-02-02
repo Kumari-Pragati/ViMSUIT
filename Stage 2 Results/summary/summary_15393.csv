@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+15393,67,3,3,id/drawer_layout;id/drawer_layout;id/drawer_layout;id/drawer_layout;id/drawer_layout;id/drawer_layout,7,7,100.0%,"Encouraging users to perform a ""good deed"" and donate to the Tiny Feet Foundation.
+- **Navigation/footer**: The menu icon in the header likely leads to more options or settings within the app."

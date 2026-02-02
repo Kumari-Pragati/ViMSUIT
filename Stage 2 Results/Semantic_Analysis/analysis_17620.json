@@ -1,0 +1,128 @@
+{
+  "screen_id": "17620",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 20,
+  "testable_elements": 2,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_17620_01",
+      "class_name": "Test_17620_1762001",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imageView1",
+        "raw_value": "id_imageView1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17620/Test_17620_1762001.java"
+    },
+    {
+      "test_case_id": "TC_17620_02",
+      "class_name": "Test_17620_1762002",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_txtNoRadioLink",
+        "raw_value": "id_txtNoRadioLink",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17620/Test_17620_1762002.java"
+    },
+    {
+      "test_case_id": "TC_17620_03",
+      "class_name": "Test_17620_1762003",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imageView1",
+        "raw_value": "id_imageView1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17620/Test_17620_1762003.java"
+    },
+    {
+      "test_case_id": "TC_17620_04",
+      "class_name": "Test_17620_1762004",
+      "element_id": "el_10",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_imageView1",
+        "raw_value": "id_imageView1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17620/Test_17620_1762004.java"
+    },
+    {
+      "test_case_id": "TC_17620_05",
+      "class_name": "Test_17620_1762005",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_txtNoRadioLink",
+        "raw_value": "id_txtNoRadioLink",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_17620/Test_17620_1762005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.nextradioapp.nextradio:id/imageView1",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        272,
+        596,
+        1168,
+        759
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_imageView1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.nextradioapp.nextradio:id/txtNoRadioLink",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "ENTER TO WIN $10,000!",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        175,
+        1649,
+        1265,
+        1796
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_txtNoRadioLink",
+      "selector_confidence": 0.95
+    }
+  ]
+}

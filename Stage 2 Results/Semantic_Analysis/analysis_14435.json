@@ -1,0 +1,102 @@
+{
+  "screen_id": "14435",
+  "primary_ctas": "\"Continue\" button.\n- **Navigation/footer**: Navigation bar with icons for different sections of the app.",
+  "total_elements": 27,
+  "testable_elements": 1,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14435_001",
+      "class_name": "Test_14435_14435001",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_positive_action",
+        "raw_value": "id_positive_action",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14435/Test_14435_14435001.java"
+    },
+    {
+      "test_case_id": "TC_14435_002",
+      "class_name": "Test_14435_14435002",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_positive_action",
+        "raw_value": "id_positive_action",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14435/Test_14435_14435002.java"
+    },
+    {
+      "test_case_id": "TC_14435_003",
+      "class_name": "Test_14435_14435003",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_positive_action",
+        "raw_value": "id_positive_action",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14435/Test_14435_14435003.java"
+    },
+    {
+      "test_case_id": "TC_14435_004",
+      "class_name": "Test_14435_14435004",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_positive_action",
+        "raw_value": "id_positive_action",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14435/Test_14435_14435004.java"
+    },
+    {
+      "test_case_id": "TC_14435_005",
+      "class_name": "Test_14435_14435005",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_positive_action",
+        "raw_value": "id_positive_action",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14435/Test_14435_14435005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_24",
+      "resource_id": "com.mobile.android.browns:id/positive_action",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Continue",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        437,
+        2045,
+        1002,
+        2213
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_positive_action",
+      "selector_confidence": 0.95
+    }
+  ]
+}

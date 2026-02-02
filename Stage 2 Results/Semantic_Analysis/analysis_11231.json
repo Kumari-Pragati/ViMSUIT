@@ -1,0 +1,385 @@
+{
+  "screen_id": "11231",
+  "primary_ctas": "\"FIND RESTAURANTS\" button.",
+  "total_elements": 109,
+  "testable_elements": 6,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11231_01",
+      "class_name": "Test_11231_1123101",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123101.java"
+    },
+    {
+      "test_case_id": "TC_11231_02",
+      "class_name": "Test_11231_1123102",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123102.java"
+    },
+    {
+      "test_case_id": "TC_11231_03",
+      "class_name": "Test_11231_1123103",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123103.java"
+    },
+    {
+      "test_case_id": "TC_11231_04",
+      "class_name": "Test_11231_1123104",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123104.java"
+    },
+    {
+      "test_case_id": "TC_11231_05",
+      "class_name": "Test_11231_1123105",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123105.java"
+    },
+    {
+      "test_case_id": "TC_11231_06",
+      "class_name": "Test_11231_1123106",
+      "element_ids": [
+        "el_14",
+        "el_47",
+        "el_51"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_open",
+          "raw_value": "id_menu_open",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnFindRestaurants",
+          "raw_value": "id_btnFindRestaurants",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnLogin",
+          "raw_value": "id_btnLogin",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9499999999999998,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123106.java"
+    },
+    {
+      "test_case_id": "TC_11231_07",
+      "class_name": "Test_11231_1123107",
+      "element_id": "el_51",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnLogin",
+        "raw_value": "id_btnLogin",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123107.java"
+    },
+    {
+      "test_case_id": "TC_11231_08",
+      "class_name": "Test_11231_1123108",
+      "element_id": "el_19",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_home_toolbar_search",
+        "raw_value": "id_home_toolbar_search",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11231/Test_11231_1123108.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.talabat:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "com.talabat:id/menu_open",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        87,
+        259,
+        276
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_menu_open",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "com.talabat:id/flag",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1128,
+        140,
+        1212,
+        224
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_flag",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "com.talabat:id/home_toolbar_search",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1230,
+        84,
+        1440,
+        280
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_home_toolbar_search",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_47",
+      "resource_id": "com.talabat:id/btnFindRestaurants",
+      "class": "com.talabat.TalabatButton",
+      "text": "Find Restaurants",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        1539,
+        1384,
+        1679
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnFindRestaurants",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_51",
+      "resource_id": "com.talabat:id/btnLogin",
+      "class": "com.talabat.TalabatButton",
+      "text": "Login",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        457,
+        2108,
+        982,
+        2266
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnLogin",
+      "selector_confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "screen_id": "15109",
+  "primary_ctas": "Toggle between \"Past\" and \"Future\" radar views.\n- **Navigation/footer**: Bottom navigation bar for switching views.",
+  "total_elements": 177,
+  "testable_elements": 19,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15109_01",
+      "class_name": "Test_15109_1510901",
+      "element_id": "el_97",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_layer_display_mode_past",
+        "raw_value": "id_layer_display_mode_past",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510901.java"
+    },
+    {
+      "test_case_id": "TC_15109_02",
+      "class_name": "Test_15109_1510902",
+      "element_id": "el_32",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_page_header_icon_click",
+        "raw_value": "id_page_header_icon_click",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510902.java"
+    },
+    {
+      "test_case_id": "TC_15109_03",
+      "class_name": "Test_15109_1510903",
+      "element_id": "el_33",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_page_header_find_click",
+        "raw_value": "id_page_header_find_click",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510903.java"
+    },
+    {
+      "test_case_id": "TC_15109_04",
+      "class_name": "Test_15109_1510904",
+      "element_id": "el_97",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_layer_display_mode_past",
+        "raw_value": "id_layer_display_mode_past",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510904.java"
+    },
+    {
+      "test_case_id": "TC_15109_05",
+      "class_name": "Test_15109_1510905",
+      "element_id": "el_105",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_legend_button",
+        "raw_value": "id_legend_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510905.java"
+    },
+    {
+      "test_case_id": "TC_15109_06",
+      "class_name": "Test_15109_1510906",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_application_root_view_content_without_bars",
+        "raw_value": "id_application_root_view_content_without_bars",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510906.java"
+    },
+    {
+      "test_case_id": "TC_15109_07",
+      "class_name": "Test_15109_1510907",
+      "element_ids": [
+        "el_15",
+        "el_22",
+        "el_31",
+        "el_32",
+        "el_33",
+        "el_95",
+        "el_97",
+        "el_99",
+        "el_100",
+        "el_103",
+        "el_105",
+        "el_57",
+        "el_58",
+        "el_59",
+        "el_60",
+        "el_72",
+        "el_53",
+        "el_69",
+        "el_70"
+      ],
+      "element_count": 19,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_application_root_view_content_without_bars",
+          "raw_value": "id_application_root_view_content_without_bars",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_page_header_menu",
+          "raw_value": "id_page_header_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_page_header_menu_click",
+          "raw_value": "id_page_header_menu_click",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_page_header_icon_click",
+          "raw_value": "id_page_header_icon_click",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_page_header_find_click",
+          "raw_value": "id_page_header_find_click",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_share_button",
+          "raw_value": "id_share_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_layer_display_mode_past",
+          "raw_value": "id_layer_display_mode_past",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_layer_display_mode_future",
+          "raw_value": "id_layer_display_mode_future",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_looping_button",
+          "raw_value": "id_looping_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_layer_button",
+          "raw_value": "id_layer_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_legend_button",
+          "raw_value": "id_legend_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Google Map']\"",
+          "raw_value": [
+            "Google Map"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8552631578947371,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510907.java"
+    },
+    {
+      "test_case_id": "TC_15109_08",
+      "class_name": "Test_15109_1510908",
+      "element_id": "el_15",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_application_root_view_content_without_bars",
+        "raw_value": "id_application_root_view_content_without_bars",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510908.java"
+    },
+    {
+      "test_case_id": "TC_15109_09",
+      "class_name": "Test_15109_1510909",
+      "element_id": "el_70",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.6,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15109/Test_15109_1510909.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_15",
+      "resource_id": "com.waff.android.weather:id/application_root_view_content_without_bars",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_application_root_view_content_without_bars",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.waff.android.weather:id/page_header_menu",
+      "class": "com.wsi.android.framework.app.ui.widget.MenuButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        151,
+        197,
+        317
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_page_header_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_31",
+      "resource_id": "com.waff.android.weather:id/page_header_menu_click",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        350,
+        385
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_page_header_menu_click",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_32",
+      "resource_id": "com.waff.android.weather:id/page_header_icon_click",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        350,
+        84,
+        1090,
+        385
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_page_header_icon_click",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_33",
+      "resource_id": "com.waff.android.weather:id/page_header_find_click",
+      "class": "android.view.View",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1090,
+        84,
+        1440,
+        385
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_page_header_find_click",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_95",
+      "resource_id": "com.waff.android.weather:id/share_button",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1913,
+        158,
+        2036
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_share_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_97",
+      "resource_id": "com.waff.android.weather:id/layer_display_mode_past",
+      "class": "android.widget.ToggleButton",
+      "text": "Past",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        324,
+        1922,
+        420,
+        2027
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_layer_display_mode_past",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_99",
+      "resource_id": "com.waff.android.weather:id/layer_display_mode_future",
+      "class": "android.widget.ToggleButton",
+      "text": "Future",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        481,
+        1922,
+        630,
+        2027
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_layer_display_mode_future",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_100",
+      "resource_id": "com.waff.android.weather:id/looping_button",
+      "class": "android.widget.ToggleButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        658,
+        1913,
+        781,
+        2036
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_looping_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_103",
+      "resource_id": "com.waff.android.weather:id/layer_button",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1282,
+        1913,
+        1440,
+        2036
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_layer_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_105",
+      "resource_id": "com.waff.android.weather:id/legend_button",
+      "class": "android.widget.ToggleButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1783,
+        102,
+        1909
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_legend_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_57",
+      "resource_id": "",
+      "class": "android.widget.RadioButton",
+      "text": "Home",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2214,
+        364,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_58",
+      "resource_id": "",
+      "class": "android.widget.RadioButton",
+      "text": "Hourly",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        364,
+        2214,
+        742,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_59",
+      "resource_id": "",
+      "class": "android.widget.RadioButton",
+      "text": "Daily",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        742,
+        2214,
+        1080,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_60",
+      "resource_id": "",
+      "class": "android.widget.RadioButton",
+      "text": "Radar",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1080,
+        2214,
+        1440,
+        2392
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_72",
+      "resource_id": "",
+      "class": "com.google.maps.api.android.lib6.gmm6.api.z",
+      "text": "",
+      "content_desc": [
+        "Google Map"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        385,
+        1440,
+        2036
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Google Map']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_53",
+      "resource_id": "",
+      "class": "com.google.android.gms.ads.internal.webview.o",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        160,
+        2038,
+        1280,
+        2213
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_69",
+      "resource_id": "",
+      "class": "com.wsi.android.framework.map.WSIMapView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        385,
+        1440,
+        2036
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_70",
+      "resource_id": "",
+      "class": "com.google.android.gms.maps.MapView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        385,
+        1440,
+        2036
+      ],
+      "testability_score": 0.6,
+      "testability_reason": "interactive_only",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

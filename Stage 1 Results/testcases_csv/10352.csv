@@ -1,0 +1,10 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_10352_001,Navigate to the 'INFO' tab from the 'EVENTS' tab,Settings,10352,settings,P1,Functional,,,Click on the 'INFO' tab. | Verify that the 'INFO' tab is now active.,The 'INFO' tab is active.
+TC_10352_002,Navigate to the 'COMMENTS' tab from the 'EVENTS' tab,Settings,10352,settings,P1,Functional,,,Click on the 'COMMENTS' tab. | Verify that the 'COMMENTS' tab is now active.,The 'COMMENTS' tab is active.
+TC_10352_003,Click on 'MAKE YOUR PREDICTION' section,Settings,10352,settings,P1,Functional,,,Click on the 'MAKE YOUR PREDICTION' section. | Verify that the prediction options are displayed.,The prediction options are displayed.
+TC_10352_004,Select 'Osmanlispor' as the prediction,Settings,10352,settings,P1,Functional,,,Click on the 'Osmanlispor' prediction option. | Verify that 'Osmanlispor' is selected as the prediction.,'Osmanlispor' is selected as the prediction.
+TC_10352_005,Select 'Draw' as the prediction,Settings,10352,settings,P1,Functional,,,Click on the 'Draw' prediction option. | Verify that 'Draw' is selected as the prediction.,'Draw' is selected as the prediction.
+TC_10352_006,Select 'Olympiakos Piraeus' as the prediction,Settings,10352,settings,P1,Functional,,,Click on the 'Olympiakos Piraeus' prediction option. | Verify that 'Olympiakos Piraeus' is selected as the prediction.,'Olympiakos Piraeus' is selected as the prediction.
+TC_10352_007,Click on the 'Refresh' icon in the header,Settings,10352,settings,P1,Functional,,,Click on the 'Refresh' icon in the header. | Verify that the content is refreshed.,The content is refreshed.
+TC_10352_008,Click on the 'Menu' icon in the header,Settings,10352,settings,P1,Functional,,,Click on the 'Menu' icon in the header. | Verify that the menu options are displayed.,The menu options are displayed.
+TC_10352_009,Click on the 'Back' arrow in the header,Settings,10352,settings,P1,Functional,,,Click on the 'Back' arrow in the header. | Verify that the user is navigated back to the previous screen.,The user is navigated back to the previous screen.

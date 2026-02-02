@@ -1,0 +1,11 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_1068_001,User can navigate back to the previous screen,dating_app,1068,profile,P1,Functional,,,Click on the back arrow in the top left corner.,The user is redirected to the previous screen.
+TC_1068_002,User can add a profile photo,dating_app,1068,profile,P1,Functional,,,Click on the placeholder icon for a profile photo. | Select an image from the gallery or camera.,The profile photo is successfully added.
+TC_1068_003,User can edit their profile information,dating_app,1068,profile,P1,Functional,,,"Click on the edit pencil icon next to the name 'Sam, 32'. | Enter new information and save.",The profile information is successfully updated.
+TC_1068_004,User can view their location,dating_app,1068,profile,P1,Functional,,,Observe the location indicator showing 'San Francisco · 0 ft'.,The location is displayed correctly.
+TC_1068_005,User can view their online status,dating_app,1068,profile,P1,Functional,,,Observe the green dot indicating 'Online for 2 minutes'.,The online status is displayed correctly.
+TC_1068_006,User can view the map,dating_app,1068,profile,P1,Functional,,,Observe the map of the San Francisco area at the bottom.,The map is displayed correctly.
+TC_1068_007,User can add a new location,dating_app,1068,profile,P1,Functional,,,Click on the pink circular button with a plus sign in the bottom right corner. | Enter a new location and save.,The new location is successfully added.
+TC_1068_008,User can toggle the online status,dating_app,1068,profile,P1,Functional,,,Observe the green dot indicating 'Online for 2 minutes'. | Click on the green dot to toggle the online status.,The online status is successfully toggled.
+TC_1068_009,User can view their profile in offline mode,dating_app,1068,profile,P1,Functional,,,Ensure the device is set to offline mode. | Observe the map and other profile details.,The map and other profile details are displayed correctly in offline mode.
+TC_1068_010,User can resume viewing their profile in online mode,dating_app,1068,profile,P1,Functional,,,Ensure the device is set to online mode. | Observe the map and other profile details.,The map and other profile details are displayed correctly in online mode.

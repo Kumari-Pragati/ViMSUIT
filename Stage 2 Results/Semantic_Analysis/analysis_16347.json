@@ -1,0 +1,271 @@
+{
+  "screen_id": "16347",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 57,
+  "testable_elements": 6,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16347_01",
+      "class_name": "Test_16347_1634701",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634701.java"
+    },
+    {
+      "test_case_id": "TC_16347_02",
+      "class_name": "Test_16347_1634702",
+      "element_id": "el_30",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_near",
+        "raw_value": "id_project_search_near",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634702.java"
+    },
+    {
+      "test_case_id": "TC_16347_03",
+      "class_name": "Test_16347_1634703",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_advanced",
+        "raw_value": "id_project_search_advanced",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634703.java"
+    },
+    {
+      "test_case_id": "TC_16347_04",
+      "class_name": "Test_16347_1634704",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634704.java"
+    },
+    {
+      "test_case_id": "TC_16347_05",
+      "class_name": "Test_16347_1634705",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634705.java"
+    },
+    {
+      "test_case_id": "TC_16347_06",
+      "class_name": "Test_16347_1634706",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634706.java"
+    },
+    {
+      "test_case_id": "TC_16347_07",
+      "class_name": "Test_16347_1634707",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634707.java"
+    },
+    {
+      "test_case_id": "TC_16347_08",
+      "class_name": "Test_16347_1634708",
+      "element_id": "el_27",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_project_search_view",
+        "raw_value": "id_project_search_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16347/Test_16347_1634708.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "org.lds.justserve:id/drawerLayout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawerLayout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_19",
+      "resource_id": "org.lds.justserve:id/project_search_recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_project_search_recycler_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_27",
+      "resource_id": "org.lds.justserve:id/project_search_view",
+      "class": "org.lds.justserve.ui.widget.FontEditText",
+      "text": "San Francisco, Ca",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        53,
+        409,
+        1387,
+        567
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_project_search_view",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "org.lds.justserve:id/project_search_advanced",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "advanced search",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        67,
+        567,
+        440,
+        693
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_project_search_advanced",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_30",
+      "resource_id": "org.lds.justserve:id/project_search_near",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "near me",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1065,
+        567,
+        1373,
+        693
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_project_search_near",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

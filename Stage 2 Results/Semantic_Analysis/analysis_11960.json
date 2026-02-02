@@ -1,0 +1,167 @@
+{
+  "screen_id": "11960",
+  "primary_ctas": "\"CONTINUE\" button.\n- **Navigation/footer**: The \"CONTINUE\" button is the sole navigation element at the bottom.",
+  "total_elements": 25,
+  "testable_elements": 3,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11960_01",
+      "class_name": "Test_11960_1196001",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_wizard_next",
+        "raw_value": "id_wizard_next",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196001.java"
+    },
+    {
+      "test_case_id": "TC_11960_02",
+      "class_name": "Test_11960_1196002",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_numberField",
+        "raw_value": "id_numberField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196002.java"
+    },
+    {
+      "test_case_id": "TC_11960_03",
+      "class_name": "Test_11960_1196003",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_numberField",
+        "raw_value": "id_numberField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196003.java"
+    },
+    {
+      "test_case_id": "TC_11960_04",
+      "class_name": "Test_11960_1196004",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_numberField",
+        "raw_value": "id_numberField",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196004.java"
+    },
+    {
+      "test_case_id": "TC_11960_05",
+      "class_name": "Test_11960_1196005",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_wizard_next",
+        "raw_value": "id_wizard_next",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196005.java"
+    },
+    {
+      "test_case_id": "TC_11960_06",
+      "class_name": "Test_11960_1196006",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_wizard_next",
+        "raw_value": "id_wizard_next",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11960/Test_11960_1196006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_19",
+      "resource_id": "com.truecaller:id/countrySpinner",
+      "class": "com.truecaller.wizard.internal.components.EditText",
+      "text": "United States (+1)",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        196,
+        1828,
+        1328,
+        1998
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_countrySpinner",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.truecaller:id/numberField",
+      "class": "com.truecaller.wizard.internal.components.EditText",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        196,
+        1998,
+        1328,
+        2168
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_numberField",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.truecaller:id/wizard_next",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "CONTINUE",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2224,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_wizard_next",
+      "selector_confidence": 0.95
+    }
+  ]
+}

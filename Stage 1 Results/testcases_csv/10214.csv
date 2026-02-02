@@ -1,0 +1,11 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_10214_01,Verify that the 'Continue' button navigates to the next sign-up page,Authentication,10214,login,P1,Functional,,,Click on the 'Continue' button.,The user is redirected to the next sign-up page.
+TC_10214_02,Verify that clicking the 'Sign Out' button logs the user out,Authentication,10214,login,P1,Functional,,,Click on the 'Sign Out' button.,The user is logged out of the app.
+TC_10214_03,Verify that the subtitle text is displayed correctly,Authentication,10214,login,P2,UI,,,"Verify that the subtitle text 'In the next steps, you will enter your BuzzMuslim profile. This should not take more than 2 minutes, after that you are ready to meet new people!' is displayed correctly.",The subtitle text is displayed correctly.
+TC_10214_04,Verify that the 'Continue' button is clickable,Authentication,10214,login,P2,UI,,,Verify that the 'Continue' button is clickable.,The 'Continue' button is clickable.
+TC_10214_05,Verify that the 'Sign Out' button is clickable,Authentication,10214,login,P2,UI,,,Verify that the 'Sign Out' button is clickable.,The 'Sign Out' button is clickable.
+TC_10214_06,Verify that the status bar icons and time are displayed correctly,Authentication,10214,login,P2,UI,,,Verify that the status bar icons and time are displayed correctly.,The status bar icons and time are displayed correctly.
+TC_10214_07,Verify that the app bar title 'Signup' is displayed correctly,Authentication,10214,login,P2,UI,,,Verify that the app bar title 'Signup' is displayed correctly.,The app bar title 'Signup' is displayed correctly.
+TC_10214_08,Verify that the subtitle text is accessible,Authentication,10214,login,P2,Accessibility,,,"Verify that the subtitle text 'In the next steps, you will enter your BuzzMuslim profile. This should not take more than 2 minutes, after that you are ready to meet new people!' is accessible.",The subtitle text is accessible.
+TC_10214_09,Verify that the 'Continue' button is accessible,Authentication,10214,login,P2,Accessibility,,,Verify that the 'Continue' button is accessible.,The 'Continue' button is accessible.
+TC_10214_10,Verify that the 'Sign Out' button is accessible,Authentication,10214,login,P2,Accessibility,,,Verify that the 'Sign Out' button is accessible.,The 'Sign Out' button is accessible.

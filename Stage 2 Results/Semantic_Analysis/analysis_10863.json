@@ -1,0 +1,409 @@
+{
+  "screen_id": "10863",
+  "primary_ctas": "\"No thanks\" and \"Sure\" buttons in the rating prompt.",
+  "total_elements": 151,
+  "testable_elements": 10,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10863_001",
+      "class_name": "Test_10863_10863001",
+      "element_id": "el_7",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_drawer_layout",
+        "raw_value": "id_drawer_layout",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863001.java"
+    },
+    {
+      "test_case_id": "TC_10863_002",
+      "class_name": "Test_10863_10863002",
+      "element_id": "el_39",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnNegative",
+        "raw_value": "id_btnNegative",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863002.java"
+    },
+    {
+      "test_case_id": "TC_10863_003",
+      "class_name": "Test_10863_10863003",
+      "element_id": "el_41",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btnPositive",
+        "raw_value": "id_btnPositive",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863003.java"
+    },
+    {
+      "test_case_id": "TC_10863_004",
+      "class_name": "Test_10863_10863004",
+      "element_id": "el_21",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_patient_image",
+        "raw_value": "id_patient_image",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863004.java"
+    },
+    {
+      "test_case_id": "TC_10863_005",
+      "class_name": "Test_10863_10863005",
+      "element_id": "el_49",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listActionCenter",
+        "raw_value": "id_listActionCenter",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863005.java"
+    },
+    {
+      "test_case_id": "TC_10863_006",
+      "class_name": "Test_10863_10863006",
+      "element_id": "el_49",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listActionCenter",
+        "raw_value": "id_listActionCenter",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863006.java"
+    },
+    {
+      "test_case_id": "TC_10863_007",
+      "class_name": "Test_10863_10863007",
+      "element_ids": [
+        "el_39",
+        "el_41",
+        "el_14"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btnNegative",
+          "raw_value": "id_btnNegative",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btnPositive",
+          "raw_value": "id_btnPositive",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Open navigation drawer']\"",
+          "raw_value": [
+            "Open navigation drawer"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863007.java"
+    },
+    {
+      "test_case_id": "TC_10863_008",
+      "class_name": "Test_10863_10863008",
+      "element_id": "el_82",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listRecentActivity",
+        "raw_value": "id_listRecentActivity",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863008.java"
+    },
+    {
+      "test_case_id": "TC_10863_009",
+      "class_name": "Test_10863_10863009",
+      "element_id": "el_82",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_listRecentActivity",
+        "raw_value": "id_listRecentActivity",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10863/Test_10863_10863009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_7",
+      "resource_id": "com.jardogs.fmhmobile:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_10",
+      "resource_id": "com.jardogs.fmhmobile:id/ab_proxy_spinner",
+      "class": "android.support.v7.widget.AppCompatSpinner",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        252,
+        113,
+        602,
+        250
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ab_proxy_spinner",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.jardogs.fmhmobile:id/patient_image",
+      "class": "com.jardogs.fmhmobile.library.custom.CircularImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        632,
+        298,
+        807,
+        473
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_patient_image",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_39",
+      "resource_id": "com.jardogs.fmhmobile:id/btnNegative",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "No thanks",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        401,
+        949,
+        709,
+        1049
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnNegative",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_41",
+      "resource_id": "com.jardogs.fmhmobile:id/btnPositive",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Sure",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        730,
+        949,
+        1038,
+        1049
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btnPositive",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_42",
+      "resource_id": "com.jardogs.fmhmobile:id/close",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1363,
+        841,
+        1419,
+        897
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_close",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_49",
+      "resource_id": "com.jardogs.fmhmobile:id/listActionCenter",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1201,
+        1440,
+        1741
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_listActionCenter",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_82",
+      "resource_id": "com.jardogs.fmhmobile:id/listRecentActivity",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        1851,
+        1440,
+        2366
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_listRecentActivity",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Open navigation drawer"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Open navigation drawer']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_18",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        820
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

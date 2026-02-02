@@ -1,0 +1,127 @@
+{
+  "screen_id": "14307",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 86,
+  "testable_elements": 2,
+  "matched_test_cases": 4,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14307_001",
+      "class_name": "Test_14307_14307001",
+      "element_id": "el_63",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_current_list_view",
+        "raw_value": "id_current_list_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14307/Test_14307_14307001.java"
+    },
+    {
+      "test_case_id": "TC_14307_002",
+      "class_name": "Test_14307_14307002",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_title_bar_back_button",
+        "raw_value": "id_title_bar_back_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14307/Test_14307_14307002.java"
+    },
+    {
+      "test_case_id": "TC_14307_003",
+      "class_name": "Test_14307_14307003",
+      "element_ids": [
+        "el_18",
+        "el_63"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_title_bar_back_button",
+          "raw_value": "id_title_bar_back_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_current_list_view",
+          "raw_value": "id_current_list_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14307/Test_14307_14307003.java"
+    },
+    {
+      "test_case_id": "TC_14307_004",
+      "class_name": "Test_14307_14307004",
+      "element_id": "el_63",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_current_list_view",
+        "raw_value": "id_current_list_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14307/Test_14307_14307004.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_18",
+      "resource_id": "com.alipay.mobile.ui:id/title_bar_back_button",
+      "class": "com.alipay.mobile.commonui.widget.APImageButton",
+      "text": "",
+      "content_desc": [
+        "Return"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_title_bar_back_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_63",
+      "resource_id": "com.alipay.mobile.alipassapp:id/current_list_view",
+      "class": "com.alipay.mobile.commonui.widget.APListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_current_list_view",
+      "selector_confidence": 0.95
+    }
+  ]
+}

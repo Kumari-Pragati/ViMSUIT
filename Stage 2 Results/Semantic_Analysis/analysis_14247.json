@@ -1,0 +1,238 @@
+{
+  "screen_id": "14247",
+  "primary_ctas": "Interacting with the text overlays.\n- **Navigation/footer**: Icons in the header for sharing, deleting, and more options.",
+  "total_elements": 56,
+  "testable_elements": 4,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_14247_001",
+      "class_name": "Test_14247_14247001",
+      "element_ids": [
+        "el_51",
+        "el_52",
+        "el_53",
+        "el_54"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_action_share",
+          "raw_value": "id_action_share",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_clear",
+          "raw_value": "id_action_clear",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_action_add_head",
+          "raw_value": "id_action_add_head",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9124999999999999,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247001.java"
+    },
+    {
+      "test_case_id": "TC_14247_002",
+      "class_name": "Test_14247_14247002",
+      "element_id": "el_51",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_share",
+        "raw_value": "id_action_share",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247002.java"
+    },
+    {
+      "test_case_id": "TC_14247_003",
+      "class_name": "Test_14247_14247003",
+      "element_id": "el_52",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_clear",
+        "raw_value": "id_action_clear",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247003.java"
+    },
+    {
+      "test_case_id": "TC_14247_004",
+      "class_name": "Test_14247_14247004",
+      "element_id": "el_54",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['More options']\"",
+        "raw_value": [
+          "More options"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247004.java"
+    },
+    {
+      "test_case_id": "TC_14247_005",
+      "class_name": "Test_14247_14247005",
+      "element_id": "el_53",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_add_head",
+        "raw_value": "id_action_add_head",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247005.java"
+    },
+    {
+      "test_case_id": "TC_14247_006",
+      "class_name": "Test_14247_14247006",
+      "element_id": "el_53",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_action_add_head",
+        "raw_value": "id_action_add_head",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247006.java"
+    },
+    {
+      "test_case_id": "TC_14247_007",
+      "class_name": "Test_14247_14247007",
+      "element_id": "el_54",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['More options']\"",
+        "raw_value": [
+          "More options"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_14247/Test_14247_14247007.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_51",
+      "resource_id": "com.stofstik.dogememe:id/action_share",
+      "class": "com.android.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Much Share"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        656,
+        84,
+        852,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_share",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_52",
+      "resource_id": "com.stofstik.dogememe:id/action_clear",
+      "class": "com.android.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Clear"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        852,
+        84,
+        1048,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_clear",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_53",
+      "resource_id": "com.stofstik.dogememe:id/action_add_head",
+      "class": "com.android.internal.view.menu.ActionMenuItemView",
+      "text": "",
+      "content_desc": [
+        "Doge'm"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1048,
+        84,
+        1244,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_action_add_head",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_54",
+      "resource_id": "",
+      "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

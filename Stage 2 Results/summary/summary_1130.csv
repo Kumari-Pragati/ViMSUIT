@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+1130,169,8,3,id/upgrade_btn_unlock;id/upgrade_btn_continue;id/upgrade_btn_join,3,3,37.5%,Main Screen Actions

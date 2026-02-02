@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11231,109,6,4,id/menu_open;id/btnFindRestaurants;id/btnLogin;id/menu_open;id/btnFindRestaurants;id/btnLogin;id/menu_open;id/btnFindRestaurants;id/btnLogin;id/menu_open;id/btnFindRestaurants;id/btnLogin;id/menu_open;id/btnFindRestaurants;id/btnLogin;id/menu_open;id/btnFindRestaurants;id/btnLogin;id/btnLogin;id/home_toolbar_search,8,8,66.7%,"""FIND RESTAURANTS"" button."

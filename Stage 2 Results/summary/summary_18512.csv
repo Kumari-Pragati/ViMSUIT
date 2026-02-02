@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+18512,50,4,4,id/list_mes;id/list_mes;id/list_refresh;id/list_mes;id/list_refresh;id/list_mes;id/fab,6,6,100.0%,"Selecting a category from the list or visiting the furniture gallery.
+- **Navigation/footer**: None, as the footer is occupied by the advertisement."

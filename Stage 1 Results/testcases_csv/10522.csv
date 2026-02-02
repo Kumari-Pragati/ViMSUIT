@@ -1,0 +1,12 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_10522_01,Open the app and navigate to the photo editing screen,Editor,10522,editor,P0,Functional,The app is installed and running,,Open the app | Navigate to the photo editing screen,The photo editing screen is displayed
+TC_10522_02,Click on the download icon,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the download icon,A download dialog should appear
+TC_10522_03,Click on the upload icon,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the upload icon,An upload dialog should appear
+TC_10522_04,Click on the share icon,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the share icon,A share dialog should appear
+TC_10522_05,Click on the text tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the text tool,The text tool should be active
+TC_10522_06,Click on the paint tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the paint tool,The paint tool should be active
+TC_10522_07,Click on the transform tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the transform tool,The transform tool should be active
+TC_10522_08,Click on the back arrow in the header,Editor,10522,editor,P1,Functional,The photo editing screen is displayed,,Click on the back arrow in the header,The user should be navigated back to the previous screen
+TC_10522_09,Input text using the text tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed and the text tool is active,Happy Birthday!,Click on the text tool | Click on the image to place the text | Input the text 'Happy Birthday!',The text 'Happy Birthday!' should be displayed on the image
+TC_10522_10,Select a color using the paint tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed and the paint tool is active,Red,Click on the paint tool | Select the color 'Red',The selected color should be applied to the image
+TC_10522_11,Rotate the image using the transform tool,Editor,10522,editor,P1,Functional,The photo editing screen is displayed and the transform tool is active,90 degrees,Click on the transform tool | Rotate the image 90 degrees,The image should be rotated 90 degrees

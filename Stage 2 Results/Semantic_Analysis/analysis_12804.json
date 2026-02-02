@@ -1,0 +1,227 @@
+{
+  "screen_id": "12804",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 31,
+  "testable_elements": 4,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12804_001",
+      "class_name": "Test_12804_12804001",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804001.java"
+    },
+    {
+      "test_case_id": "TC_12804_002",
+      "class_name": "Test_12804_12804002",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_popup_menu",
+        "raw_value": "id_popup_menu",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804002.java"
+    },
+    {
+      "test_case_id": "TC_12804_003",
+      "class_name": "Test_12804_12804003",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804003.java"
+    },
+    {
+      "test_case_id": "TC_12804_004",
+      "class_name": "Test_12804_12804004",
+      "element_id": "el_25",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_popup_menu",
+        "raw_value": "id_popup_menu",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804004.java"
+    },
+    {
+      "test_case_id": "TC_12804_005",
+      "class_name": "Test_12804_12804005",
+      "element_ids": [
+        "el_16",
+        "el_25",
+        "el_13",
+        "el_15"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_recyclerview",
+          "raw_value": "id_recyclerview",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_popup_menu",
+          "raw_value": "id_popup_menu",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['More options']\"",
+          "raw_value": [
+            "More options"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.875,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804005.java"
+    },
+    {
+      "test_case_id": "TC_12804_006",
+      "class_name": "Test_12804_12804006",
+      "element_id": "el_16",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_recyclerview",
+        "raw_value": "id_recyclerview",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12804/Test_12804_12804006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_16",
+      "resource_id": "com.fotoable.musicplayer:id/recyclerview",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_recyclerview",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_25",
+      "resource_id": "com.fotoable.musicplayer:id/popup_menu",
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        589,
+        989,
+        709,
+        1227
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_popup_menu",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_13",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_15",
+      "resource_id": "",
+      "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+      "text": "",
+      "content_desc": [
+        "More options"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['More options']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

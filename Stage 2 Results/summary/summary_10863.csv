@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+10863,151,10,7,id/drawer_layout;id/btnNegative;id/btnPositive;id/patient_image;id/listActionCenter;id/listActionCenter;id/btnNegative;id/btnPositive;id/listRecentActivity;id/listRecentActivity,9,9,70.0%,"""No thanks"" and ""Sure"" buttons in the rating prompt."

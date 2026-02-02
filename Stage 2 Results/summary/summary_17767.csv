@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17767,106,6,6,id/shutter_button;id/mode_options;id/mode_options;id/mode_options;id/mode_options;id/mode_options;id/mode_options;id/countdown_toggle_button;id/grid_lines_toggle_button;id/flash_toggle_button;id/camera_toggle_button;id/shutter_button;id/mode_options;id/countdown_toggle_button;id/grid_lines_toggle_button;id/flash_toggle_button;id/camera_toggle_button;id/shutter_button,8,8,100.0%,"The large white camera icon at the bottom.
+- **Navigation/footer**: No visible navigation elements or footers in this screenshot."

@@ -1,0 +1,154 @@
+{
+  "screen_id": "18558",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 26,
+  "testable_elements": 3,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18558_001",
+      "class_name": "Test_18558_18558001",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button1",
+        "raw_value": "id_button1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18558/Test_18558_18558001.java"
+    },
+    {
+      "test_case_id": "TC_18558_002",
+      "class_name": "Test_18558_18558002",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button1",
+        "raw_value": "id_button1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18558/Test_18558_18558002.java"
+    },
+    {
+      "test_case_id": "TC_18558_003",
+      "class_name": "Test_18558_18558003",
+      "element_id": "el_20",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button1",
+        "raw_value": "id_button1",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18558/Test_18558_18558003.java"
+    },
+    {
+      "test_case_id": "TC_18558_004",
+      "class_name": "Test_18558_18558004",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_skip",
+        "raw_value": "id_button_skip",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18558/Test_18558_18558004.java"
+    },
+    {
+      "test_case_id": "TC_18558_005",
+      "class_name": "Test_18558_18558005",
+      "element_id": "el_12",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_button_skip",
+        "raw_value": "id_button_skip",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18558/Test_18558_18558005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_12",
+      "resource_id": "com.freeletics.lite:id/button_skip",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Skip",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        951,
+        2210,
+        1440,
+        2378
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_button_skip",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_20",
+      "resource_id": "com.freeletics.lite:id/button1",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "I am male",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        84,
+        1077,
+        1356,
+        1301
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_button1",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_21",
+      "resource_id": "com.freeletics.lite:id/button2",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "I am female",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        84,
+        1357,
+        1356,
+        1581
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_button2",
+      "selector_confidence": 0.95
+    }
+  ]
+}

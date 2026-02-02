@@ -1,0 +1,242 @@
+{
+  "screen_id": "12617",
+  "primary_ctas": "Navigating through the app using the icons in the navigation bar.\n- **Navigation/footer**: Navigation bar at the top, no footer visible.",
+  "total_elements": 264,
+  "testable_elements": 4,
+  "matched_test_cases": 5,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_12617_001",
+      "class_name": "Test_12617_12617001",
+      "element_id": "el_89",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12617/Test_12617_12617001.java"
+    },
+    {
+      "test_case_id": "TC_12617_002",
+      "class_name": "Test_12617_12617002",
+      "element_ids": [
+        "el_8",
+        "el_102",
+        "el_87",
+        "el_89"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_list",
+          "raw_value": "id_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Main Menu Closed']\"",
+          "raw_value": [
+            "Main Menu Closed"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8375,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12617/Test_12617_12617002.java"
+    },
+    {
+      "test_case_id": "TC_12617_003",
+      "class_name": "Test_12617_12617003",
+      "element_id": "el_102",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_list",
+        "raw_value": "id_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12617/Test_12617_12617003.java"
+    },
+    {
+      "test_case_id": "TC_12617_004",
+      "class_name": "Test_12617_12617004",
+      "element_ids": [
+        "el_8",
+        "el_102",
+        "el_87",
+        "el_89"
+      ],
+      "element_count": 4,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_drawer_layout",
+          "raw_value": "id_drawer_layout",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_list",
+          "raw_value": "id_list",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Main Menu Closed']\"",
+          "raw_value": [
+            "Main Menu Closed"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.8375,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12617/Test_12617_12617004.java"
+    },
+    {
+      "test_case_id": "TC_12617_005",
+      "class_name": "Test_12617_12617005",
+      "element_id": "el_102",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_list",
+        "raw_value": "id_list",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_12617/Test_12617_12617005.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_8",
+      "resource_id": "com.yinzcam.nfl.steelers:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_102",
+      "resource_id": "com.yinzcam.nfl.steelers:id/list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        28,
+        1027,
+        1412,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_list",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_87",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Main Menu Closed"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        105,
+        196,
+        238
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Main Menu Closed']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_89",
+      "resource_id": "",
+      "class": "com.yinzcam.common.android.ui.IconLayoutButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1286,
+        84,
+        1440,
+        238
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

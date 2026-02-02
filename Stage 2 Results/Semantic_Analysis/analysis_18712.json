@@ -1,0 +1,115 @@
+{
+  "screen_id": "18712",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 19,
+  "testable_elements": 1,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_18712_001",
+      "class_name": "Test_18712_18712001",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712001.java"
+    },
+    {
+      "test_case_id": "TC_18712_002",
+      "class_name": "Test_18712_18712002",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712002.java"
+    },
+    {
+      "test_case_id": "TC_18712_003",
+      "class_name": "Test_18712_18712003",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712003.java"
+    },
+    {
+      "test_case_id": "TC_18712_004",
+      "class_name": "Test_18712_18712004",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712004.java"
+    },
+    {
+      "test_case_id": "TC_18712_005",
+      "class_name": "Test_18712_18712005",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712005.java"
+    },
+    {
+      "test_case_id": "TC_18712_006",
+      "class_name": "Test_18712_18712006",
+      "element_id": "el_18",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_understand",
+        "raw_value": "id_understand",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_18712/Test_18712_18712006.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_18",
+      "resource_id": "com.apalon.weatherlive.free:id/understand",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "OK, I Understand",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        2168,
+        1384,
+        2336
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_understand",
+      "selector_confidence": 0.95
+    }
+  ]
+}

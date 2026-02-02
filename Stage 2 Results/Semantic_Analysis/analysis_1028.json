@@ -1,0 +1,627 @@
+{
+  "screen_id": "1028",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 166,
+  "testable_elements": 12,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1028_01",
+      "class_name": "Test_1028_102801",
+      "element_ids": [
+        "el_124",
+        "el_132",
+        "el_140",
+        "el_144",
+        "el_151"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_severe_weather_alerts_switch",
+          "raw_value": "id_settings_severe_weather_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_station_alerts_switch",
+          "raw_value": "id_settings_station_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_temperature_display_switch",
+          "raw_value": "id_settings_temperature_display_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_lock_screen_weather_banner_switch",
+          "raw_value": "id_settings_lock_screen_weather_banner_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+          "raw_value": "id_settings_show_alerts_in_status_bar_switch",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102801.java"
+    },
+    {
+      "test_case_id": "TC_1028_02",
+      "class_name": "Test_1028_102802",
+      "element_id": "el_140",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_settings_temperature_display_switch",
+        "raw_value": "id_settings_temperature_display_switch",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102802.java"
+    },
+    {
+      "test_case_id": "TC_1028_03",
+      "class_name": "Test_1028_102803",
+      "element_id": "el_140",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_settings_temperature_display_switch",
+        "raw_value": "id_settings_temperature_display_switch",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102803.java"
+    },
+    {
+      "test_case_id": "TC_1028_04",
+      "class_name": "Test_1028_102804",
+      "element_ids": [
+        "el_124",
+        "el_132",
+        "el_140",
+        "el_144",
+        "el_151"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_severe_weather_alerts_switch",
+          "raw_value": "id_settings_severe_weather_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_station_alerts_switch",
+          "raw_value": "id_settings_station_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_temperature_display_switch",
+          "raw_value": "id_settings_temperature_display_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_lock_screen_weather_banner_switch",
+          "raw_value": "id_settings_lock_screen_weather_banner_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+          "raw_value": "id_settings_show_alerts_in_status_bar_switch",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102804.java"
+    },
+    {
+      "test_case_id": "TC_1028_05",
+      "class_name": "Test_1028_102805",
+      "element_ids": [
+        "el_124",
+        "el_132",
+        "el_151",
+        "el_152",
+        "el_155",
+        "el_158"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_severe_weather_alerts_switch",
+          "raw_value": "id_settings_severe_weather_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_station_alerts_switch",
+          "raw_value": "id_settings_station_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+          "raw_value": "id_settings_show_alerts_in_status_bar_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_sounds",
+          "raw_value": "id_settings_other_checkbox_use_sounds",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_lights",
+          "raw_value": "id_settings_other_checkbox_use_lights",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_vibration",
+          "raw_value": "id_settings_other_checkbox_use_vibration",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102805.java"
+    },
+    {
+      "test_case_id": "TC_1028_06",
+      "class_name": "Test_1028_102806",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_station_logo",
+        "raw_value": "id_station_logo",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102806.java"
+    },
+    {
+      "test_case_id": "TC_1028_07",
+      "class_name": "Test_1028_102807",
+      "element_ids": [
+        "el_124",
+        "el_132",
+        "el_140",
+        "el_144",
+        "el_151"
+      ],
+      "element_count": 5,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_severe_weather_alerts_switch",
+          "raw_value": "id_settings_severe_weather_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_station_alerts_switch",
+          "raw_value": "id_settings_station_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_temperature_display_switch",
+          "raw_value": "id_settings_temperature_display_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_lock_screen_weather_banner_switch",
+          "raw_value": "id_settings_lock_screen_weather_banner_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+          "raw_value": "id_settings_show_alerts_in_status_bar_switch",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102807.java"
+    },
+    {
+      "test_case_id": "TC_1028_08",
+      "class_name": "Test_1028_102808",
+      "element_ids": [
+        "el_26",
+        "el_124",
+        "el_132",
+        "el_140",
+        "el_144",
+        "el_151",
+        "el_152",
+        "el_155",
+        "el_158"
+      ],
+      "element_count": 9,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_menu_button",
+          "raw_value": "id_menu_button",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_severe_weather_alerts_switch",
+          "raw_value": "id_settings_severe_weather_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_station_alerts_switch",
+          "raw_value": "id_settings_station_alerts_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_temperature_display_switch",
+          "raw_value": "id_settings_temperature_display_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_lock_screen_weather_banner_switch",
+          "raw_value": "id_settings_lock_screen_weather_banner_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+          "raw_value": "id_settings_show_alerts_in_status_bar_switch",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_sounds",
+          "raw_value": "id_settings_other_checkbox_use_sounds",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_lights",
+          "raw_value": "id_settings_other_checkbox_use_lights",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_settings_other_checkbox_use_vibration",
+          "raw_value": "id_settings_other_checkbox_use_vibration",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.9500000000000001,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1028/Test_1028_102808.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_18",
+      "resource_id": "com.koam.android.weather:id/application_root_view_content_without_bars",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_application_root_view_content_without_bars",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.koam.android.weather:id/station_logo",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        259,
+        350,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_station_logo",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_26",
+      "resource_id": "com.koam.android.weather:id/menu_button",
+      "class": "com.wsi.android.framework.app.ui.widget.MenuButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1299,
+        259,
+        1440,
+        382
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_menu_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_124",
+      "resource_id": "com.koam.android.weather:id/settings_severe_weather_alerts_switch",
+      "class": "com.wsi.android.weather.ui.widget.switchbutton.SwitchButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1205,
+        437,
+        1440,
+        609
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_severe_weather_alerts_switch",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_132",
+      "resource_id": "com.koam.android.weather:id/settings_station_alerts_switch",
+      "class": "com.wsi.android.weather.ui.widget.switchbutton.SwitchButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1205,
+        677,
+        1440,
+        849
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_station_alerts_switch",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_140",
+      "resource_id": "com.koam.android.weather:id/settings_temperature_display_switch",
+      "class": "com.wsi.android.weather.ui.widget.switchbutton.SwitchButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1205,
+        974,
+        1440,
+        1146
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_temperature_display_switch",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_144",
+      "resource_id": "com.koam.android.weather:id/settings_lock_screen_weather_banner_switch",
+      "class": "com.wsi.android.weather.ui.widget.switchbutton.SwitchButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1205,
+        1299,
+        1440,
+        1471
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_lock_screen_weather_banner_switch",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_151",
+      "resource_id": "com.koam.android.weather:id/settings_show_alerts_in_status_bar_switch",
+      "class": "com.wsi.android.weather.ui.widget.switchbutton.SwitchButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1205,
+        1534,
+        1440,
+        1706
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_show_alerts_in_status_bar_switch",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_152",
+      "resource_id": "com.koam.android.weather:id/settings_other_checkbox_use_sounds",
+      "class": "com.wsi.android.weather.ui.widget.checkbox.CheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1659,
+        413,
+        1827
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_other_checkbox_use_sounds",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_155",
+      "resource_id": "com.koam.android.weather:id/settings_other_checkbox_use_lights",
+      "class": "com.wsi.android.weather.ui.widget.checkbox.CheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1827,
+        371,
+        1995
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_other_checkbox_use_lights",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_158",
+      "resource_id": "com.koam.android.weather:id/settings_other_checkbox_use_vibration",
+      "class": "com.wsi.android.weather.ui.widget.checkbox.CheckBox",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        105,
+        1995,
+        461,
+        2163
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_settings_other_checkbox_use_vibration",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_102",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        368,
+        1440,
+        2196
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

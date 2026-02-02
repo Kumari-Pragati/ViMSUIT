@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+11475,183,8,3,id/tabs;id/tabs;id/tabs;id/tabs;id/recyclerView;id/tabs;id/recyclerView,8,8,37.5%,Main Screen Actions

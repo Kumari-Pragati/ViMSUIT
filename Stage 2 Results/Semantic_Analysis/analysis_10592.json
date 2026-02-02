@@ -1,0 +1,337 @@
+{
+  "screen_id": "10592",
+  "primary_ctas": "Selecting a social network to add or integrate.\n- **Navigation/footer**: Back arrow in the header.",
+  "total_elements": 50,
+  "testable_elements": 6,
+  "matched_test_cases": 6,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10592_01",
+      "class_name": "Test_10592_1059201",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_facebook",
+        "raw_value": "id_btn_facebook",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059201.java"
+    },
+    {
+      "test_case_id": "TC_10592_02",
+      "class_name": "Test_10592_1059202",
+      "element_ids": [
+        "el_13",
+        "el_23",
+        "el_28",
+        "el_38",
+        "el_46",
+        "el_8"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_facebook",
+          "raw_value": "id_btn_facebook",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_google_plus",
+          "raw_value": "id_btn_google_plus",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_twitter",
+          "raw_value": "id_btn_twitter",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_vk",
+          "raw_value": "id_btn_vk",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.875,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059202.java"
+    },
+    {
+      "test_case_id": "TC_10592_03",
+      "class_name": "Test_10592_1059203",
+      "element_id": "el_46",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059203.java"
+    },
+    {
+      "test_case_id": "TC_10592_04",
+      "class_name": "Test_10592_1059204",
+      "element_id": "el_13",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_facebook",
+        "raw_value": "id_btn_facebook",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059204.java"
+    },
+    {
+      "test_case_id": "TC_10592_05",
+      "class_name": "Test_10592_1059205",
+      "element_ids": [
+        "el_13",
+        "el_23",
+        "el_28",
+        "el_38",
+        "el_46",
+        "el_8"
+      ],
+      "element_count": 6,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_facebook",
+          "raw_value": "id_btn_facebook",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_google_plus",
+          "raw_value": "id_btn_google_plus",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_twitter",
+          "raw_value": "id_btn_twitter",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_vk",
+          "raw_value": "id_btn_vk",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.875,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059205.java"
+    },
+    {
+      "test_case_id": "TC_10592_06",
+      "class_name": "Test_10592_1059206",
+      "element_id": "el_46",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10592/Test_10592_1059206.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_13",
+      "resource_id": "com.syncme.syncmeapp:id/btn_facebook",
+      "class": "com.syncme.activities.custom_views.SyncMeSocialLoginButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        385,
+        1405,
+        623
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_facebook",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.syncme.syncmeapp:id/btn_google_plus",
+      "class": "com.syncme.activities.custom_views.SyncMeSocialLoginButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        623,
+        1405,
+        861
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_google_plus",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "com.syncme.syncmeapp:id/btn_twitter",
+      "class": "com.syncme.activities.custom_views.SyncMeSocialLoginButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        861,
+        1405,
+        1099
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_twitter",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_38",
+      "resource_id": "com.syncme.syncmeapp:id/btn_vk",
+      "class": "com.syncme.activities.custom_views.SyncMeSocialLoginButton",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        35,
+        1099,
+        1405,
+        1337
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_vk",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_46",
+      "resource_id": "",
+      "class": "android.support.v7.widget.AppCompatImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    },
+    {
+      "element_id": "el_8",
+      "resource_id": "",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

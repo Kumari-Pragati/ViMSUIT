@@ -1,0 +1,252 @@
+{
+  "screen_id": "16433",
+  "primary_ctas": "\"Download\" button for each widget.\n- **Navigation/footer**: Back arrow in the header, partially visible footer with more widget images.",
+  "total_elements": 187,
+  "testable_elements": 2,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16433_001",
+      "class_name": "Test_16433_16433001",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433001.java"
+    },
+    {
+      "test_case_id": "TC_16433_002",
+      "class_name": "Test_16433_16433002",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_recycler_view",
+        "raw_value": "id_recycler_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433002.java"
+    },
+    {
+      "test_case_id": "TC_16433_003",
+      "class_name": "Test_16433_16433003",
+      "element_id": "el_14",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_recycler_view",
+        "raw_value": "id_recycler_view",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433003.java"
+    },
+    {
+      "test_case_id": "TC_16433_004",
+      "class_name": "Test_16433_16433004",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433004.java"
+    },
+    {
+      "test_case_id": "TC_16433_005",
+      "class_name": "Test_16433_16433005",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433005.java"
+    },
+    {
+      "test_case_id": "TC_16433_006",
+      "class_name": "Test_16433_16433006",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433006.java"
+    },
+    {
+      "test_case_id": "TC_16433_007",
+      "class_name": "Test_16433_16433007",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_img_back_btn",
+        "raw_value": "id_img_back_btn",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433007.java"
+    },
+    {
+      "test_case_id": "TC_16433_008",
+      "class_name": "Test_16433_16433008",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433008.java"
+    },
+    {
+      "test_case_id": "TC_16433_009",
+      "class_name": "Test_16433_16433009",
+      "element_ids": [
+        "el_11",
+        "el_14"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_img_back_btn",
+          "raw_value": "id_img_back_btn",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_recycler_view",
+          "raw_value": "id_recycler_view",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16433/Test_16433_16433009.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_11",
+      "resource_id": "mobi.infolife.ezweather.widget.thunder:id/img_back_btn",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        42,
+        110,
+        119,
+        187
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_img_back_btn",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_14",
+      "resource_id": "mobi.infolife.ezweather.widget.thunder:id/recycler_view",
+      "class": "android.support.v7.widget.RecyclerView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_recycler_view",
+      "selector_confidence": 0.95
+    }
+  ]
+}

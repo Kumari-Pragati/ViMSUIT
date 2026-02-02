@@ -1,0 +1,180 @@
+{
+  "screen_id": "11082",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 31,
+  "testable_elements": 2,
+  "matched_test_cases": 9,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_11082_01",
+      "class_name": "Test_11082_1108201",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108201.java"
+    },
+    {
+      "test_case_id": "TC_11082_02",
+      "class_name": "Test_11082_1108202",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108202.java"
+    },
+    {
+      "test_case_id": "TC_11082_03",
+      "class_name": "Test_11082_1108203",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108203.java"
+    },
+    {
+      "test_case_id": "TC_11082_04",
+      "class_name": "Test_11082_1108204",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_skip",
+        "raw_value": "id_btn_skip",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108204.java"
+    },
+    {
+      "test_case_id": "TC_11082_05",
+      "class_name": "Test_11082_1108205",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108205.java"
+    },
+    {
+      "test_case_id": "TC_11082_06",
+      "class_name": "Test_11082_1108206",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108206.java"
+    },
+    {
+      "test_case_id": "TC_11082_07",
+      "class_name": "Test_11082_1108207",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108207.java"
+    },
+    {
+      "test_case_id": "TC_11082_08",
+      "class_name": "Test_11082_1108208",
+      "element_id": "el_29",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_skip",
+        "raw_value": "id_btn_skip",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108208.java"
+    },
+    {
+      "test_case_id": "TC_11082_09",
+      "class_name": "Test_11082_1108209",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_login",
+        "raw_value": "id_btn_login",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_11082/Test_11082_1108209.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_28",
+      "resource_id": "com.gohopscotch.android.ticketpop:id/btn_login",
+      "class": "com.gohopscotch.android.base.customviews.CustomButton",
+      "text": "Sign In",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        2217,
+        720,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_login",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_29",
+      "resource_id": "com.gohopscotch.android.ticketpop:id/btn_skip",
+      "class": "com.gohopscotch.android.base.customviews.CustomButton",
+      "text": "Skip",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        720,
+        2217,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_skip",
+      "selector_confidence": 0.95
+    }
+  ]
+}

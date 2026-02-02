@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+12921,212,15,15,id/mt_trips_search_view;id/nav_trips;id/recycler_view;id/mt_trips_search_view;id/action_button;id/viewpager;id/carousel;id/tabs;id/nav_home;id/nav_wishlists;id/nav_trips;id/nav_inbox_guest;id/nav_account;id/recycler_view;id/mt_trips_search_view;id/nav_trips;id/mt_trips_search_view;id/recycler_view;id/nav_trips,9,9,100.0%,Main Screen Actions

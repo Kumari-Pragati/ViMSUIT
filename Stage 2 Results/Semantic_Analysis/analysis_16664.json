@@ -1,0 +1,587 @@
+{
+  "screen_id": "16664",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 267,
+  "testable_elements": 10,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_16664_001",
+      "class_name": "Test_16664_16664001",
+      "element_ids": [
+        "el_68",
+        "el_97",
+        "el_126",
+        "el_172",
+        "el_201",
+        "el_230",
+        "el_246",
+        "el_248",
+        "el_251",
+        "el_50"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_upload",
+          "raw_value": "id_btn_upload",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_left",
+          "raw_value": "id_ab_left",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_right",
+          "raw_value": "id_ab_right",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9200000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664001.java"
+    },
+    {
+      "test_case_id": "TC_16664_002",
+      "class_name": "Test_16664_16664002",
+      "element_ids": [
+        "el_68",
+        "el_97",
+        "el_126",
+        "el_172",
+        "el_201",
+        "el_230",
+        "el_246",
+        "el_248",
+        "el_251",
+        "el_50"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_upload",
+          "raw_value": "id_btn_upload",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_left",
+          "raw_value": "id_ab_left",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_right",
+          "raw_value": "id_ab_right",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9200000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664002.java"
+    },
+    {
+      "test_case_id": "TC_16664_003",
+      "class_name": "Test_16664_16664003",
+      "element_id": "el_50",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"[None]\"",
+        "raw_value": [
+          null
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.65,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664003.java"
+    },
+    {
+      "test_case_id": "TC_16664_004",
+      "class_name": "Test_16664_16664004",
+      "element_id": "el_246",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_upload",
+        "raw_value": "id_btn_upload",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664004.java"
+    },
+    {
+      "test_case_id": "TC_16664_005",
+      "class_name": "Test_16664_16664005",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_icon",
+        "raw_value": "id_icon",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664005.java"
+    },
+    {
+      "test_case_id": "TC_16664_006",
+      "class_name": "Test_16664_16664006",
+      "element_id": "el_246",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_btn_upload",
+        "raw_value": "id_btn_upload",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664006.java"
+    },
+    {
+      "test_case_id": "TC_16664_007",
+      "class_name": "Test_16664_16664007",
+      "element_ids": [
+        "el_68",
+        "el_97",
+        "el_126",
+        "el_172",
+        "el_201",
+        "el_230",
+        "el_246",
+        "el_248",
+        "el_251",
+        "el_50"
+      ],
+      "element_count": 10,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_icon",
+          "raw_value": "id_icon",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_btn_upload",
+          "raw_value": "id_btn_upload",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_left",
+          "raw_value": "id_ab_left",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_ab_right",
+          "raw_value": "id_ab_right",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"[None]\"",
+          "raw_value": [
+            null
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9200000000000002,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664007.java"
+    },
+    {
+      "test_case_id": "TC_16664_008",
+      "class_name": "Test_16664_16664008",
+      "element_id": "el_68",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_icon",
+        "raw_value": "id_icon",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_16664/Test_16664_16664008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_68",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        414,
+        1405,
+        512
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_97",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        680,
+        1405,
+        778
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_126",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        946,
+        1405,
+        1044
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_172",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        1606,
+        1405,
+        1704
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_201",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        1872,
+        1405,
+        1970
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_230",
+      "resource_id": "com.c51:id/icon",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1307,
+        2138,
+        1405,
+        2217
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_icon",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_246",
+      "resource_id": "com.c51:id/btn_upload",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        492,
+        2198,
+        947,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_btn_upload",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_248",
+      "resource_id": "com.c51:id/ab_left",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ab_left",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_251",
+      "resource_id": "com.c51:id/ab_right",
+      "class": "android.widget.ImageView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": false,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        1125,
+        84,
+        1440,
+        252
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_ab_right",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_50",
+      "resource_id": "android:id/list",
+      "class": "android.widget.ListView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        378,
+        1440,
+        2217
+      ],
+      "testability_score": 0.65,
+      "testability_reason": "interactive_widget",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"[None]\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

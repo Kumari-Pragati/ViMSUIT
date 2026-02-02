@@ -1,0 +1,193 @@
+{
+  "screen_id": "15034",
+  "primary_ctas": "\"GET IT ON GOOGLE PLAY\" buttons for both apps.\n- **Navigation/footer**: Back arrow in the header.",
+  "total_elements": 40,
+  "testable_elements": 3,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_15034_001",
+      "class_name": "Test_15034_15034001",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_scrollView",
+        "raw_value": "id_scrollView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034001.java"
+    },
+    {
+      "test_case_id": "TC_15034_002",
+      "class_name": "Test_15034_15034002",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_earthquake_alert_button",
+        "raw_value": "id_earthquake_alert_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034002.java"
+    },
+    {
+      "test_case_id": "TC_15034_003",
+      "class_name": "Test_15034_15034003",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_earthquake_alert_button",
+        "raw_value": "id_earthquake_alert_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034003.java"
+    },
+    {
+      "test_case_id": "TC_15034_004",
+      "class_name": "Test_15034_15034004",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_scrollView",
+        "raw_value": "id_scrollView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034004.java"
+    },
+    {
+      "test_case_id": "TC_15034_005",
+      "class_name": "Test_15034_15034005",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_scrollView",
+        "raw_value": "id_scrollView",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034005.java"
+    },
+    {
+      "test_case_id": "TC_15034_006",
+      "class_name": "Test_15034_15034006",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_border_wait_button",
+        "raw_value": "id_border_wait_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034006.java"
+    },
+    {
+      "test_case_id": "TC_15034_007",
+      "class_name": "Test_15034_15034007",
+      "element_id": "el_28",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_earthquake_alert_button",
+        "raw_value": "id_earthquake_alert_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034007.java"
+    },
+    {
+      "test_case_id": "TC_15034_008",
+      "class_name": "Test_15034_15034008",
+      "element_id": "el_34",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_border_wait_button",
+        "raw_value": "id_border_wait_button",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_15034/Test_15034_15034008.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_22",
+      "resource_id": "com.joshclemm.android.quake:id/scrollView",
+      "class": "android.widget.ScrollView",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        56,
+        784,
+        1384,
+        1944
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_scrollView",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_28",
+      "resource_id": "com.joshclemm.android.quake:id/earthquake_alert_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Get it on Google Play",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        112,
+        1159,
+        1328,
+        1327
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_earthquake_alert_button",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_34",
+      "resource_id": "com.joshclemm.android.quake:id/border_wait_button",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "Get it on Google Play",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        112,
+        1720,
+        1328,
+        1888
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_border_wait_button",
+      "selector_confidence": 0.95
+    }
+  ]
+}

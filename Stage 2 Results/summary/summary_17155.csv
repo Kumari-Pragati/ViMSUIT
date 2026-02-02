@@ -1,0 +1,2 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+17155,107,4,3,id/logoutButton;id/logoutButton;id/logoutButton;id/logoutButton;id/logoutButton;id/list;id/drawer_layout;id/list,8,8,75.0%,Main Screen Actions

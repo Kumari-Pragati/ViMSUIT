@@ -1,0 +1,228 @@
+{
+  "screen_id": "1863",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 25,
+  "testable_elements": 3,
+  "matched_test_cases": 7,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_1863_01",
+      "class_name": "Test_1863_186301",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186301.java"
+    },
+    {
+      "test_case_id": "TC_1863_02",
+      "class_name": "Test_1863_186302",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186302.java"
+    },
+    {
+      "test_case_id": "TC_1863_03",
+      "class_name": "Test_1863_186303",
+      "element_id": "el_11",
+      "selector": {
+        "method": "withContentDescription",
+        "value": "\"['Navigate up']\"",
+        "raw_value": [
+          "Navigate up"
+        ],
+        "confidence": 0.85
+      },
+      "testability_score": 0.8,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186303.java"
+    },
+    {
+      "test_case_id": "TC_1863_04",
+      "class_name": "Test_1863_186304",
+      "element_ids": [
+        "el_23",
+        "el_24",
+        "el_11"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_showHintsButton",
+          "raw_value": "id_showHintsButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_hintStartButton",
+          "raw_value": "id_hintStartButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186304.java"
+    },
+    {
+      "test_case_id": "TC_1863_05",
+      "class_name": "Test_1863_186305",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_showHintsButton",
+        "raw_value": "id_showHintsButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186305.java"
+    },
+    {
+      "test_case_id": "TC_1863_06",
+      "class_name": "Test_1863_186306",
+      "element_id": "el_24",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_hintStartButton",
+        "raw_value": "id_hintStartButton",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186306.java"
+    },
+    {
+      "test_case_id": "TC_1863_07",
+      "class_name": "Test_1863_186307",
+      "element_ids": [
+        "el_23",
+        "el_24",
+        "el_11"
+      ],
+      "element_count": 3,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_showHintsButton",
+          "raw_value": "id_showHintsButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_hintStartButton",
+          "raw_value": "id_hintStartButton",
+          "confidence": 0.95
+        },
+        {
+          "method": "withContentDescription",
+          "value": "\"['Navigate up']\"",
+          "raw_value": [
+            "Navigate up"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "testability_score": 0.9,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_1863/Test_1863_186307.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_23",
+      "resource_id": "com.eyeexamtest.eyecareplus:id/showHintsButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "how-to",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        247,
+        2140,
+        702,
+        2287
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_showHintsButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_24",
+      "resource_id": "com.eyeexamtest.eyecareplus:id/hintStartButton",
+      "class": "android.support.v7.widget.AppCompatButton",
+      "text": "play",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        737,
+        2140,
+        1192,
+        2287
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_hintStartButton",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_11",
+      "resource_id": "",
+      "class": "android.widget.ImageButton",
+      "text": "",
+      "content_desc": [
+        "Navigate up"
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        196,
+        196
+      ],
+      "testability_score": 0.8,
+      "testability_reason": "interactive + content",
+      "selector_method": "withContentDescription",
+      "selector_value": "\"['Navigate up']\"",
+      "selector_confidence": 0.85
+    }
+  ]
+}

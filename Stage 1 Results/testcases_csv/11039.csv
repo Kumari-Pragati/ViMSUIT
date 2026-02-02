@@ -1,0 +1,9 @@
+test_case_id,title,module,screen_id,topic,priority,type,preconditions,test_data,test_steps,expected_result
+TC_11039_001,Verify navigation to the previous screen,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the back arrow icon in the Header/App Bar.,The user should be redirected to the previous screen.
+TC_11039_002,Search for a specific character,GTA San Andreas,11039,gallery,P1,Functional,,Search term: Michael,Click on the magnifying glass icon in the Header/App Bar. | Enter the search term 'Michael' in the search input field. | Press the Enter key to perform the search.,The search results for 'Michael' should be displayed.
+TC_11039_003,Click on a character image to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the character image in the Character Section.,The user should be redirected to the character details screen.
+TC_11039_004,Click on a feature screenshot to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the feature screenshot in the Features Section.,The user should be redirected to the feature details screen.
+TC_11039_005,Click on a gang image to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the gang image in the Gangs Section.,The user should be redirected to the gang details screen.
+TC_11039_006,Click on a location map to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the location map in the Locations Section.,The user should be redirected to the location details screen.
+TC_11039_007,Click on a mission screenshot to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the mission screenshot in the Missions Section.,The user should be redirected to the mission details screen.
+TC_11039_008,Click on the advertisement section to view details,GTA San Andreas,11039,gallery,P1,Functional,,,Click on the advertisement section in the Advertisement Section.,The user should be redirected to the advertisement details screen.

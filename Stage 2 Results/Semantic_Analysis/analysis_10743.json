@@ -1,0 +1,217 @@
+{
+  "screen_id": "10743",
+  "primary_ctas": "Main Screen Actions",
+  "total_elements": 119,
+  "testable_elements": 3,
+  "matched_test_cases": 8,
+  "test_scripts": [
+    {
+      "test_case_id": "TC_10743_01",
+      "class_name": "Test_10743_1074301",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_connect_apps_devices",
+        "raw_value": "id_connect_apps_devices",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074301.java"
+    },
+    {
+      "test_case_id": "TC_10743_02",
+      "class_name": "Test_10743_1074302",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_connect_apps_devices",
+        "raw_value": "id_connect_apps_devices",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074302.java"
+    },
+    {
+      "test_case_id": "TC_10743_03",
+      "class_name": "Test_10743_1074303",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish_sign_up",
+        "raw_value": "id_finish_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074303.java"
+    },
+    {
+      "test_case_id": "TC_10743_04",
+      "class_name": "Test_10743_1074304",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish_sign_up",
+        "raw_value": "id_finish_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074304.java"
+    },
+    {
+      "test_case_id": "TC_10743_05",
+      "class_name": "Test_10743_1074305",
+      "element_id": "el_23",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_finish_sign_up",
+        "raw_value": "id_finish_sign_up",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074305.java"
+    },
+    {
+      "test_case_id": "TC_10743_06",
+      "class_name": "Test_10743_1074306",
+      "element_id": "el_22",
+      "selector": {
+        "method": "withId",
+        "value": "R.id.id_connect_apps_devices",
+        "raw_value": "id_connect_apps_devices",
+        "confidence": 0.95
+      },
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074306.java"
+    },
+    {
+      "test_case_id": "TC_10743_07",
+      "class_name": "Test_10743_1074307",
+      "element_ids": [
+        "el_22",
+        "el_23"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_connect_apps_devices",
+          "raw_value": "id_connect_apps_devices",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_finish_sign_up",
+          "raw_value": "id_finish_sign_up",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074307.java"
+    },
+    {
+      "test_case_id": "TC_10743_08",
+      "class_name": "Test_10743_1074308",
+      "element_ids": [
+        "el_22",
+        "el_23"
+      ],
+      "element_count": 2,
+      "selectors": [
+        {
+          "method": "withId",
+          "value": "R.id.id_connect_apps_devices",
+          "raw_value": "id_connect_apps_devices",
+          "confidence": 0.95
+        },
+        {
+          "method": "withId",
+          "value": "R.id.id_finish_sign_up",
+          "raw_value": "id_finish_sign_up",
+          "confidence": 0.95
+        }
+      ],
+      "testability_score": 0.95,
+      "file_path": "/Users/20039684/Desktop/TestScriptGenerator/analysis_results_semantic/test_scripts/Test_scripts_10743/Test_10743_1074308.java"
+    }
+  ],
+  "testable_elements_details": [
+    {
+      "element_id": "el_10",
+      "resource_id": "com.mapmyride.android2:id/drawer_layout",
+      "class": "android.support.v4.widget.DrawerLayout",
+      "text": "",
+      "content_desc": [
+        null
+      ],
+      "clickable": false,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "resource_id + interactive",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_drawer_layout",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_22",
+      "resource_id": "com.mapmyride.android2:id/connect_apps_devices",
+      "class": "com.mapmyfitness.android.ui.widget.Button",
+      "text": "CONNECT APPS AND DEVICES",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        112,
+        1944,
+        1328,
+        2112
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_connect_apps_devices",
+      "selector_confidence": 0.95
+    },
+    {
+      "element_id": "el_23",
+      "resource_id": "com.mapmyride.android2:id/finish_sign_up",
+      "class": "com.mapmyfitness.android.ui.widget.Button",
+      "text": "SKIP AND FINISH SIGN UP",
+      "content_desc": [
+        null
+      ],
+      "clickable": true,
+      "focusable": true,
+      "checkable": false,
+      "scrollable": false,
+      "enabled": true,
+      "visible_to_user": true,
+      "bounds": [
+        112,
+        2140,
+        1328,
+        2308
+      ],
+      "testability_score": 0.95,
+      "testability_reason": "known_interactive_widget",
+      "selector_method": "withId",
+      "selector_value": "R.id.id_finish_sign_up",
+      "selector_confidence": 0.95
+    }
+  ]
+}

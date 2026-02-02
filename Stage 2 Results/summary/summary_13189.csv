@@ -1,0 +1,3 @@
+Screen ID,Total JSON Elements,Testable Elements,Total Elements Tested,Element IDs Tested,Test Cases,Scripts Generated,Coverage %,Primary CTAs
+13189,93,5,5,id/recyclerView;id/action_live_stream;id/recyclerView;id/drawer_layout;id/action_live_stream;id/recyclerView;id/recyclerView;id/action_live_stream;id/drawer_layout;id/action_live_stream;id/recyclerView,8,8,100.0%,"""LIVE"" button, list row headlines.
+- **Navigation/footer**: Menu icon on the header, no footer/bottom nav visible."
